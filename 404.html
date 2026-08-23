@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Not found · HexBingo</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow+Semi+Condensed:wght@400;500&display=swap">
+<link rel="stylesheet" href="hexbingo.css">
+<style>
+  body{ overflow: auto; }
+  .oops{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .oops img{ width: 84px; height: 84px; border-radius: 18px; }
+  .oops h1{
+    margin: 4px 0 0;
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: .01em;
+  }
+  .oops p{ margin: 0; color: var(--muted); max-width: 42ch; line-height: 1.5; }
+</style>
+</head>
+<body>
+  <div class="oops">
+    <img src="icon.svg" alt="">
+    <h1>No board here</h1>
+    <p>That link doesn't point at anything. Board links look like
+       <code>?game=botw&amp;mode=hex&amp;size=2&amp;seed=123456</code>.</p>
+    <a class="btn btn-primary" id="home" href="/">Go to HexBingo</a>
+  </div>
+  <script>
+    // At bingo.reizu.dev the root is "/", but on a *.github.io project URL the
+    // site lives under /HexBingo/ and "/" would leave the project entirely.
+    (function () {
+      var link = document.getElementById("home");
+      if (!/\.github\.io$/i.test(location.hostname)) return;
+      var first = location.pathname.split("/").filter(Boolean)[0];
+      if (first) link.setAttribute("href", "/" + first + "/");
+    })();
+  </script>
+</body>
+</html>

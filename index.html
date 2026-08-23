@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HexBingo</title>
+<meta name="description" content="Seeded hexagonal bingo boards for speedruns. 45 games, shareable seeds, no sign-up.">
+<link rel="canonical" href="https://bingo.reizu.dev/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="HexBingo">
+<meta property="og:title" content="HexBingo">
+<meta property="og:description" content="Seeded hexagonal bingo boards for speedruns. 45 games, shareable seeds, no sign-up.">
+<meta property="og:url" content="https://bingo.reizu.dev/">
+<meta property="og:image" content="https://bingo.reizu.dev/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="A HexBingo board: nineteen hexagons ringed in six colours.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="HexBingo">
+<meta name="twitter:description" content="Seeded hexagonal bingo boards for speedruns. 45 games, shareable seeds, no sign-up.">
+<meta name="twitter:image" content="https://bingo.reizu.dev/og.png">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<meta name="theme-color" content="#14121a">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow+Semi+Condensed:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="hexbingo.css">
+</head>
+<body>
+
+<header class="bar">
+  <a class="mark" href="./" aria-label="HexBingo">
+    <img src="icon.svg" alt="" width="26" height="26">
+    <span><i class="hR">Hex</i><i class="hB">Bingo</i></span>
+  </a>
+
+  <div class="controls">
+    <div class="field">
+      <span id="gameLabelId">Game</span>
+      <div class="combo">
+        <button id="gameButton" class="combo-btn" type="button"
+                aria-haspopup="listbox" aria-expanded="false" aria-labelledby="gameLabelId gameLabel">
+          <span id="gameLabel">Loading…</span>
+          <span class="combo-caret" aria-hidden="true">▾</span>
+        </button>
+        <div id="gamePop" class="combo-pop" hidden>
+          <input id="gameSearch" type="search" placeholder="Search games" autocomplete="off"
+                 aria-label="Search games" aria-controls="gameList">
+          <ul id="gameList" class="combo-list" role="listbox" aria-label="Games"></ul>
+          <p id="gameNone" class="combo-none" hidden>Nothing matches that.</p>
+        </div>
+      </div>
+    </div>
+
+    <label class="field">
+      <span>Mode</span>
+      <select id="modeSelect">
+        <option value="hex">Hex</option>
+        <option value="mission">Mission</option>
+      </select>
+    </label>
+
+    <label class="field" id="sizeField">
+      <span>Size</span>
+      <select id="sizeSelect">
+        <option value="1">7 hexes</option>
+        <option value="2" selected>19 hexes</option>
+        <option value="3">37 hexes</option>
+        <option value="4">61 hexes</option>
+      </select>
+    </label>
+
+    <label class="field">
+      <span>Seed</span>
+      <input id="seedInput" type="text" inputmode="numeric" placeholder="Random" size="9" autocomplete="off">
+    </label>
+
+    <div class="field" id="revealField" hidden>
+      <span>Reveal</span>
+      <label class="switch">
+        <input type="checkbox" id="revealToggle">
+        <span>One at a time</span>
+      </label>
+    </div>
+
+    <button id="randomBtn" class="btn btn-primary" type="button">Random board</button>
+    <button id="generateBtn" class="btn" type="button" title="Use the seed above">Use this seed</button>
+  </div>
+
+  <div class="bar-end">
+    <button id="rulesBtn" class="btn" type="button" hidden>Rules</button>
+    <button id="editBtn" class="btn" type="button">Edit goals</button>
+    <button id="helpBtn" class="btn btn-ghost" type="button" aria-label="How to play">?</button>
+  </div>
+</header>
+
+<main id="stage">
+  <div id="board" class="board" data-mode="hex">
+    <svg class="bands" aria-hidden="true" preserveAspectRatio="none"></svg>
+    <div class="cells" id="cells"></div>
+  </div>
+
+  <div class="railwrap">
+    <div id="rail" class="rail" aria-label="Lines"></div>
+    <button id="clearPins" class="btn btn-ghost pinclear gone" type="button">Clear pinned</button>
+  </div>
+
+  <p id="notice" class="notice" role="status" hidden></p>
+
+  <p id="empty" class="empty" hidden>
+    No goals loaded yet. Open <b>Edit goals</b> to write a list, or add a file to <code>goals/</code>.
+  </p>
+</main>
+
+<footer class="foot">
+  <span class="foot-l">HexBingo <b id="version"></b> · Reizu · <span id="year"></span></span>
+  <span class="foot-c">Seed <b id="seedOut">—</b></span>
+  <span class="foot-r">
+    <button id="copyLink" class="btn btn-ghost" type="button">Copy board link</button>
+  </span>
+</footer>
+
+<!-- ───────────────────────── Goal editor ───────────────────────── -->
+<div id="editor" class="sheet" hidden aria-labelledby="editorTitle" role="dialog" aria-modal="true">
+  <div class="sheet-inner">
+    <div class="sheet-head">
+      <h2 id="editorTitle">Edit goals</h2>
+      <button class="btn btn-ghost sheet-x" data-close="editor" type="button" aria-label="Close">×</button>
+    </div>
+
+    <div class="ed-top">
+      <label class="field grow">
+        <span>List</span>
+        <select id="edList"></select>
+      </label>
+      <label class="field grow">
+        <span>Name</span>
+        <input id="edName" type="text" placeholder="Breath of the Wild" autocomplete="off">
+      </label>
+      <button id="edNew" class="btn" type="button">New list</button>
+      <button id="edDuplicate" class="btn" type="button">Duplicate</button>
+      <button id="edDelete" class="btn btn-danger" type="button">Delete list</button>
+    </div>
+
+    <div id="edTiers" class="tiers" aria-label="Goals per difficulty"></div>
+
+    <div class="ed-add">
+      <input id="edText" type="text" placeholder="Type a goal and press Enter" autocomplete="off">
+      <div id="edDiff" class="diffpick" role="radiogroup" aria-label="Difficulty"></div>
+      <button id="edAdd" class="btn btn-primary" type="button">Add goal</button>
+    </div>
+
+    <div class="ed-body">
+      <div class="ed-toolbar">
+        <input id="edFilter" type="search" placeholder="Filter goals" autocomplete="off">
+        <span id="edCount" class="muted"></span>
+        <span class="spacer"></span>
+        <button id="edBulk" class="btn" type="button">Paste many</button>
+        <button id="edImport" class="btn" type="button">Import</button>
+        <button id="edExport" class="btn" type="button">Download JSON</button>
+        <button id="edCopy" class="btn" type="button">Copy JSON</button>
+      </div>
+      <ul id="edGoals" class="goals"></ul>
+    </div>
+
+    <div id="edPaste" class="paste" hidden>
+      <label for="edPasteBox">
+        One goal per line. Optional difficulty prefix and tags:
+        <code>3 | Beat a Divine Beast #dungeon</code>
+      </label>
+      <textarea id="edPasteBox" rows="9" spellcheck="false"></textarea>
+      <div class="paste-actions">
+        <span class="muted">Lines without a prefix use the difficulty selected above.</span>
+        <button id="edPasteCancel" class="btn" type="button">Cancel</button>
+        <button id="edPasteGo" class="btn btn-primary" type="button">Add lines</button>
+      </div>
+    </div>
+
+    <div id="edImportBox" class="paste" hidden>
+      <label for="edImportArea">
+        Paste a HexBingo goal list (JSON), or a legacy <code>bingoList[n] = [...]</code> script.
+      </label>
+      <textarea id="edImportArea" rows="9" spellcheck="false"></textarea>
+      <div class="paste-actions">
+        <input type="file" id="edFile" accept=".json,.js,application/json,text/javascript">
+        <span class="spacer"></span>
+        <button id="edImportCancel" class="btn" type="button">Cancel</button>
+        <button id="edImportGo" class="btn btn-primary" type="button">Import into new list</button>
+      </div>
+    </div>
+
+    <p id="edMsg" class="ed-msg" role="status"></p>
+  </div>
+</div>
+
+<!-- ───────────────────────── Rules ───────────────────────── -->
+<div id="rules" class="sheet" hidden aria-labelledby="rulesTitle" role="dialog" aria-modal="true">
+  <div class="sheet-inner narrow">
+    <div class="sheet-head">
+      <h2 id="rulesTitle">Rules</h2>
+      <button class="btn btn-ghost sheet-x" data-close="rules" type="button" aria-label="Close">×</button>
+    </div>
+    <ul id="rulesList" class="ruleslist"></ul>
+  </div>
+</div>
+
+<!-- ───────────────────────── Help ───────────────────────── -->
+<div id="help" class="sheet" hidden aria-labelledby="helpTitle" role="dialog" aria-modal="true">
+  <div class="sheet-inner narrow">
+    <div class="sheet-head">
+      <h2 id="helpTitle">How to play</h2>
+      <button class="btn btn-ghost sheet-x" data-close="help" type="button" aria-label="Close">×</button>
+    </div>
+    <dl class="help">
+      <dt>Claim a hex</dt><dd>Click it. Click again to release.</dd>
+      <dt>Block a hex</dt><dd>Right-click to mark a goal you don't want. Right-click again to clear.</dd>
+      <dt>Track partial progress</dt><dd>Scroll on a hex, or press <kbd>+</kbd> / <kbd>−</kbd> while it's focused.</dd>
+      <dt>See your lines</dt><dd>Hover a hex and its three lines light up across the board. Hover a chip in the rail to trace that one line.</dd>
+      <dt>Win</dt><dd>Complete any of the 15 lines. Short lines are only three hexes but hold the hardest goals — the centre hex is the easiest goal on the board and sits on three full-length lines.</dd>
+      <dt>Pin a line</dt><dd>Click a chip in the rail to keep it highlighted. Pinned lines get a coloured ring and their hexes a bright border. Click again to unpin, or press <kbd>Esc</kbd> to clear.</dd>
+      <dt>Share</dt><dd>Copy board link puts the seed, game and mode in the URL. Anyone opening it gets the same board.</dd>
+    </dl>
+  </div>
+</div>
+
+<script src="hexbingo.js"></script>
+
+<script src="editor.js"></script>
+</body>
+</html>

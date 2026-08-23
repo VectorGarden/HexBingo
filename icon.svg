@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="HexBingo">
+  <rect width="100" height="100" rx="22" fill="#14121a"/>
+  <g stroke="#14121a" stroke-width="3" stroke-linejoin="round">
+    <!-- wedges run clockwise from the upper-left edge, matching the board's R O Y G B P perimeter -->
+    <path d="M50 50 L14.7 29.6 L50 9.2 Z" fill="#ff5a5a"/>
+    <path d="M50 50 L50 9.2 L85.3 29.6 Z" fill="#ff9838"/>
+    <path d="M50 50 L85.3 29.6 L85.3 70.4 Z" fill="#ffd63d"/>
+    <path d="M50 50 L85.3 70.4 L50 90.8 Z" fill="#4ade80"/>
+    <path d="M50 50 L50 90.8 L14.7 70.4 Z" fill="#4db8ff"/>
+    <path d="M50 50 L14.7 70.4 L14.7 29.6 Z" fill="#b07dff"/>
+  </g>
+  <path d="M50 34.5 L63.4 42.25 L63.4 57.75 L50 65.5 L36.6 57.75 L36.6 42.25 Z"
+        fill="#f6f4ff" stroke="#14121a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

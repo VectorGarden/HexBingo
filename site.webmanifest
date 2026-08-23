@@ -1,0 +1,14 @@
+{
+  "name": "HexBingo",
+  "short_name": "HexBingo",
+  "description": "Seeded hexagonal bingo boards for speedruns.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14121a",
+  "theme_color": "#14121a",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" }
+  ]
+}
