@@ -1,0 +1,227 @@
+[
+  {
+    "id": "hat-in-time",
+    "name": "A Hat in Time",
+    "file": "hat-in-time.json"
+  },
+  {
+    "id": "banjo-tooie",
+    "name": "Banjo-Tooie",
+    "file": "banjo-tooie.json"
+  },
+  {
+    "id": "battleblock",
+    "name": "BattleBlock Theater",
+    "file": "battleblock.json"
+  },
+  {
+    "id": "botw",
+    "name": "Breath of the Wild",
+    "file": "botw.json"
+  },
+  {
+    "id": "botw-cute",
+    "name": "Breath of the Wild [Cute]",
+    "file": "botw-cute.json"
+  },
+  {
+    "id": "botw-gp",
+    "name": "Breath of the Wild [Great Plateau]",
+    "file": "botw-gp.json"
+  },
+  {
+    "id": "botw-hunt",
+    "name": "Breath of the Wild [Hunt]",
+    "file": "botw-hunt.json"
+  },
+  {
+    "id": "botw-mount",
+    "name": "Breath of the Wild [Mount]",
+    "file": "botw-mount.json"
+  },
+  {
+    "id": "celeste",
+    "name": "Celeste",
+    "file": "celeste.json"
+  },
+  {
+    "id": "dark-souls",
+    "name": "Dark Souls",
+    "file": "dark-souls.json"
+  },
+  {
+    "id": "dead-cells",
+    "name": "Dead Cells",
+    "file": "dead-cells.json"
+  },
+  {
+    "id": "dk64",
+    "name": "Donkey Kong 64",
+    "file": "dk64.json"
+  },
+  {
+    "id": "ff1",
+    "name": "Final Fantasy 1",
+    "file": "ff1.json"
+  },
+  {
+    "id": "harry-potter-2",
+    "name": "Harry Potter 2",
+    "file": "harry-potter-2.json"
+  },
+  {
+    "id": "jak-and-daxter",
+    "name": "Jak and Daxter",
+    "file": "jak-and-daxter.json"
+  },
+  {
+    "id": "loz-mm",
+    "name": "Majora's Mask",
+    "file": "loz-mm.json"
+  },
+  {
+    "id": "mmnt",
+    "name": "Mega Man Network Transmission",
+    "file": "mmnt.json"
+  },
+  {
+    "id": "metroid-zm",
+    "name": "Metroid: Zero Mission",
+    "file": "metroid-zm.json"
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "file": "minecraft.json"
+  },
+  {
+    "id": "pkmn-lets-go",
+    "name": "Pokémon Lets Go!",
+    "file": "pkmn-lets-go.json"
+  },
+  {
+    "id": "pkmn-snap",
+    "name": "Pokémon Snap",
+    "file": "pkmn-snap.json"
+  },
+  {
+    "id": "pkmn-crystal",
+    "name": "Pokémon: Crystal",
+    "file": "pkmn-crystal.json"
+  },
+  {
+    "id": "pkmn-emerald-rando",
+    "name": "Pokémon: Emerald [Randomizer]",
+    "file": "pkmn-emerald-rando.json"
+  },
+  {
+    "id": "pkmn-platinum",
+    "name": "Pokémon: Platinum",
+    "file": "pkmn-platinum.json"
+  },
+  {
+    "id": "pkmn-redblue",
+    "name": "Pokémon: Red / Blue",
+    "file": "pkmn-redblue.json"
+  },
+  {
+    "id": "pkmn-rubysapphire",
+    "name": "Pokémon: Ruby / Sapphire",
+    "file": "pkmn-rubysapphire.json"
+  },
+  {
+    "id": "rogue-legacy",
+    "name": "Rogue Legacy",
+    "file": "rogue-legacy.json"
+  },
+  {
+    "id": "loz-ss",
+    "name": "Skyward Sword",
+    "file": "loz-ss.json"
+  },
+  {
+    "id": "sadx",
+    "name": "Sonic Adventure",
+    "file": "sadx.json"
+  },
+  {
+    "id": "sa2b",
+    "name": "Sonic Adventure 2 Battle",
+    "file": "sa2b.json"
+  },
+  {
+    "id": "sa2b-dark",
+    "name": "Sonic Adventure 2 Battle: Dark Story",
+    "file": "sa2b-dark.json"
+  },
+  {
+    "id": "sa2b-hero",
+    "name": "Sonic Adventure 2 Battle: Hero Story",
+    "file": "sa2b-hero.json"
+  },
+  {
+    "id": "spelunky",
+    "name": "Spelunky",
+    "file": "spelunky.json"
+  },
+  {
+    "id": "sm64",
+    "name": "Super Mario 64",
+    "file": "sm64.json"
+  },
+  {
+    "id": "smm2",
+    "name": "Super Mario Maker 2",
+    "file": "smm2.json"
+  },
+  {
+    "id": "smo",
+    "name": "Super Mario Odyssey",
+    "file": "smo.json"
+  },
+  {
+    "id": "smo-all-kingdoms",
+    "name": "Super Mario Odyssey [All Kingdoms]",
+    "file": "smo-all-kingdoms.json"
+  },
+  {
+    "id": "sms",
+    "name": "Super Mario Sunshine",
+    "file": "sms.json"
+  },
+  {
+    "id": "smw",
+    "name": "Super Mario World",
+    "file": "smw.json"
+  },
+  {
+    "id": "super-metroid",
+    "name": "Super Metroid",
+    "file": "super-metroid.json"
+  },
+  {
+    "id": "sotn",
+    "name": "Symphony of the Night",
+    "file": "sotn.json"
+  },
+  {
+    "id": "sotn-rando",
+    "name": "Symphony of the Night [Randomizer]",
+    "file": "sotn-rando.json"
+  },
+  {
+    "id": "loz-tp",
+    "name": "Twilight Princess",
+    "file": "loz-tp.json"
+  },
+  {
+    "id": "loz-ww",
+    "name": "Wind Waker",
+    "file": "loz-ww.json"
+  },
+  {
+    "id": "yooka-laylee",
+    "name": "Yooka Laylee",
+    "file": "yooka-laylee.json"
+  }
+]

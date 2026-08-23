@@ -1,0 +1,814 @@
+{
+  "name": "Symphony of the Night [Randomizer]",
+  "goals": [
+    {
+      "text": "Kill Yoric",
+      "difficulty": 1,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "3 Different Use Weapons",
+      "difficulty": 1,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Soul of Wolf",
+      "difficulty": 1,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "250 HP",
+      "difficulty": 1,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Bandanna Room",
+      "difficulty": 1,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Defeat Hippogriff",
+      "difficulty": 1,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Any 5 Different Foods",
+      "difficulty": 1,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Open Olrox > Chapel Path",
+      "difficulty": 1,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Twilight Cloak Location",
+      "difficulty": 1,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Cast a Spell on Dracula",
+      "difficulty": 1,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kill Owl Knight",
+      "difficulty": 1,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Dragon Helm Location",
+      "difficulty": 1,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "300 HP",
+      "difficulty": 1,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Defeat Karasuman",
+      "difficulty": 1,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "2 Weapons with Unique Skill",
+      "difficulty": 1,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Open Cavern > Entrance Path",
+      "difficulty": 1,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "45 LCK",
+      "difficulty": 1,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Defeat werewolf & minotaur",
+      "difficulty": 1,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Defeat Scylla",
+      "difficulty": 1,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Alucard Mail Location",
+      "difficulty": 1,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "45 CON",
+      "difficulty": 1,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Dopple No Subweapons",
+      "difficulty": 1,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Use Tetra Spirit on Darkwing Bat",
+      "difficulty": 2,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kill Schmoo",
+      "difficulty": 2,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Any 5 Swords",
+      "difficulty": 2,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Open Arena > Chapel Path",
+      "difficulty": 2,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Enter Holy Rod Room",
+      "difficulty": 2,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "All 1st Castle Teleporters",
+      "difficulty": 2,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Use a Subweapon",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "350 HP",
+      "difficulty": 2,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Get 10 Peanuts",
+      "difficulty": 2,
+      "tags": [
+        "Location",
+        "Item"
+      ]
+    },
+    {
+      "text": "Kill Blade",
+      "difficulty": 2,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Power of Wolf",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Holy Symbol",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Accessory with Stat Bonus",
+      "difficulty": 2,
+      "tags": [
+        "Item",
+        "Stats"
+      ]
+    },
+    {
+      "text": "2 Cards",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Gas Cloud",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "150 Max Hearts",
+      "difficulty": 2,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Spirit Orb",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Skill of Wolf",
+      "difficulty": 2,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "900 Rooms",
+      "difficulty": 2,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "420 Kills",
+      "difficulty": 2,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Summon Spirit on Hippogriff",
+      "difficulty": 3,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Force of Echo",
+      "difficulty": 3,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Cube of Zoe",
+      "difficulty": 3,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "45 DEF",
+      "difficulty": 3,
+      "tags": [
+        "Stats",
+        "Item"
+      ]
+    },
+    {
+      "text": "Holy Mail Room",
+      "difficulty": 3,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Death No Transforming",
+      "difficulty": 3,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "5 Different Armors",
+      "difficulty": 3,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Kill Discus Lord",
+      "difficulty": 3,
+      "tags": [
+        "Enemy",
+        "Location"
+      ]
+    },
+    {
+      "text": "2 Different Cloaks",
+      "difficulty": 3,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Cloaked Knight Room in 1st Castle",
+      "difficulty": 3,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Divekick a Medusa Head",
+      "difficulty": 3,
+      "tags": [
+        "Enemy",
+        "Relic",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Fire of Bat",
+      "difficulty": 3,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Jewel Knuckles Room",
+      "difficulty": 3,
+      "tags": [
+        "Location",
+        "Relic"
+      ]
+    },
+    {
+      "text": "Eat Food during The Creature fight",
+      "difficulty": 3,
+      "tags": [
+        "Boss",
+        "Strat",
+        "Item"
+      ]
+    },
+    {
+      "text": "Kill Malachi",
+      "difficulty": 3,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "3 Cards",
+      "difficulty": 3,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "All First Castle Relics",
+      "difficulty": 3,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Kill Grave Keeper Naked Unarmed Only",
+      "difficulty": 3,
+      "tags": [
+        "Enemy",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Get Berserked By Imp",
+      "difficulty": 3,
+      "tags": [
+        "Enemy",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Any 6 Potions",
+      "difficulty": 3,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "100 ATT",
+      "difficulty": 3,
+      "tags": [
+        "Stats",
+        "Item"
+      ]
+    },
+    {
+      "text": "Holy Sword Room",
+      "difficulty": 3,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Olrox No Spells",
+      "difficulty": 4,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "4 Different Shields",
+      "difficulty": 4,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Get Item in Shield Rod Room",
+      "difficulty": 4,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "50 INT",
+      "difficulty": 4,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Divekick Medusa",
+      "difficulty": 4,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kick or Bite Cereberus",
+      "difficulty": 4,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kill Lion, Scarecrow, and Tin Man",
+      "difficulty": 4,
+      "tags": [
+        "Enemy",
+        "Location"
+      ]
+    },
+    {
+      "text": "2 different 2-Handed Weapons",
+      "difficulty": 4,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Check Holy Symbol Location",
+      "difficulty": 4,
+      "tags": [
+        "Location",
+        "Relic"
+      ]
+    },
+    {
+      "text": "Slogra & Gaibon Boss No Spells",
+      "difficulty": 4,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kill Blue Venus Weed",
+      "difficulty": 4,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "All 2nd Castle Teleporters",
+      "difficulty": 4,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "50 STR",
+      "difficulty": 4,
+      "tags": [
+        "Stats",
+        "Item"
+      ]
+    },
+    {
+      "text": "Badelaire Location",
+      "difficulty": 4,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Kill Azaghal",
+      "difficulty": 4,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Defeat Dopple40",
+      "difficulty": 4,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Fury Plate Location",
+      "difficulty": 4,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Kill 5 Angel of Goths",
+      "difficulty": 4,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Jewel Sword Room",
+      "difficulty": 4,
+      "tags": [
+        "Location",
+        "Relic"
+      ]
+    },
+    {
+      "text": "Defeat Granfaloon",
+      "difficulty": 4,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Kill Fire Demon",
+      "difficulty": 4,
+      "tags": [
+        "Enemy",
+        "Location"
+      ]
+    },
+    {
+      "text": "1000 Rooms",
+      "difficulty": 4,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "500 Kills",
+      "difficulty": 4,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Subweapon & Spells Only on Akmodan",
+      "difficulty": 5,
+      "tags": [
+        "Boss",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Kill Dragon Rider",
+      "difficulty": 5,
+      "tags": [
+        "Enemy",
+        "Location"
+      ]
+    },
+    {
+      "text": "Any Circlet",
+      "difficulty": 5,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "180 Max Hearts",
+      "difficulty": 5,
+      "tags": [
+        "Stats"
+      ]
+    },
+    {
+      "text": "Get Confession Item",
+      "difficulty": 5,
+      "tags": [
+        "Location",
+        "Strat"
+      ]
+    },
+    {
+      "text": "Demon Open Path in Cave",
+      "difficulty": 5,
+      "tags": [
+        "Location",
+        "Relic"
+      ]
+    },
+    {
+      "text": "Go To Gate in Reverse Entrance",
+      "difficulty": 5,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Necklace of J Location",
+      "difficulty": 5,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Defeat Fake Heroes",
+      "difficulty": 5,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Defeat Galamoth",
+      "difficulty": 5,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Kill Cloaked Knight in 1st Castle",
+      "difficulty": 5,
+      "tags": [
+        "Boss"
+      ]
+    },
+    {
+      "text": "Any Fist Weapon",
+      "difficulty": 5,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Alucard Shield Location",
+      "difficulty": 5,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "All Cards",
+      "difficulty": 5,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "Kill 5 Cloaked Knights",
+      "difficulty": 5,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Any Rod",
+      "difficulty": 5,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Demon Open Path in Mine",
+      "difficulty": 5,
+      "tags": [
+        "Location",
+        "Relic"
+      ]
+    },
+    {
+      "text": "60 LCK",
+      "difficulty": 5,
+      "tags": [
+        "Stats",
+        "Item"
+      ]
+    },
+    {
+      "text": "Kill Guardian",
+      "difficulty": 5,
+      "tags": [
+        "Enemy"
+      ]
+    },
+    {
+      "text": "Any Elemental Weapon",
+      "difficulty": 5,
+      "tags": [
+        "Item"
+      ]
+    },
+    {
+      "text": "Go Up Stairs in Anti-Chapel",
+      "difficulty": 5,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "Defeat Beelzebub",
+      "difficulty": 5,
+      "tags": [
+        "Location"
+      ]
+    },
+    {
+      "text": "All Second Castle Relics",
+      "difficulty": 5,
+      "tags": [
+        "Relic"
+      ]
+    },
+    {
+      "text": "1100 Rooms",
+      "difficulty": 5,
+      "tags": [
+        "Stats"
+      ]
+    }
+  ]
+}

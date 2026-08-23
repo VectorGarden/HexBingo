@@ -1,0 +1,3882 @@
+{
+  "name": "BattleBlock Theater",
+  "goals": [
+    {
+      "text": "1-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-Secret",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-Secret Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-Secret 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-Secret Weaponless 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-1",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-2",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-3",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-4",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-5",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-6",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-7",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-8",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-9",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-1",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-2",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-3",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-4",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-5",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-6",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-7",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-8",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-9",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-1",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-2",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-3",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-4",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-5",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-6",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-7",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-8",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-9",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-1",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-2",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-3",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-4",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-5",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-6",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-7",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-8",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-9",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-1",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-2",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-3",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-4",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-5",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-6",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-7",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-8",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-9",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-1",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-2",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-3",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-4",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-5",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-6",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-7",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-8",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-9",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-1",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-2",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-3",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-4",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-5",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-6",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-7",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-8",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-9",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-1",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-2",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-3",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-4",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-5",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-6",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-7",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-8",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-9",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-Fin",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E1",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E2",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E3",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-4 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-5 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-6 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-7 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-8 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-9 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-Fin Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E1 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E2 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E3 Weaponless",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-4 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-5 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-6 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-7 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-8 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-9 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-Fin 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E1 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E2 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E3 100%",
+      "difficulty": 1,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "1-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "1-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch1"
+      ]
+    },
+    {
+      "text": "2-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "2-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch2"
+      ]
+    },
+    {
+      "text": "3-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "3-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch3"
+      ]
+    },
+    {
+      "text": "4-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "4-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch4"
+      ]
+    },
+    {
+      "text": "5-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "5-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch5"
+      ]
+    },
+    {
+      "text": "6-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "6-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch6"
+      ]
+    },
+    {
+      "text": "7-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "7-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch7"
+      ]
+    },
+    {
+      "text": "8-1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-4 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-5 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-6 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-7 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-8 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-9 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-Fin Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E1 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E2 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "8-E3 Weaponless 100%",
+      "difficulty": 2,
+      "tags": [
+        "ch8"
+      ]
+    },
+    {
+      "text": "Kill 5 unique cats",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Kill 10 unique cats",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Kill 5 pieces of toast",
+      "difficulty": 2,
+      "tags": [
+        "killenemy",
+        "toast"
+      ]
+    },
+    {
+      "text": "Kill 1 raccalope",
+      "difficulty": 2,
+      "tags": [
+        "raccalope"
+      ]
+    },
+    {
+      "text": "Kill 2 raccalopes",
+      "difficulty": 2,
+      "tags": [
+        "raccalope"
+      ]
+    },
+    {
+      "text": "Kill 3 ducksharks",
+      "difficulty": 2,
+      "tags": [
+        "duckshark"
+      ]
+    },
+    {
+      "text": "Kill the same duckshark 5 times",
+      "difficulty": 2,
+      "tags": [
+        "duckshark"
+      ]
+    },
+    {
+      "text": "Kill 2 unique fire cats",
+      "difficulty": 2,
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "text": "Kill 2 unique boomerang cats",
+      "difficulty": 2,
+      "tags": [
+        "boomerang"
+      ]
+    },
+    {
+      "text": "Kill 2 unique paperplane cats",
+      "difficulty": 2,
+      "tags": [
+        "paperplane"
+      ]
+    },
+    {
+      "text": "Kill 4 unique big bonking cats",
+      "difficulty": 2,
+      "tags": [
+        "pushers"
+      ]
+    },
+    {
+      "text": "Kill 4 unique small cats",
+      "difficulty": 2,
+      "tags": [
+        "small"
+      ]
+    },
+    {
+      "text": "Kill 2 unique sucking cats",
+      "difficulty": 2,
+      "tags": [
+        "suction"
+      ]
+    },
+    {
+      "text": "Kill 2 unique blowing cats",
+      "difficulty": 2,
+      "tags": [
+        "blow"
+      ]
+    },
+    {
+      "text": "Kill 2 unique grenade cats",
+      "difficulty": 2,
+      "tags": [
+        "grenade"
+      ]
+    },
+    {
+      "text": "Kill 2 unique bubble cats",
+      "difficulty": 2,
+      "tags": [
+        "bubble"
+      ]
+    },
+    {
+      "text": "Kill 2 unique forceball cats",
+      "difficulty": 2,
+      "tags": [
+        "forceball"
+      ]
+    },
+    {
+      "text": "Kill 2 unique ice cats",
+      "difficulty": 2,
+      "tags": [
+        "ice"
+      ]
+    },
+    {
+      "text": "Drown 4 cats",
+      "difficulty": 2,
+      "tags": [
+        "water"
+      ]
+    },
+    {
+      "text": "Lure 2 cats into spikes",
+      "difficulty": 2,
+      "tags": [
+        "forceball"
+      ]
+    },
+    {
+      "text": "1-6 doing frog boat skip",
+      "difficulty": 2,
+      "tags": [
+        "frog"
+      ]
+    },
+    {
+      "text": "5-1 WITHOUT the treadmill boost",
+      "difficulty": 2,
+      "tags": [
+        "casual"
+      ]
+    },
+    {
+      "text": "3-1 WITHOUT any omega boosts",
+      "difficulty": 2,
+      "tags": [
+        "noob"
+      ]
+    },
+    {
+      "text": "Collect 4 gems in any 5 stages",
+      "difficulty": 2,
+      "tags": [
+        "runover"
+      ]
+    },
+    {
+      "text": "3-2 WITHOUT any of the yolo boosts",
+      "difficulty": 2,
+      "tags": [
+        "frog"
+      ]
+    },
+    {
+      "text": "7-2, 7-3, 7-5 or 7-8 without any checkpoint skips",
+      "difficulty": 2,
+      "tags": [
+        "badatruns"
+      ]
+    },
+    {
+      "text": "2-F2 without the frog clip",
+      "difficulty": 2,
+      "tags": [
+        "xenemy"
+      ]
+    },
+    {
+      "text": "2-5 first ferdinand skip",
+      "difficulty": 2,
+      "tags": [
+        "skips"
+      ]
+    },
+    {
+      "text": "6-4 yolo boost through all these lasers",
+      "difficulty": 2,
+      "tags": [
+        "yolo"
+      ]
+    },
+    {
+      "text": "7-F1 journey through the boulder portals",
+      "difficulty": 2,
+      "tags": [
+        "boulders"
+      ]
+    },
+    {
+      "text": "8-9 with that boost",
+      "difficulty": 2,
+      "tags": [
+        "plsno",
+        "why"
+      ]
+    },
+    {
+      "text": "8-3 duckshark skip",
+      "difficulty": 2,
+      "tags": [
+        "ohgod"
+      ]
+    },
+    {
+      "text": "Have 5 paperplanes on screen at once",
+      "difficulty": 3,
+      "tags": [
+        "dupe",
+        "paperplane"
+      ]
+    },
+    {
+      "text": "Jam a rock between two blocks",
+      "difficulty": 3,
+      "tags": [
+        "boulders"
+      ]
+    },
+    {
+      "text": "Stand infront of a fire cat without getting hit by its fire",
+      "difficulty": 3,
+      "tags": [
+        "touch"
+      ]
+    },
+    {
+      "text": "Clear 3 Chapter 1 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 2 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 3 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 4 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 5 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 6 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 7 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 3 Chapter 8 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 1 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 2 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 3 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 4 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 5 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 6 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 7 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Clear 3 Chapter 8 scenes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch1",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch2",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch3",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch4",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch5",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch6",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch7",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear Encores in Ch8",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch1",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch2",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch3",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch4",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch5",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch6",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch7",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "100% Encores in Ch8",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3-2 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "3-2 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "1-8 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "1-8 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "3-5 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "3-5 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "7-9 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "7-9 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "6-3 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "6-3 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "7-5 Pacifict",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "7-5 Genocide",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get all checkpoints in 7-5",
+      "difficulty": 4,
+      "tags": [
+        "cpget"
+      ]
+    },
+    {
+      "text": "Skip all checkpoints in 7-3",
+      "difficulty": 4,
+      "tags": [
+        "cpskip"
+      ]
+    },
+    {
+      "text": "Get all checkpoints in 1-7",
+      "difficulty": 4,
+      "tags": [
+        "cpget"
+      ]
+    },
+    {
+      "text": "Get all checkpoints in 5-5",
+      "difficulty": 4,
+      "tags": [
+        "cpget"
+      ]
+    },
+    {
+      "text": "Get all checkpoints in 6-8",
+      "difficulty": 4,
+      "tags": [
+        "cpget"
+      ]
+    },
+    {
+      "text": "Skip all checkpoints in 8-2",
+      "difficulty": 4,
+      "tags": [
+        "cpskip"
+      ]
+    },
+    {
+      "text": "Skip all checkpoints in 3-2",
+      "difficulty": 4,
+      "tags": [
+        "cpskip"
+      ]
+    },
+    {
+      "text": "Skip all checkpoints in 2-5",
+      "difficulty": 4,
+      "tags": [
+        "cpskip"
+      ]
+    },
+    {
+      "text": "1 golden hat",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "2 golden hats",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "3 golden hats",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "50 unique gems",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "100 unique gems",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "150 unique gems",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "200 unique gems",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "10 unique yarns",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "15 unique yarns",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "20 unique yarns",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "25 unique yarns",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "30 unique yarns",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "15 NPC kills",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "20 NPC kills",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "25 NPC kills",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "30 NPC kills",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "20 unique stage clears",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "25 unique stage clears",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "30 unique stage clears",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "35 unique stage clears",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "40 unique stage clears",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "10 unique clock stamps",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "15 unique clock stamps",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "20 unique clock stamps",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "25 unique clock stamps",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "30 unique clock stamps",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Vacuum a cat's grenade and die from it",
+      "difficulty": 5,
+      "tags": [
+        "grenade"
+      ]
+    },
+    {
+      "text": "Kill 5 cats with their own grenades",
+      "difficulty": 5,
+      "tags": [
+        "grenade"
+      ]
+    },
+    {
+      "text": "Lure 5 cats into raccalopes",
+      "difficulty": 5,
+      "tags": [
+        "raccalope"
+      ]
+    },
+    {
+      "text": "Set yourself on fire, then extinguish yourself",
+      "difficulty": 5,
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "text": "Bounce on 5 toxic bubbles without touching the ground",
+      "difficulty": 5,
+      "tags": [
+        "bubble"
+      ]
+    },
+    {
+      "text": "Kill that one paperplane cat with its own paperplanes",
+      "difficulty": 5,
+      "tags": [
+        "paperplane"
+      ]
+    },
+    {
+      "text": "Have a cat set another cat on fire",
+      "difficulty": 5,
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "text": "Push a cat to it's demise using only forceballs",
+      "difficulty": 5,
+      "tags": [
+        "forceball"
+      ]
+    },
+    {
+      "text": "Duckshark's Big Adventure",
+      "difficulty": 5,
+      "tags": [
+        "duckshark"
+      ]
+    },
+    {
+      "text": "Bring a rock to the end of 6-4",
+      "difficulty": 5,
+      "tags": [
+        "boulders"
+      ]
+    },
+    {
+      "text": "Watch two full cutscenes",
+      "difficulty": 5,
+      "tags": [
+        "cutscene"
+      ]
+    },
+    {
+      "text": "8-Secret cleared without ever standing still",
+      "difficulty": 5,
+      "tags": [
+        "clear"
+      ]
+    },
+    {
+      "text": "Finish a stage with 0 jumps",
+      "difficulty": 5,
+      "tags": [
+        "jumpless"
+      ]
+    }
+  ]
+}

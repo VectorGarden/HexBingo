@@ -1,0 +1,901 @@
+{
+  "name": "Pokémon: Platinum",
+  "goals": [
+    {
+      "text": "Don’t heal with herbal items",
+      "difficulty": 1,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Odd Keystone",
+      "difficulty": 1,
+      "tags": [
+        "keystone"
+      ]
+    },
+    {
+      "text": "TM88 (Pluck)",
+      "difficulty": 1,
+      "tags": [
+        "floaroma1"
+      ]
+    },
+    {
+      "text": "Quick Claw",
+      "difficulty": 1,
+      "tags": [
+        "jubilife"
+      ]
+    },
+    {
+      "text": "Evolve a Pokémon",
+      "difficulty": 1,
+      "tags": [
+        "evolve"
+      ]
+    },
+    {
+      "text": "Wormadam, Mothim, or Vespiquen",
+      "difficulty": 1,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Give a Pokémon a massage",
+      "difficulty": 1,
+      "tags": [
+        "massage"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon with the Old Rod",
+      "difficulty": 1,
+      "tags": [
+        "fishing"
+      ]
+    },
+    {
+      "text": "Sprayduck",
+      "difficulty": 1,
+      "tags": [
+        "keyitem"
+      ]
+    },
+    {
+      "text": "Poffin Case",
+      "difficulty": 1,
+      "tags": [
+        "keyitem"
+      ]
+    },
+    {
+      "text": "Beautifly or Dustox",
+      "difficulty": 1,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Don’t heal at Pokémon Centers",
+      "difficulty": 1,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Defeat a Gym Leader with animations on",
+      "difficulty": 1,
+      "tags": [
+        "leader"
+      ]
+    },
+    {
+      "text": "TM67 (Recycle)",
+      "difficulty": 1,
+      "tags": [
+        "eterna"
+      ]
+    },
+    {
+      "text": "Slather honey on 10 different trees",
+      "difficulty": 1,
+      "tags": [
+        "honey"
+      ]
+    },
+    {
+      "text": "Haunter, Kadabra, Machoke, or Graveler",
+      "difficulty": 1,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Use a 4x super-effective move",
+      "difficulty": 1,
+      "tags": [
+        "parasect"
+      ]
+    },
+    {
+      "text": "10 different berries",
+      "difficulty": 1,
+      "tags": [
+        "berries"
+      ]
+    },
+    {
+      "text": "8 Pokétch Apps",
+      "difficulty": 1,
+      "tags": [
+        "poketch"
+      ]
+    },
+    {
+      "text": "Apply a Ball Seal to a Pokémon",
+      "difficulty": 1,
+      "tags": [
+        "seals"
+      ]
+    },
+    {
+      "text": "Kricketune, Bibarel, or Staravia",
+      "difficulty": 1,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "5 different type-boosting items",
+      "difficulty": 1,
+      "tags": [
+        "typeitems"
+      ]
+    },
+    {
+      "text": "Protector, Reaper Cloth, Magmarizer, or Electrizer",
+      "difficulty": 1,
+      "tags": [
+        "tradeitems"
+      ]
+    },
+    {
+      "text": "Defeat a doubles partner",
+      "difficulty": 1,
+      "tags": [
+        "doubles"
+      ]
+    },
+    {
+      "text": "TM51 (Roost)",
+      "difficulty": 1,
+      "tags": [
+        "abovesolaceon"
+      ]
+    },
+    {
+      "text": "Tangela, Yanma, or Piloswine",
+      "difficulty": 1,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Release starter before level 11",
+      "difficulty": 2,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "7 Different types of Poké Ball",
+      "difficulty": 2,
+      "tags": [
+        "balls"
+      ]
+    },
+    {
+      "text": "10 different Pokémon owned",
+      "difficulty": 2,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers in Eterna Forest",
+      "difficulty": 2,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "Roselia, Togetic, Kirlia, or Snorunt",
+      "difficulty": 2,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "3 Pokémon that start with the same letter",
+      "difficulty": 2,
+      "tags": [
+        "letter"
+      ]
+    },
+    {
+      "text": "A Pokémon with a stat-boosting move",
+      "difficulty": 2,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Return the Suite Key",
+      "difficulty": 2,
+      "tags": [
+        "hotel"
+      ]
+    },
+    {
+      "text": "TM92 (Trick Room)",
+      "difficulty": 2,
+      "tags": [
+        "hotel"
+      ]
+    },
+    {
+      "text": "Electabuzz, Magmar, or Jynx",
+      "difficulty": 2,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "A Pokémon with a non-TM move with 5 PP",
+      "difficulty": 2,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Battle Rotom (TV Pokémon)",
+      "difficulty": 2,
+      "tags": [
+        "clock"
+      ]
+    },
+    {
+      "text": "15 TMs",
+      "difficulty": 2,
+      "tags": [
+        "tms"
+      ]
+    },
+    {
+      "text": "Defeat all 11 trainers on Route 205",
+      "difficulty": 2,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "3 eggs",
+      "difficulty": 2,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Magnezone or Probopass",
+      "difficulty": 2,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "6 different Water-type Pokémon",
+      "difficulty": 2,
+      "tags": [
+        "catch6"
+      ]
+    },
+    {
+      "text": "Defeat Drifloon",
+      "difficulty": 2,
+      "tags": [
+        "date"
+      ]
+    },
+    {
+      "text": "TM78 (Captivate)",
+      "difficulty": 2,
+      "tags": [
+        "floaroma2"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon with the Good Rod",
+      "difficulty": 2,
+      "tags": [
+        "fishing"
+      ]
+    },
+    {
+      "text": "Luxio, Mightyena, or Houndoom",
+      "difficulty": 2,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "6 different Normal-type Pokémon",
+      "difficulty": 2,
+      "tags": [
+        "catch6"
+      ]
+    },
+    {
+      "text": "Defeat 8 spinners",
+      "difficulty": 2,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "HM05 (Defog)",
+      "difficulty": 2,
+      "tags": [
+        "hms"
+      ]
+    },
+    {
+      "text": "Evolve 3 different Pokémon",
+      "difficulty": 2,
+      "tags": [
+        "evolve"
+      ]
+    },
+    {
+      "text": "Shellos, Floatzel, Quagsire, or Pelipper",
+      "difficulty": 2,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "6 different Flying-type Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "catch6"
+      ]
+    },
+    {
+      "text": "Revive a Fossil",
+      "difficulty": 3,
+      "tags": [
+        "fossil"
+      ]
+    },
+    {
+      "text": "BlackGlasses, Wise Glasses, or Choice Specs",
+      "difficulty": 3,
+      "tags": [
+        "celestic"
+      ]
+    },
+    {
+      "text": "TM77 (Psych Up)",
+      "difficulty": 3,
+      "tags": [
+        "celestic"
+      ]
+    },
+    {
+      "text": "Duskull, Aron, or Spheal",
+      "difficulty": 3,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Defeat all 7 trainers in Galactic Eterna Building",
+      "difficulty": 3,
+      "tags": [
+        "missable"
+      ]
+    },
+    {
+      "text": "Defeat 8 Hikers",
+      "difficulty": 3,
+      "tags": [
+        "class"
+      ]
+    },
+    {
+      "text": "Defeat all 6 trainers in Fantina’s gym",
+      "difficulty": 3,
+      "tags": [
+        "missable"
+      ]
+    },
+    {
+      "text": "Enter Amity Square",
+      "difficulty": 3,
+      "tags": [
+        "amity"
+      ]
+    },
+    {
+      "text": "Azumarill, Seel, or Slowpoke",
+      "difficulty": 3,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "15 different Pokémon owned",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "A Pokémon with 4 non-TM status moves",
+      "difficulty": 3,
+      "tags": [
+        "hms"
+      ]
+    },
+    {
+      "text": "Matchup Checker App",
+      "difficulty": 3,
+      "tags": [
+        "marsh"
+      ]
+    },
+    {
+      "text": "5 rematches with trainers",
+      "difficulty": 3,
+      "tags": [
+        "rematch"
+      ]
+    },
+    {
+      "text": "Larvitar, Gible, or Bagon",
+      "difficulty": 3,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Hatch a Pokémon from an egg",
+      "difficulty": 3,
+      "tags": [
+        "hatch"
+      ]
+    },
+    {
+      "text": "A Pokémon with a stat-related ability",
+      "difficulty": 3,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers on Cycling Road",
+      "difficulty": 3,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "3 battles inside Pokémon Centers",
+      "difficulty": 3,
+      "tags": [
+        "center"
+      ]
+    },
+    {
+      "text": "Absol, Stunky, or Glameow",
+      "difficulty": 3,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "A Pokémon with 4 STAB moves",
+      "difficulty": 3,
+      "tags": [
+        "stab"
+      ]
+    },
+    {
+      "text": "A Pokémon with red HP",
+      "difficulty": 3,
+      "tags": [
+        "endgame"
+      ]
+    },
+    {
+      "text": "Defeat all 9 trainers on Route 214",
+      "difficulty": 3,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "A Pokémon with a weather-related ability",
+      "difficulty": 3,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Battle a Legendary Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "legend"
+      ]
+    },
+    {
+      "text": "Snover, Sneasel, or Gligar",
+      "difficulty": 3,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "A Pokémon weighing at least 300 lbs",
+      "difficulty": 4,
+      "tags": [
+        "heavy"
+      ]
+    },
+    {
+      "text": "A Pokémon with a non-HM 2-turn move",
+      "difficulty": 4,
+      "tags": [
+        "two"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers in Lost Tower",
+      "difficulty": 4,
+      "tags": [
+        "trainers"
+      ]
+    },
+    {
+      "text": "Defeat the maids at Mr. Backlot’s Mansion",
+      "difficulty": 4,
+      "tags": [
+        "mansion"
+      ]
+    },
+    {
+      "text": "Buneary, Aipom, or Lickitung",
+      "difficulty": 4,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "3 baby Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "baby"
+      ]
+    },
+    {
+      "text": "Use a stone to evolve a Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "evolve"
+      ]
+    },
+    {
+      "text": "12 Pokétch Apps",
+      "difficulty": 4,
+      "tags": [
+        "poketch"
+      ]
+    },
+    {
+      "text": "A Pokémon with a status-related ability",
+      "difficulty": 4,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Haunter, Murkrow, or Misdreavus",
+      "difficulty": 4,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Land a move with at most 70% accuracy",
+      "difficulty": 4,
+      "tags": [
+        "miss"
+      ]
+    },
+    {
+      "text": "Train a Pokémon to Level 45",
+      "difficulty": 4,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Participate in a Contest",
+      "difficulty": 4,
+      "tags": [
+        "contest"
+      ]
+    },
+    {
+      "text": "Earn a reward from the Pokémon News Press",
+      "difficulty": 4,
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "text": "Meditite, Bronzor, or Girafarig",
+      "difficulty": 4,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Teach 4 TMs to the same Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "tms"
+      ]
+    },
+    {
+      "text": "$50,000",
+      "difficulty": 4,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "No money on hand",
+      "difficulty": 4,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "Don’t use X items",
+      "difficulty": 4,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Finneon, Remoraid, Goldeen, or Barboach",
+      "difficulty": 4,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "A Pokémon with an item-related ability",
+      "difficulty": 4,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "All Pokémon of only one gender",
+      "difficulty": 4,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Fen Badge",
+      "difficulty": 4,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "Footprint Ribbon",
+      "difficulty": 4,
+      "tags": [
+        "footprint"
+      ]
+    },
+    {
+      "text": "Carnivine, Skorupi, or Croagunk",
+      "difficulty": 4,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "10 rematches with trainers",
+      "difficulty": 5,
+      "tags": [
+        "rematch"
+      ]
+    },
+    {
+      "text": "25 TMs",
+      "difficulty": 5,
+      "tags": [
+        "tms"
+      ]
+    },
+    {
+      "text": "HM03 (Surf)",
+      "difficulty": 5,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "A Pokemon with an evasion boosting move",
+      "difficulty": 5,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Onix, Scyther, or Feebas",
+      "difficulty": 5,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "A Pokémon with each different type",
+      "difficulty": 5,
+      "tags": [
+        "types"
+      ]
+    },
+    {
+      "text": "Stop starter evolving 3 times",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "20 different Pokémon owned",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Evolve 5 different Pokémon",
+      "difficulty": 5,
+      "tags": [
+        "evolve"
+      ]
+    },
+    {
+      "text": "Togepi, Riolu, Porygon, or Eevee",
+      "difficulty": 5,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Use Struggle",
+      "difficulty": 5,
+      "tags": [
+        "pp"
+      ]
+    },
+    {
+      "text": "4 Pokémon with adjacent National Dex numbers",
+      "difficulty": 5,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon while Surfing",
+      "difficulty": 5,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "TM48 (Skill Swap)",
+      "difficulty": 5,
+      "tags": [
+        "canalavetm"
+      ]
+    },
+    {
+      "text": "Dialga, Palkia, or Giratina",
+      "difficulty": 5,
+      "tags": [
+        "pokemon"
+      ]
+    },
+    {
+      "text": "Hit 5 times with a multi-hit move",
+      "difficulty": 5,
+      "tags": [
+        "skilllink"
+      ]
+    },
+    {
+      "text": "Defeat all 9 trainers on Route 213",
+      "difficulty": 5,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "3 Pokémon in the same evolution chain",
+      "difficulty": 5,
+      "tags": [
+        "evolve"
+      ]
+    },
+    {
+      "text": "Get all 3 TMs in Oreburgh Gate",
+      "difficulty": 5,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "Black Belt, Expert Belt, or Focus Sash",
+      "difficulty": 5,
+      "tags": [
+        "belts"
+      ]
+    },
+    {
+      "text": "Defeat all 11 trainers in Route 210’s fog",
+      "difficulty": 5,
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "text": "Digger Drill",
+      "difficulty": 5,
+      "tags": [
+        "underground"
+      ]
+    },
+    {
+      "text": "Don’t use Repels",
+      "difficulty": 5,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Defeat all 3 trainers in Fuego Ironworks",
+      "difficulty": 5,
+      "tags": [
+        "surf"
+      ]
+    },
+    {
+      "text": "Complete Mira’s sidequest",
+      "difficulty": 5,
+      "tags": [
+        "sidequest"
+      ]
+    }
+  ]
+}

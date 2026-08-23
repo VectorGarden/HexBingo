@@ -1,0 +1,576 @@
+{
+  "name": "Symphony of the Night",
+  "goals": [
+    {
+      "text": "Spirit Orb",
+      "difficulty": 1,
+      "tags": [
+        "marblegallery"
+      ]
+    },
+    {
+      "text": "Get Stoned, Cursed, and Poisoned (not all at once)",
+      "difficulty": 1,
+      "tags": [
+        "status"
+      ]
+    },
+    {
+      "text": "Alucart gear",
+      "difficulty": 1,
+      "tags": [
+        "marblegallery"
+      ]
+    },
+    {
+      "text": "Power of Wolf",
+      "difficulty": 1,
+      "tags": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Skill of Wolf",
+      "difficulty": 1,
+      "tags": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Estoc",
+      "difficulty": 1,
+      "tags": [
+        "chairs"
+      ]
+    },
+    {
+      "text": "Nunchaku",
+      "difficulty": 1,
+      "tags": [
+        "scylla"
+      ]
+    },
+    {
+      "text": "Kill 5 Feathered Enemies",
+      "difficulty": 1,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Beat Slogra & Gaibon w/ Basilard",
+      "difficulty": 1,
+      "tags": [
+        "entrance"
+      ]
+    },
+    {
+      "text": "Power of Mist and Ghost Card",
+      "difficulty": 1,
+      "tags": [
+        "keep"
+      ]
+    },
+    {
+      "text": "Have the faerie heal Stone, Curse and Poison statuses",
+      "difficulty": 1,
+      "tags": [
+        "status"
+      ]
+    },
+    {
+      "text": "Kill 8 types of Knights",
+      "difficulty": 1,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Bat Card",
+      "difficulty": 2,
+      "tags": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Complete the Spell menu",
+      "difficulty": 2,
+      "tags": [
+        "spell",
+        "powerofwolf",
+        "swordcard"
+      ]
+    },
+    {
+      "text": "Sit in 6 different chairs",
+      "difficulty": 2,
+      "tags": [
+        "chairs"
+      ]
+    },
+    {
+      "text": "Gravity Boots",
+      "difficulty": 2,
+      "tags": [
+        "marblegallery"
+      ]
+    },
+    {
+      "text": "Crystal Cloak",
+      "difficulty": 2,
+      "tags": [
+        "scylla"
+      ]
+    },
+    {
+      "text": "Holy Mail",
+      "difficulty": 2,
+      "tags": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Merman Statue",
+      "difficulty": 2,
+      "tags": [
+        "scylla"
+      ]
+    },
+    {
+      "text": "Heal by blood with Bloodstone Equipped",
+      "difficulty": 2,
+      "tags": [
+        "jewelopen"
+      ]
+    },
+    {
+      "text": "Start w/ Potion",
+      "difficulty": 2,
+      "tags": [
+        "intro"
+      ]
+    },
+    {
+      "text": "Hear a confession wearing Ankh of Life",
+      "difficulty": 2,
+      "tags": [
+        "hippogryph"
+      ]
+    },
+    {
+      "text": "Gold Plate",
+      "difficulty": 2,
+      "tags": [
+        "clocktower"
+      ]
+    },
+    {
+      "text": "All 1st castle warps",
+      "difficulty": 2,
+      "tags": [
+        "warps"
+      ]
+    },
+    {
+      "text": "Force of Echo",
+      "difficulty": 2,
+      "tags": [
+        "dopple40"
+      ]
+    },
+    {
+      "text": "Holy Symbol",
+      "difficulty": 2,
+      "tags": [
+        "holysymbol"
+      ]
+    },
+    {
+      "text": "Dark Blade",
+      "difficulty": 2,
+      "tags": [
+        "dopple40"
+      ]
+    },
+    {
+      "text": "Kill both types of Witch",
+      "difficulty": 2,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Have Fairie identify 5 suspicious walls",
+      "difficulty": 2,
+      "tags": [
+        "fairie"
+      ]
+    },
+    {
+      "text": "Get Stoned by 4 different enemies",
+      "difficulty": 2,
+      "tags": [
+        "status"
+      ]
+    },
+    {
+      "text": "Get Cursed by 3 different enemies",
+      "difficulty": 2,
+      "tags": [
+        "status"
+      ]
+    },
+    {
+      "text": "Kill the 3 Giant brothers",
+      "difficulty": 2,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Fire, Ice & Lightning Mails",
+      "difficulty": 3,
+      "tags": [
+        "keep"
+      ]
+    },
+    {
+      "text": "Kill 4 aqautic enemies (SUSHI)",
+      "difficulty": 3,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Have a CON boost of at least +20",
+      "difficulty": 3,
+      "tags": [
+        "con"
+      ]
+    },
+    {
+      "text": "Talisman",
+      "difficulty": 3,
+      "tags": [
+        "entrance2"
+      ]
+    },
+    {
+      "text": "Jewel Sword & Beryl Circlet",
+      "difficulty": 3,
+      "tags": [
+        "wolf",
+        "entrance2"
+      ]
+    },
+    {
+      "text": "Gram",
+      "difficulty": 3,
+      "tags": [
+        "cv3triplets"
+      ]
+    },
+    {
+      "text": "Silver Ring and Twilight Cloak",
+      "difficulty": 3,
+      "tags": [
+        "jewelopen"
+      ]
+    },
+    {
+      "text": "Have an INT boost of at least +40",
+      "difficulty": 3,
+      "tags": [
+        "intelligence"
+      ]
+    },
+    {
+      "text": "Have a STR boost of at least +40",
+      "difficulty": 3,
+      "tags": [
+        "strength"
+      ]
+    },
+    {
+      "text": "Broadsword & Sword of Hador",
+      "difficulty": 3,
+      "tags": [
+        "olrox"
+      ]
+    },
+    {
+      "text": "Kill Hellfire Beast, Frozen Half, and Fire Demon",
+      "difficulty": 3,
+      "tags": [
+        "bestiary",
+        "jewelopen"
+      ]
+    },
+    {
+      "text": "Have a LCK boost of at least +60",
+      "difficulty": 3,
+      "tags": [
+        "luck"
+      ]
+    },
+    {
+      "text": "2 Neutron Bombs",
+      "difficulty": 3,
+      "tags": [
+        "forbiddenlibrary"
+      ]
+    },
+    {
+      "text": "Kill 6 different types of zombies",
+      "difficulty": 3,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Jewel Knuckles & Shotel",
+      "difficulty": 3,
+      "tags": [
+        "dopple10",
+        "creature",
+        "medusa"
+      ]
+    },
+    {
+      "text": "Staurolite",
+      "difficulty": 3,
+      "tags": [
+        "forbiddenlibrary"
+      ]
+    },
+    {
+      "text": "Scimitar & Knuckle Duster",
+      "difficulty": 3,
+      "tags": [
+        "scylla"
+      ]
+    },
+    {
+      "text": "Kill 5 mounted enemies",
+      "difficulty": 3,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "All 2nd castle warps",
+      "difficulty": 4,
+      "tags": [
+        "warps"
+      ]
+    },
+    {
+      "text": "Beat Galamoth",
+      "difficulty": 4,
+      "tags": [
+        "galamoth"
+      ]
+    },
+    {
+      "text": "Ring of Arcana",
+      "difficulty": 4,
+      "tags": [
+        "beelzebub",
+        "librarian"
+      ]
+    },
+    {
+      "text": "300+ HP",
+      "difficulty": 4,
+      "tags": [
+        "hp"
+      ]
+    },
+    {
+      "text": "Kill 4 invisible types of enemies",
+      "difficulty": 4,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Bekatowa & Luminus",
+      "difficulty": 4,
+      "tags": [
+        "clocktower"
+      ]
+    },
+    {
+      "text": "Kill all 3 levels of Spectral Sword",
+      "difficulty": 4,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "200+ kills",
+      "difficulty": 4,
+      "tags": [
+        "kills"
+      ]
+    },
+    {
+      "text": "Visit 20 save rooms",
+      "difficulty": 4,
+      "tags": [
+        "saves"
+      ]
+    },
+    {
+      "text": "Sunstone & Moonstone",
+      "difficulty": 4,
+      "tags": [
+        "stones"
+      ]
+    },
+    {
+      "text": "Crystal Cloak & Dark Blade",
+      "difficulty": 4,
+      "tags": [
+        "dopple40",
+        "scylla"
+      ]
+    },
+    {
+      "text": "Katana",
+      "difficulty": 4,
+      "tags": [
+        "necromancy"
+      ]
+    },
+    {
+      "text": "3 Power of Sires",
+      "difficulty": 4,
+      "tags": [
+        "powersire"
+      ]
+    },
+    {
+      "text": "Destory all 4 types of Weeds",
+      "difficulty": 4,
+      "tags": [
+        "bestiary"
+      ]
+    },
+    {
+      "text": "Osafune katana",
+      "difficulty": 5,
+      "tags": [
+        "death"
+      ]
+    },
+    {
+      "text": "180+ Hearts",
+      "difficulty": 5,
+      "tags": [
+        "hearts"
+      ]
+    },
+    {
+      "text": "Fire of Bat and Dragon Helm",
+      "difficulty": 5,
+      "tags": [
+        "clocktower"
+      ]
+    },
+    {
+      "text": "Demon Card and Alucard Sword",
+      "difficulty": 5,
+      "tags": [
+        "scylla",
+        "jewelopen"
+      ]
+    },
+    {
+      "text": "Merman Statue and Alucard Shield",
+      "difficulty": 5,
+      "tags": [
+        "merman"
+      ]
+    },
+    {
+      "text": "2 of each Resist (Fire, Ice, Thunder, Dark, Holy, Stone)",
+      "difficulty": 5,
+      "tags": [
+        "resist"
+      ]
+    },
+    {
+      "text": "Restore HP from poison damage",
+      "difficulty": 5,
+      "tags": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "600+ rooms",
+      "difficulty": 5,
+      "tags": [
+        "rooms"
+      ]
+    },
+    {
+      "text": "3 Heart Refreshes",
+      "difficulty": 5,
+      "tags": [
+        "hr"
+      ]
+    },
+    {
+      "text": "Break spikes in 5 different rooms",
+      "difficulty": 5,
+      "tags": [
+        "granfaloon"
+      ]
+    },
+    {
+      "text": "Activate 5 Maria cutscenes as Alucard",
+      "difficulty": 5,
+      "tags": [
+        "maria"
+      ]
+    },
+    {
+      "text": "Get big tossed by 3 different enemies",
+      "difficulty": 5,
+      "tags": [
+        "hp"
+      ]
+    },
+    {
+      "text": "Sunglasses and Goddess Shield",
+      "difficulty": 5,
+      "tags": [
+        "beelzebub",
+        "alchemylab"
+      ]
+    },
+    {
+      "text": "Holy Sword and Fury Plate",
+      "difficulty": 5,
+      "tags": [
+        "2castles"
+      ]
+    },
+    {
+      "text": "All 5 Dracula Relics",
+      "difficulty": 5,
+      "tags": [
+        "warps",
+        "darkwing"
+      ]
+    },
+    {
+      "text": "Restore HP from cat damage",
+      "difficulty": 5,
+      "tags": [
+        "akmodan"
+      ]
+    }
+  ]
+}

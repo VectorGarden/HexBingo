@@ -1,0 +1,779 @@
+{
+  "name": "Super Mario 64",
+  "goals": [
+    {
+      "text": "Red Coin Star in WF",
+      "difficulty": 1,
+      "tags": [
+        "WF"
+      ]
+    },
+    {
+      "text": "100 Coin Star in WF",
+      "difficulty": 1,
+      "tags": [
+        "WF"
+      ]
+    },
+    {
+      "text": "Peach's Slide x 2",
+      "difficulty": 1,
+      "tags": [
+        "secrets"
+      ]
+    },
+    {
+      "text": "Reach the Castle Roof",
+      "difficulty": 1,
+      "tags": [
+        "lives"
+      ]
+    },
+    {
+      "text": "Lose Mario's Hat",
+      "difficulty": 1,
+      "tags": [
+        "losehat"
+      ]
+    },
+    {
+      "text": "5 Castle Secret Stars",
+      "difficulty": 1,
+      "tags": [
+        "secrets"
+      ]
+    },
+    {
+      "text": "Beat the King in BOB",
+      "difficulty": 1,
+      "tags": [
+        "BOB"
+      ]
+    },
+    {
+      "text": "Two Bowser Stage Red Coin Stars",
+      "difficulty": 1,
+      "tags": [
+        "bowserreds"
+      ]
+    },
+    {
+      "text": "Collect 120 Coins in one stage",
+      "difficulty": 1,
+      "tags": [
+        "WF",
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "100 Coin Star in CCM",
+      "difficulty": 1,
+      "tags": [
+        "CCM"
+      ]
+    },
+    {
+      "text": "Open 3 cannons",
+      "difficulty": 1,
+      "tags": [
+        "cannons"
+      ]
+    },
+    {
+      "text": "Secret Aquarium Star",
+      "difficulty": 1,
+      "tags": [
+        "aquarium"
+      ]
+    },
+    {
+      "text": "15 Lives",
+      "difficulty": 1,
+      "tags": [
+        "lives"
+      ]
+    },
+    {
+      "text": "Collect 130 Coins in one stage",
+      "difficulty": 1,
+      "tags": [
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "Mario Wings to the Sky BOB",
+      "difficulty": 1,
+      "tags": [
+        "BOB",
+        "wingcap"
+      ]
+    },
+    {
+      "text": "Red Coin Star in HMC",
+      "difficulty": 1,
+      "tags": [
+        "HMC"
+      ]
+    },
+    {
+      "text": "All Stars in Whomps",
+      "difficulty": 1,
+      "tags": [
+        "WF"
+      ]
+    },
+    {
+      "text": "Three 100 Coin Stars",
+      "difficulty": 1,
+      "tags": [
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "BITS Red Coin Star",
+      "difficulty": 1,
+      "tags": [
+        "bowserreds"
+      ]
+    },
+    {
+      "text": "Red Coin Star in TTM",
+      "difficulty": 1,
+      "tags": [
+        "TTM"
+      ]
+    },
+    {
+      "text": "Cruiser Crossing the Rainbow RR",
+      "difficulty": 1,
+      "tags": [
+        "RR"
+      ]
+    },
+    {
+      "text": "Collect 140 Coins in one stage",
+      "difficulty": 1,
+      "tags": [
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "Secrets Star in THI",
+      "difficulty": 1,
+      "tags": [
+        "THI"
+      ]
+    },
+    {
+      "text": "Secrets Star in WDW",
+      "difficulty": 2,
+      "tags": [
+        "WDW"
+      ]
+    },
+    {
+      "text": "Red Coin Star in BOB",
+      "difficulty": 2,
+      "tags": [
+        "BOB"
+      ]
+    },
+    {
+      "text": "2 Cap Stage Stars",
+      "difficulty": 2,
+      "tags": [
+        "wingcap",
+        "vanishcap",
+        "metalcap",
+        "secrets"
+      ]
+    },
+    {
+      "text": "Red Coin Star in BBH",
+      "difficulty": 2,
+      "tags": [
+        "BBH"
+      ]
+    },
+    {
+      "text": "7 Castle Secret Stars",
+      "difficulty": 2,
+      "tags": [
+        "secrets"
+      ]
+    },
+    {
+      "text": "100 Coin Star in LLL",
+      "difficulty": 2,
+      "tags": [
+        "LLL"
+      ]
+    },
+    {
+      "text": "20 lives",
+      "difficulty": 2,
+      "tags": [
+        "lives"
+      ]
+    },
+    {
+      "text": "Red Coin Star in SSL",
+      "difficulty": 2,
+      "tags": [
+        "SSL",
+        "wingcap"
+      ]
+    },
+    {
+      "text": "All Stars in CCM",
+      "difficulty": 2,
+      "tags": [
+        "CCM"
+      ]
+    },
+    {
+      "text": "100 Coin Star in JRB",
+      "difficulty": 2,
+      "tags": [
+        "JRB"
+      ]
+    },
+    {
+      "text": "Red Coin Star in WDW",
+      "difficulty": 2,
+      "tags": [
+        "WDW"
+      ]
+    },
+    {
+      "text": "Eye in the Secret Room BBH",
+      "difficulty": 2,
+      "tags": [
+        "BBH",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "Three Bowser Stage Red Coin Stars",
+      "difficulty": 2,
+      "tags": [
+        "bowserreds",
+        "secrets"
+      ]
+    },
+    {
+      "text": "100 Coin Star in WDW",
+      "difficulty": 2,
+      "tags": [
+        "WDW"
+      ]
+    },
+    {
+      "text": "100 Coin Star in TTC",
+      "difficulty": 2,
+      "tags": [
+        "TTC"
+      ]
+    },
+    {
+      "text": "At least 1 star from 10 stages",
+      "difficulty": 2,
+      "tags": [
+        "starseach"
+      ]
+    },
+    {
+      "text": "100 Coin Star in SSL",
+      "difficulty": 2,
+      "tags": [
+        "SSL"
+      ]
+    },
+    {
+      "text": "Into the Igloo SL",
+      "difficulty": 2,
+      "tags": [
+        "SL",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "25 Lives",
+      "difficulty": 2,
+      "tags": [
+        "lives"
+      ]
+    },
+    {
+      "text": "Open 5 Cannons",
+      "difficulty": 2,
+      "tags": [
+        "cannons"
+      ]
+    },
+    {
+      "text": "Red Coin Star in JRB",
+      "difficulty": 3,
+      "tags": [
+        "JRB"
+      ]
+    },
+    {
+      "text": "Mystery of the Monkey Cage TTM",
+      "difficulty": 3,
+      "tags": [
+        "TTM"
+      ]
+    },
+    {
+      "text": "Top Floor Cloud Stage Star",
+      "difficulty": 3,
+      "tags": [
+        "wingcap"
+      ]
+    },
+    {
+      "text": "Collect the Caps DDD",
+      "difficulty": 3,
+      "tags": [
+        "DDD",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "3 Cap Stage Stars",
+      "difficulty": 3,
+      "tags": [
+        "wingcap",
+        "vanishcap",
+        "metalcap",
+        "secrets"
+      ]
+    },
+    {
+      "text": "100 Coin Star in TTM",
+      "difficulty": 3,
+      "tags": [
+        "TTM"
+      ]
+    },
+    {
+      "text": "4 Stars each from SSL and HMC",
+      "difficulty": 3,
+      "tags": [
+        "SSL",
+        "HMC"
+      ]
+    },
+    {
+      "text": "All Stars in LLL",
+      "difficulty": 3,
+      "tags": [
+        "LLL"
+      ]
+    },
+    {
+      "text": "Four 100 Coin Stars",
+      "difficulty": 3,
+      "tags": [
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "Race Through Downtown WDW",
+      "difficulty": 3,
+      "tags": [
+        "WDW",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "100 Coin Star in HMC",
+      "difficulty": 3,
+      "tags": [
+        "HMC"
+      ]
+    },
+    {
+      "text": "100 Coin Star in THI",
+      "difficulty": 3,
+      "tags": [
+        "THI"
+      ]
+    },
+    {
+      "text": "100 Coin Star in DDD",
+      "difficulty": 3,
+      "tags": [
+        "DDD"
+      ]
+    },
+    {
+      "text": "4 Stars each from BOB and CCM",
+      "difficulty": 3,
+      "tags": [
+        "BOB",
+        "CCM"
+      ]
+    },
+    {
+      "text": "100 Coin Star in RR",
+      "difficulty": 3,
+      "tags": [
+        "RR"
+      ]
+    },
+    {
+      "text": "100 Coin Star in BOB",
+      "difficulty": 3,
+      "tags": [
+        "BOB",
+        "wingcap"
+      ]
+    },
+    {
+      "text": "30 Lives",
+      "difficulty": 3,
+      "tags": [
+        "lives"
+      ]
+    },
+    {
+      "text": "100 Coin Star in BBH",
+      "difficulty": 3,
+      "tags": [
+        "BBH"
+      ]
+    },
+    {
+      "text": "Open 7 Cannons",
+      "difficulty": 3,
+      "tags": [
+        "cannons"
+      ]
+    },
+    {
+      "text": "Defeat all 4 Mini-Bosses",
+      "difficulty": 3,
+      "tags": [
+        "SSL",
+        "THI"
+      ]
+    },
+    {
+      "text": "3 Stars each from JRB and BBH",
+      "difficulty": 3,
+      "tags": [
+        "JRB",
+        "BBH"
+      ]
+    },
+    {
+      "text": "30 Total Stars",
+      "difficulty": 3,
+      "tags": [
+        "manystar"
+      ]
+    },
+    {
+      "text": "100 Coin Star in SL",
+      "difficulty": 3,
+      "tags": [
+        "SL",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "Rematch with Koopa the Quick THI",
+      "difficulty": 3,
+      "tags": [
+        "THI"
+      ]
+    },
+    {
+      "text": "10 Castle Secret Stars",
+      "difficulty": 4,
+      "tags": [
+        "secrets",
+        "aquarium"
+      ]
+    },
+    {
+      "text": "At least 3 stars from 6 stages",
+      "difficulty": 4,
+      "tags": [
+        "starseach",
+        "manystar"
+      ]
+    },
+    {
+      "text": "At least 2 stars from 10 stages",
+      "difficulty": 4,
+      "tags": [
+        "starseach",
+        "manystar"
+      ]
+    },
+    {
+      "text": "All Stars in JRB",
+      "difficulty": 4,
+      "tags": [
+        "JRB"
+      ]
+    },
+    {
+      "text": "5 Stars in SL",
+      "difficulty": 4,
+      "tags": [
+        "SL"
+      ]
+    },
+    {
+      "text": "3 Stars each from TTC and RR",
+      "difficulty": 4,
+      "tags": [
+        "TTC",
+        "RR"
+      ]
+    },
+    {
+      "text": "All Stars in HMC",
+      "difficulty": 4,
+      "tags": [
+        "HMC"
+      ]
+    },
+    {
+      "text": "Five 100 Coin Stars",
+      "difficulty": 4,
+      "tags": [
+        "hundredcoin",
+        "starseach",
+        "lives"
+      ]
+    },
+    {
+      "text": "Collect 140 Coins in two stages",
+      "difficulty": 4,
+      "tags": [
+        "hundredcoin"
+      ]
+    },
+    {
+      "text": "5 Stars in DDD",
+      "difficulty": 4,
+      "tags": [
+        "DDD"
+      ]
+    },
+    {
+      "text": "4 Stars each from JRB and DDD",
+      "difficulty": 4,
+      "tags": [
+        "JRB",
+        "DDD"
+      ]
+    },
+    {
+      "text": "3 Stars each from THI and TTM",
+      "difficulty": 4,
+      "tags": [
+        "THI",
+        "TTM"
+      ]
+    },
+    {
+      "text": "All Stars in BOB",
+      "difficulty": 4,
+      "tags": [
+        "BOB"
+      ]
+    },
+    {
+      "text": "All Stars in TTC",
+      "difficulty": 4,
+      "tags": [
+        "TTC"
+      ]
+    },
+    {
+      "text": "Six 100 Coin Stars",
+      "difficulty": 4,
+      "tags": [
+        "hundredcoin",
+        "starseach",
+        "lives"
+      ]
+    },
+    {
+      "text": "5 Stars in BBH",
+      "difficulty": 4,
+      "tags": [
+        "BBH"
+      ]
+    },
+    {
+      "text": "Open 9 Cannons",
+      "difficulty": 4,
+      "tags": [
+        "cannons"
+      ]
+    },
+    {
+      "text": "All Stars in SSL",
+      "difficulty": 4,
+      "tags": [
+        "SSL"
+      ]
+    },
+    {
+      "text": "6 Stars in WDW",
+      "difficulty": 4,
+      "tags": [
+        "WDW"
+      ]
+    },
+    {
+      "text": "6 Stars in SSL",
+      "difficulty": 4,
+      "tags": [
+        "SSL"
+      ]
+    },
+    {
+      "text": "At least 1 Star from each Stage",
+      "difficulty": 5,
+      "tags": [
+        "starseach",
+        "manystar"
+      ]
+    },
+    {
+      "text": "Win All 3 Character Races",
+      "difficulty": 5,
+      "tags": [
+        "BOB",
+        "CCM",
+        "THI"
+      ]
+    },
+    {
+      "text": "At least 3 stars from 8 stages",
+      "difficulty": 5,
+      "tags": [
+        "starseach",
+        "manystar"
+      ]
+    },
+    {
+      "text": "All Stars in TTM",
+      "difficulty": 5,
+      "tags": [
+        "TTM"
+      ]
+    },
+    {
+      "text": "12 Castle Secret Stars",
+      "difficulty": 5,
+      "tags": [
+        "secrets",
+        "aquarium"
+      ]
+    },
+    {
+      "text": "35 Total Stars",
+      "difficulty": 5,
+      "tags": [
+        "manystar"
+      ]
+    },
+    {
+      "text": "6 Stars in RR",
+      "difficulty": 5,
+      "tags": [
+        "RR"
+      ]
+    },
+    {
+      "text": "Star #1 from each stage",
+      "difficulty": 5,
+      "tags": [
+        "starseach"
+      ]
+    },
+    {
+      "text": "Top Floor Toad Star",
+      "difficulty": 5,
+      "tags": [
+        "manystar"
+      ]
+    },
+    {
+      "text": "All Stars in Snowmans",
+      "difficulty": 5,
+      "tags": [
+        "SL",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "6 Stars in BBH",
+      "difficulty": 5,
+      "tags": [
+        "BBH"
+      ]
+    },
+    {
+      "text": "6 Stars in DDD",
+      "difficulty": 5,
+      "tags": [
+        "DDD"
+      ]
+    },
+    {
+      "text": "All Stars in WDW",
+      "difficulty": 5,
+      "tags": [
+        "WDW",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "All Stars in THI",
+      "difficulty": 5,
+      "tags": [
+        "THI"
+      ]
+    },
+    {
+      "text": "All Stars in BBH",
+      "difficulty": 5,
+      "tags": [
+        "BBH",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "Open All 11 Cannons",
+      "difficulty": 5,
+      "tags": [
+        "cannons"
+      ]
+    },
+    {
+      "text": "All Stars in DDD",
+      "difficulty": 5,
+      "tags": [
+        "DDD",
+        "vanishcap"
+      ]
+    },
+    {
+      "text": "All Stars in RR",
+      "difficulty": 5,
+      "tags": [
+        "RR"
+      ]
+    }
+  ]
+}

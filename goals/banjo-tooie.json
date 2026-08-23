@@ -1,0 +1,1515 @@
+{
+  "name": "Banjo-Tooie",
+  "goals": [
+    {
+      "text": "All Honeycomb in IoH",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "IoH"
+      ]
+    },
+    {
+      "text": "6-Health BK",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "IoH"
+      ]
+    },
+    {
+      "text": "3 Jiggies in MT",
+      "difficulty": 1,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Purchase Blubberâ€™s Last Possession",
+      "difficulty": 1,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Warppads in GGM",
+      "difficulty": 1,
+      "tags": [
+        "Warps",
+        "GGM"
+      ]
+    },
+    {
+      "text": "All Notes in GGM",
+      "difficulty": 1,
+      "tags": [
+        "Notes",
+        "GGM"
+      ]
+    },
+    {
+      "text": "Free Gobi",
+      "difficulty": 1,
+      "tags": [
+        "WW"
+      ]
+    },
+    {
+      "text": "All Warppads in CCL",
+      "difficulty": 1,
+      "tags": [
+        "Warps",
+        "CCL"
+      ]
+    },
+    {
+      "text": "All Honeycombs in GGM",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "GGM"
+      ]
+    },
+    {
+      "text": "Get Double Air",
+      "difficulty": 1,
+      "tags": [
+        "Moves",
+        "IoH"
+      ]
+    },
+    {
+      "text": "Dilberta Jiggy",
+      "difficulty": 1,
+      "tags": [
+        "MT",
+        "GGM"
+      ]
+    },
+    {
+      "text": "Pillars Jiggy",
+      "difficulty": 1,
+      "tags": [
+        "MT"
+      ]
+    },
+    {
+      "text": "Stub Biggafoots Toe",
+      "difficulty": 1,
+      "tags": [
+        "HFP"
+      ]
+    },
+    {
+      "text": "Oxygenate JRL Water",
+      "difficulty": 1,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Jinjos in MT",
+      "difficulty": 1,
+      "tags": [
+        "Jinjos",
+        "MT"
+      ]
+    },
+    {
+      "text": "Relic Jiggy",
+      "difficulty": 1,
+      "tags": [
+        "MT"
+      ]
+    },
+    {
+      "text": "4 Cheato Pages",
+      "difficulty": 1,
+      "tags": [
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "4 Jiggies in MT",
+      "difficulty": 1,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in MT",
+      "difficulty": 1,
+      "tags": [
+        "Cheatos",
+        "MT"
+      ]
+    },
+    {
+      "text": "All Honeycombs in MT",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "MT"
+      ]
+    },
+    {
+      "text": "All Warppads in WW",
+      "difficulty": 1,
+      "tags": [
+        "Warps",
+        "WW"
+      ]
+    },
+    {
+      "text": "Pawno Cheato Page",
+      "difficulty": 1,
+      "tags": [
+        "Cheatos",
+        "JRL"
+      ]
+    },
+    {
+      "text": "4 Trebleclefs",
+      "difficulty": 1,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "30 Doubloons",
+      "difficulty": 1,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "Smugglers Cove Jiggy",
+      "difficulty": 1,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "7-Health BK",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "IoH"
+      ]
+    },
+    {
+      "text": "All Notes in JRL",
+      "difficulty": 1,
+      "tags": [
+        "Notes",
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Warppads in JRL",
+      "difficulty": 1,
+      "tags": [
+        "Warps",
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Honeycombs in WW",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "WW"
+      ]
+    },
+    {
+      "text": "All Notes in WW",
+      "difficulty": 1,
+      "tags": [
+        "Notes",
+        "WW"
+      ]
+    },
+    {
+      "text": "Kill 5 Minjos",
+      "difficulty": 1,
+      "tags": [
+        "Minjos"
+      ]
+    },
+    {
+      "text": "All Warppads in MT",
+      "difficulty": 1,
+      "tags": [
+        "Warps",
+        "MT"
+      ]
+    },
+    {
+      "text": "All Honeycombs in HFP",
+      "difficulty": 1,
+      "tags": [
+        "Honeycombs",
+        "HFP",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Learn Breegull Bash",
+      "difficulty": 1,
+      "tags": [
+        "Moves",
+        "SoS",
+        "IoH"
+      ]
+    },
+    {
+      "text": "5 Jiggies in MT",
+      "difficulty": 1,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "4 Jiggies in GGM",
+      "difficulty": 2,
+      "tags": [
+        "GGM",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Honeycombs in JRL",
+      "difficulty": 2,
+      "tags": [
+        "Honeycombs",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Ancient Swimming Baths CP",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Honeycombs in TDL",
+      "difficulty": 2,
+      "tags": [
+        "Honeycombs",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Mingy Jongo Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "Bosses",
+        "CCL"
+      ]
+    },
+    {
+      "text": "All Honeycombs in CCL",
+      "difficulty": 2,
+      "tags": [
+        "Honeycombs",
+        "CCL"
+      ]
+    },
+    {
+      "text": "Targitzan Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "Bosses",
+        "MT"
+      ]
+    },
+    {
+      "text": "6 Jiggies in MT",
+      "difficulty": 2,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "7 Glowbos",
+      "difficulty": 2,
+      "tags": [
+        "Glowbo"
+      ]
+    },
+    {
+      "text": "Mayan Kickball Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "MT"
+      ]
+    },
+    {
+      "text": "Chompasaurus Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Warppads in HFP",
+      "difficulty": 2,
+      "tags": [
+        "Warps",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Stomping Plains Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "Volcano Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "HFP"
+      ]
+    },
+    {
+      "text": "All Notes in HFP",
+      "difficulty": 2,
+      "tags": [
+        "Notes",
+        "HFP"
+      ]
+    },
+    {
+      "text": "5 Trebleclefs",
+      "difficulty": 2,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "Ice Wall Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "HFP"
+      ]
+    },
+    {
+      "text": "Cheese Wedge Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in TDL",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Enlarge the Small Dino",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "Terry Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "Bosses",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Kill 7 Minjos",
+      "difficulty": 2,
+      "tags": [
+        "Minjos"
+      ]
+    },
+    {
+      "text": "All Notes in IoH",
+      "difficulty": 2,
+      "tags": [
+        "Notes",
+        "IoH"
+      ]
+    },
+    {
+      "text": "All Notes in TDL",
+      "difficulty": 2,
+      "tags": [
+        "Notes",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Roar Cage Jiggy as T-Rex",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "Merry Maggie Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "Mr. Patch Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "Bosses",
+        "WW"
+      ]
+    },
+    {
+      "text": "Eyeball Plant Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "Mountain CP as T-Rex",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Rocknuts Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in HFP",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "HFP"
+      ]
+    },
+    {
+      "text": "6 Cheato Pages",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in JRL",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Jinjos in WW",
+      "difficulty": 2,
+      "tags": [
+        "Jinjos",
+        "WW"
+      ]
+    },
+    {
+      "text": "Ice Train Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "HFP"
+      ]
+    },
+    {
+      "text": "All Jinjos in JRL",
+      "difficulty": 2,
+      "tags": [
+        "Jinjos",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Weldar Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "Zubba's Minigame Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "Oogle Boogle Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Warppads in TDL",
+      "difficulty": 2,
+      "tags": [
+        "Warps",
+        "TDL"
+      ]
+    },
+    {
+      "text": "4 Train Switches",
+      "difficulty": 2,
+      "tags": [
+        "Train"
+      ]
+    },
+    {
+      "text": "Trash Can Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "4 Jiggies in CCL",
+      "difficulty": 2,
+      "tags": [
+        "CCL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Jiggy & CP in Pot O' Gold",
+      "difficulty": 2,
+      "tags": [
+        "Cheatos",
+        "CCL"
+      ]
+    },
+    {
+      "text": "5 Jiggies in GGM",
+      "difficulty": 2,
+      "tags": [
+        "GGM",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Both Crazy Castle Jiggies",
+      "difficulty": 2,
+      "tags": [
+        "WW"
+      ]
+    },
+    {
+      "text": "Kill George and Mildred",
+      "difficulty": 2,
+      "tags": [
+        "CCL",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Chris P. Bacon Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "Dippy Jiggy",
+      "difficulty": 2,
+      "tags": [
+        "TDL",
+        "CCL"
+      ]
+    },
+    {
+      "text": "All Jinjos in TDL",
+      "difficulty": 2,
+      "tags": [
+        "Jinjos",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Spook the Unga Bunga",
+      "difficulty": 2,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "7 Jiggies in MT",
+      "difficulty": 2,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Jinjos in CCL",
+      "difficulty": 3,
+      "tags": [
+        "Jinjos",
+        "CCL"
+      ]
+    },
+    {
+      "text": "9 Glowbos",
+      "difficulty": 3,
+      "tags": [
+        "Glowbo"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in GGM",
+      "difficulty": 3,
+      "tags": [
+        "Cheatos",
+        "GGM"
+      ]
+    },
+    {
+      "text": "6 Trebleclefs",
+      "difficulty": 3,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "Open all Elevator Doors",
+      "difficulty": 3,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "Pig Pool Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "JRL",
+        "CCL",
+        "HFP"
+      ]
+    },
+    {
+      "text": "All Wumba Warp Pads",
+      "difficulty": 3,
+      "tags": [
+        "Warps"
+      ]
+    },
+    {
+      "text": "4 Jiggies in HFP",
+      "difficulty": 3,
+      "tags": [
+        "HFP",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Sub Game Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "Woo Fak Fak Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "Jiggies",
+        "Bosses",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Colosseum Kickball Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "HFP",
+        "MT"
+      ]
+    },
+    {
+      "text": "Old King Coal Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "Bosses",
+        "Train",
+        "GGM"
+      ]
+    },
+    {
+      "text": "8 Jiggies in MT",
+      "difficulty": 3,
+      "tags": [
+        "MT",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Honeycombs in GI",
+      "difficulty": 3,
+      "tags": [
+        "Honeycombs",
+        "GI"
+      ]
+    },
+    {
+      "text": "Toxic Waste Jinjo from JRL",
+      "difficulty": 3,
+      "tags": [
+        "Jinjos",
+        "JRL",
+        "Route"
+      ]
+    },
+    {
+      "text": "All Jinjos in HFP",
+      "difficulty": 3,
+      "tags": [
+        "Jinjos",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Kill 9 Minjos",
+      "difficulty": 3,
+      "tags": [
+        "Minjos"
+      ]
+    },
+    {
+      "text": "Canary Mary Jiggy & CP in GGM",
+      "difficulty": 3,
+      "tags": [
+        "Cheatos",
+        "GGM"
+      ]
+    },
+    {
+      "text": "All Notes in CCL",
+      "difficulty": 3,
+      "tags": [
+        "Notes",
+        "CCL"
+      ]
+    },
+    {
+      "text": "4 Jiggies in TDL",
+      "difficulty": 3,
+      "tags": [
+        "TDL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Aliens Jiggy in JRL",
+      "difficulty": 3,
+      "tags": [
+        "JRL"
+      ]
+    },
+    {
+      "text": "All Jinjos in GGM",
+      "difficulty": 3,
+      "tags": [
+        "Jinjos",
+        "GGM"
+      ]
+    },
+    {
+      "text": "8-Health BK",
+      "difficulty": 3,
+      "tags": [
+        "Honeycombs",
+        "IoH"
+      ]
+    },
+    {
+      "text": "Grow Both Beanstalks",
+      "difficulty": 3,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "Call Train to HFP Fire Side",
+      "difficulty": 3,
+      "tags": [
+        "Train",
+        "HFP",
+        "GGM"
+      ]
+    },
+    {
+      "text": "8 Cheato Pages",
+      "difficulty": 3,
+      "tags": [
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "4 Jiggies in WW",
+      "difficulty": 3,
+      "tags": [
+        "WW",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "5 Jiggies in CCL",
+      "difficulty": 3,
+      "tags": [
+        "CCL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in GI",
+      "difficulty": 3,
+      "tags": [
+        "Cheatos",
+        "GI",
+        "Bosses"
+      ]
+    },
+    {
+      "text": "Crushing Shed Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "GGM"
+      ]
+    },
+    {
+      "text": "Dragon Brothers Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "Bosses",
+        "HFP"
+      ]
+    },
+    {
+      "text": "All Warppads in GI",
+      "difficulty": 3,
+      "tags": [
+        "Warps",
+        "GI"
+      ]
+    },
+    {
+      "text": "Unscrew All 3 Platforms in GI",
+      "difficulty": 3,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "5 Jiggies in TDL",
+      "difficulty": 3,
+      "tags": [
+        "TDL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Learn Claw Clamber Boots",
+      "difficulty": 3,
+      "tags": [
+        "Moves",
+        "GI"
+      ]
+    },
+    {
+      "text": "5 Jiggies in HFP",
+      "difficulty": 3,
+      "tags": [
+        "HFP",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Defeat 5 Bosses",
+      "difficulty": 3,
+      "tags": [
+        "Bosses"
+      ]
+    },
+    {
+      "text": "6 Jiggies in GGM",
+      "difficulty": 3,
+      "tags": [
+        "GGM",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Jinjos in IoH & SM",
+      "difficulty": 3,
+      "tags": [
+        "Jinjos",
+        "IoH",
+        "JRL"
+      ]
+    },
+    {
+      "text": "11 Glowbos",
+      "difficulty": 3,
+      "tags": [
+        "Glowbo"
+      ]
+    },
+    {
+      "text": "7 Trebleclefs",
+      "difficulty": 3,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "All Notes in GI",
+      "difficulty": 3,
+      "tags": [
+        "Notes",
+        "GI"
+      ]
+    },
+    {
+      "text": "Tiptup Jiggy",
+      "difficulty": 3,
+      "tags": [
+        "JRL",
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Mumbo Warp Pads",
+      "difficulty": 3,
+      "tags": [
+        "Warps"
+      ]
+    },
+    {
+      "text": "5 Jiggies in GI",
+      "difficulty": 3,
+      "tags": [
+        "GI",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Hatch all Eggs in CCL",
+      "difficulty": 4,
+      "tags": [
+        "CCL",
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Jinjos in GI",
+      "difficulty": 4,
+      "tags": [
+        "Jinjos",
+        "GI"
+      ]
+    },
+    {
+      "text": "Both Toxic Waste Jiggies",
+      "difficulty": 4,
+      "tags": [
+        "GI",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Open Superstash Deluxe Safe",
+      "difficulty": 4,
+      "tags": [
+        "CCL"
+      ]
+    },
+    {
+      "text": "Learn Leg Spring",
+      "difficulty": 4,
+      "tags": [
+        "Moves",
+        "GI"
+      ]
+    },
+    {
+      "text": "Call Train to GI",
+      "difficulty": 4,
+      "tags": [
+        "GI",
+        "Train"
+      ]
+    },
+    {
+      "text": "Call Train to TDL",
+      "difficulty": 4,
+      "tags": [
+        "Train",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Star Spinner Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "WW"
+      ]
+    },
+    {
+      "text": "Mayan and Colosseum Kickball Jiggies",
+      "difficulty": 4,
+      "tags": [
+        "HFP",
+        "MT"
+      ]
+    },
+    {
+      "text": "10 Cheato Pages",
+      "difficulty": 4,
+      "tags": [
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "4 Jiggies in JRL",
+      "difficulty": 4,
+      "tags": [
+        "JRL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "6 Jiggies in TDL",
+      "difficulty": 4,
+      "tags": [
+        "TDL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Defeat Klungo 3",
+      "difficulty": 4,
+      "tags": [
+        "Bosses",
+        "IoH",
+        "CK"
+      ]
+    },
+    {
+      "text": "Clinkers Cavern Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "Quality Control Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "7 Jiggies in GGM",
+      "difficulty": 4,
+      "tags": [
+        "GGM",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "6 Jiggies in CCL",
+      "difficulty": 4,
+      "tags": [
+        "CCL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Learn Snooze Pack",
+      "difficulty": 4,
+      "tags": [
+        "Moves",
+        "GI"
+      ]
+    },
+    {
+      "text": "Woo Fak Fak Jiggy as BK",
+      "difficulty": 4,
+      "tags": [
+        "Bosses",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Boggyâ€™s Kids Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "WW",
+        "TDL"
+      ]
+    },
+    {
+      "text": "All Train Switches",
+      "difficulty": 4,
+      "tags": [
+        "Train"
+      ]
+    },
+    {
+      "text": "Hatch Heggyâ€™s 3 Eggs",
+      "difficulty": 4,
+      "tags": [
+        "SoS"
+      ]
+    },
+    {
+      "text": "Learn Shack Pack",
+      "difficulty": 4,
+      "tags": [
+        "Moves",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Twinkly Packaging Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "5 Jiggies in WW",
+      "difficulty": 4,
+      "tags": [
+        "WW",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in WW",
+      "difficulty": 4,
+      "tags": [
+        "Cheatos",
+        "WW"
+      ]
+    },
+    {
+      "text": "13 Glowbos",
+      "difficulty": 4,
+      "tags": [
+        "Glowbo"
+      ]
+    },
+    {
+      "text": "8 Trebleclefs",
+      "difficulty": 4,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "Dodgem Dome Jiggy",
+      "difficulty": 4,
+      "tags": [
+        "WW"
+      ]
+    },
+    {
+      "text": "Icicle Grotto CP w/ Shack Pack",
+      "difficulty": 4,
+      "tags": [
+        "HFP",
+        "Cheato"
+      ]
+    },
+    {
+      "text": "7 Jiggies in CCL",
+      "difficulty": 4,
+      "tags": [
+        "CCL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "6 Jiggies in GI",
+      "difficulty": 4,
+      "tags": [
+        "GI",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Dragon Kazooie",
+      "difficulty": 4,
+      "tags": [
+        "SoS",
+        "IoH",
+        "GGM",
+        "MT"
+      ]
+    },
+    {
+      "text": "Defeat 6 Bosses",
+      "difficulty": 4,
+      "tags": [
+        "Bosses"
+      ]
+    },
+    {
+      "text": "Learn Glide",
+      "difficulty": 4,
+      "tags": [
+        "Moves",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Defeat Hag 1",
+      "difficulty": 4,
+      "tags": [
+        "CK",
+        "Bosses",
+        "DCW"
+      ]
+    },
+    {
+      "text": "Worker Jiggy in GI",
+      "difficulty": 4,
+      "tags": [
+        "GI"
+      ]
+    },
+    {
+      "text": "8 Jiggies in GGM",
+      "difficulty": 4,
+      "tags": [
+        "GGM",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Oil Drill Jiggy",
+      "difficulty": 5,
+      "tags": [
+        "HFP"
+      ]
+    },
+    {
+      "text": "12 Cheato Pages",
+      "difficulty": 5,
+      "tags": [
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "Jelly Castle Jiggy as Banjo",
+      "difficulty": 5,
+      "tags": [
+        "CCL",
+        "HFP"
+      ]
+    },
+    {
+      "text": "Canary Mary Jiggy & CP in CCL",
+      "difficulty": 5,
+      "tags": [
+        "GGM",
+        "CCL",
+        "Cheatos"
+      ]
+    },
+    {
+      "text": "6 Jiggies in HFP",
+      "difficulty": 5,
+      "tags": [
+        "HFP",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Sabreman Jiggy",
+      "difficulty": 5,
+      "tags": [
+        "HFP",
+        "WW",
+        "TDL"
+      ]
+    },
+    {
+      "text": "Terryâ€™s Kids Jiggy",
+      "difficulty": 5,
+      "tags": [
+        "TDL",
+        "Bosses"
+      ]
+    },
+    {
+      "text": "6 Jiggies in WW",
+      "difficulty": 5,
+      "tags": [
+        "WW",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "8 Jiggies in CCL",
+      "difficulty": 5,
+      "tags": [
+        "CCL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "5 Jiggies in JRL",
+      "difficulty": 5,
+      "tags": [
+        "JRL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "9 Trebleclefs",
+      "difficulty": 5,
+      "tags": [
+        "Trebleclef"
+      ]
+    },
+    {
+      "text": "7 Jiggies in GI",
+      "difficulty": 5,
+      "tags": [
+        "GI",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "All Cheato Pages in CCL",
+      "difficulty": 5,
+      "tags": [
+        "Cheatos",
+        "CCL"
+      ]
+    },
+    {
+      "text": "9-Health BK",
+      "difficulty": 5,
+      "tags": [
+        "Honeycombs",
+        "IoH"
+      ]
+    },
+    {
+      "text": "Hatch 7 Eggs",
+      "difficulty": 5,
+      "tags": [
+        "TDL",
+        "JRL",
+        "SoS",
+        "CCL"
+      ]
+    },
+    {
+      "text": "Ride Train to Icy Side",
+      "difficulty": 5,
+      "tags": [
+        "HFP",
+        "Train"
+      ]
+    },
+    {
+      "text": "6 Jiggies in JRL",
+      "difficulty": 5,
+      "tags": [
+        "JRL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Open all 4 Battery Doors in GI",
+      "difficulty": 5,
+      "tags": [
+        "GI",
+        "WW"
+      ]
+    },
+    {
+      "text": "7 Jiggies in TDL",
+      "difficulty": 5,
+      "tags": [
+        "TDL",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "7 Jiggies in WW",
+      "difficulty": 5,
+      "tags": [
+        "WW",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Learn Sack Pack",
+      "difficulty": 5,
+      "tags": [
+        "Moves",
+        "HFP",
+        "CCL"
+      ]
+    },
+    {
+      "text": "Alienâ€™s Kids Jiggy",
+      "difficulty": 5,
+      "tags": [
+        "HFP",
+        "JRL"
+      ]
+    },
+    {
+      "text": "Heal The Sick Styracosaurus",
+      "difficulty": 5,
+      "tags": [
+        "TDL"
+      ]
+    },
+    {
+      "text": "7 Jiggies in HFP",
+      "difficulty": 5,
+      "tags": [
+        "HFP",
+        "jiggies"
+      ]
+    },
+    {
+      "text": "Defeat 7 Bosses",
+      "difficulty": 5,
+      "tags": [
+        "Bosses"
+      ]
+    }
+  ]
+}

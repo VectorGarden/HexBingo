@@ -1,0 +1,1294 @@
+{
+  "name": "Final Fantasy 1",
+  "goals": [
+    {
+      "text": "Get a first place prize in 15-tile",
+      "difficulty": 1,
+      "tags": [
+        "minigame",
+        "megalixir"
+      ]
+    },
+    {
+      "text": "Use exactly 2 Monks",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "monk"
+      ]
+    },
+    {
+      "text": "Get a third place prize in the ship 15-tile minigame",
+      "difficulty": 1,
+      "tags": [
+        "minigame"
+      ]
+    },
+    {
+      "text": "Equip only a Thief's Armlet on the body slot",
+      "difficulty": 1,
+      "tags": [
+        "unique",
+        "nowarrior",
+        "nowhitemage"
+      ]
+    },
+    {
+      "text": "Get the Flame Shield in Mt. Gulg",
+      "difficulty": 1,
+      "tags": [
+        "gulg"
+      ]
+    },
+    {
+      "text": "Defeat at least two Ogres",
+      "difficulty": 1,
+      "tags": [
+        "defeat",
+        "ogre"
+      ]
+    },
+    {
+      "text": "Defeat at least 3 Goblin Guards",
+      "difficulty": 1,
+      "tags": [
+        "defeat",
+        "goblin"
+      ]
+    },
+    {
+      "text": "Get a second place prize in 15-tile",
+      "difficulty": 1,
+      "tags": [
+        "minigame",
+        "elixir",
+        "emergencyexit"
+      ]
+    },
+    {
+      "text": "Cast Fira against a group of Bloodbones",
+      "difficulty": 1,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Use zero White Mages",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "nowhitemage"
+      ]
+    },
+    {
+      "text": "Spend at least 14,051 gil in Pravoca",
+      "difficulty": 1,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Use exactly 2 Thieves",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "thief"
+      ]
+    },
+    {
+      "text": "Equip only a Mythril Helmet on the head slot",
+      "difficulty": 1,
+      "tags": [
+        "unique",
+        "nowarrior"
+      ]
+    },
+    {
+      "text": "Get the Ribbon in the Flying Fortress",
+      "difficulty": 1,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Learn exactly one curative spell",
+      "difficulty": 1,
+      "tags": [
+        "monk"
+      ]
+    },
+    {
+      "text": "Use exactly 2 Warriors",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "warrior"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Waterfall Cavern",
+      "difficulty": 1,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use at least 15 Ethers",
+      "difficulty": 1,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Learn exactly two elemental damage spells",
+      "difficulty": 1,
+      "tags": [
+        "monk"
+      ]
+    },
+    {
+      "text": "Win twice at the ship 15-tile minigame",
+      "difficulty": 1,
+      "tags": [
+        "minigame"
+      ]
+    },
+    {
+      "text": "Use zero Thieves",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "nothief"
+      ]
+    },
+    {
+      "text": "Use no more than 10 Antidotes",
+      "difficulty": 1,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Use exactly 2 White Mages",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "whitemage"
+      ]
+    },
+    {
+      "text": "Buy exactly 3 Knight's Armor in Melmond",
+      "difficulty": 1,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Use zero Black Mages",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Use exactly one Monk AND one Red Mage",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "monk",
+        "redmage"
+      ]
+    },
+    {
+      "text": "Use zero Warriors",
+      "difficulty": 1,
+      "tags": [
+        "party",
+        "nowarrior"
+      ]
+    },
+    {
+      "text": "Cast Blizzara against a group of Ghosts",
+      "difficulty": 1,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Get the Flame Mail in Mt. Gulg",
+      "difficulty": 1,
+      "tags": [
+        "gulg"
+      ]
+    },
+    {
+      "text": "Cast Firaga at least twice",
+      "difficulty": 1,
+      "tags": [
+        "noredmage",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Cast Thundaga at least twice",
+      "difficulty": 1,
+      "tags": [
+        "noredmage",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Cast Blizzaga at least twice",
+      "difficulty": 1,
+      "tags": [
+        "noredmage",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Do NOT cast Flare",
+      "difficulty": 1,
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "text": "Get both Light Axes in the Sunken Shrine",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Get the Giant's Gloves in the Sunken Shrine",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Complete the Sunken Shrine without escaping combat",
+      "difficulty": 2,
+      "tags": [
+        "norun"
+      ]
+    },
+    {
+      "text": "Get the Diamond Armor in the Sunken Shrine",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Do NOT acquire Survival Vests",
+      "difficulty": 2,
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "text": "Get the Mage's Staff in the Sunken Shrine",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Equip only an Ice Shield on the shield slot",
+      "difficulty": 2,
+      "tags": [
+        "unique",
+        "nowarrior",
+        "nothief",
+        "noclass"
+      ]
+    },
+    {
+      "text": "Use no more than 10 Potions",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Use zero Phoenix Downs",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Learn exactly two curative spells",
+      "difficulty": 2,
+      "tags": [
+        "monk"
+      ]
+    },
+    {
+      "text": "Use zero Sleeping Bags, Tents, or Cottages",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Get the Adamantite, but do NOT get the Excalibur",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt",
+        "excalibur"
+      ]
+    },
+    {
+      "text": "Defeat a group with 4 different monsters",
+      "difficulty": 2,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Use at least 1 Elixir",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Buy exactly 15 Mythril Axes in Crescent Lake",
+      "difficulty": 2,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in present-day Chaos Shrine",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use exactly 2 Black Mages",
+      "difficulty": 2,
+      "tags": [
+        "party",
+        "blackmage"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Marsh Cave",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use exactly 2 Red Mages",
+      "difficulty": 2,
+      "tags": [
+        "party",
+        "redmage"
+      ]
+    },
+    {
+      "text": "Spend at least 26,780 gil in Elfheim",
+      "difficulty": 2,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Use at least 50 Potions",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in Mt. Duergar, including Excalibur",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt",
+        "duergar"
+      ]
+    },
+    {
+      "text": "Use at least 2 Gold Needles",
+      "difficulty": 2,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Western Keep",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt",
+        "westernkeep"
+      ]
+    },
+    {
+      "text": "Get Thor's Hammer in the Mirage Tower",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use zero Red Mages",
+      "difficulty": 2,
+      "tags": [
+        "party",
+        "noredmage"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in Giant's Cave",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Buy exactly 19 Silver Armlets in Melmond",
+      "difficulty": 2,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Citadel of Trials",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Defeat the mighty Blue Dragon at least 10 times",
+      "difficulty": 2,
+      "tags": [
+        "atleast"
+      ]
+    },
+    {
+      "text": "Learn exactly one status buff spell",
+      "difficulty": 2,
+      "tags": [
+        "monk",
+        "noblackmage",
+        "noredmage",
+        "nowhitemage"
+      ]
+    },
+    {
+      "text": "Do NOT run from any battle in the Cavern of Earth",
+      "difficulty": 2,
+      "tags": [
+        "norun"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Mermaids' room",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Get the Dragon Mail in the Mirage Tower",
+      "difficulty": 2,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Do NOT run from any battle in the Citadel of Trials",
+      "difficulty": 2,
+      "tags": [
+        "norun"
+      ]
+    },
+    {
+      "text": "Get the Ice Armor in the Cavern of Ice",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt",
+        "icecave"
+      ]
+    },
+    {
+      "text": "Cast Thundara against a group of Earth Elementals",
+      "difficulty": 3,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Do NOT run from any battle in the Flying Fortress",
+      "difficulty": 3,
+      "tags": [
+        "norun",
+        "mirage"
+      ]
+    },
+    {
+      "text": "Learn exactly one elemental damage spell",
+      "difficulty": 3,
+      "tags": [
+        "monk",
+        "noredmage",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Get the Ice Brand in Mt. Gulg",
+      "difficulty": 3,
+      "tags": [
+        "gulg"
+      ]
+    },
+    {
+      "text": "Get the Flame Sword in the Cavern of Ice",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt",
+        "icecave"
+      ]
+    },
+    {
+      "text": "Put a Mindflayer to sleep",
+      "difficulty": 3,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Blind the Evil Eye",
+      "difficulty": 3,
+      "tags": [
+        "situational",
+        "noblackmage"
+      ]
+    },
+    {
+      "text": "Get the Aegis Shield in the Mirage Tower",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt",
+        "mirage"
+      ]
+    },
+    {
+      "text": "Get the clothes in the Cavern of Ice",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt",
+        "icecave"
+      ]
+    },
+    {
+      "text": "Get the Rat's Tail, but do NOT class change",
+      "difficulty": 3,
+      "tags": [
+        "noclass"
+      ]
+    },
+    {
+      "text": "Buy exactly 18 Mythril Swords in Crescent Lake",
+      "difficulty": 3,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Get the Sunblade in the Mirage Tower",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt",
+        "sunblade"
+      ]
+    },
+    {
+      "text": "Defeat a Vampire Lord",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Use Scourge to defeat Tiamat",
+      "difficulty": 3,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Use at least 4 different Inns",
+      "difficulty": 3,
+      "tags": [
+        "inn"
+      ]
+    },
+    {
+      "text": "Get the Razer in the Flying Fortress",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Learn exactly two status buff spells",
+      "difficulty": 3,
+      "tags": [
+        "monk"
+      ]
+    },
+    {
+      "text": "Defeat a Goblin at the Cavern of Earth",
+      "difficulty": 3,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Defeat Hyenadon",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Defeat at least two Rhyos",
+      "difficulty": 3,
+      "tags": [
+        "atleast"
+      ]
+    },
+    {
+      "text": "Get the White Robe and Black Robe in the Flying Fortress",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use at least 75 Potions",
+      "difficulty": 3,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Get the Masamune in the Chaos Shrine",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Get the Protect Cloak in the Chaos Shrine",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Defeat Goblins at the Cavern of Earth",
+      "difficulty": 3,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Get Sasuke's Blade in the Chaos Shrine",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Obtain an Emergency Exit from Purple Worm",
+      "difficulty": 3,
+      "tags": [
+        "emergencyexit"
+      ]
+    },
+    {
+      "text": "Defeat Red Pirahna",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Obtain an Elixir from Death Eye",
+      "difficulty": 3,
+      "tags": [
+        "elixir"
+      ]
+    },
+    {
+      "text": "Get both Healing Helms from treasure chests",
+      "difficulty": 3,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Buy 99 Hi-Potions",
+      "difficulty": 3,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Defeat White Crocodile",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Obtain a Megalixir, but not from 15-tile puzzle",
+      "difficulty": 3,
+      "tags": [
+        "megalixir",
+        "deatheye"
+      ]
+    },
+    {
+      "text": "Defeat Ankheg",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Defeat Green Dragon",
+      "difficulty": 3,
+      "tags": [
+        "fight",
+        "greendragon"
+      ]
+    },
+    {
+      "text": "Put a Green Dragon to sleep",
+      "difficulty": 3,
+      "tags": [
+        "situational",
+        "greendragon"
+      ]
+    },
+    {
+      "text": "Defeat Death Eye at least 10 times",
+      "difficulty": 4,
+      "tags": [
+        "atleast",
+        "deatheye"
+      ]
+    },
+    {
+      "text": "Get all of the treasure in the Dragon Caves",
+      "difficulty": 4,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Do NOT class change",
+      "difficulty": 4,
+      "tags": [
+        "noclass"
+      ]
+    },
+    {
+      "text": "Get the Protect Cloak in Flying Fortress",
+      "difficulty": 4,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Defeat Tyrannosaurus",
+      "difficulty": 4,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "Get at least 2 Ribbons from treasure chests",
+      "difficulty": 4,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use the spell Exit to escape from Mt. Gulg",
+      "difficulty": 4,
+      "tags": [
+        "noclass",
+        "exit"
+      ]
+    },
+    {
+      "text": "Defeat Sphinx in the Cavern of Earth",
+      "difficulty": 4,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Defeat at least one Dark Fighter",
+      "difficulty": 4,
+      "tags": [
+        "atleast"
+      ]
+    },
+    {
+      "text": "Defeat Sand Worm",
+      "difficulty": 4,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Get only 1 of Sunblade or Diamond Armor from chests",
+      "difficulty": 4,
+      "tags": [
+        "sunblade",
+        "diamondarmor"
+      ]
+    },
+    {
+      "text": "Buy 99 Ethers",
+      "difficulty": 4,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Clean out Giant's Cave",
+      "difficulty": 4,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Defeat 2 groups with 4 different monsters",
+      "difficulty": 4,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Get at least 2 characters to level 35",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Buy 99 Gold Needles",
+      "difficulty": 4,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Get the Excalibur in Mt. Duergar",
+      "difficulty": 4,
+      "tags": [
+        "excalibur"
+      ]
+    },
+    {
+      "text": "Defeat Typhon",
+      "difficulty": 4,
+      "tags": [
+        "whisperwind",
+        "extra"
+      ]
+    },
+    {
+      "text": "Get at least 3 shields from treasure chests",
+      "difficulty": 4,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Buy 99 Phoenix Downs",
+      "difficulty": 4,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Defeat Ochre Jelly",
+      "difficulty": 4,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "Get at least 3 characters to level 28",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "No duplicate shields equipped",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Get the party to at least level 25",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "No duplicate weapons equipped",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Get the party to at least level 22",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Defeat Iron Golem",
+      "difficulty": 4,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "Do NOT equip Barbarian's Sword or Ribbon",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Buy 99 Tents",
+      "difficulty": 4,
+      "tags": [
+        "spending"
+      ]
+    },
+    {
+      "text": "Do NOT equip Lordly Robes",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Get Maximillian",
+      "difficulty": 4,
+      "tags": [
+        "westernkeep"
+      ]
+    },
+    {
+      "text": "Learn at least one Level 7 spell for a character",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Defeat Ahriman",
+      "difficulty": 4,
+      "tags": [
+        "earthgift",
+        "extra"
+      ]
+    },
+    {
+      "text": "No duplicate gloves equipped",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Learn at least two Level 6 spells for a character",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Defeat Red Dragon",
+      "difficulty": 4,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "Learn three Level 4 spells for at least two characters",
+      "difficulty": 4,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Get Sasuke's Blade in the Flying Fortress",
+      "difficulty": 5,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use at least 5 different Inns",
+      "difficulty": 5,
+      "tags": [
+        "inn"
+      ]
+    },
+    {
+      "text": "Buy 99 Faerie Tonics at the Caravan",
+      "difficulty": 5,
+      "tags": [
+        "spending",
+        "caravan"
+      ]
+    },
+    {
+      "text": "Unlock one blue seal in the Labyrinth of Time",
+      "difficulty": 5,
+      "tags": [
+        "labyrinth"
+      ]
+    },
+    {
+      "text": "Buy exactly 33 Prorings in Gaia",
+      "difficulty": 5,
+      "tags": [
+        "spending",
+        "gaia"
+      ]
+    },
+    {
+      "text": "Learn three Level 1, 2, and 3 spells for a character",
+      "difficulty": 5,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Buy 99 Giant's Tonics at the Caravan",
+      "difficulty": 5,
+      "tags": [
+        "spending",
+        "caravan"
+      ]
+    },
+    {
+      "text": "Use at least 6 different Inns",
+      "difficulty": 5,
+      "tags": [
+        "inn"
+      ]
+    },
+    {
+      "text": "Learn NulDeath",
+      "difficulty": 5,
+      "tags": [
+        "grind",
+        "nowhitemage",
+        "noredmage"
+      ]
+    },
+    {
+      "text": "Defeat 3 groups with 4 different monsters",
+      "difficulty": 5,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Get at least 55,000 gil from treasure chests",
+      "difficulty": 5,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Unlock one red seal in the Labyrinth of Time",
+      "difficulty": 5,
+      "tags": [
+        "labyrinth"
+      ]
+    },
+    {
+      "text": "Get Red Jacket",
+      "difficulty": 5,
+      "tags": [
+        "nowarrior",
+        "nothief",
+        "duergar"
+      ]
+    },
+    {
+      "text": "Use at least 25 Hi-Potions",
+      "difficulty": 5,
+      "tags": [
+        "itemrestriction"
+      ]
+    },
+    {
+      "text": "Get at least 2 characters to level 29",
+      "difficulty": 5,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Use the spell Exit to escape from Waterfall Cavern",
+      "difficulty": 5,
+      "tags": [
+        "exit",
+        "noclass"
+      ]
+    },
+    {
+      "text": "Get at least 10 weapons from treasure chests",
+      "difficulty": 5,
+      "tags": [
+        "treasurehunt"
+      ]
+    },
+    {
+      "text": "Use all 7 Inns",
+      "difficulty": 5,
+      "tags": [
+        "inn"
+      ]
+    },
+    {
+      "text": "Buy exactly 22 Cat Claws in Gaia",
+      "difficulty": 5,
+      "tags": [
+        "spending",
+        "gaia"
+      ]
+    },
+    {
+      "text": "Kill four different enemies in one encounter",
+      "difficulty": 5,
+      "tags": [
+        "situational"
+      ]
+    },
+    {
+      "text": "Defeat Echidna in Earthgift Shrine",
+      "difficulty": 5,
+      "tags": [
+        "earthgift",
+        "extra"
+      ]
+    },
+    {
+      "text": "Defeat Warmech in the Flying Fortress",
+      "difficulty": 5,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "Get at least 3 characters to level 20",
+      "difficulty": 5,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "No duplicate helmets equipped",
+      "difficulty": 5,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Defeat at least three Ice Gigas",
+      "difficulty": 5,
+      "tags": [
+        "atleast"
+      ]
+    },
+    {
+      "text": "Defeat Two-headed Dragon in Earthgift Shrine",
+      "difficulty": 5,
+      "tags": [
+        "earthgift",
+        "extra"
+      ]
+    },
+    {
+      "text": "Unlock two blue seals in the Labyrinth of Time",
+      "difficulty": 5,
+      "tags": [
+        "labyrinth"
+      ]
+    },
+    {
+      "text": "Buy 99 Cottages in Gaia",
+      "difficulty": 5,
+      "tags": [
+        "spending",
+        "gaia"
+      ]
+    },
+    {
+      "text": "Defeat Cerberus in Earthgift Shrine",
+      "difficulty": 5,
+      "tags": [
+        "earthgift",
+        "extra"
+      ]
+    },
+    {
+      "text": "Get at least 1 character to level 37",
+      "difficulty": 5,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Learn three Level 5 spells for a character",
+      "difficulty": 5,
+      "tags": [
+        "grind"
+      ]
+    },
+    {
+      "text": "Unlock two red seals in the Labyrinth of Time",
+      "difficulty": 5,
+      "tags": [
+        "labyrinth"
+      ]
+    },
+    {
+      "text": "Defeat Gilgamesh and Atomos in Lifespring Grotto",
+      "difficulty": 5,
+      "tags": [
+        "whisperwind",
+        "extra"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "name": "Super Mario World",
+  "goals": [
+    {
+      "text": "Defeat 6/7 Koopa Kids",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Open star road from Valley Of Bowser",
+      "difficulty": 1,
+      "tags": [
+        "yoshi1"
+      ]
+    },
+    {
+      "text": "All 14 exits in Forest Of Illusion",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Open Chocolate Island 3 useless exit",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "6 swimming stages",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "6/10 ghost house exits",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "10/18 keyhole exits",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "7 moons",
+      "difficulty": 2,
+      "tags": [
+        "cape3"
+      ]
+    },
+    {
+      "text": "3/4 Reznors",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "3 yoshi wing exits",
+      "difficulty": 2,
+      "tags": [
+        "yoshi2",
+        "tubular"
+      ]
+    },
+    {
+      "text": "4 star-block 1-ups",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "8/9 bonus rooms",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "50 coins in 5 stages",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Yoshi's Island)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Donut Plains)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Vanilla Dome)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Twin Bridges)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Forest Of Illusion)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Chocolate Island)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Valley Of Bowser)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "5 yoshi coins on 2 stages (Star World)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Vanilla Secret 2 - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Butter Bridge 2 - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Vanilla Dome 2 normal exit - small mario no star",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Castle 6 - small mario",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Vanilla Dome 1 normal exit - no star",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Forest Of Illusion 3 - pacifist, small mario",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Chocolate Island 3 normal exit - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Chocolate Island 2 - visit all 9 rooms",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Soda Lake - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Vanilla Secret 1 secret exit - no blue switch, no flying",
+      "difficulty": 4,
+      "tags": [
+        "cape2"
+      ]
+    },
+    {
+      "text": "Vanilla Dome 4 - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Tubular",
+      "difficulty": 4,
+      "tags": [
+        "tubular"
+      ]
+    },
+    {
+      "text": "Chocolate Fortress - small mario",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Castle 7 - small mario",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Star World 1 - time 286+",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Cheese Bridge secret exit - no yoshi",
+      "difficulty": 4,
+      "tags": [
+        "cape1"
+      ]
+    },
+    {
+      "text": "Forest Secret Area - three 1-ups behind exit gate",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Valley Of Bowser 3 - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Valley Of Bowser 4 - small mario no yoshi",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Perfect matching game (8-up)",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Sunken Ship - get 1 life from star",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "99 lives",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Blue Switch - get 8 silver coins",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Butter Bridge 1 - get 4 lives from turtles",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Chocolate Island 2 - get 11 bubble mushrooms",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "NO CAPE",
+      "difficulty": 5,
+      "tags": [
+        "cape1",
+        "cape2",
+        "cape3"
+      ]
+    },
+    {
+      "text": "NO YOSHI",
+      "difficulty": 5,
+      "tags": [
+        "yoshi1",
+        "yoshi2"
+      ]
+    },
+    {
+      "text": "Green Switch - get 3 lives from turtles",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Yellow Switch - get 300 coins",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Red Switch - get 3 lives from turtles",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Forest Of Illusion 4 - don't get Lakitu 1-up; no flying",
+      "difficulty": 5,
+      "tags": []
+    }
+  ]
+}

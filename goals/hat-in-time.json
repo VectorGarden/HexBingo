@@ -1,0 +1,402 @@
+{
+  "name": "A Hat in Time",
+  "goals": [
+    {
+      "text": "Collect 1 Roulette Token",
+      "difficulty": 1,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "text": "Open 4 Chests in Mafia Town",
+      "difficulty": 1,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Open the Red Mafia Vault",
+      "difficulty": 1,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Buy 1 Badge",
+      "difficulty": 1,
+      "tags": [
+        "badge"
+      ]
+    },
+    {
+      "text": "Open the Blue Mafia Vault",
+      "difficulty": 1,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Beach Selfie",
+      "difficulty": 1,
+      "tags": [
+        "selfie"
+      ]
+    },
+    {
+      "text": "Collect 5 Relics",
+      "difficulty": 1,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Collect 15 Yarn",
+      "difficulty": 1,
+      "tags": [
+        "yarn"
+      ]
+    },
+    {
+      "text": "Collect 2 Badges",
+      "difficulty": 1,
+      "tags": [
+        "badge"
+      ]
+    },
+    {
+      "text": "Craft 3 Hats",
+      "difficulty": 1,
+      "tags": [
+        "hat"
+      ]
+    },
+    {
+      "text": "Save 3 Men from the Mafia's Beating",
+      "difficulty": 1,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Collect 3 Badges",
+      "difficulty": 1,
+      "tags": [
+        "badge"
+      ]
+    },
+    {
+      "text": "Juice Bar? Selfie",
+      "difficulty": 1,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Open 3 Chests in Subcon",
+      "difficulty": 1,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Repair 1 Relic",
+      "difficulty": 2,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Collect 3 Roulette Tokens",
+      "difficulty": 2,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "text": "Collect 5 Yarns in Subcon",
+      "difficulty": 2,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Open the Green Mafia Vault",
+      "difficulty": 2,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Get 2 Time Pieces from Time Rifts",
+      "difficulty": 2,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Complete 1 Pink Time Rift",
+      "difficulty": 2,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Collect all the Photo Album pieces from Mafia of Cooks",
+      "difficulty": 2,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Complete all 4 endorsements in Picture Perfect",
+      "difficulty": 2,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Hit DJ Grooves in Three Different Places in Dead Bird Studio",
+      "difficulty": 2,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Repair 2 Relics",
+      "difficulty": 2,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Complete 2 Pink Rifts",
+      "difficulty": 2,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Craft the Dweller Mask",
+      "difficulty": 2,
+      "tags": [
+        "hat"
+      ]
+    },
+    {
+      "text": "Collect the Relic on Top of Snatcher’s Home",
+      "difficulty": 2,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Get 4 Time Pieces from Time Rifts",
+      "difficulty": 3,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Open 3 chests in Dead Bird Studio",
+      "difficulty": 3,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Hit The Conductor in Three Different Places in Dead Bird Studio",
+      "difficulty": 3,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Get all photo album pieces from DBS Rift",
+      "difficulty": 3,
+      "tags": [
+        "rift"
+      ]
+    },
+    {
+      "text": "Selfie at the top of floating stonehenge",
+      "difficulty": 3,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Complete the Murder on the Owl Express",
+      "difficulty": 3,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Storytime Selfie",
+      "difficulty": 3,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Collect 8 Relics",
+      "difficulty": 3,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "The Village Rift",
+      "difficulty": 3,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Gather 3 Pieces of Evidence in Murder on the Owl Express",
+      "difficulty": 3,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Vanessa Selfie",
+      "difficulty": 4,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Collect 5 Roulette Tokens",
+      "difficulty": 4,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "text": "Complete 3 Painting Burning Rituals in Subcon",
+      "difficulty": 4,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Create a Relic in the Gallery",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Parade Selfie",
+      "difficulty": 4,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Owl Express Rift",
+      "difficulty": 4,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Train rush with 100+ seconds left",
+      "difficulty": 4,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Destroy 3 tracker eyeballs in Subcon forest",
+      "difficulty": 4,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Collect 10 Relics",
+      "difficulty": 4,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Cheat the Race",
+      "difficulty": 4,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Craft 4 hats",
+      "difficulty": 4,
+      "tags": [
+        "hat"
+      ]
+    },
+    {
+      "text": "Repair 3 Relics",
+      "difficulty": 5,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Collect 13 Relics",
+      "difficulty": 5,
+      "tags": [
+        "relic"
+      ]
+    },
+    {
+      "text": "Get all 10 Time Pieces from Mafia Town",
+      "difficulty": 5,
+      "tags": [
+        "mafia"
+      ]
+    },
+    {
+      "text": "Collect 7 Roulette Tokens",
+      "difficulty": 5,
+      "tags": [
+        "token"
+      ]
+    },
+    {
+      "text": "Complete the Big Parade",
+      "difficulty": 5,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Kill the Toilet of Doom",
+      "difficulty": 5,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "Defeat Snatcher",
+      "difficulty": 5,
+      "tags": [
+        "subcon"
+      ]
+    },
+    {
+      "text": "Complete the Battle of the Birds Award Ceremony",
+      "difficulty": 5,
+      "tags": [
+        "botb"
+      ]
+    },
+    {
+      "text": "Beat 3 Bosses",
+      "difficulty": 5,
+      "tags": [
+        "Boss"
+      ]
+    }
+  ]
+}

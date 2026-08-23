@@ -1,0 +1,685 @@
+{
+  "name": "Pokémon: Crystal",
+  "goals": [
+    {
+      "text": "Map Card",
+      "difficulty": 1,
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "text": "TM28 (Dig)",
+      "difficulty": 1,
+      "tags": [
+        "dig"
+      ]
+    },
+    {
+      "text": "Itemfinder",
+      "difficulty": 1,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Radio Card",
+      "difficulty": 1,
+      "tags": [
+        "radio"
+      ]
+    },
+    {
+      "text": "Koffing",
+      "difficulty": 1,
+      "tags": [
+        "gas"
+      ]
+    },
+    {
+      "text": "4 Different types of Poke Ball",
+      "difficulty": 1,
+      "tags": [
+        "ball"
+      ]
+    },
+    {
+      "text": "Give a Pokemon a haircut",
+      "difficulty": 1,
+      "tags": [
+        "snip"
+      ]
+    },
+    {
+      "text": "Charcoal",
+      "difficulty": 1,
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "text": "Call a Youngster",
+      "difficulty": 1,
+      "tags": [
+        "shorts"
+      ]
+    },
+    {
+      "text": "Magikarp",
+      "difficulty": 1,
+      "tags": [
+        "lol"
+      ]
+    },
+    {
+      "text": "Teach TM12 (Sweet Scent)",
+      "difficulty": 1,
+      "tags": [
+        "bug"
+      ]
+    },
+    {
+      "text": "Rattata",
+      "difficulty": 1,
+      "tags": [
+        "lol"
+      ]
+    },
+    {
+      "text": "TM20 (Endure)",
+      "difficulty": 1,
+      "tags": [
+        "endure"
+      ]
+    },
+    {
+      "text": "Slowpoketail",
+      "difficulty": 1,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "Growlithe",
+      "difficulty": 1,
+      "tags": [
+        "grow"
+      ]
+    },
+    {
+      "text": "10 pokemon owned",
+      "difficulty": 1,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Goldeen",
+      "difficulty": 1,
+      "tags": [
+        "oldeen"
+      ]
+    },
+    {
+      "text": "Onix",
+      "difficulty": 1,
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "text": "Venonat",
+      "difficulty": 1,
+      "tags": [
+        "radar"
+      ]
+    },
+    {
+      "text": "Defeat all 4 trainers in National Park",
+      "difficulty": 1,
+      "tags": [
+        "park"
+      ]
+    },
+    {
+      "text": "Cubone",
+      "difficulty": 2,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "Slowpoke",
+      "difficulty": 2,
+      "tags": [
+        "dopey"
+      ]
+    },
+    {
+      "text": "A Pokemon with 4 moves with STAB",
+      "difficulty": 2,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "TM05 (Roar)",
+      "difficulty": 2,
+      "tags": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "Ariados",
+      "difficulty": 2,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "Farfetch'd",
+      "difficulty": 2,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "TM50 (Nightmare)",
+      "difficulty": 2,
+      "tags": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "3 eggs",
+      "difficulty": 2,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Kadabra",
+      "difficulty": 2,
+      "tags": [
+        "abra"
+      ]
+    },
+    {
+      "text": "Beedrill and Butterfree",
+      "difficulty": 2,
+      "tags": [
+        "buggy"
+      ]
+    },
+    {
+      "text": "Unown Pokedex",
+      "difficulty": 2,
+      "tags": [
+        "unown"
+      ]
+    },
+    {
+      "text": "Everstone",
+      "difficulty": 2,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Noctowl",
+      "difficulty": 2,
+      "tags": [
+        "trees"
+      ]
+    },
+    {
+      "text": "Defeat a Ponyta",
+      "difficulty": 2,
+      "tags": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "Aipom",
+      "difficulty": 2,
+      "tags": [
+        "pompom"
+      ]
+    },
+    {
+      "text": "7 Different berries",
+      "difficulty": 2,
+      "tags": [
+        "berry"
+      ]
+    },
+    {
+      "text": "TM40 (Swagger)",
+      "difficulty": 2,
+      "tags": [
+        "sandwich"
+      ]
+    },
+    {
+      "text": "Graveler",
+      "difficulty": 2,
+      "tags": [
+        "gravel"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers on route 32",
+      "difficulty": 2,
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "text": "TM10 (Hidden Power)",
+      "difficulty": 3,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "Burn Sudowoodo",
+      "difficulty": 3,
+      "tags": [
+        "wtf"
+      ]
+    },
+    {
+      "text": "Phanpy",
+      "difficulty": 3,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "HM05 (Flash)",
+      "difficulty": 3,
+      "tags": [
+        "flash"
+      ]
+    },
+    {
+      "text": "Azumarill",
+      "difficulty": 3,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "A Pokemon with Focus Energy",
+      "difficulty": 3,
+      "tags": [
+        "focus"
+      ]
+    },
+    {
+      "text": "Win Bug Catching contest",
+      "difficulty": 3,
+      "tags": [
+        "day"
+      ]
+    },
+    {
+      "text": "Corsola",
+      "difficulty": 3,
+      "tags": [
+        "rod"
+      ]
+    },
+    {
+      "text": "Catch Shuckle",
+      "difficulty": 3,
+      "tags": [
+        "shuck"
+      ]
+    },
+    {
+      "text": "A shiny Pokemon",
+      "difficulty": 3,
+      "tags": [
+        "waters"
+      ]
+    },
+    {
+      "text": "Miltank",
+      "difficulty": 3,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "TM 13 (Snore)",
+      "difficulty": 3,
+      "tags": [
+        "zzz"
+      ]
+    },
+    {
+      "text": "A Pokemon with 4 non-TM status moves",
+      "difficulty": 3,
+      "tags": [
+        "hop"
+      ]
+    },
+    {
+      "text": "Mystic Water",
+      "difficulty": 3,
+      "tags": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "20 TMs",
+      "difficulty": 3,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "King's Rock",
+      "difficulty": 3,
+      "tags": [
+        "slow"
+      ]
+    },
+    {
+      "text": "Soft Sand",
+      "difficulty": 3,
+      "tags": [
+        "pro"
+      ]
+    },
+    {
+      "text": "Exp Share",
+      "difficulty": 3,
+      "tags": [
+        "whirl"
+      ]
+    },
+    {
+      "text": "20 Pokemon owned",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Mantine",
+      "difficulty": 4,
+      "tags": [
+        "mant"
+      ]
+    },
+    {
+      "text": "Heracross",
+      "difficulty": 4,
+      "tags": [
+        "hera"
+      ]
+    },
+    {
+      "text": "Evolve Eevee",
+      "difficulty": 4,
+      "tags": [
+        "stone"
+      ]
+    },
+    {
+      "text": "Stop evolving 6 times",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Wobbuffet",
+      "difficulty": 4,
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "text": "Xatu",
+      "difficulty": 4,
+      "tags": [
+        "alph"
+      ]
+    },
+    {
+      "text": "Defeat Lapras",
+      "difficulty": 4,
+      "tags": [
+        "day"
+      ]
+    },
+    {
+      "text": "Poliwhirl",
+      "difficulty": 4,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Encounter Suicune on route 42",
+      "difficulty": 4,
+      "tags": [
+        "cune"
+      ]
+    },
+    {
+      "text": "Dunsparce",
+      "difficulty": 4,
+      "tags": [
+        "sparce"
+      ]
+    },
+    {
+      "text": "4 Rare Candies",
+      "difficulty": 4,
+      "tags": [
+        "rare"
+      ]
+    },
+    {
+      "text": "A Pokemon with pursuit",
+      "difficulty": 4,
+      "tags": [
+        "suit"
+      ]
+    },
+    {
+      "text": "Pokemon with an evasion boosting move",
+      "difficulty": 4,
+      "tags": [
+        "ass"
+      ]
+    },
+    {
+      "text": "TM 46 (Thief)",
+      "difficulty": 4,
+      "tags": [
+        "whirl"
+      ]
+    },
+    {
+      "text": "Nidoking or Nidoqueen",
+      "difficulty": 4,
+      "tags": [
+        "nido"
+      ]
+    },
+    {
+      "text": "Granbull",
+      "difficulty": 4,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Berry Juice",
+      "difficulty": 4,
+      "tags": [
+        "shuck"
+      ]
+    },
+    {
+      "text": "Max phonebook",
+      "difficulty": 4,
+      "tags": [
+        "battles"
+      ]
+    },
+    {
+      "text": "HM02 (Fly)",
+      "difficulty": 4,
+      "tags": [
+        "whee"
+      ]
+    },
+    {
+      "text": "Mineralbadge",
+      "difficulty": 5,
+      "tags": [
+        "steel"
+      ]
+    },
+    {
+      "text": "80 Pokemon seen",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Electrode",
+      "difficulty": 5,
+      "tags": [
+        "elec"
+      ]
+    },
+    {
+      "text": "3 baby Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Bayleef",
+      "difficulty": 5,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "TM21 (Frustration) or TM27 (Return)",
+      "difficulty": 5,
+      "tags": [
+        "day"
+      ]
+    },
+    {
+      "text": "A Pokemon with Flame Wheel",
+      "difficulty": 5,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Own 10 different Flying type Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "3 level 30 Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "red"
+      ]
+    },
+    {
+      "text": "Glacierbadge",
+      "difficulty": 5,
+      "tags": [
+        "whirl"
+      ]
+    },
+    {
+      "text": "Defeat 10 Pokemaniacs",
+      "difficulty": 5,
+      "tags": [
+        "harley"
+      ]
+    },
+    {
+      "text": "Sandslash",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "$50,000",
+      "difficulty": 5,
+      "tags": [
+        "money",
+        "cash"
+      ]
+    },
+    {
+      "text": "Battle a Legendary Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "ass"
+      ]
+    },
+    {
+      "text": "30 Pokemon owned",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Lanturn",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Jumpluff",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Receive elixer from Fishing Guru",
+      "difficulty": 5,
+      "tags": [
+        "karp"
+      ]
+    },
+    {
+      "text": "Win a Battle Tower match",
+      "difficulty": 5,
+      "tags": [
+        "gg"
+      ]
+    },
+    {
+      "text": "6 Badges",
+      "difficulty": 5,
+      "tags": [
+        "whee"
+      ]
+    }
+  ]
+}

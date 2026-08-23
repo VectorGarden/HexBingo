@@ -1,0 +1,2628 @@
+{
+  "name": "Donkey Kong 64",
+  "goals": [
+    {
+      "text": "Baboon Blast GB in Jungle Japes",
+      "difficulty": 1,
+      "tags": [
+        "japes",
+        "donkey"
+      ]
+    },
+    {
+      "text": "50 Bananas in Gloomy Galleon",
+      "difficulty": 1,
+      "tags": [
+        "gloomy",
+        "gloomybananas"
+      ]
+    },
+    {
+      "text": "Angry Aztec Lobby GB",
+      "difficulty": 1,
+      "tags": [
+        "isles",
+        "bonus",
+        "tiny"
+      ]
+    },
+    {
+      "text": "100 Bananas in Jungle Japes",
+      "difficulty": 1,
+      "tags": [
+        "japes",
+        "japesbananas"
+      ]
+    },
+    {
+      "text": "5 Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "50 bananas in Creepy Castle",
+      "difficulty": 1,
+      "tags": [
+        "castle",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "Open Gloomy Galleon Treasure Room",
+      "difficulty": 1,
+      "tags": [
+        "gloomy"
+      ]
+    },
+    {
+      "text": "Activate Production Room in Factory",
+      "difficulty": 1,
+      "tags": [
+        "factory",
+        "donkey"
+      ]
+    },
+    {
+      "text": "Key 2",
+      "difficulty": 1,
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "text": "1 GB on each kong",
+      "difficulty": 1,
+      "tags": [
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "3 Tiny Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "bp",
+        "tiny",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "2 Battle Crowns",
+      "difficulty": 1,
+      "tags": [
+        "japescrown",
+        "azteccrown",
+        "factorycrown",
+        "gloomycrown",
+        "fungicrown",
+        "cavecrown",
+        "castlecrown",
+        "islescrown",
+        "helmcrown"
+      ]
+    },
+    {
+      "text": "Complete 3 Baboon Blasts",
+      "difficulty": 1,
+      "tags": [
+        "donkey",
+        "blast"
+      ]
+    },
+    {
+      "text": "100 Bananas in Angry Aztec",
+      "difficulty": 1,
+      "tags": [
+        "aztec",
+        "aztecbananas"
+      ]
+    },
+    {
+      "text": "3 Donkey Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "donkey",
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "3 Diddy Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "diddy",
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "5 GBs in Jungle Japes",
+      "difficulty": 1,
+      "tags": [
+        "japes",
+        "japesgb"
+      ]
+    },
+    {
+      "text": "150 Bananas in any Level",
+      "difficulty": 1,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "50 Bananas in Crystal Caves",
+      "difficulty": 1,
+      "tags": [
+        "cave",
+        "cavebananas"
+      ]
+    },
+    {
+      "text": "50 Bananas in Fungi Forest",
+      "difficulty": 1,
+      "tags": [
+        "fungibananas",
+        "fungi"
+      ]
+    },
+    {
+      "text": "Gloomy Galleon Battle Crown",
+      "difficulty": 1,
+      "tags": [
+        "gloomy",
+        "gloomycrown"
+      ]
+    },
+    {
+      "text": "Key 1",
+      "difficulty": 1,
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "text": "Baboon Blast GB in Crystal Caves",
+      "difficulty": 1,
+      "tags": [
+        "cave",
+        "donkey",
+        "blast"
+      ]
+    },
+    {
+      "text": "Seal Race GB",
+      "difficulty": 1,
+      "tags": [
+        "donkey",
+        "gloomy",
+        "race"
+      ]
+    },
+    {
+      "text": "Shoot 10 Banana Balloons",
+      "difficulty": 1,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "Galleon Submarine GB",
+      "difficulty": 1,
+      "tags": [
+        "gloomy",
+        "bonus",
+        "tiny"
+      ]
+    },
+    {
+      "text": "Tile Flipping GB in Crystal Caves",
+      "difficulty": 1,
+      "tags": [
+        "cave",
+        "lanky"
+      ]
+    },
+    {
+      "text": "100 Bananas in Frantic Factory",
+      "difficulty": 1,
+      "tags": [
+        "factory",
+        "factorybananas"
+      ]
+    },
+    {
+      "text": "Cannon Game GB in Gloomy Galleon",
+      "difficulty": 1,
+      "tags": [
+        "chunky",
+        "gloomy"
+      ]
+    },
+    {
+      "text": "Kill Giant Kosha",
+      "difficulty": 1,
+      "tags": [
+        "cave"
+      ]
+    },
+    {
+      "text": "Frantic Factory Battle Crown",
+      "difficulty": 1,
+      "tags": [
+        "factory",
+        "factorycrown"
+      ]
+    },
+    {
+      "text": "Vulture GB",
+      "difficulty": 1,
+      "tags": [
+        "diddy",
+        "aztec"
+      ]
+    },
+    {
+      "text": "100 Bananas in Gloomy Galleon",
+      "difficulty": 1,
+      "tags": [
+        "gloomybananas",
+        "gloomy"
+      ]
+    },
+    {
+      "text": "Key 4",
+      "difficulty": 1,
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "text": "Crystal Caves Battle Crown",
+      "difficulty": 1,
+      "tags": [
+        "cave",
+        "cavecrown"
+      ]
+    },
+    {
+      "text": "Llama Temple Matching Game GB",
+      "difficulty": 1,
+      "tags": [
+        "lanky",
+        "aztec"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Gloomy Galleon",
+      "difficulty": 1,
+      "tags": [
+        "gloomy",
+        "fairy"
+      ]
+    },
+    {
+      "text": "5 GBs in DK Isles",
+      "difficulty": 1,
+      "tags": [
+        "islesgb",
+        "isles"
+      ]
+    },
+    {
+      "text": "100 Bananas in Creepy Castle",
+      "difficulty": 1,
+      "tags": [
+        "castlebananas",
+        "castle"
+      ]
+    },
+    {
+      "text": "Diddy Minecart GB",
+      "difficulty": 1,
+      "tags": [
+        "japes",
+        "diddy",
+        "race"
+      ]
+    },
+    {
+      "text": "25 Coins with all Kongs",
+      "difficulty": 1,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "All Caged GBs in Jungle Japes",
+      "difficulty": 1,
+      "tags": [
+        "japesgb",
+        "japes"
+      ]
+    },
+    {
+      "text": "Key 3",
+      "difficulty": 1,
+      "tags": [
+        "key",
+        "key3"
+      ]
+    },
+    {
+      "text": "Fungi Forest Battle Crown",
+      "difficulty": 1,
+      "tags": [
+        "fungi",
+        "fungicrown"
+      ]
+    },
+    {
+      "text": "Turn on Lighthouse",
+      "difficulty": 1,
+      "tags": [
+        "gloomy",
+        "donkey"
+      ]
+    },
+    {
+      "text": "3 Chunky Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "chunky",
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Jungle Japes",
+      "difficulty": 1,
+      "tags": [
+        "japes",
+        "japeswarp"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Frantic Factory",
+      "difficulty": 1,
+      "tags": [
+        "factory",
+        "factorywarp"
+      ]
+    },
+    {
+      "text": "5 Banana Fairies",
+      "difficulty": 1,
+      "tags": [
+        "fairy",
+        "key8"
+      ]
+    },
+    {
+      "text": "3 Lanky Blueprints",
+      "difficulty": 1,
+      "tags": [
+        "lanky",
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "All 100 Bananas with any Kong in any level",
+      "difficulty": 1,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "100 Bananas in Crystal Caves",
+      "difficulty": 2,
+      "tags": [
+        "cave",
+        "cavebananas"
+      ]
+    },
+    {
+      "text": "Pound the X GB in DK Isles",
+      "difficulty": 2,
+      "tags": [
+        "chunky",
+        "isles"
+      ]
+    },
+    {
+      "text": "Giant Toy Monster GB",
+      "difficulty": 2,
+      "tags": [
+        "chunky",
+        "factory"
+      ]
+    },
+    {
+      "text": "All Blueprints in Frantic Factory",
+      "difficulty": 2,
+      "tags": [
+        "factory",
+        "manybp",
+        "bp",
+        "factorybp"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Frantic Factory",
+      "difficulty": 2,
+      "tags": [
+        "factory",
+        "fairy"
+      ]
+    },
+    {
+      "text": "250 Total Bananas",
+      "difficulty": 2,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "DK Isles Summit GB",
+      "difficulty": 2,
+      "tags": [
+        "diddy",
+        "bonus",
+        "isles"
+      ]
+    },
+    {
+      "text": "5 GBs in Angry Aztec",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "aztecgb"
+      ]
+    },
+    {
+      "text": "Both Stealthy Snoop GBs",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "gloomy",
+        "bonus"
+      ]
+    },
+    {
+      "text": "9 Rainbow Coins",
+      "difficulty": 2,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "100 Bananas in Fungi Forest",
+      "difficulty": 2,
+      "tags": [
+        "fungi",
+        "fungibananas"
+      ]
+    },
+    {
+      "text": "Key 6",
+      "difficulty": 2,
+      "tags": [
+        "key",
+        "key6"
+      ]
+    },
+    {
+      "text": "Pearl Rescue GB",
+      "difficulty": 2,
+      "tags": [
+        "tiny",
+        "gloomy"
+      ]
+    },
+    {
+      "text": "All Blueprints in Jungle Japes",
+      "difficulty": 2,
+      "tags": [
+        "japes",
+        "manybp",
+        "bp",
+        "japesbp"
+      ]
+    },
+    {
+      "text": "Angry Aztec Battle Crown",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "lanky",
+        "azteccrown"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Angry Aztec",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "fairy"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Jungle Japes",
+      "difficulty": 2,
+      "tags": [
+        "japes",
+        "fairy"
+      ]
+    },
+    {
+      "text": "10 GBs",
+      "difficulty": 2,
+      "tags": [
+        "manybp",
+        "bp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Factory",
+      "difficulty": 2,
+      "tags": [
+        "factory",
+        "factorygb"
+      ]
+    },
+    {
+      "text": "All Caged GBs in DK Isles",
+      "difficulty": 2,
+      "tags": [
+        "islesgb",
+        "isles"
+      ]
+    },
+    {
+      "text": "5 GBs in Frantic Factory",
+      "difficulty": 2,
+      "tags": [
+        "factory",
+        "factorygb"
+      ]
+    },
+    {
+      "text": "Chunky's Caged Bonus GB in Angry Aztec",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "chunky",
+        "bonus"
+      ]
+    },
+    {
+      "text": "3 Battle Crowns",
+      "difficulty": 2,
+      "tags": [
+        "japescrown",
+        "azteccrown",
+        "factorycrown",
+        "gloomycrown",
+        "fungicrown",
+        "cavecrown",
+        "castlecrown",
+        "islescrown",
+        "helmcrown"
+      ]
+    },
+    {
+      "text": "Mechanical Fish GB",
+      "difficulty": 2,
+      "tags": [
+        "diddy",
+        "gloomy"
+      ]
+    },
+    {
+      "text": "Key 8",
+      "difficulty": 2,
+      "tags": [
+        "key",
+        "fairy",
+        "helm",
+        "key8"
+      ]
+    },
+    {
+      "text": "5 GBs in Gloomy Galleon",
+      "difficulty": 2,
+      "tags": [
+        "gloomygb",
+        "gloomy"
+      ]
+    },
+    {
+      "text": "Squash Tomatoes GB",
+      "difficulty": 2,
+      "tags": [
+        "fungi",
+        "chunky"
+      ]
+    },
+    {
+      "text": "Both Splish-Splash Salvage GBs",
+      "difficulty": 2,
+      "tags": [
+        "gloomy",
+        "bonus",
+        "japes"
+      ]
+    },
+    {
+      "text": "5 Tiny Blueprints",
+      "difficulty": 2,
+      "tags": [
+        "bp",
+        "tiny",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "Chunky's Seasickness GB",
+      "difficulty": 2,
+      "tags": [
+        "gloomy",
+        "chunky",
+        "donkey"
+      ]
+    },
+    {
+      "text": "All 3 Batty Barrel Bandit GBs",
+      "difficulty": 2,
+      "tags": [
+        "factory",
+        "gloomy",
+        "bonus"
+      ]
+    },
+    {
+      "text": "Both Tree GBs in Creepy Castle",
+      "difficulty": 2,
+      "tags": [
+        "chunky",
+        "donkey",
+        "castle"
+      ]
+    },
+    {
+      "text": "All Blueprints in Gloomy Galleon",
+      "difficulty": 2,
+      "tags": [
+        "gloomy",
+        "manybp",
+        "bp",
+        "galleonbp"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Creepy Castle",
+      "difficulty": 2,
+      "tags": [
+        "castle",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Angry Aztec",
+      "difficulty": 2,
+      "tags": [
+        "aztec",
+        "aztecwarp"
+      ]
+    },
+    {
+      "text": "5 Diddy Blueprints",
+      "difficulty": 2,
+      "tags": [
+        "bp",
+        "diddy",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "Spider Mini-Boss GB",
+      "difficulty": 2,
+      "tags": [
+        "tiny",
+        "fungi"
+      ]
+    },
+    {
+      "text": "Both Mad Maze Maul GBs",
+      "difficulty": 2,
+      "tags": [
+        "cave",
+        "bonus",
+        "japes"
+      ]
+    },
+    {
+      "text": "100 bananas for any Kong in Jungle Japes",
+      "difficulty": 2,
+      "tags": [
+        "japesbananas",
+        "japes"
+      ]
+    },
+    {
+      "text": "5 Lobby GBs",
+      "difficulty": 2,
+      "tags": [
+        "isles",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Jungle Japes",
+      "difficulty": 2,
+      "tags": [
+        "japes",
+        "japesgb"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Crystal Caves",
+      "difficulty": 2,
+      "tags": [
+        "cave",
+        "fairy"
+      ]
+    },
+    {
+      "text": "All Blueprints in Creepy Castle",
+      "difficulty": 2,
+      "tags": [
+        "manybp",
+        "castle",
+        "bp",
+        "castlebp"
+      ]
+    },
+    {
+      "text": "All Blueprints in Crystal Caves",
+      "difficulty": 2,
+      "tags": [
+        "manybp",
+        "cave",
+        "bp",
+        "cavebp"
+      ]
+    },
+    {
+      "text": "Key 7",
+      "difficulty": 2,
+      "tags": [
+        "castle",
+        "key7",
+        "key"
+      ]
+    },
+    {
+      "text": "200 Bananas in Jungle Japes",
+      "difficulty": 2,
+      "tags": [
+        "japes",
+        "japesbananas"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Gloomy Galleon",
+      "difficulty": 2,
+      "tags": [
+        "gloomy",
+        "gloomywarp"
+      ]
+    },
+    {
+      "text": "10 Blueprints",
+      "difficulty": 2,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "5 Donkey Blueprints",
+      "difficulty": 2,
+      "tags": [
+        "bp",
+        "donkey",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "Beanstalk GB",
+      "difficulty": 2,
+      "tags": [
+        "tiny",
+        "fungi"
+      ]
+    },
+    {
+      "text": "Creepy Castle Battle Crown",
+      "difficulty": 2,
+      "tags": [
+        "castlecrown",
+        "castle",
+        "lanky"
+      ]
+    },
+    {
+      "text": "Enter Every Level",
+      "difficulty": 2,
+      "tags": [
+        "helm",
+        "manylevel"
+      ]
+    },
+    {
+      "text": "Chunky Minecart GB",
+      "difficulty": 3,
+      "tags": [
+        "chunky",
+        "fungi",
+        "race"
+      ]
+    },
+    {
+      "text": "8 Banana Fairies",
+      "difficulty": 3,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "Both Speedy Swing Sortie GBs",
+      "difficulty": 3,
+      "tags": [
+        "japes",
+        "bonus",
+        "fungi"
+      ]
+    },
+    {
+      "text": "5 Bonus Barrel GBs",
+      "difficulty": 3,
+      "tags": [
+        "bonus",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Jungle Japes",
+      "difficulty": 3,
+      "tags": [
+        "japesbananas",
+        "japes",
+        "medal"
+      ]
+    },
+    {
+      "text": "10 Donkey GBs",
+      "difficulty": 3,
+      "tags": [
+        "donkey",
+        "bp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Gloomy Galleon",
+      "difficulty": 3,
+      "tags": [
+        "gloomy",
+        "gloomygb"
+      ]
+    },
+    {
+      "text": "200 Bananas in Frantic Factory",
+      "difficulty": 3,
+      "tags": [
+        "factorybananas",
+        "factory"
+      ]
+    },
+    {
+      "text": "100 Bananas for any Kong in Angry Aztec",
+      "difficulty": 3,
+      "tags": [
+        "aztec",
+        "aztecbananas"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Crystal Caves",
+      "difficulty": 3,
+      "tags": [
+        "cave",
+        "cavewarp"
+      ]
+    },
+    {
+      "text": "Rabbit Race GB",
+      "difficulty": 3,
+      "tags": [
+        "fungi",
+        "lanky"
+      ]
+    },
+    {
+      "text": "Ballroom GB",
+      "difficulty": 3,
+      "tags": [
+        "diddy",
+        "castle",
+        "bonus"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Fungi Forest",
+      "difficulty": 3,
+      "tags": [
+        "fungi",
+        "fairy"
+      ]
+    },
+    {
+      "text": "5 Lanky Blueprints",
+      "difficulty": 3,
+      "tags": [
+        "bp",
+        "lanky",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "5 Chunky Blueprints",
+      "difficulty": 3,
+      "tags": [
+        "bp",
+        "chunky",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "2 GBs on each kong",
+      "difficulty": 3,
+      "tags": [
+        "manybp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "Activate All Warps in Fungi Forest",
+      "difficulty": 3,
+      "tags": [
+        "fungi",
+        "fungiwarp"
+      ]
+    },
+    {
+      "text": "5 GBs in Crystal Caves",
+      "difficulty": 3,
+      "tags": [
+        "cave",
+        "cavegb"
+      ]
+    },
+    {
+      "text": "3 Banana Medals",
+      "difficulty": 3,
+      "tags": [
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "All 3 Beehive area GBs",
+      "difficulty": 3,
+      "tags": [
+        "japes",
+        "japesgb"
+      ]
+    },
+    {
+      "text": "Hideout Helm Battle Crown",
+      "difficulty": 3,
+      "tags": [
+        "helm",
+        "helmcrown"
+      ]
+    },
+    {
+      "text": "Owl GB",
+      "difficulty": 3,
+      "tags": [
+        "diddy",
+        "bonus",
+        "fungi"
+      ]
+    },
+    {
+      "text": "Both DK Isles Battle Crowns",
+      "difficulty": 3,
+      "tags": [
+        "islescrown",
+        "isles"
+      ]
+    },
+    {
+      "text": "Both Banana Fairies in Creepy Castle",
+      "difficulty": 3,
+      "tags": [
+        "fairy",
+        "castle"
+      ]
+    },
+    {
+      "text": "Donkey Minecart GB",
+      "difficulty": 3,
+      "tags": [
+        "donkey",
+        "castle",
+        "race"
+      ]
+    },
+    {
+      "text": "250 Total Bananas With Donkey",
+      "difficulty": 3,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas",
+        "donkey"
+      ]
+    },
+    {
+      "text": "200 Bananas in Gloomy Galleon",
+      "difficulty": 3,
+      "tags": [
+        "gloomy",
+        "gloomybananas"
+      ]
+    },
+    {
+      "text": "15 GBs",
+      "difficulty": 3,
+      "tags": [
+        "manybp",
+        "bp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "All 5 DK Isles Instrument Pad GBs",
+      "difficulty": 3,
+      "tags": [
+        "islesgb",
+        "isles"
+      ]
+    },
+    {
+      "text": "100 Bananas for any Kong in Frantic Factory",
+      "difficulty": 3,
+      "tags": [
+        "factory",
+        "factorybananas"
+      ]
+    },
+    {
+      "text": "100 Bananas for any Kong in Gloomy Galleon",
+      "difficulty": 3,
+      "tags": [
+        "gloomy",
+        "gloomybananas"
+      ]
+    },
+    {
+      "text": "5 GBs in Fungi Forest",
+      "difficulty": 3,
+      "tags": [
+        "fungi",
+        "fungigb"
+      ]
+    },
+    {
+      "text": "All Banana Fairies in DK Isles",
+      "difficulty": 3,
+      "tags": [
+        "fairy",
+        "isles"
+      ]
+    },
+    {
+      "text": "All Blueprints in DK Isles",
+      "difficulty": 3,
+      "tags": [
+        "isles",
+        "bp",
+        "manybp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "10 GBs in Jungle Japes",
+      "difficulty": 3,
+      "tags": [
+        "japes",
+        "japesgb"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Angry Aztec",
+      "difficulty": 3,
+      "tags": [
+        "aztec",
+        "aztecgb"
+      ]
+    },
+    {
+      "text": "2 Blueprints on each Kong",
+      "difficulty": 3,
+      "tags": [
+        "manybp",
+        "bp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "All Blueprints in Angry Aztec",
+      "difficulty": 3,
+      "tags": [
+        "aztec",
+        "bp",
+        "manybp",
+        "aztecbp"
+      ]
+    },
+    {
+      "text": "200 Bananas in Angry Aztec",
+      "difficulty": 3,
+      "tags": [
+        "aztec",
+        "aztecbananas"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Crystal Caves",
+      "difficulty": 3,
+      "tags": [
+        "cave",
+        "cavegb"
+      ]
+    },
+    {
+      "text": "2 Minecart Mayhem GBs",
+      "difficulty": 3,
+      "tags": [
+        "bonus"
+      ]
+    },
+    {
+      "text": "5 GBs in Creepy Castle",
+      "difficulty": 3,
+      "tags": [
+        "castle",
+        "castlegb"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Frantic Factory",
+      "difficulty": 3,
+      "tags": [
+        "factory",
+        "medal",
+        "factorybananas"
+      ]
+    },
+    {
+      "text": "100 bananas for any Kong in Fungi Forest",
+      "difficulty": 3,
+      "tags": [
+        "fungi",
+        "fungibananas"
+      ]
+    },
+    {
+      "text": "All 5 GBs in 5 Door Igloo",
+      "difficulty": 3,
+      "tags": [
+        "cavegb",
+        "cave"
+      ]
+    },
+    {
+      "text": "100 bananas for any Kong in Crystal Caves",
+      "difficulty": 3,
+      "tags": [
+        "cave",
+        "cavebananas"
+      ]
+    },
+    {
+      "text": "All 3 GBs in Castle Dungeon",
+      "difficulty": 3,
+      "tags": [
+        "castle",
+        "castlegb"
+      ]
+    },
+    {
+      "text": "3 Donkey Banana Medals",
+      "difficulty": 3,
+      "tags": [
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "All 4 GB's in Llama Temple",
+      "difficulty": 3,
+      "tags": [
+        "aztec",
+        "aztecgb"
+      ]
+    },
+    {
+      "text": "350 Total Bananas",
+      "difficulty": 3,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "Both Car Races",
+      "difficulty": 3,
+      "tags": [
+        "tiny",
+        "race"
+      ]
+    },
+    {
+      "text": "All 4 GBs in Tiny Temple",
+      "difficulty": 3,
+      "tags": [
+        "aztecgb",
+        "aztec"
+      ]
+    },
+    {
+      "text": "12 Rainbow Coins",
+      "difficulty": 4,
+      "tags": [
+        "coin ",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "13 Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "250 Total Bananas With Diddy",
+      "difficulty": 4,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas",
+        "diddy"
+      ]
+    },
+    {
+      "text": "Both Beetle Slides",
+      "difficulty": 4,
+      "tags": [
+        "race"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Fungi Forest",
+      "difficulty": 4,
+      "tags": [
+        "fungi",
+        "fungigb"
+      ]
+    },
+    {
+      "text": "50 Coins with any 3 Kongs",
+      "difficulty": 4,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "100 bananas for any Kong in Creepy Castle",
+      "difficulty": 4,
+      "tags": [
+        "castle",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "All 5 GBs from 5 Door Ship",
+      "difficulty": 4,
+      "tags": [
+        "gloomy",
+        "gloomygb"
+      ]
+    },
+    {
+      "text": "10 Banana Fairies",
+      "difficulty": 4,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "200 Bananas in Crystal Caves",
+      "difficulty": 4,
+      "tags": [
+        "cave",
+        "cavebananas"
+      ]
+    },
+    {
+      "text": "1 GB per level",
+      "difficulty": 4,
+      "tags": [
+        "manylevel",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "All 3 Beaver Bother GBs",
+      "difficulty": 4,
+      "tags": [
+        "bonus",
+        "castle"
+      ]
+    },
+    {
+      "text": "Donkey's Banana Medal in Hideout Helm",
+      "difficulty": 4,
+      "tags": [
+        "donkey",
+        "helm",
+        "medal"
+      ]
+    },
+    {
+      "text": "50 Bananas in every level",
+      "difficulty": 4,
+      "tags": [
+        "manylevel",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "All 5 Production Room GBs",
+      "difficulty": 4,
+      "tags": [
+        "factory",
+        "factorygb"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Gloomy Galleon",
+      "difficulty": 4,
+      "tags": [
+        "gloomy",
+        "medal",
+        "gloomybananas"
+      ]
+    },
+    {
+      "text": "All Blueprints in Fungi Forest",
+      "difficulty": 4,
+      "tags": [
+        "fungi",
+        "bp",
+        "manybp",
+        "fungibp"
+      ]
+    },
+    {
+      "text": "7 Tiny Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "tiny",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "1 GB for each Kong in Creepy Castle",
+      "difficulty": 4,
+      "tags": [
+        "castlegb",
+        "castle"
+      ]
+    },
+    {
+      "text": "250 Total Bananas With Lanky",
+      "difficulty": 4,
+      "tags": [
+        "lanky",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "10 Diddy GBs",
+      "difficulty": 4,
+      "tags": [
+        "diddy",
+        "bp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "75 Coins with any Kong",
+      "difficulty": 4,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "Nintendo Coin",
+      "difficulty": 4,
+      "tags": [
+        "factory",
+        "donkey"
+      ]
+    },
+    {
+      "text": "16 Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "All 4 Bonus Barrel GBs in Giant Mushroom area",
+      "difficulty": 4,
+      "tags": [
+        "fungi, fungigb"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Angry Aztec",
+      "difficulty": 4,
+      "tags": [
+        "aztec",
+        "aztecbananas"
+      ]
+    },
+    {
+      "text": "250 Total Bananas With Tiny",
+      "difficulty": 4,
+      "tags": [
+        "tiny",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "All 5 GBs in 5 Door Cabin",
+      "difficulty": 4,
+      "tags": [
+        "cavegb",
+        "diddy",
+        "cave"
+      ]
+    },
+    {
+      "text": "3 Lanky Banana Medals",
+      "difficulty": 4,
+      "tags": [
+        "medal",
+        "lanky",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Jungle Japes",
+      "difficulty": 4,
+      "tags": [
+        "japesgb",
+        "manybp",
+        "japes"
+      ]
+    },
+    {
+      "text": "Open Crown Door in Helm",
+      "difficulty": 4,
+      "tags": [
+        "helm",
+        "japescrown",
+        "azteccrown",
+        "factorycrown",
+        "gloomycrown",
+        "fungicrown",
+        "cavecrown",
+        "castlecrown",
+        "islescrown",
+        "helmcrown"
+      ]
+    },
+    {
+      "text": "3 Diddy Banana Medals",
+      "difficulty": 4,
+      "tags": [
+        "diddy",
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "5 Boss Keys",
+      "difficulty": 4,
+      "tags": [
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "250 Total Bananas With Chunky",
+      "difficulty": 4,
+      "tags": [
+        "chunky",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "200 Bananas in Fungi Forest",
+      "difficulty": 4,
+      "tags": [
+        "fungibananas",
+        "fungi"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Crystal Caves",
+      "difficulty": 4,
+      "tags": [
+        "medal",
+        "cavebananas",
+        "cave"
+      ]
+    },
+    {
+      "text": "7 Diddy Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "diddy",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "7 Lanky Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "lanky",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Frantic Factory",
+      "difficulty": 4,
+      "tags": [
+        "factory",
+        "manybp",
+        "factorygb"
+      ]
+    },
+    {
+      "text": "3 Blueprints on each Kong",
+      "difficulty": 4,
+      "tags": [
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "7 Donkey Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "donkey",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "3 Tiny Banana Medals",
+      "difficulty": 4,
+      "tags": [
+        "medal",
+        "tiny",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "10 GBs in Frantic Factory",
+      "difficulty": 4,
+      "tags": [
+        "factory",
+        "factorygb"
+      ]
+    },
+    {
+      "text": "10 GBs in DK Isles",
+      "difficulty": 4,
+      "tags": [
+        "isles",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "7 Chunky Blueprints",
+      "difficulty": 4,
+      "tags": [
+        "bp",
+        "chunky",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "Spawn K. Rool Battle",
+      "difficulty": 4,
+      "tags": [
+        "key3",
+        "key8",
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "10 Lanky GBs",
+      "difficulty": 4,
+      "tags": [
+        "lanky",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "200 Bananas in Creepy Castle",
+      "difficulty": 4,
+      "tags": [
+        "castlebananas",
+        "castle"
+      ]
+    },
+    {
+      "text": "3 Chunky Banana Medals",
+      "difficulty": 4,
+      "tags": [
+        "medal",
+        "chunky",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "10 GBs in Gloomy Galleon",
+      "difficulty": 4,
+      "tags": [
+        "gloomy",
+        "galleongb"
+      ]
+    },
+    {
+      "text": "10 Tiny GBs",
+      "difficulty": 4,
+      "tags": [
+        "tiny",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "300 Total Banana Coins",
+      "difficulty": 5,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "5 Banana Medals",
+      "difficulty": 5,
+      "tags": [
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "Activate All Purple Warps",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japeswarp",
+        "aztecwarp",
+        "factorywarp",
+        "gloomywarp",
+        "fungiwarp",
+        "cavewarp",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "Activate All Green Warps",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japeswarp",
+        "aztecwarp",
+        "factorywarp",
+        "gloomywarp",
+        "fungiwarp",
+        "cavewarp",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "Open Helm Lobby",
+      "difficulty": 5,
+      "tags": [
+        "key7",
+        "key6",
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "10 GBs in Angry Aztec",
+      "difficulty": 5,
+      "tags": [
+        "aztecgb",
+        "aztec"
+      ]
+    },
+    {
+      "text": "20 GBs",
+      "difficulty": 5,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "10 Chunky GBs",
+      "difficulty": 5,
+      "tags": [
+        "chunky",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "3 GBs on each kong",
+      "difficulty": 5,
+      "tags": [
+        "manybp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Gloomy Galleon",
+      "difficulty": 5,
+      "tags": [
+        "gloomy",
+        "manybp",
+        "galleongb"
+      ]
+    },
+    {
+      "text": "Chunky's Banana Medal in Hideout Helm",
+      "difficulty": 5,
+      "tags": [
+        "helm",
+        "medal",
+        "chunky"
+      ]
+    },
+    {
+      "text": "10 GBs in Crystal Caves",
+      "difficulty": 5,
+      "tags": [
+        "cavegb",
+        "cave"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Fungi Forest",
+      "difficulty": 5,
+      "tags": [
+        "fungibananas",
+        "medal",
+        "fungi"
+      ]
+    },
+    {
+      "text": "500 Total Bananas",
+      "difficulty": 5,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "20 Blueprints",
+      "difficulty": 5,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "3 Banana Medals in Creepy Castle",
+      "difficulty": 5,
+      "tags": [
+        "castlebananas",
+        "castle",
+        "medal"
+      ]
+    },
+    {
+      "text": "15 Donkey GBs",
+      "difficulty": 5,
+      "tags": [
+        "donkey",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in DK Isles",
+      "difficulty": 5,
+      "tags": [
+        "isles",
+        "manybp",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "Activate All Red Warps",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japeswarp",
+        "aztecwarp",
+        "factorywarp",
+        "gloomywarp",
+        "fungiwarp",
+        "cavewarp",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "Activate All Yellow Warps",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japeswarp",
+        "aztecwarp",
+        "factorywarp",
+        "gloomywarp",
+        "fungiwarp",
+        "cavewarp",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "6 Battle Crowns",
+      "difficulty": 5,
+      "tags": [
+        "japescrown",
+        "azteccrown",
+        "factorycrown",
+        "gloomycrown",
+        "fungicrown",
+        "cavecrown",
+        "castlecrown",
+        "islescrown",
+        "helmcrown"
+      ]
+    },
+    {
+      "text": "All 5 GBs from 5 Door Temple",
+      "difficulty": 5,
+      "tags": [
+        "aztecgb",
+        "aztec"
+      ]
+    },
+    {
+      "text": "All 4 R&D GBs",
+      "difficulty": 5,
+      "tags": [
+        "factorygb",
+        "factory"
+      ]
+    },
+    {
+      "text": "Complete DK phase of K. Rool Fight",
+      "difficulty": 5,
+      "tags": [
+        "key3",
+        "key8",
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "10 GBs in Creepy Castle",
+      "difficulty": 5,
+      "tags": [
+        "castlegb",
+        "castle"
+      ]
+    },
+    {
+      "text": "2 GBs per level",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "Banana Medal with Every Kong",
+      "difficulty": 5,
+      "tags": [
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "90 coins with one Kong",
+      "difficulty": 5,
+      "tags": [
+        "coin",
+        "restrict_coin"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Crystal Caves",
+      "difficulty": 5,
+      "tags": [
+        "cavegb",
+        "cave",
+        "manybp"
+      ]
+    },
+    {
+      "text": "Activate All Blue Warps",
+      "difficulty": 5,
+      "tags": [
+        "manylevel",
+        "japeswarp",
+        "aztecwarp",
+        "factorywarp",
+        "gloomywarp",
+        "fungiwarp",
+        "cavewarp",
+        "castlewarp"
+      ]
+    },
+    {
+      "text": "All 5 Crypt GBs in Castle",
+      "difficulty": 5,
+      "tags": [
+        "castle",
+        "castlegb"
+      ]
+    },
+    {
+      "text": "13 Banana Fairies",
+      "difficulty": 5,
+      "tags": [
+        "fairy",
+        "key8"
+      ]
+    },
+    {
+      "text": "Complete All 7 Baboon Blasts",
+      "difficulty": 5,
+      "tags": [
+        "donkey",
+        "manylevel",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Fungi Forest",
+      "difficulty": 5,
+      "tags": [
+        "fungigb",
+        "fungi"
+      ]
+    },
+    {
+      "text": "4 Blueprints on each Kong",
+      "difficulty": 5,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "6 Boss Keys",
+      "difficulty": 5,
+      "tags": [
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "All 3 Minecart rides",
+      "difficulty": 5,
+      "tags": [
+        "race"
+      ]
+    },
+    {
+      "text": "10 GBs in Fungi Forest",
+      "difficulty": 5,
+      "tags": [
+        "fungigb",
+        "fungi"
+      ]
+    },
+    {
+      "text": "2 GBs for each Kong in Angry Aztec",
+      "difficulty": 5,
+      "tags": [
+        "aztec",
+        "manybp",
+        "aztecgb"
+      ]
+    },
+    {
+      "text": "8 Bonus Barrel GBs",
+      "difficulty": 5,
+      "tags": [
+        "bonus",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "4 GBs on each kong",
+      "difficulty": 5,
+      "tags": [
+        "manybp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "Complete Diddy's phase of K. Rool Fight",
+      "difficulty": 5,
+      "tags": [
+        "key3",
+        "key8",
+        "key",
+        "manykey"
+      ]
+    },
+    {
+      "text": "Complete 4 Coin-Collecting Courses",
+      "difficulty": 5,
+      "tags": [
+        "race"
+      ]
+    },
+    {
+      "text": "600 Total Bananas",
+      "difficulty": 5,
+      "tags": [
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    },
+    {
+      "text": "25 Blueprints",
+      "difficulty": 5,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesbp",
+        "aztecbp",
+        "factorybp",
+        "gloomybp",
+        "fungibp",
+        "cavebp",
+        "castlebp",
+        "islesbp"
+      ]
+    },
+    {
+      "text": "2 GBs for Each Kong in Creepy Castle",
+      "difficulty": 5,
+      "tags": [
+        "castle",
+        "castlegb"
+      ]
+    },
+    {
+      "text": "15 Diddy GBs",
+      "difficulty": 5,
+      "tags": [
+        "diddy",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "Lanky's Medal in Helm",
+      "difficulty": 5,
+      "tags": [
+        "helm",
+        "medal",
+        "lanky"
+      ]
+    },
+    {
+      "text": "25 GBs",
+      "difficulty": 5,
+      "tags": [
+        "bp",
+        "manybp",
+        "japesgb",
+        "aztecgb",
+        "factorygb",
+        "gloomygb",
+        "fungigb",
+        "cavegb",
+        "castlegb",
+        "islesgb"
+      ]
+    },
+    {
+      "text": "All banana medals for any level",
+      "difficulty": 5,
+      "tags": [
+        "medal",
+        "japesbananas",
+        "aztecbananas",
+        "factorybananas",
+        "gloomybananas",
+        "fungibananas",
+        "cavebananas",
+        "castlebananas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+{
+  "name": "Super Mario Sunshine",
+  "goals": [
+    {
+      "text": "10 Blue Coins from Delfino Plaza",
+      "difficulty": 1,
+      "tags": [
+        "Plaza_Blues",
+        "Plaza_M",
+        "Fruit_Ladies",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Pianta Village",
+      "difficulty": 1,
+      "tags": [
+        "Pianta_Blues",
+        "Goopy_Inferno",
+        "Pianta_30",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "3 Fruit Lady Blue Coins",
+      "difficulty": 1,
+      "tags": [
+        "Fruit_Ladies"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Ricco Harbor",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Blues",
+        "Ricco_M",
+        "Fast_20",
+        "Ricco_30",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "Collect Ricco 3 Shines from the top",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Top",
+        "Ricco_Early",
+        "Ricco_20",
+        "Ricco_Rocket",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "5 Linked Blue Coin Pairs",
+      "difficulty": 1,
+      "tags": [
+        "Linked_Blues"
+      ]
+    },
+    {
+      "text": "Defeat all Cataquacks in a single episode of Gelato Beach",
+      "difficulty": 1,
+      "tags": [
+        "Gelato_Quacks",
+        "Gelato_Early",
+        "Wiggler",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "3 Red Coin Shines",
+      "difficulty": 1,
+      "tags": [
+        "Red_Shines",
+        "Plaza_Shines",
+        "Hidden_Shines"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Bianco Hills",
+      "difficulty": 1,
+      "tags": [
+        "Bianco_Blues",
+        "Bianco_Early",
+        "Bianco_30"
+      ]
+    },
+    {
+      "text": "Red Coins of Windmill Village (Bianco 4) Entirely Fluddless",
+      "difficulty": 1,
+      "tags": [
+        "Bianco_20",
+        "Bianco_Early",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "10 Blue Coins from Pinna Park",
+      "difficulty": 1,
+      "tags": [
+        "Pinna_Blues",
+        "Pinna_Early",
+        "Fast_20",
+        "Pinna_Boss",
+        "Pinna_30",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "30 Total Blue Coins",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Blues",
+        "Pinna_Blues",
+        "Bianco_Blues",
+        "Pianta_Blues",
+        "Noki_Blues",
+        "Plaza_Blues",
+        "Gelato_Blues",
+        "Sirena_Blues",
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "Complete Episode 2 of Ricco Harbor Entirely Blooperless",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Top",
+        "Ricco_Hidden",
+        "Ricco_Early",
+        "Ricco_Rocket",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Gelato Beach",
+      "difficulty": 1,
+      "tags": [
+        "Gelato_Early",
+        "Gelato_Hidden",
+        "Gelato_Quacks",
+        "Gelato_Shines",
+        "9_S"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Bianco Hills",
+      "difficulty": 1,
+      "tags": [
+        "Bianco_Early",
+        "Bianco_Hidden",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "4 Fruit Lady Blue Coins",
+      "difficulty": 1,
+      "tags": [
+        "Fruit_Ladies"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Gelato Beach",
+      "difficulty": 1,
+      "tags": [
+        "Gelato_Blues",
+        "Fast_20",
+        "Gelato_Quacks",
+        "Gelato_30",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "Goopy Inferno (Pianta 3) NO damage taken",
+      "difficulty": 1,
+      "tags": [
+        "Goopy_Inferno",
+        "Paint_Race",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Ricco Harbor",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Blues",
+        "Ricco_M",
+        "Fast_20",
+        "Ricco_Early",
+        "Ricco_30",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "4 Shines from Bianco Hills",
+      "difficulty": 1,
+      "tags": [
+        "Bianco_Rocket",
+        "Bianco_Boss",
+        "Bianco_Secret",
+        "Bianco_Hidden",
+        "Bianco_Early",
+        "Bianco_Late",
+        "Bianco_Blues",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Ricco Harbor",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Top",
+        "Ricco_Hidden",
+        "Ricco_Early",
+        "Ricco_Rocket",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Gelato Beach",
+      "difficulty": 1,
+      "tags": [
+        "Gelato_20",
+        "Gelato_Early",
+        "Gelato_Blues",
+        "Gelato_100s",
+        "Wiggler",
+        "Fast_20",
+        "Gelato_30",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "35 Total Blue Coins",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_Blues",
+        "Pinna_Blues",
+        "Bianco_Blues",
+        "Pianta_Blues",
+        "Noki_Blues",
+        "Plaza_Blues",
+        "Gelato_Blues",
+        "Sirena_Blues",
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "Defeat Petey Strikes Back (Bianco 5)",
+      "difficulty": 1,
+      "tags": [
+        "Bianco_Boss",
+        "Bianco_Early",
+        "Unique_Boss",
+        "XBoss_Shines",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Sirena Beach",
+      "difficulty": 1,
+      "tags": [
+        "Sirena_100s",
+        "X100_Coins",
+        "Sirena_Early"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Delfino Plaza",
+      "difficulty": 1,
+      "tags": [
+        "XBlue_Coins",
+        "Ricco_Blues",
+        "Gelato_Blues",
+        "Bianco_Blues",
+        "Pinna_Blues",
+        "Pianta_Blues",
+        "Sirena_Blues",
+        "Noki_Blues",
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Ricco Harbor",
+      "difficulty": 1,
+      "tags": [
+        "Ricco_100s",
+        "Ricco_Early",
+        "Ricco_Top",
+        "Ricco_Rocket",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "6 Blue Bird Blue Coins",
+      "difficulty": 2,
+      "tags": [
+        "Blue_Bird",
+        "Gelato_Hidden"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Bianco Hills",
+      "difficulty": 2,
+      "tags": [
+        "Bianco_100s",
+        "Bianco_Early",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from M Graffiti",
+      "difficulty": 2,
+      "tags": [
+        "M_Graffiti",
+        "Plaza_M",
+        "Ricco_M"
+      ]
+    },
+    {
+      "text": "2 Rocket Nozzle Unlocks",
+      "difficulty": 2,
+      "tags": [
+        "Rocket_Nozzle",
+        "Bianco_Rocket",
+        "Ricco_Rocket",
+        "Gelato_Rocket",
+        "Noki_Rocket",
+        "Pianta_Rocket",
+        "Plaza_Rocket"
+      ]
+    },
+    {
+      "text": "Defeat Wiggler",
+      "difficulty": 2,
+      "tags": [
+        "Wiggler",
+        "Gelato_Early"
+      ]
+    },
+    {
+      "text": "15 Blue Coins from Pinna Park",
+      "difficulty": 2,
+      "tags": [
+        "Pinna_Blues",
+        "Fast_20",
+        "Pinna_Early",
+        "Pinna_30",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "5 Blue Coins from Enemies",
+      "difficulty": 2,
+      "tags": [
+        "Blue_Enemies",
+        "Ricco_Top",
+        "Ricco_Blues",
+        "Ricco_Early",
+        "XBoss_Shines",
+        "M_Graffiti"
+      ]
+    },
+    {
+      "text": "4 Red Coin Shines",
+      "difficulty": 2,
+      "tags": [
+        "Red_Shines",
+        "Plaza_Shines",
+        "Hidden_Shines",
+        "Bianco_Early",
+        "Bianco_8"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Pinna Park",
+      "difficulty": 2,
+      "tags": [
+        "Pinna_Early",
+        "Pinna_Hidden",
+        "Pinna_Yoshi",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Noki Bay",
+      "difficulty": 2,
+      "tags": [
+        "Noki_Early",
+        "Noki_Hidden",
+        "Noki_Rocket"
+      ]
+    },
+    {
+      "text": "Collect a 100 Coin Shine from a Secret Level",
+      "difficulty": 2,
+      "tags": [
+        "Secret_100"
+      ]
+    },
+    {
+      "text": "4 Boss Shines",
+      "difficulty": 2,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "40 Total Blue Coins",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_Blues",
+        "Pinna_Blues",
+        "Bianco_Blues",
+        "Pianta_Blues",
+        "Noki_Blues",
+        "Plaza_Blues",
+        "Gelato_Blues",
+        "Sirena_Blues",
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "Collect both gold bird shines",
+      "difficulty": 2,
+      "tags": [
+        "Plaza_Shines",
+        "Noki_Hidden",
+        "Noki_Early"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Bianco Hills",
+      "difficulty": 2,
+      "tags": [
+        "Bianco_20",
+        "Bianco_30",
+        "Bianco_Early",
+        "Bianco_Blues",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "Defeat Gooper Blooper Returns (Ricco 5)",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_Top",
+        "Ricco_Early",
+        "Ricco_6",
+        "Ricco_100",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "4 Hidden Shines",
+      "difficulty": 2,
+      "tags": [
+        "Hidden_Shines",
+        "Ricco_Hidden",
+        "Bianco_Hidden",
+        "Pianta_Hidden",
+        "Gelato_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden",
+        "Noki_Hidden",
+        "Secret_Shines"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Pinna Park",
+      "difficulty": 2,
+      "tags": [
+        "Pinna_Blues",
+        "Fast_20",
+        "Pinna_Early",
+        "Pinna_30",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "45 Total Blue Coins",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_Blues",
+        "Pinna_Blues",
+        "Bianco_Blues",
+        "Pianta_Blues",
+        "Noki_Blues",
+        "Plaza_Blues",
+        "Gelato_Blues",
+        "Sirena_Blues",
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Gelato Beach",
+      "difficulty": 2,
+      "tags": [
+        "Gelato_100",
+        "Gelato_Early",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "20 Lives",
+      "difficulty": 2,
+      "tags": [
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "Collect the Sand Bird Shine",
+      "difficulty": 2,
+      "tags": [
+        "Wiggler",
+        "Gelato_5",
+        "Turbo_Nozzle",
+        "Paint_Race",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "25 Blue Coins from Ricco Harbor",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_Blues",
+        "Blue_Enemies",
+        "Ricco_Early",
+        "Ricco_30",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Pinna Park",
+      "difficulty": 2,
+      "tags": [
+        "Pinna_100",
+        "Pinna_Yoshi",
+        "Pinna_Hoverless",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "4 Unique Boss Shines",
+      "difficulty": 2,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "Red Coins of the Pirate Ships (Pinna 3) Hoverless",
+      "difficulty": 2,
+      "tags": [
+        "Pinna_Hoverless",
+        "Pinna_YoshiPinna_Shines"
+      ]
+    },
+    {
+      "text": "6 Shines from Ricco Harbor",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_6",
+        "Ricco_Late",
+        "Ricco_Yoshi"
+      ]
+    },
+    {
+      "text": "50 Total Blue Coins",
+      "difficulty": 2,
+      "tags": [
+        "Ricco_Blues",
+        "Pinna_Blues",
+        "Bianco_Blues",
+        "Pianta_Blues",
+        "Noki_Blues",
+        "Plaza_Blues",
+        "Gelato_Blues",
+        "Sirena_Blues",
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "5 Shines from Gelato Beach",
+      "difficulty": 2,
+      "tags": [
+        "Gelato_5",
+        "Wiggler",
+        "Gelato_Early",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "7 Blue Coins from Enemies",
+      "difficulty": 2,
+      "tags": [
+        "Blue_Enemies",
+        "XBoss_Shines",
+        "M_Graffiti"
+      ]
+    },
+    {
+      "text": "Ride Yoshi in Pinna Park",
+      "difficulty": 3,
+      "tags": [
+        "Pinna_Yoshi",
+        "Pinna_Hoverless",
+        "Butterfly",
+        "Pinna_Early",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "5 Boss Shines",
+      "difficulty": 3,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "4 Secret Shines",
+      "difficulty": 3,
+      "tags": [
+        "Secret_Shines",
+        "Hidden_Shines",
+        "Bianco_Hidden",
+        "Pinna_Hidden"
+      ]
+    },
+    {
+      "text": "8 Shines from Delfino Plaza",
+      "difficulty": 3,
+      "tags": [
+        "Plaza_M",
+        "Fruit_Ladies",
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "5 Red Coin Shines",
+      "difficulty": 3,
+      "tags": [
+        "Red_Shines",
+        "Hidden_Shines",
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from M Graffiti",
+      "difficulty": 3,
+      "tags": [
+        "M_Graffiti",
+        "Plaza_M",
+        "Ricco_M"
+      ]
+    },
+    {
+      "text": "9 Shines from Delfino Plaza",
+      "difficulty": 3,
+      "tags": [
+        "Plaza_M",
+        "Fruit_Ladies",
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "5 Hidden Shines",
+      "difficulty": 3,
+      "tags": [
+        "Hidden_Shines",
+        "Ricco_Hidden",
+        "Bianco_Hidden",
+        "Pianta_Hidden",
+        "Gelato_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden",
+        "Noki_Hidden",
+        "Secret_Shines"
+      ]
+    },
+    {
+      "text": "55 Total Blue Coins",
+      "difficulty": 3,
+      "tags": [
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Ricco Harbor",
+      "difficulty": 3,
+      "tags": [
+        "Ricco_Hidden",
+        "Ricco_Early"
+      ]
+    },
+    {
+      "text": "Runaway Ferris Wheel (Pinna 5) from the back Hoverless",
+      "difficulty": 3,
+      "tags": [
+        "Pinna_Hoverless",
+        "Pinna_Early",
+        "Butterfly",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "2 Piantissimo Races",
+      "difficulty": 3,
+      "tags": [
+        "Paint_Race",
+        "Wiggler",
+        "Rocket_Nozzle"
+      ]
+    },
+    {
+      "text": "25 Blue Coins from Pinna Park",
+      "difficulty": 3,
+      "tags": [
+        "Pinna_Blues",
+        "Fast_20",
+        "Pinna_Late",
+        "Pinna_30",
+        "Pinna_Yoshi",
+        "Butterfly",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "10 Blue Coins from Sirena Beach",
+      "difficulty": 3,
+      "tags": [
+        "Sirena_Blues",
+        "Sirena_Early"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Bianco Hills",
+      "difficulty": 3,
+      "tags": [
+        "Bianco_Shadow",
+        "Shadow_Mario",
+        "Bianco_Late",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Ricco Harbor",
+      "difficulty": 3,
+      "tags": [
+        "Ricco_Shadow",
+        "Shadow_Mario",
+        "Ricco_Late",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "6 Red Coin Shines",
+      "difficulty": 3,
+      "tags": [
+        "Red_Shines",
+        "Hidden_Shines"
+      ]
+    },
+    {
+      "text": "25 Lives",
+      "difficulty": 3,
+      "tags": [
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "25 Blue Coins from Gelato Beach",
+      "difficulty": 3,
+      "tags": [
+        "Gelato_Blues",
+        "Blue_Enemies",
+        "Wiggler",
+        "Gelato_30",
+        "Gelato_Yoshi",
+        "Paint_Race",
+        "Gelato_Early",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Pianta Village",
+      "difficulty": 3,
+      "tags": [
+        "Pianta_Hidden",
+        "X_Lives",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "Collect 1 Hidden Shine in Sirena Beach",
+      "difficulty": 3,
+      "tags": [
+        "Sirena_Hidden",
+        "Sirena_Early"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Bianco Hills",
+      "difficulty": 3,
+      "tags": [
+        "Bianco_Hidden",
+        "Bianco_Late",
+        "Turbo_Nozzle",
+        "Bianco_Yoshi",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "60 Total Blue Coins",
+      "difficulty": 3,
+      "tags": [
+        "XTotal_Blues",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "Ricco Harbor Episode 8 Shine",
+      "difficulty": 3,
+      "tags": [
+        "Ricco_8",
+        "Ricco_Late",
+        "Ricco_Yoshi",
+        "Ricco_Shines"
+      ]
+    },
+    {
+      "text": "Bianco Hills Episode 8 Shine",
+      "difficulty": 3,
+      "tags": [
+        "Bianco_Shadow",
+        "Bianco_Late",
+        "Bianco_Yoshi",
+        "Turbo_Nozzle",
+        "Bianco_Shines"
+      ]
+    },
+    {
+      "text": "30 Lives",
+      "difficulty": 3,
+      "tags": [
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Pianta Village",
+      "difficulty": 3,
+      "tags": [
+        "Pianta_Blues",
+        "Pianta_Late",
+        "Butterfly",
+        "Pianta_Yoshi",
+        "Pianta_30",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "10 Shines from Delfino Plaza",
+      "difficulty": 3,
+      "tags": [
+        "Plaza_M",
+        "Fruit_Ladies",
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "8 Linked Blue Coin Pairs",
+      "difficulty": 3,
+      "tags": [
+        "Linked_Blues"
+      ]
+    },
+    {
+      "text": "6 Shines from Pinna Park",
+      "difficulty": 3,
+      "tags": [
+        "Pinna_Boss",
+        "Linked_Blues",
+        "Pinna_Yoshi",
+        "Butterfly",
+        "Pinna_6",
+        "Pinna_Hoverless",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "10 Blue Coins from Noki Bay",
+      "difficulty": 3,
+      "tags": [
+        "Noki_Blues",
+        "Noki_Early"
+      ]
+    },
+    {
+      "text": "3 Rocket Nozzle Unlocks",
+      "difficulty": 3,
+      "tags": [
+        "Rocket_Nozzle",
+        "Ricco_Rocket",
+        "Bianco_Rocket",
+        "Gelato_Rocket",
+        "Noki_Rocket"
+      ]
+    },
+    {
+      "text": "5 Secret Shines",
+      "difficulty": 4,
+      "tags": [
+        "Secret_Shines",
+        "Hidden_Shines",
+        "Bianco_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden",
+        "Pinna_5"
+      ]
+    },
+    {
+      "text": "65 Total Blue Coins",
+      "difficulty": 4,
+      "tags": [
+        "XTotal_Blues"
+      ]
+    },
+    {
+      "text": "6 Boss Shines",
+      "difficulty": 4,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "6 Shines from Pianta Village",
+      "difficulty": 4,
+      "tags": [
+        "Pianta_Late",
+        "Pianta_8",
+        "X_Lives",
+        "Pianta_6",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "Lily Pad Shine",
+      "difficulty": 4,
+      "tags": [
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "Both Bell Shines",
+      "difficulty": 4,
+      "tags": [
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "35 Lives",
+      "difficulty": 4,
+      "tags": [
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Pianta Village",
+      "difficulty": 4,
+      "tags": [
+        "Pianta_Late",
+        "Pianta_Shadow",
+        "Shadow_Mario",
+        "Pianta_8",
+        "X_Lives",
+        "Pianta_Yoshi",
+        "Pianta_6"
+      ]
+    },
+    {
+      "text": "5 Unique Boss Shines",
+      "difficulty": 4,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "Defeat both Cannon Moles and collect their shines",
+      "difficulty": 4,
+      "tags": [
+        "Noki_Early",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Gelato Beach",
+      "difficulty": 4,
+      "tags": [
+        "Gelato_Late",
+        "Gelato_5",
+        "Gelato_Shadow"
+      ]
+    },
+    {
+      "text": "40 Lives",
+      "difficulty": 4,
+      "tags": [
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Pinna Park",
+      "difficulty": 4,
+      "tags": [
+        "Pinna_Shadow",
+        "Shadow_Mario",
+        "Pinna_6",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "Ride Yoshi in Bianco Hills",
+      "difficulty": 4,
+      "tags": [
+        "Bianco_Yoshi",
+        "Bianco_8"
+      ]
+    },
+    {
+      "text": "6 Hidden Shines",
+      "difficulty": 4,
+      "tags": [
+        "Hidden_Shines",
+        "Ricco_Hidden",
+        "Bianco_Hidden",
+        "Gelato_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden",
+        "Noki_Hidden",
+        "Pianta_Hidden",
+        "Secret_Shines"
+      ]
+    },
+    {
+      "text": "7 Blue Bird Blue Coins",
+      "difficulty": 4,
+      "tags": [
+        "Linked_Blues",
+        "Blue_Bird",
+        "Butterfly"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Noki Bay",
+      "difficulty": 4,
+      "tags": [
+        "Noki_Blues",
+        "Noki_Early",
+        "Noki_20"
+      ]
+    },
+    {
+      "text": "Sirena 3 NO Clipping",
+      "difficulty": 4,
+      "tags": [
+        "Sirena_Late",
+        "Pinna_Yoshi"
+      ]
+    },
+    {
+      "text": "70 Total Blue Coins",
+      "difficulty": 4,
+      "tags": [
+        "XTotal_Blues"
+      ]
+    },
+    {
+      "text": "2 Turbo Nozzle Unlocks",
+      "difficulty": 4,
+      "tags": [
+        "Gelato_Turbo",
+        "Turbo_Nozzle",
+        "Bianco_Turbo",
+        "Ricco_Turbo"
+      ]
+    },
+    {
+      "text": "Gelato Beach Episode 8 Shine",
+      "difficulty": 4,
+      "tags": [
+        "Gelato_8",
+        "Gelato_Shadow",
+        "Gelato_5",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "2 Shines from 5 Levels",
+      "difficulty": 4,
+      "tags": [
+        "Mix_Up"
+      ]
+    },
+    {
+      "text": "20 Blue Coins from Sirena Beach",
+      "difficulty": 4,
+      "tags": [
+        "Sirena_EarlySirena_Blues"
+      ]
+    },
+    {
+      "text": "5 Shines from 3 Levels",
+      "difficulty": 4,
+      "tags": [
+        "Mix_Up"
+      ]
+    },
+    {
+      "text": "Ride Yoshi in Gelato Beach",
+      "difficulty": 4,
+      "tags": [
+        "Gelato_5",
+        "Gelato_Shines"
+      ]
+    },
+    {
+      "text": "Defeat Boss of Tricky Ruins (Noki 2)",
+      "difficulty": 4,
+      "tags": [
+        "Noki_Early"
+      ]
+    },
+    {
+      "text": "2 Shadow Marios",
+      "difficulty": 4,
+      "tags": [
+        "Shadow_Mario",
+        "Bianco_Shadow",
+        "Gelato_Shadow",
+        "Ricco_Shadow",
+        "Pianta_Shadow"
+      ]
+    },
+    {
+      "text": "4 Blue Coins from Butterflies",
+      "difficulty": 4,
+      "tags": [
+        "Butterfly"
+      ]
+    },
+    {
+      "text": "Three 100 Coin Shines",
+      "difficulty": 4,
+      "tags": [
+        "Pianta_100",
+        "X100_Coins",
+        "Bianco_100",
+        "Ricco_100",
+        "Gelato_100",
+        "Pinna_100",
+        "Sirena_100",
+        "Noki_100"
+      ]
+    },
+    {
+      "text": "1 Shine from each level",
+      "difficulty": 4,
+      "tags": [
+        "Mix_Up"
+      ]
+    },
+    {
+      "text": "25 Blue Coins from Pianta Village",
+      "difficulty": 4,
+      "tags": [
+        "Pianta_Blues",
+        "Pianta_30",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "75 Total Blue coins",
+      "difficulty": 4,
+      "tags": [
+        "XTotal_Blues"
+      ]
+    },
+    {
+      "text": "Pianta Village Episode 8 Shine",
+      "difficulty": 4,
+      "tags": [
+        "Pianta_8",
+        "Pianta_Shadow",
+        "Pianta_6",
+        "Pianta_Shines"
+      ]
+    },
+    {
+      "text": "4 Shines from 4 Levels",
+      "difficulty": 4,
+      "tags": [
+        "Mix_Up"
+      ]
+    },
+    {
+      "text": "6 Secret Shines",
+      "difficulty": 4,
+      "tags": [
+        "Secret_Shines",
+        "Hidden_Shines",
+        "Bianco_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden"
+      ]
+    },
+    {
+      "text": "80 Total Blue Coins",
+      "difficulty": 5,
+      "tags": [
+        "XTotal_Blues",
+        "Fast_20"
+      ]
+    },
+    {
+      "text": "9 Blue Coins from Enemies",
+      "difficulty": 5,
+      "tags": [
+        "Blue_Enemies",
+        "Ricco_Blues",
+        "Gelato_Yoshi"
+      ]
+    },
+    {
+      "text": "9 Shines from a single level (not plaza)",
+      "difficulty": 5,
+      "tags": [
+        "Ricco_8",
+        "Sirena_8",
+        "Bianco_8",
+        "Gelato_8",
+        "Pinna_8",
+        "Pianta_8",
+        "Red_Shines",
+        "9_S"
+      ]
+    },
+    {
+      "text": "All 30 blue coins from a single level",
+      "difficulty": 5,
+      "tags": [
+        "Ricco_30",
+        "Bianco_30",
+        "Pinna_30",
+        "Gelato_30",
+        "Sirena_30",
+        "Pianta_30",
+        "Blue_30"
+      ]
+    },
+    {
+      "text": "11 Shines from Delfino Plaza",
+      "difficulty": 5,
+      "tags": [
+        "Plaza_Shines"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Pinna Park",
+      "difficulty": 5,
+      "tags": [
+        "Pinna_Hidden",
+        "Pinna_Late",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "7 Hidden Shines",
+      "difficulty": 5,
+      "tags": [
+        "Hidden_Shines",
+        "Ricco_Hidden",
+        "Bianco_Hidden",
+        "Pianta_Hidden",
+        "Gelato_Hidden",
+        "Sirena_Hidden",
+        "Pinna_Hidden",
+        "Noki_Hidden",
+        "Secret_Shines"
+      ]
+    },
+    {
+      "text": "5 Shines from Sirena Beach",
+      "difficulty": 5,
+      "tags": [
+        "Sirena_5",
+        "Sirena_Late",
+        "Sirena_8"
+      ]
+    },
+    {
+      "text": "7 Red Coin Shines",
+      "difficulty": 5,
+      "tags": [
+        "Red_Shines",
+        "Hidden_Shines"
+      ]
+    },
+    {
+      "text": "10 Shines from a single level (not plaza)",
+      "difficulty": 5,
+      "tags": [
+        "Ricco_8",
+        "Sirena_8",
+        "Bianco_8",
+        "Gelato_8",
+        "Pinna_8",
+        "Pianta_8",
+        "Red_Shines",
+        "9_S"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Pianta Village",
+      "difficulty": 5,
+      "tags": [
+        "Pianta_Late",
+        "Pianta_Hidden",
+        "Pianta_8",
+        "Pianta_Shines",
+        "9_S"
+      ]
+    },
+    {
+      "text": "Pinna Park Episode 8 Shine",
+      "difficulty": 5,
+      "tags": [
+        "Pinna_8",
+        "Pinna_Late",
+        "Pinna_Shines"
+      ]
+    },
+    {
+      "text": "4 Shines from Noki Bay",
+      "difficulty": 5,
+      "tags": [
+        "Noki_Late",
+        "Noki_Early"
+      ]
+    },
+    {
+      "text": "Collect 2 Hidden Shines in Sirena Beach",
+      "difficulty": 5,
+      "tags": [
+        "Sirena_Hidden",
+        "Sirena_Late"
+      ]
+    },
+    {
+      "text": "Ride Yoshi in Pianta Village",
+      "difficulty": 5,
+      "tags": [
+        "Pianta_6",
+        "Pianta_Yoshi",
+        "Butterfly"
+      ]
+    },
+    {
+      "text": "Collect 25 Shines",
+      "difficulty": 5,
+      "tags": [
+        "Total_Shines",
+        "Plaza_Shines",
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "Defeat Shadow Mario in Sirena Beach",
+      "difficulty": 5,
+      "tags": [
+        "Shadow_Mario",
+        "Sirena_Shadow",
+        "Sirena_Late"
+      ]
+    },
+    {
+      "text": "Defeat the Eel of Noki Bay",
+      "difficulty": 5,
+      "tags": [
+        "Noki_Late",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "100 Coin Shine from Noki Bay",
+      "difficulty": 5,
+      "tags": [
+        "Noki_Late",
+        "Noki_Boss",
+        "Noki_100",
+        "Noki_20"
+      ]
+    },
+    {
+      "text": "Four 100 Coin Shines",
+      "difficulty": 5,
+      "tags": [
+        "X100_Coins",
+        "Bianco_100",
+        "Ricco_100",
+        "Gelato_100",
+        "Pinna_100",
+        "Sirena_100",
+        "Noki_100",
+        "Pianta_100"
+      ]
+    },
+    {
+      "text": "8 Red Coin Shines",
+      "difficulty": 5,
+      "tags": [
+        "Red_Shines",
+        "Hidden_Shines"
+      ]
+    },
+    {
+      "text": "Collect 28 Shines",
+      "difficulty": 5,
+      "tags": [
+        "Total_Shines",
+        "Plaza_Shines",
+        "X_Lives"
+      ]
+    },
+    {
+      "text": "Beat Piantissimo in Noki Bay Episode 5",
+      "difficulty": 5,
+      "tags": [
+        "Noki_Late",
+        "Paint_Race"
+      ]
+    },
+    {
+      "text": "6 Unique Boss Shines",
+      "difficulty": 5,
+      "tags": [
+        "XBoss_Shines",
+        "Unique_Boss",
+        "Bianco_Boss",
+        "Pinna_Boss",
+        "Ricco_Boss",
+        "Wiggler",
+        "Sirena_Early",
+        "Noki_Boss"
+      ]
+    },
+    {
+      "text": "Sirena Beach Episode 8 Shine",
+      "difficulty": 5,
+      "tags": [
+        "Sirena_8",
+        "Sirena_Late"
+      ]
+    },
+    {
+      "text": "25 Blue Coins from Noki Bay",
+      "difficulty": 5,
+      "tags": [
+        "Noki_Late",
+        "Noki_Blues",
+        "Noki_30"
+      ]
+    },
+    {
+      "text": "3 Shadow Marios",
+      "difficulty": 5,
+      "tags": [
+        "Shadow_Mario"
+      ]
+    }
+  ]
+}

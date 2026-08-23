@@ -1,0 +1,712 @@
+{
+  "name": "Pokémon: Ruby / Sapphire",
+  "goals": [
+    {
+      "text": "Poochyena",
+      "difficulty": 1,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "TM05 (Roar)",
+      "difficulty": 1,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "HM05 (Flash)",
+      "difficulty": 1,
+      "tags": [
+        "hm"
+      ]
+    },
+    {
+      "text": "Coin Case",
+      "difficulty": 1,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Tentacool",
+      "difficulty": 1,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "A Pokemon with a stat related ability",
+      "difficulty": 1,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Soot Sack",
+      "difficulty": 1,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "TM36 (Sludge Bomb)",
+      "difficulty": 1,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Slakoth",
+      "difficulty": 1,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "7 Different Berries",
+      "difficulty": 1,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Numel",
+      "difficulty": 1,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Lava Cookie",
+      "difficulty": 1,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "10 pokemon owned",
+      "difficulty": 1,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "Zangoose or Seviper",
+      "difficulty": 1,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "6 different water type Pokemon",
+      "difficulty": 1,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "A Pokemon with Double Kick or Mud Shot",
+      "difficulty": 1,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Plusle or Minun",
+      "difficulty": 1,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "Defeat Winstrate Family",
+      "difficulty": 1,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Participate in a Contest",
+      "difficulty": 1,
+      "tags": [
+        "contest"
+      ]
+    },
+    {
+      "text": "Mawile or Sableye",
+      "difficulty": 1,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "10 TMs",
+      "difficulty": 2,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Ether",
+      "difficulty": 2,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Magikarp",
+      "difficulty": 2,
+      "tags": [
+        "pkmn",
+        "karp"
+      ]
+    },
+    {
+      "text": "Full Daycare",
+      "difficulty": 2,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "A powder item",
+      "difficulty": 2,
+      "tags": [
+        "itempair"
+      ]
+    },
+    {
+      "text": "No money on hand",
+      "difficulty": 2,
+      "tags": [
+        "cash"
+      ]
+    },
+    {
+      "text": "Do not catch a Legendary Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "Trade with an NPC",
+      "difficulty": 2,
+      "tags": [
+        "trade"
+      ]
+    },
+    {
+      "text": "6 different flying type Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "Feed a Pokemon a Pokeblock",
+      "difficulty": 2,
+      "tags": [
+        "pokeblock"
+      ]
+    },
+    {
+      "text": "A Pokemon with a status related ability",
+      "difficulty": 2,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Volbeat or Illumise",
+      "difficulty": 2,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "Defeat a Slugma",
+      "difficulty": 2,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "A Pokemon with a weather related ability",
+      "difficulty": 2,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Defeat all 5 cyclists on Cycling Road",
+      "difficulty": 2,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Complete a Trick House maze",
+      "difficulty": 2,
+      "tags": [
+        "trickmaster"
+      ]
+    },
+    {
+      "text": "Dustox or Beautifly",
+      "difficulty": 2,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "Do not heal at any Pokemon Centers",
+      "difficulty": 2,
+      "tags": [
+        "heal",
+        "instant"
+      ]
+    },
+    {
+      "text": "Sell a Rare Candy",
+      "difficulty": 2,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Make a secret base",
+      "difficulty": 2,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Gloom",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "A Pokemon with 4 moves with STAB",
+      "difficulty": 3,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Exp Share",
+      "difficulty": 3,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "TM44 (Rest)",
+      "difficulty": 3,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Pearl or Big Pearl",
+      "difficulty": 3,
+      "tags": [
+        "itempair"
+      ]
+    },
+    {
+      "text": "Spoink",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Hatch an egg",
+      "difficulty": 3,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Make a Pokémon relearn a move",
+      "difficulty": 3,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Swablu",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Do not use any TMs",
+      "difficulty": 3,
+      "tags": [
+        "tm",
+        "instant"
+      ]
+    },
+    {
+      "text": "Ninjask or Shedinja",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Three type-boosting items",
+      "difficulty": 3,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Golbat",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Solrock or Lunatone",
+      "difficulty": 3,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "A Pokemon with 4 non-TM status moves",
+      "difficulty": 3,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Pokemon with an evasion boosting move",
+      "difficulty": 3,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "7 different types of Poke Ball",
+      "difficulty": 3,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Barboach",
+      "difficulty": 3,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Evolve 5 different Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "hm",
+        "instant"
+      ]
+    },
+    {
+      "text": "A baby Pokemon",
+      "difficulty": 3,
+      "tags": [
+        "egg",
+        "pkmn"
+      ]
+    },
+    {
+      "text": "20 Pokemon owned",
+      "difficulty": 4,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "Stop starter evolving 6 times",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Lileep or Anorith",
+      "difficulty": 4,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "Pelipper",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "TM19 (Giga Drain)",
+      "difficulty": 4,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Use a stone to evolve a Pokemon",
+      "difficulty": 4,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Shuppet or Duskull",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "50 pokemon seen",
+      "difficulty": 4,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "Defeat 4 Kecleons",
+      "difficulty": 4,
+      "tags": [
+        "kecleon"
+      ]
+    },
+    {
+      "text": "Gyarados",
+      "difficulty": 4,
+      "tags": [
+        "pkmn",
+        "karp"
+      ]
+    },
+    {
+      "text": "Defeat all 7 trainers on Route 123",
+      "difficulty": 4,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Breloom",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Vulpix",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Defeat 10 Swimmers",
+      "difficulty": 4,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Catch something from Safari Zone",
+      "difficulty": 4,
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "text": "5 Valuable Items",
+      "difficulty": 4,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Burn a Kecleon",
+      "difficulty": 4,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "20 TMs",
+      "difficulty": 4,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "HM02 (Fly)",
+      "difficulty": 4,
+      "tags": [
+        "hm"
+      ]
+    },
+    {
+      "text": "Sea or Lax Incense",
+      "difficulty": 4,
+      "tags": [
+        "item"
+      ]
+    },
+    {
+      "text": "Featherbadge",
+      "difficulty": 5,
+      "tags": [
+        "badge"
+      ]
+    },
+    {
+      "text": "Magneton",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "$50,000",
+      "difficulty": 5,
+      "tags": [
+        "cash"
+      ]
+    },
+    {
+      "text": "Put a Pokeblock into a Safari Zone Container",
+      "difficulty": 5,
+      "tags": [
+        "pokeblock"
+      ]
+    },
+    {
+      "text": "Two different non-key exchangeable items",
+      "difficulty": 5,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "A Trade Evolution Item",
+      "difficulty": 5,
+      "tags": [
+        "multiitem"
+      ]
+    },
+    {
+      "text": "Wobbuffet",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "3 different level 30 Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "TM21 (Frustration) or TM27 (Return)",
+      "difficulty": 5,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "All rods",
+      "difficulty": 5,
+      "tags": [
+        "rods"
+      ]
+    },
+    {
+      "text": "Defeat 5 Ninja Boys",
+      "difficulty": 5,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "HM08 (Dive)",
+      "difficulty": 5,
+      "tags": [
+        "hm"
+      ]
+    },
+    {
+      "text": "Seadra",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Grovyle",
+      "difficulty": 5,
+      "tags": [
+        "starter",
+        "pkmn"
+      ]
+    },
+    {
+      "text": "TM04 (Calm Mind)",
+      "difficulty": 5,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Relicanth or Wailord",
+      "difficulty": 5,
+      "tags": [
+        "pkmnpair"
+      ]
+    },
+    {
+      "text": "Defeat all 6 Trainers on Route 125",
+      "difficulty": 5,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Catch a Dragon-type Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "All badges",
+      "difficulty": 5,
+      "tags": [
+        "badge"
+      ]
+    },
+    {
+      "text": "Heracross or Pinsir",
+      "difficulty": 5,
+      "tags": [
+        "pkmnpair"
+      ]
+    }
+  ]
+}

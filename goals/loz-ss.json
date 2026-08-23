@@ -1,0 +1,1144 @@
+{
+  "name": "Skyward Sword",
+  "goals": [
+    {
+      "text": "Bring Mia to Horwell",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft"
+      ]
+    },
+    {
+      "text": "Four Skyloft Chests",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft",
+        "Chests"
+      ]
+    },
+    {
+      "text": "Glittering Spores",
+      "difficulty": 1,
+      "tags": [
+        "Bottles",
+        "Faron"
+      ]
+    },
+    {
+      "text": "Revitalizing Potion",
+      "difficulty": 1,
+      "tags": [
+        "Bottles",
+        "Potions"
+      ]
+    },
+    {
+      "text": "Bottled Water",
+      "difficulty": 1,
+      "tags": [
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Practice Sword",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft"
+      ]
+    },
+    {
+      "text": "Heart Potion",
+      "difficulty": 1,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Chandelier Heart Piece",
+      "difficulty": 1,
+      "tags": [
+        "Hearts",
+        "Pumpkin"
+      ]
+    },
+    {
+      "text": "Complete a ringer skydive",
+      "difficulty": 1,
+      "tags": [
+        "Sky"
+      ]
+    },
+    {
+      "text": "Mushroom Spores",
+      "difficulty": 1,
+      "tags": [
+        "Bottles",
+        "Faron"
+      ]
+    },
+    {
+      "text": "100 Rupees before Faron",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "Sailcloth",
+      "difficulty": 1,
+      "tags": [
+        "Sailcloth",
+        "Skyloft"
+      ]
+    },
+    {
+      "text": "Guardian Potion",
+      "difficulty": 1,
+      "tags": [
+        "Bottles",
+        "Potions"
+      ]
+    },
+    {
+      "text": "Hot Pumpkin Soup",
+      "difficulty": 1,
+      "tags": [
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Cold Pumpkin Soup",
+      "difficulty": 1,
+      "tags": [
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Kill three guays in the sky",
+      "difficulty": 1,
+      "tags": [
+        "Sky"
+      ]
+    },
+    {
+      "text": "Beedle's Scattered Crystal",
+      "difficulty": 1,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "10 Blessed Butterflies",
+      "difficulty": 1,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "Heart Dowsing Target",
+      "difficulty": 1,
+      "tags": [
+        "Misc"
+      ]
+    },
+    {
+      "text": "Floria Waterfall Bird Statue",
+      "difficulty": 1,
+      "tags": [
+        "Faron",
+        "Statues"
+      ]
+    },
+    {
+      "text": "Both Deep Woods Statues",
+      "difficulty": 1,
+      "tags": [
+        "Faron",
+        "Statues"
+      ]
+    },
+    {
+      "text": "Finish the Sword Tutorial",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft"
+      ]
+    },
+    {
+      "text": "Two Lumpy Pumpkin Scattered Crystals",
+      "difficulty": 1,
+      "tags": [
+        "Crystals",
+        "Pumpkin"
+      ]
+    },
+    {
+      "text": "Skyview Temple Heart Piece",
+      "difficulty": 1,
+      "tags": [
+        "Skyview",
+        "Hearts"
+      ]
+    },
+    {
+      "text": "3 Extra Wallets",
+      "difficulty": 1,
+      "tags": [
+        "Rupees"
+      ]
+    },
+    {
+      "text": "5 Skyloft Mantises",
+      "difficulty": 1,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "5 Starry Fireflies",
+      "difficulty": 1,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "Sleep in Zelda's Bed",
+      "difficulty": 1,
+      "tags": [
+        "Skyloft",
+        "Sailcloth"
+      ]
+    },
+    {
+      "text": "Win the Wing Ceremony Twice",
+      "difficulty": 1,
+      "tags": [
+        "BiT",
+        "Skyloft"
+      ]
+    },
+    {
+      "text": "Bring Hot Soup to Eagus",
+      "difficulty": 1,
+      "tags": [
+        "Bottles",
+        "Pumpkin"
+      ]
+    },
+    {
+      "text": "3 Blue Bird Feathers",
+      "difficulty": 2,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "5 Bird Feathers",
+      "difficulty": 2,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "Banded Shield",
+      "difficulty": 2,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "10 Amber Relics",
+      "difficulty": 2,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "50 Deku Hornets",
+      "difficulty": 2,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "10 Woodland Rhino Beetles",
+      "difficulty": 2,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "6 Pouch Slots",
+      "difficulty": 2,
+      "tags": [
+        "Pouch",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "4 Heart Pieces",
+      "difficulty": 2,
+      "tags": [
+        "Hearts"
+      ]
+    },
+    {
+      "text": "8 Faron Bird Statues",
+      "difficulty": 2,
+      "tags": [
+        "Statues",
+        "Faron"
+      ]
+    },
+    {
+      "text": "5 Faron Goddess Cubes",
+      "difficulty": 2,
+      "tags": [
+        "Cubes",
+        "Faron"
+      ]
+    },
+    {
+      "text": "5 Goddess Cubes",
+      "difficulty": 2,
+      "tags": [
+        "Cubes"
+      ]
+    },
+    {
+      "text": "500 Rupees",
+      "difficulty": 2,
+      "tags": [
+        "Rupees"
+      ]
+    },
+    {
+      "text": "10 Scattered Crystals",
+      "difficulty": 2,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "3 Bottles",
+      "difficulty": 2,
+      "tags": [
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Batreaux's Heart Piece",
+      "difficulty": 2,
+      "tags": [
+        "Hearts",
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Orielle's Gratitude Crystals",
+      "difficulty": 2,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "15 Gratitude Crystals",
+      "difficulty": 2,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Parrow's Gratitude Crystals",
+      "difficulty": 2,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Skyview Dungeon Map",
+      "difficulty": 2,
+      "tags": [
+        "Map",
+        "Skyview"
+      ]
+    },
+    {
+      "text": "Defeat Ghirahim with a dart",
+      "difficulty": 2,
+      "tags": [
+        "Skyview"
+      ]
+    },
+    {
+      "text": "Skyview Zero Dungeon Map",
+      "difficulty": 2,
+      "tags": [
+        "Map",
+        "Skyview",
+        "BiT"
+      ]
+    },
+    {
+      "text": "Open all Skyview Temple Chests",
+      "difficulty": 2,
+      "tags": [
+        "Chests",
+        "Skyview"
+      ]
+    },
+    {
+      "text": "Two Unused Small Keys",
+      "difficulty": 2,
+      "tags": [
+        "BiT",
+        "Skyview"
+      ]
+    },
+    {
+      "text": "Both Faron Heart Pieces",
+      "difficulty": 2,
+      "tags": [
+        "Faron",
+        "Hearts"
+      ]
+    },
+    {
+      "text": "Sleep in every Knight Academy Bed",
+      "difficulty": 2,
+      "tags": [
+        "Misc",
+        "Sailcloth"
+      ]
+    },
+    {
+      "text": "28+ cuts at Bamboo Island",
+      "difficulty": 2,
+      "tags": [
+        "Misc"
+      ]
+    },
+    {
+      "text": "4 Eldin Bird Statues",
+      "difficulty": 2,
+      "tags": [
+        "Statues",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Eldin Heart Piece",
+      "difficulty": 2,
+      "tags": [
+        "Hearts",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Farore's Courage",
+      "difficulty": 2,
+      "tags": [
+        "BiT"
+      ]
+    },
+    {
+      "text": "Enter Isle of Songs",
+      "difficulty": 2,
+      "tags": [
+        "BiT"
+      ]
+    },
+    {
+      "text": "10 Volcanic Ladybugs",
+      "difficulty": 3,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "60 Deku Seed Capacity",
+      "difficulty": 3,
+      "tags": [
+        "Ammo"
+      ]
+    },
+    {
+      "text": "5 Eldin Ore",
+      "difficulty": 3,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "3 Medals",
+      "difficulty": 3,
+      "tags": [
+        "Medals"
+      ]
+    },
+    {
+      "text": "Treasure Medal",
+      "difficulty": 3,
+      "tags": [
+        "Medals"
+      ]
+    },
+    {
+      "text": "3 Unique Shields",
+      "difficulty": 3,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Fairy in a Bottle",
+      "difficulty": 3,
+      "tags": [
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Heart Potion+",
+      "difficulty": 3,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Guardian Potion+",
+      "difficulty": 3,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Revitalizing Potion+",
+      "difficulty": 3,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "3 Unique Potion Upgrades",
+      "difficulty": 3,
+      "tags": [
+        "Potions",
+        "Bottles"
+      ]
+    },
+    {
+      "text": "3 Unique Potions",
+      "difficulty": 3,
+      "tags": [
+        "Potions",
+        "Bottles"
+      ]
+    },
+    {
+      "text": "Zelda's Heart Piece",
+      "difficulty": 3,
+      "tags": [
+        "End",
+        "Hearts",
+        "Sailcloth"
+      ]
+    },
+    {
+      "text": "25 Gratitude Crystals",
+      "difficulty": 3,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Zelda's Gratitude Crystal",
+      "difficulty": 3,
+      "tags": [
+        "End",
+        "Crystals",
+        "Sailcloth"
+      ]
+    },
+    {
+      "text": "Peatrice's Gratitude Crystals",
+      "difficulty": 3,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Clear a Thrill Digger Board",
+      "difficulty": 3,
+      "tags": [
+        "Eldin"
+      ]
+    },
+    {
+      "text": "6 Eldin Goddess Cubes",
+      "difficulty": 3,
+      "tags": [
+        "Cubes",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Life Tree Seedling",
+      "difficulty": 3,
+      "tags": [
+        "BiT"
+      ]
+    },
+    {
+      "text": "Open all Earth Temple Chests",
+      "difficulty": 3,
+      "tags": [
+        "Chests",
+        "Earth"
+      ]
+    },
+    {
+      "text": "Kina's Pumpkin Carrying Game",
+      "difficulty": 3,
+      "tags": [
+        "Pumpkin"
+      ]
+    },
+    {
+      "text": "Earth Temple Dungeon Map",
+      "difficulty": 3,
+      "tags": [
+        "Map",
+        "Earth"
+      ]
+    },
+    {
+      "text": "5 Lizard Tails",
+      "difficulty": 3,
+      "tags": [
+        "Earth"
+      ]
+    },
+    {
+      "text": "Destroy all of Scaldera's Rocks",
+      "difficulty": 3,
+      "tags": [
+        "Earth"
+      ]
+    },
+    {
+      "text": "7 Pouch Slots",
+      "difficulty": 3,
+      "tags": [
+        "Pouch",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "1000 Rupees",
+      "difficulty": 3,
+      "tags": [
+        "Rupees"
+      ]
+    },
+    {
+      "text": "10 Goddess Cubes",
+      "difficulty": 3,
+      "tags": [
+        "Cubes"
+      ]
+    },
+    {
+      "text": "30 Bomb Capacity",
+      "difficulty": 3,
+      "tags": [
+        "Ammo"
+      ]
+    },
+    {
+      "text": "Bug Medal",
+      "difficulty": 3,
+      "tags": [
+        "Medals",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "Reinforced Shield",
+      "difficulty": 3,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Obtain one of every treasure",
+      "difficulty": 4,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "3 Unique Wooden Shields",
+      "difficulty": 4,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Catch one of every bug",
+      "difficulty": 4,
+      "tags": [
+        "Bugs"
+      ]
+    },
+    {
+      "text": "Braced Shield",
+      "difficulty": 4,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Big Bug Net",
+      "difficulty": 4,
+      "tags": [
+        "Upgrade"
+      ]
+    },
+    {
+      "text": "Quick Beetle",
+      "difficulty": 4,
+      "tags": [
+        "Upgrade"
+      ]
+    },
+    {
+      "text": "Updated Lanaryu Desert Map",
+      "difficulty": 4,
+      "tags": [
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Five map beacons",
+      "difficulty": 4,
+      "tags": [
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Duplicate an Ampilus Egg",
+      "difficulty": 4,
+      "tags": [
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Obtain a Recovery Heart",
+      "difficulty": 4,
+      "tags": [
+        "Misc"
+      ]
+    },
+    {
+      "text": "Both Life Medals",
+      "difficulty": 4,
+      "tags": [
+        "Medals"
+      ]
+    },
+    {
+      "text": "Lanayru Heart Piece",
+      "difficulty": 4,
+      "tags": [
+        "Hearts"
+      ]
+    },
+    {
+      "text": "5 Lanayru Goddess Cubes",
+      "difficulty": 4,
+      "tags": [
+        "Lanayru",
+        "Cubes"
+      ]
+    },
+    {
+      "text": "Cursed Medal",
+      "difficulty": 4,
+      "tags": [
+        "Medals",
+        "Crystals"
+      ]
+    },
+    {
+      "text": "15 Goddess Cubes",
+      "difficulty": 4,
+      "tags": [
+        "Cubes"
+      ]
+    },
+    {
+      "text": "4 Medals",
+      "difficulty": 4,
+      "tags": [
+        "Medals"
+      ]
+    },
+    {
+      "text": "12 Hearts",
+      "difficulty": 4,
+      "tags": [
+        "Hearts"
+      ]
+    },
+    {
+      "text": "1500 Rupees",
+      "difficulty": 4,
+      "tags": [
+        "Rupees"
+      ]
+    },
+    {
+      "text": "8 Heart Pieces",
+      "difficulty": 4,
+      "tags": [
+        "Hearts"
+      ]
+    },
+    {
+      "text": "All 15 Scattered Crystals",
+      "difficulty": 4,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Fortified Shield",
+      "difficulty": 4,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Heart Potion++",
+      "difficulty": 4,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Revitalizing Potion++",
+      "difficulty": 4,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Large Slingshot Satchel",
+      "difficulty": 4,
+      "tags": [
+        "Ammo",
+        "Upgrade"
+      ]
+    },
+    {
+      "text": "4 Unique Shields",
+      "difficulty": 4,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Large Bomb Bag",
+      "difficulty": 4,
+      "tags": [
+        "Ammo",
+        "Upgrade"
+      ]
+    },
+    {
+      "text": "Baby's Rattle",
+      "difficulty": 4,
+      "tags": [
+        "Misc"
+      ]
+    },
+    {
+      "text": "Mallara's Gratitude Crystals",
+      "difficulty": 4,
+      "tags": [
+        "Crystals"
+      ]
+    },
+    {
+      "text": "Turn a windmill",
+      "difficulty": 4,
+      "tags": [
+        "Misc"
+      ]
+    },
+    {
+      "text": "LMF Dungeon Map",
+      "difficulty": 4,
+      "tags": [
+        "Map",
+        "LMF"
+      ]
+    },
+    {
+      "text": "3 Dungeon Maps",
+      "difficulty": 4,
+      "tags": [
+        "Map"
+      ]
+    },
+    {
+      "text": "3 Goddess Plumes",
+      "difficulty": 4,
+      "tags": [
+        "Treasures"
+      ]
+    },
+    {
+      "text": "16 Goddess Cubes",
+      "difficulty": 5,
+      "tags": [
+        "Cubes"
+      ]
+    },
+    {
+      "text": "11 Heart Pieces",
+      "difficulty": 5,
+      "tags": [
+        "Hearts"
+      ]
+    },
+    {
+      "text": "3 Unique Iron Shields",
+      "difficulty": 5,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "5 Unique Shields",
+      "difficulty": 5,
+      "tags": [
+        "Shields"
+      ]
+    },
+    {
+      "text": "Tough Beetle",
+      "difficulty": 5,
+      "tags": [
+        "Upgrade"
+      ]
+    },
+    {
+      "text": "Scattershot",
+      "difficulty": 5,
+      "tags": [
+        "Upgrade",
+        "Harp",
+        "BiT"
+      ]
+    },
+    {
+      "text": "20 Bird Statues",
+      "difficulty": 5,
+      "tags": [
+        "Statues",
+        "Harp"
+      ]
+    },
+    {
+      "text": "Open all LMF Chests",
+      "difficulty": 5,
+      "tags": [
+        "LMF",
+        "Chests"
+      ]
+    },
+    {
+      "text": "Goddess Harp",
+      "difficulty": 5,
+      "tags": [
+        "Harp"
+      ]
+    },
+    {
+      "text": "Stamina Potion",
+      "difficulty": 5,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Temple of Time Bird Statue",
+      "difficulty": 5,
+      "tags": [
+        "Statues",
+        "Harp"
+      ]
+    },
+    {
+      "text": "8 Lanayru Bird Statues",
+      "difficulty": 5,
+      "tags": [
+        "Statues",
+        "Harp"
+      ]
+    },
+    {
+      "text": "8 Pouch Slots",
+      "difficulty": 5,
+      "tags": [
+        "Pouch",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "6 Medals",
+      "difficulty": 5,
+      "tags": [
+        "Medals"
+      ]
+    },
+    {
+      "text": "1900 Rupees",
+      "difficulty": 5,
+      "tags": [
+        "Rupees"
+      ]
+    },
+    {
+      "text": "Beedle's Heart Piece",
+      "difficulty": 5,
+      "tags": [
+        "Hearts",
+        "Rupees"
+      ]
+    },
+    {
+      "text": "40 Gratitude Crystals",
+      "difficulty": 5,
+      "tags": [
+        "Crystals",
+        "Imp"
+      ]
+    },
+    {
+      "text": "Open 40 Chests",
+      "difficulty": 5,
+      "tags": [
+        "Chests"
+      ]
+    },
+    {
+      "text": "Summon a Gossip Stone",
+      "difficulty": 5,
+      "tags": [
+        "Harp"
+      ]
+    },
+    {
+      "text": "Get Fairies from a Goddess Wall",
+      "difficulty": 5,
+      "tags": [
+        "BiT",
+        "Harp"
+      ]
+    },
+    {
+      "text": "Stamina Potion+",
+      "difficulty": 5,
+      "tags": [
+        "Potions"
+      ]
+    },
+    {
+      "text": "Water Dragon's Scale",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "BiT",
+        "Scale"
+      ]
+    },
+    {
+      "text": "Reseal the Imprisoned",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "Imp"
+      ]
+    },
+    {
+      "text": "Ballad of the Goddess",
+      "difficulty": 5,
+      "tags": [
+        "Harp"
+      ]
+    },
+    {
+      "text": "Talk to Yerbal",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "BiT"
+      ]
+    },
+    {
+      "text": "Repair Scrapper",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "Imp"
+      ]
+    },
+    {
+      "text": "Cawlin's Letter",
+      "difficulty": 5,
+      "tags": [
+        "Harp"
+      ]
+    },
+    {
+      "text": "Air Potion",
+      "difficulty": 5,
+      "tags": [
+        "Potions",
+        "Scale",
+        "BiT"
+      ]
+    },
+    {
+      "text": "Sacred Shield",
+      "difficulty": 5,
+      "tags": [
+        "Shields",
+        "Imp",
+        "Harp"
+      ]
+    },
+    {
+      "text": "Lake Floria Goddess Cube",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "BiT",
+        "Scale"
+      ]
+    },
+    {
+      "text": "All 10 Faron Bird Statues",
+      "difficulty": 5,
+      "tags": [
+        "Harp",
+        "BiT",
+        "Scale",
+        "Statues"
+      ]
+    }
+  ]
+}

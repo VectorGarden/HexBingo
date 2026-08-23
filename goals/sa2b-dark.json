@@ -1,0 +1,1115 @@
+{
+  "name": "Sonic Adventure 2 Battle: Dark Story",
+  "goals": [
+    {
+      "text": "Rename a Chao after a person you're racing",
+      "difficulty": 1,
+      "tags": [
+        "chaogarden",
+        "multistory"
+      ]
+    },
+    {
+      "text": "Iron Gate M2",
+      "difficulty": 1,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Complete Iron Gate M1 with 100+ Rings",
+      "difficulty": 1,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Iron Gate and finish",
+      "difficulty": 1,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Iron Gate and finish",
+      "difficulty": 1,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M1 Hintless",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M2",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "Complete Dry Lagoon M1 with 100+ Rings",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Dry Lagoon and finish",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Dry Lagoon and finish",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M3",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M3 B-Rank",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon",
+        "brank"
+      ]
+    },
+    {
+      "text": "Complete Sand Ocean M1 with 100+ Rings",
+      "difficulty": 1,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Sand Ocean and finish",
+      "difficulty": 1,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Beginner Chao Karate Emblem (with a new Chao)",
+      "difficulty": 1,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M4",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M5",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Sand Ocean and finish",
+      "difficulty": 1,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Sand Ocean M2",
+      "difficulty": 1,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M5 A-Rank",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon",
+        "arank"
+      ]
+    },
+    {
+      "text": "Shadow's Flame Ring",
+      "difficulty": 1,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "Dry Lagoon M4 A-Rank",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon",
+        "arank"
+      ]
+    },
+    {
+      "text": "Destroy the Gold Beetle in 3 different stages",
+      "difficulty": 1,
+      "tags": [
+        "goldbeetle"
+      ]
+    },
+    {
+      "text": "Pacifist Radical Highway M1",
+      "difficulty": 1,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "Dry Lagoon All Missions A-Rank",
+      "difficulty": 1,
+      "tags": [
+        "drylagoon",
+        "arank",
+        "allmissions"
+      ]
+    },
+    {
+      "text": "Unlock Chao Garden for all characters",
+      "difficulty": 1,
+      "tags": [
+        "chaogarden"
+      ]
+    },
+    {
+      "text": "Complete Radical Highway M1 with 100+ Rings",
+      "difficulty": 1,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Radical Highway and finish",
+      "difficulty": 1,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Radical Highway and finish",
+      "difficulty": 1,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "Egg Quarters M1 Hintless",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Radical Highway M2",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Egg Quarters and finish",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Rouge's Mystic Melody",
+      "difficulty": 2,
+      "tags": [
+        "drylagoon"
+      ]
+    },
+    {
+      "text": "500 Total Rings",
+      "difficulty": 2,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "Egg Quarters M2",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Complete Egg Quarters M1 with 100+ Rings",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Radical Highway M3",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Egg Quarters and finish",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Complete Egg Quarters M1 with a Magnetic Shield",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Egg Quarters M3",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Radical Highway M4",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "Dr Eggman's Mystic Melody",
+      "difficulty": 2,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Radical Highway M4 A-Rank",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway",
+        "arank"
+      ]
+    },
+    {
+      "text": "Egg Quarters M4",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Destroy the Gold Beetle in 5 different stages",
+      "difficulty": 2,
+      "tags": [
+        "goldbeetle",
+        "multistory"
+      ]
+    },
+    {
+      "text": "Egg Quarters M4 A-Rank",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters",
+        "arank"
+      ]
+    },
+    {
+      "text": "Lost Colony M2",
+      "difficulty": 2,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Sand Ocean M3",
+      "difficulty": 2,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Complete Lost Colony M1 with 100+ Rings",
+      "difficulty": 2,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Lost Colony and finish",
+      "difficulty": 2,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Lost Colony and finish",
+      "difficulty": 2,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Radical Highway M5",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway"
+      ]
+    },
+    {
+      "text": "10 Emblems",
+      "difficulty": 2,
+      "tags": [
+        "emblems",
+        "multistory"
+      ]
+    },
+    {
+      "text": "Radical Highway M5 A-Rank",
+      "difficulty": 2,
+      "tags": [
+        "radicalhighway",
+        "arank"
+      ]
+    },
+    {
+      "text": "Iron Gate M3",
+      "difficulty": 2,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Egg Quarters M5",
+      "difficulty": 2,
+      "tags": [
+        "eggquarters"
+      ]
+    },
+    {
+      "text": "Game Over during Tails 1",
+      "difficulty": 2,
+      "tags": [
+        "gameover"
+      ]
+    },
+    {
+      "text": "Weapons Bed M2",
+      "difficulty": 2,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Complete Weapons Bed M1 with 100+ Rings",
+      "difficulty": 2,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Weapons Bed and finish",
+      "difficulty": 2,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Weapons Bed and finish",
+      "difficulty": 2,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Pacifist Weapons Bed M1",
+      "difficulty": 2,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Sand Ocean M4",
+      "difficulty": 2,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Radical Highway All Missions A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "radicalhighway",
+        "arank",
+        "allmissions"
+      ]
+    },
+    {
+      "text": "Egg Quarters M5 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "eggquarters",
+        "arank"
+      ]
+    },
+    {
+      "text": "Sand Ocean M4 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "sandocean",
+        "arank"
+      ]
+    },
+    {
+      "text": "Rouge's Treasure Scope",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Security Hall M1 Hintless",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Iron Gate M4",
+      "difficulty": 3,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Lost Colony M3",
+      "difficulty": 3,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Weapons Bed M3",
+      "difficulty": 3,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Dr Eggman's Laser Blaster",
+      "difficulty": 3,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Game Over during Flying Dog",
+      "difficulty": 3,
+      "tags": [
+        "gameover"
+      ]
+    },
+    {
+      "text": "Security Hall M2",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Complete Security Hall M1 with 100+ Rings",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Security Hall and finish",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Security Hall and finish",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Complete Security Hall M1 with a Magnetic Shield",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Egg Quarters All Missions A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "eggquarters",
+        "arank",
+        "allmissions"
+      ]
+    },
+    {
+      "text": "Iron Gate M4 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "irongate",
+        "arank"
+      ]
+    },
+    {
+      "text": "Iron Gate M5",
+      "difficulty": 3,
+      "tags": [
+        "irongate"
+      ]
+    },
+    {
+      "text": "Sand Ocean M5",
+      "difficulty": 3,
+      "tags": [
+        "sandocean"
+      ]
+    },
+    {
+      "text": "Security Hall M3",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Security Hall M3 B-Rank",
+      "difficulty": 3,
+      "tags": [
+        "securityhall",
+        "brank"
+      ]
+    },
+    {
+      "text": "Weapons Bed M4",
+      "difficulty": 3,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Security Hall M4",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Lost Colony M4",
+      "difficulty": 3,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Iron Gate M5 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "irongate",
+        "arank"
+      ]
+    },
+    {
+      "text": "Sand Ocean M5 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "sandocean",
+        "arank"
+      ]
+    },
+    {
+      "text": "Weapons Bed M4 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "weaponsbed",
+        "arank"
+      ]
+    },
+    {
+      "text": "Security Hall M4 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "securityhall",
+        "arank"
+      ]
+    },
+    {
+      "text": "Lost Colony M4 A-Rank",
+      "difficulty": 3,
+      "tags": [
+        "lostcolony",
+        "arank"
+      ]
+    },
+    {
+      "text": "White Jungle M2",
+      "difficulty": 3,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "Weapons Bed M5",
+      "difficulty": 3,
+      "tags": [
+        "weaponsbed"
+      ]
+    },
+    {
+      "text": "Complete White Jungle M1 with 100+ Rings",
+      "difficulty": 3,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in White Jungle and finish",
+      "difficulty": 3,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in White Jungle and finish",
+      "difficulty": 3,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "Game Over during Sonic 1",
+      "difficulty": 3,
+      "tags": [
+        "gameover"
+      ]
+    },
+    {
+      "text": "Pacifist White Jungle M1",
+      "difficulty": 3,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "Beginner Kart Racing Emblem",
+      "difficulty": 3,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "Security Hall M5",
+      "difficulty": 3,
+      "tags": [
+        "securityhall"
+      ]
+    },
+    {
+      "text": "Weapons Bed M5 A-Rank",
+      "difficulty": 4,
+      "tags": [
+        "weaponsbed",
+        "arank"
+      ]
+    },
+    {
+      "text": "Security Hall M5 A-Rank",
+      "difficulty": 4,
+      "tags": [
+        "securityhall",
+        "arank"
+      ]
+    },
+    {
+      "text": "White Jungle M3",
+      "difficulty": 4,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "Lost Colony M5",
+      "difficulty": 4,
+      "tags": [
+        "lostcolony"
+      ]
+    },
+    {
+      "text": "Game Over during Route 280 M1",
+      "difficulty": 4,
+      "tags": [
+        "route280",
+        "gameover"
+      ]
+    },
+    {
+      "text": "Lost Colony M5 A-Rank",
+      "difficulty": 4,
+      "tags": [
+        "lostcolony",
+        "arank"
+      ]
+    },
+    {
+      "text": "Route 280 M2",
+      "difficulty": 4,
+      "tags": [
+        "route280"
+      ]
+    },
+    {
+      "text": "White Jungle M4",
+      "difficulty": 4,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "Complete Sky Rail M1 with 100+ Rings",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Shadow's Ancient Light",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Lost Colony All Missions A-Rank",
+      "difficulty": 4,
+      "tags": [
+        "lostcolony",
+        "arank",
+        "allmissions"
+      ]
+    },
+    {
+      "text": "Sky Rail M2",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Sky Rail and finish",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Route 280 M3",
+      "difficulty": 4,
+      "tags": [
+        "route280"
+      ]
+    },
+    {
+      "text": "White Jungle M5",
+      "difficulty": 4,
+      "tags": [
+        "whitejungle"
+      ]
+    },
+    {
+      "text": "All Kart Racing Emblems",
+      "difficulty": 4,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Sky Rail and finish",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Sky Rail M3",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Mad Space M1 Hintless",
+      "difficulty": 4,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Finish any mission with 25+ Lives (No Underflow)",
+      "difficulty": 4,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "White Jungle M5 A-Rank",
+      "difficulty": 4,
+      "tags": [
+        "whitejungle",
+        "arank"
+      ]
+    },
+    {
+      "text": "Mad Space M2",
+      "difficulty": 4,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Complete Mad Space M1 with 100+ Rings",
+      "difficulty": 4,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Mad Space and finish",
+      "difficulty": 4,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Mad Space and finish",
+      "difficulty": 4,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Sky Rail M4",
+      "difficulty": 4,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Sky Rail M4 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "skyrail",
+        "arank"
+      ]
+    },
+    {
+      "text": "Sky Rail M5",
+      "difficulty": 5,
+      "tags": [
+        "skyrail"
+      ]
+    },
+    {
+      "text": "Mad Space M3",
+      "difficulty": 5,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Route 280 M4",
+      "difficulty": 5,
+      "tags": [
+        "route280"
+      ]
+    },
+    {
+      "text": "Mad Space M4",
+      "difficulty": 5,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Dr Eggman's Protective Armor",
+      "difficulty": 5,
+      "tags": [
+        "cosmicwall"
+      ]
+    },
+    {
+      "text": "Sky Rail M5 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "skyrail",
+        "arank"
+      ]
+    },
+    {
+      "text": "Route 280 M4 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "route280",
+        "arank"
+      ]
+    },
+    {
+      "text": "Mad Space M4 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "madspace",
+        "arank"
+      ]
+    },
+    {
+      "text": "20 Emblems",
+      "difficulty": 5,
+      "tags": [
+        "emblems",
+        "multistory"
+      ]
+    },
+    {
+      "text": "Destroy the Gold Beetle in 9 different stages",
+      "difficulty": 5,
+      "tags": [
+        "goldbeetle",
+        "multistory"
+      ]
+    },
+    {
+      "text": "Mad Space M5",
+      "difficulty": 5,
+      "tags": [
+        "madspace"
+      ]
+    },
+    {
+      "text": "Route 280 M5",
+      "difficulty": 5,
+      "tags": [
+        "route280"
+      ]
+    },
+    {
+      "text": "Mad Space M5 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "madspace",
+        "arank"
+      ]
+    },
+    {
+      "text": "Route 280 M5 A-Rank",
+      "difficulty": 5,
+      "tags": [
+        "route280",
+        "arank"
+      ]
+    },
+    {
+      "text": "Cosmic Wall M2",
+      "difficulty": 5,
+      "tags": [
+        "cosmicwall"
+      ]
+    },
+    {
+      "text": "Complete Cosmic Wall M1 with 100+ Rings",
+      "difficulty": 5,
+      "tags": [
+        "cosmicwall"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Cosmic Wall and finish",
+      "difficulty": 5,
+      "tags": [
+        "cosmicwall"
+      ]
+    },
+    {
+      "text": "Cosmic Wall M3",
+      "difficulty": 5,
+      "tags": [
+        "cosmicwall"
+      ]
+    },
+    {
+      "text": "1500 Total Rings",
+      "difficulty": 5,
+      "tags": [
+        "multistory"
+      ]
+    },
+    {
+      "text": "Complete Final Chase M1 with 100+ Rings",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    },
+    {
+      "text": "Shadow's Mystic Melody",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    },
+    {
+      "text": "Final Chase M2",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    },
+    {
+      "text": "2 Chao Boxes in Final Chase and finish",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    },
+    {
+      "text": "5 hidden Chao animals in Final Chase and finish",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    },
+    {
+      "text": "All Dark Story Character's Upgrades",
+      "difficulty": 5,
+      "tags": [
+        "finalchase"
+      ]
+    }
+  ]
+}

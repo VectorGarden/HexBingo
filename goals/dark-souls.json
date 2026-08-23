@@ -1,0 +1,1410 @@
+{
+  "name": "Dark Souls",
+  "goals": [
+    {
+      "text": "Bandit Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_axe"
+      ]
+    },
+    {
+      "text": "Knight Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_sword"
+      ]
+    },
+    {
+      "text": "Hunter Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_sword"
+      ]
+    },
+    {
+      "text": "Pyromancer Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_axe"
+      ]
+    },
+    {
+      "text": "Depraved Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass"
+      ]
+    },
+    {
+      "text": "Wanderer Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass"
+      ]
+    },
+    {
+      "text": "Thief Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_key"
+      ]
+    },
+    {
+      "text": "Warrior Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass",
+        "restrict_sword"
+      ]
+    },
+    {
+      "text": "Cleric Class",
+      "difficulty": 1,
+      "tags": [
+        "startingclass"
+      ]
+    },
+    {
+      "text": "No Master Key",
+      "difficulty": 1,
+      "tags": [
+        "startingitem",
+        "restrict_key"
+      ]
+    },
+    {
+      "text": "Take Pendant as gift",
+      "difficulty": 1,
+      "tags": [
+        "startingitem",
+        "restrict_key"
+      ]
+    },
+    {
+      "text": "Take Binoculars as gift",
+      "difficulty": 1,
+      "tags": [
+        "startingitem",
+        "restrict_key"
+      ]
+    },
+    {
+      "text": "Take Old witches ring as gift",
+      "difficulty": 1,
+      "tags": [
+        "startingitem",
+        "restrict_key"
+      ]
+    },
+    {
+      "text": "Right hand wielding only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "wielding"
+      ]
+    },
+    {
+      "text": "Left hand wielding only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "wielding"
+      ]
+    },
+    {
+      "text": "No Swords",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_weapons"
+      ]
+    },
+    {
+      "text": "No Shields",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_weapons"
+      ]
+    },
+    {
+      "text": "No Polearms",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_weapons"
+      ]
+    },
+    {
+      "text": "Daggers Only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_weapons"
+      ]
+    },
+    {
+      "text": "Axes only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_weapons"
+      ]
+    },
+    {
+      "text": "No Rings",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_armour"
+      ]
+    },
+    {
+      "text": "Starting Armour only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_armour"
+      ]
+    },
+    {
+      "text": "Starting Weapons only",
+      "difficulty": 1,
+      "tags": [
+        "restriction",
+        "restrict_armour"
+      ]
+    },
+    {
+      "text": "Summon Lautrec for Gargoyles",
+      "difficulty": 1,
+      "tags": [
+        "npcs",
+        "parish"
+      ]
+    },
+    {
+      "text": "Obtain Fire Keeper Soul (Parish)",
+      "difficulty": 1,
+      "tags": [
+        "humanity",
+        "parish"
+      ]
+    },
+    {
+      "text": "Kill Armoured Boar (Parish)",
+      "difficulty": 1,
+      "tags": [
+        "enemies",
+        "parish"
+      ]
+    },
+    {
+      "text": "Join Warriors of Sunlight",
+      "difficulty": 1,
+      "tags": [
+        "covenant",
+        "parish"
+      ]
+    },
+    {
+      "text": "Cut Off a Gargoyle's Tail",
+      "difficulty": 1,
+      "tags": [
+        "bosses",
+        "parish",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain Crest of Artorias",
+      "difficulty": 1,
+      "tags": [
+        "items",
+        "parish"
+      ]
+    },
+    {
+      "text": "Bloodbite Ring",
+      "difficulty": 1,
+      "tags": [
+        "rings",
+        "parish"
+      ]
+    },
+    {
+      "text": "Poisonbite Ring",
+      "difficulty": 1,
+      "tags": [
+        "rings",
+        "parish"
+      ]
+    },
+    {
+      "text": "3 Purging Stones",
+      "difficulty": 1,
+      "tags": [
+        "items",
+        "parish"
+      ]
+    },
+    {
+      "text": "Open Lower Burg / Depths to Firelink Gate",
+      "difficulty": 1,
+      "tags": [
+        "shortcut",
+        "lowerburg"
+      ]
+    },
+    {
+      "text": "Rescue Griggs",
+      "difficulty": 1,
+      "tags": [
+        "npcs",
+        "lowerburg"
+      ]
+    },
+    {
+      "text": "Join Forest Hunters",
+      "difficulty": 1,
+      "tags": [
+        "covenant",
+        "darkroot",
+        "npcs"
+      ]
+    },
+    {
+      "text": "Obtain Divine Ember",
+      "difficulty": 1,
+      "tags": [
+        "darkroot",
+        "ember"
+      ]
+    },
+    {
+      "text": "Obtain Enchanted Ember",
+      "difficulty": 1,
+      "tags": [
+        "darkroot",
+        "ember"
+      ]
+    },
+    {
+      "text": "Kill Black Knight (Darkroot)",
+      "difficulty": 1,
+      "tags": [
+        "darkroot",
+        "ember"
+      ]
+    },
+    {
+      "text": "Kill Capra Demon",
+      "difficulty": 1,
+      "tags": [
+        "lowerburg",
+        "bosses"
+      ]
+    },
+    {
+      "text": "Obtain Grass Crest Shield",
+      "difficulty": 1,
+      "tags": [
+        "items",
+        "armour",
+        "darkroot"
+      ]
+    },
+    {
+      "text": "Obtain Soul of the Moonlight Butterfly",
+      "difficulty": 1,
+      "tags": [
+        "bosses",
+        "darkroot"
+      ]
+    },
+    {
+      "text": "Obtain heavy Crossbow",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "depths",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain Ring of Evil Eye",
+      "difficulty": 2,
+      "tags": [
+        "rings",
+        "depths",
+        "items"
+      ]
+    },
+    {
+      "text": "Defeat Kirk (Depths)",
+      "difficulty": 2,
+      "tags": [
+        "npcs",
+        "depths",
+        "enemies"
+      ]
+    },
+    {
+      "text": "Kill Gaping Dragon",
+      "difficulty": 2,
+      "tags": [
+        "bosses",
+        "depths"
+      ]
+    },
+    {
+      "text": "Kill 2 Butchers",
+      "difficulty": 2,
+      "tags": [
+        "enemies",
+        "depths"
+      ]
+    },
+    {
+      "text": "Obtain Large Ember",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "ember",
+        "depths"
+      ]
+    },
+    {
+      "text": "Rescue Laurentius",
+      "difficulty": 2,
+      "tags": [
+        "npcs",
+        "depths",
+        "pyromancy"
+      ]
+    },
+    {
+      "text": "Kill Sif",
+      "difficulty": 2,
+      "tags": [
+        "darkroot",
+        "bosses",
+        "sif"
+      ]
+    },
+    {
+      "text": "Obtain Hornet Ring",
+      "difficulty": 2,
+      "tags": [
+        "darkroot",
+        "bosses",
+        "sif"
+      ]
+    },
+    {
+      "text": "Obtain Whip",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "blighttown"
+      ]
+    },
+    {
+      "text": "Obtain Server",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "blighttown"
+      ]
+    },
+    {
+      "text": "Obtain Iaito",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "blighttown"
+      ]
+    },
+    {
+      "text": "Obtain Force Within",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "spells",
+        "blighttown"
+      ]
+    },
+    {
+      "text": "Obtain Tin Banishment Catalyst",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "weapons"
+      ]
+    },
+    {
+      "text": "Obtain Remedy",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "spells"
+      ]
+    },
+    {
+      "text": "Obtain Fire Keeper Soul (Blighttown)",
+      "difficulty": 2,
+      "tags": [
+        "blighttown",
+        "items",
+        "humanity"
+      ]
+    },
+    {
+      "text": "Obtain Queelag's Soul",
+      "difficulty": 2,
+      "tags": [
+        "bosses",
+        "depths",
+        "items"
+      ]
+    },
+    {
+      "text": "Defeat Maneater Mildred",
+      "difficulty": 2,
+      "tags": [
+        "bosses",
+        "depths"
+      ]
+    },
+    {
+      "text": "Obtain Fire Keeper Soul (New Londo)",
+      "difficulty": 2,
+      "tags": [
+        "drakeslondo",
+        "items",
+        "humanity"
+      ]
+    },
+    {
+      "text": "Obtain Astora's Straight Sword",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "drakeslondo",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain Very Large Ember",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "drakeslondo"
+      ]
+    },
+    {
+      "text": "Obtain Cursebite Ring",
+      "difficulty": 2,
+      "tags": [
+        "rings",
+        "drakeslondo"
+      ]
+    },
+    {
+      "text": "Obtain Composite Bow",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "drakeslondo",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain 10 Cracked Red Eye Orbs",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "drakeslondo"
+      ]
+    },
+    {
+      "text": "Defeat Four Kings",
+      "difficulty": 2,
+      "tags": [
+        "bosses",
+        "drakeslondo"
+      ]
+    },
+    {
+      "text": "Kill Undead Dragon (Valley of the Drakes)",
+      "difficulty": 2,
+      "tags": [
+        "bosses",
+        "drakeslondo"
+      ]
+    },
+    {
+      "text": "Obtain Lucerne",
+      "difficulty": 2,
+      "tags": [
+        "weapons",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Obtain 6 Eyes of Death",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "catacombs",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Darkmoon Seance Ring",
+      "difficulty": 2,
+      "tags": [
+        "enemies",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Obtain Gravelord Greastword",
+      "difficulty": 2,
+      "tags": [
+        "covenant",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Obtain Great Scythe",
+      "difficulty": 2,
+      "tags": [
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Obtain Tranquil Walk of Peace",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "spells",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Kill Black Knight (Catacombs)",
+      "difficulty": 2,
+      "tags": [
+        "items",
+        "spells",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Kill Titanite Demon (The Catacombs)",
+      "difficulty": 2,
+      "tags": [
+        "enemies",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Kill Patches",
+      "difficulty": 2,
+      "tags": [
+        "npcs",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Summon Paladin Leeroy",
+      "difficulty": 2,
+      "tags": [
+        "covenant",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Craft a Fire Weapon",
+      "difficulty": 2,
+      "tags": [
+        "vamos",
+        "catacombs"
+      ]
+    },
+    {
+      "text": "Kill 2 Black Knights in the Asylum",
+      "difficulty": 2,
+      "tags": [
+        "asylum",
+        "enemies"
+      ]
+    },
+    {
+      "text": "Obtain Peculiar Doll",
+      "difficulty": 2,
+      "tags": [
+        "asylum",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain Rusted Iron Ring",
+      "difficulty": 2,
+      "tags": [
+        "asylum",
+        "items"
+      ]
+    },
+    {
+      "text": "Kill Stray Demon",
+      "difficulty": 2,
+      "tags": [
+        "asylum",
+        "bosses"
+      ]
+    },
+    {
+      "text": "Trade an item with Snuggly",
+      "difficulty": 2,
+      "tags": [
+        "asylum",
+        "items"
+      ]
+    },
+    {
+      "text": "Obtain Chaos Ember",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "items",
+        "ember"
+      ]
+    },
+    {
+      "text": "Obtain Large Flame Ember",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "items",
+        "ember"
+      ]
+    },
+    {
+      "text": "Obtain Gold-Hemmed Black Set",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "bosses"
+      ]
+    },
+    {
+      "text": "Kill Ceaseless Discharge",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "bosses"
+      ]
+    },
+    {
+      "text": "Murder Chaos Covenant Leader",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "npcs",
+        "covenant"
+      ]
+    },
+    {
+      "text": "Join Chaos Covenant",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "npcs",
+        "covenant"
+      ]
+    },
+    {
+      "text": "Get the Egg Head Infection",
+      "difficulty": 3,
+      "tags": [
+        "demonruins",
+        "enemies",
+        "armour"
+      ]
+    },
+    {
+      "text": "Obtain Lightning Spear",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "weapons"
+      ]
+    },
+    {
+      "text": "Obtain Covetous Gold Serpent Ring",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "rings",
+        "sens"
+      ]
+    },
+    {
+      "text": "Obtain Ring of Steel Protection",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "rings",
+        "sens"
+      ]
+    },
+    {
+      "text": "Obtain Flame Stoneplate Ring",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "rings",
+        "sens"
+      ]
+    },
+    {
+      "text": "Obtain Sniper Crossbow",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "weapons",
+        "sens"
+      ]
+    },
+    {
+      "text": "Obtain Ricard's Rapier",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "weapons",
+        "sens",
+        "npcs"
+      ]
+    },
+    {
+      "text": "Obtain Hush",
+      "difficulty": 3,
+      "tags": [
+        "items",
+        "sens",
+        "spells"
+      ]
+    },
+    {
+      "text": "Obtain Core of Iron Golem",
+      "difficulty": 3,
+      "tags": [
+        "sens",
+        "items",
+        "bosses"
+      ]
+    },
+    {
+      "text": "Kill All 3 Giants in Sens",
+      "difficulty": 3,
+      "tags": [
+        "enemies",
+        "sens"
+      ]
+    },
+    {
+      "text": "Summon Iron Tarkus",
+      "difficulty": 3,
+      "tags": [
+        "npcs",
+        "lautrec"
+      ]
+    },
+    {
+      "text": "Summon Witch Beatrice",
+      "difficulty": 3,
+      "tags": [
+        "npcs",
+        "Beatrice"
+      ]
+    },
+    {
+      "text": "Murder Siegmeyer",
+      "difficulty": 3,
+      "tags": [
+        "npcs",
+        "lautrec"
+      ]
+    },
+    {
+      "text": "Murder Andre",
+      "difficulty": 3,
+      "tags": [
+        "parish",
+        "items"
+      ]
+    },
+    {
+      "text": "Murder Solaire",
+      "difficulty": 3,
+      "tags": [
+        "covenant",
+        "solaire"
+      ]
+    },
+    {
+      "text": "Kill Lady of the Darkling",
+      "difficulty": 3,
+      "tags": [
+        "npc",
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Murder Giant Blacksmith",
+      "difficulty": 3,
+      "tags": [
+        "anorlondo",
+        "npc",
+        "smithy"
+      ]
+    },
+    {
+      "text": "Join Darkmoon Covenant",
+      "difficulty": 3,
+      "tags": [
+        "npcs",
+        "bosses",
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Kill Dark Sun Gwyndolin",
+      "difficulty": 3,
+      "tags": [
+        "npcs",
+        "bosses",
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Obtain Silver Knight Set",
+      "difficulty": 3,
+      "tags": [
+        "anorlondo",
+        "armour"
+      ]
+    },
+    {
+      "text": "Summon Solaire in Anor Londo",
+      "difficulty": 3,
+      "tags": [
+        "covenant",
+        "solaire"
+      ]
+    },
+    {
+      "text": "Kill Crestfallen Merchant",
+      "difficulty": 3,
+      "tags": [
+        "sens",
+        "npc"
+      ]
+    },
+    {
+      "text": "Rescue Griggs in Lower Burg",
+      "difficulty": 3,
+      "tags": [
+        "lowerburg",
+        "npc"
+      ]
+    },
+    {
+      "text": "Rescue Logan in Sen's",
+      "difficulty": 3,
+      "tags": [
+        "sens",
+        "npc",
+        "spells"
+      ]
+    },
+    {
+      "text": "Cause Crestfallen Warrior to go Hollow",
+      "difficulty": 3,
+      "tags": [
+        "firelink",
+        "npc"
+      ]
+    },
+    {
+      "text": "Never use Sorcery",
+      "difficulty": 4,
+      "tags": [
+        "restriction",
+        "restrict_spell"
+      ]
+    },
+    {
+      "text": "Never use Miracles",
+      "difficulty": 4,
+      "tags": [
+        "restriction",
+        "restrict_spell"
+      ]
+    },
+    {
+      "text": "Never use Consumables",
+      "difficulty": 4,
+      "tags": [
+        "restriction",
+        "restrict_consumable"
+      ]
+    },
+    {
+      "text": "Only heal with Humanities",
+      "difficulty": 4,
+      "tags": [
+        "restriction",
+        "restrict_consumable"
+      ]
+    },
+    {
+      "text": "Never use Pyromancy",
+      "difficulty": 4,
+      "tags": [
+        "restriction",
+        "restrict_spell"
+      ]
+    },
+    {
+      "text": "Never wear Armour",
+      "difficulty": 4,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "text": "Obtain Tiny Being's Ring (Siegmeyer)",
+      "difficulty": 4,
+      "tags": [
+        "npcs",
+        "anorlondo2"
+      ]
+    },
+    {
+      "text": "Obtain Ring of the Sun's Firstborn",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Obtain Hawk Ring",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Kill Three Mimics",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo"
+      ]
+    },
+    {
+      "text": "Kill Titanite Demon (Anor Londo)",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Obtain Havel's Set",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "armour"
+      ]
+    },
+    {
+      "text": "Obtain Soul of Ornstein",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Obtain Leo Ring",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Invade Lautrec at Anor Londo",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "lautrec"
+      ]
+    },
+    {
+      "text": "Join Princess Guard",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "tits",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Obtain Soul of Smough",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Kill Gwynevere",
+      "difficulty": 4,
+      "tags": [
+        "anorlondo",
+        "ornsmo"
+      ]
+    },
+    {
+      "text": "Obtain Black Iron Set",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "guardians"
+      ]
+    },
+    {
+      "text": "Obtain Dark Ember",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "ember"
+      ]
+    },
+    {
+      "text": "Obtain Red Sign Soapstone",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "guardians"
+      ]
+    },
+    {
+      "text": "Obtain Bloodshield",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "guardians"
+      ]
+    },
+    {
+      "text": "Defeat Undead Dragon (Painted World)",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "items"
+      ]
+    },
+    {
+      "text": "Defeat Jeremiah",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "enemies"
+      ]
+    },
+    {
+      "text": "Obtain Painting Guardian Set",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "armour"
+      ]
+    },
+    {
+      "text": "Obtain Velka's Rapier",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "weapons"
+      ]
+    },
+    {
+      "text": "Murder Priscilla",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "youmonster"
+      ]
+    },
+    {
+      "text": "Obtain Dried Finger",
+      "difficulty": 4,
+      "tags": [
+        "paintedworld",
+        "items"
+      ]
+    },
+    {
+      "text": "Kill Black Knight (Tomb of the Giants)",
+      "difficulty": 5,
+      "tags": [
+        "enemies",
+        "totg"
+      ]
+    },
+    {
+      "text": "Rescue Rhea",
+      "difficulty": 5,
+      "tags": [
+        "npcs",
+        "totg",
+        "rhea"
+      ]
+    },
+    {
+      "text": "Get pushed by Patches",
+      "difficulty": 5,
+      "tags": [
+        "npcs",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Skull Lantern",
+      "difficulty": 5,
+      "tags": [
+        "weapons",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Effigy Shield",
+      "difficulty": 5,
+      "tags": [
+        "weapons",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Large Divine Ember",
+      "difficulty": 5,
+      "tags": [
+        "ember",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Covetous Silver Serpent Ring",
+      "difficulty": 5,
+      "tags": [
+        "rings",
+        "totg"
+      ]
+    },
+    {
+      "text": "Obtain Dusk Crown Ring",
+      "difficulty": 5,
+      "tags": [
+        "darkroothard",
+        "dusk"
+      ]
+    },
+    {
+      "text": "Obtain Chameleon",
+      "difficulty": 5,
+      "tags": [
+        "darkroothard",
+        "dusk",
+        "spells"
+      ]
+    },
+    {
+      "text": "Obtain Antiquated Set",
+      "difficulty": 5,
+      "tags": [
+        "darkroothard",
+        "dusk",
+        "spells"
+      ]
+    },
+    {
+      "text": "Never Light a bonfire",
+      "difficulty": 5,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "text": "Fully kindle a bonfire",
+      "difficulty": 5,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "text": "Nver upgrade weapons",
+      "difficulty": 5,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "text": "Join Path of the Dragon",
+      "difficulty": 5,
+      "tags": [
+        "covenant",
+        "ashlake"
+      ]
+    },
+    {
+      "text": "Obtain Great Magic Barrier",
+      "difficulty": 5,
+      "tags": [
+        "miracles",
+        "ashlake"
+      ]
+    },
+    {
+      "text": "Light Ash Lake Bonfire",
+      "difficulty": 5,
+      "tags": [
+        "ashlake"
+      ]
+    },
+    {
+      "text": "Obtain Cloranthy Ring",
+      "difficulty": 5,
+      "tags": [
+        "ashlake"
+      ]
+    },
+    {
+      "text": "Obtain 2 Soul of a Hero",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "humanity"
+      ]
+    },
+    {
+      "text": "20 soft humanity",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "humanity"
+      ]
+    },
+    {
+      "text": "150000 souls",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "souls"
+      ]
+    },
+    {
+      "text": "26 Resistance",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "condition"
+      ]
+    },
+    {
+      "text": "36 Vitality",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "condition"
+      ]
+    },
+    {
+      "text": "36 Endurance",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "condition"
+      ]
+    },
+    {
+      "text": "No Endurance levelling",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "restriction",
+        "condition"
+      ]
+    },
+    {
+      "text": "No Vitality levelling",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "restriction",
+        "condition"
+      ]
+    },
+    {
+      "text": "36 Dexterity",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "attack"
+      ]
+    },
+    {
+      "text": "36 Strength",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "attack"
+      ]
+    },
+    {
+      "text": "28 Attunement",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "casting"
+      ]
+    },
+    {
+      "text": "36 Intelligence",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "casting"
+      ]
+    },
+    {
+      "text": "36 Faith",
+      "difficulty": 5,
+      "tags": [
+        "stats",
+        "casting"
+      ]
+    }
+  ]
+}

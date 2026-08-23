@@ -1,0 +1,342 @@
+{
+  "name": "Spelunky",
+  "goals": [
+    {
+      "text": "Save a Damsel",
+      "difficulty": 1,
+      "tags": [
+        "SAVE"
+      ]
+    },
+    {
+      "text": "Use an Enemy to reach a higher place",
+      "difficulty": 1,
+      "tags": [
+        "ENEMY"
+      ]
+    },
+    {
+      "text": "Access the Black Market",
+      "difficulty": 1,
+      "tags": [
+        "EXPLORE",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Win a game of Deathmatch [Best of 3+]",
+      "difficulty": 1,
+      "tags": [
+        "VERSUS"
+      ]
+    },
+    {
+      "text": "Kill a ShopKeeper",
+      "difficulty": 1,
+      "tags": [
+        "SHOPKEEPER",
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Drop into the Abyss",
+      "difficulty": 1,
+      "tags": [
+        "DEATH",
+        "ICE_CAVES"
+      ]
+    },
+    {
+      "text": "Find a Jetpack",
+      "difficulty": 1,
+      "tags": [
+        "ITEM"
+      ]
+    },
+    {
+      "text": "Escape the Ghost",
+      "difficulty": 1,
+      "tags": [
+        "SURVIVE",
+        "GHOST"
+      ]
+    },
+    {
+      "text": "Open the Jungle Shortcut",
+      "difficulty": 1,
+      "tags": [
+        "SHORTCUT",
+        "MINES"
+      ]
+    },
+    {
+      "text": "Use the Ghost to make 10k",
+      "difficulty": 1,
+      "tags": [
+        "MONEY",
+        "GHOST"
+      ]
+    },
+    {
+      "text": "Befriend a Golden Monkey",
+      "difficulty": 1,
+      "tags": [
+        "MONEY",
+        "KALI"
+      ]
+    },
+    {
+      "text": "Forsake Kali by destroying her altar",
+      "difficulty": 2,
+      "tags": [
+        "KALI"
+      ]
+    },
+    {
+      "text": "Open the Ice Caves ShortCut",
+      "difficulty": 2,
+      "tags": [
+        "SHORTCUT",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Offer a sacrifice to Kali",
+      "difficulty": 2,
+      "tags": [
+        "KALI"
+      ]
+    },
+    {
+      "text": "Kill a ShopKeeper with his own shotgun",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "SHOPKEEPER",
+        "SHOTGUN"
+      ]
+    },
+    {
+      "text": "Kill a ShopKeeper with an attached sticky bomb",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "SHOPKEEPER",
+        "BOMB"
+      ]
+    },
+    {
+      "text": "Kill the Queen Bee",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Escape the Haunted Castle",
+      "difficulty": 2,
+      "tags": [
+        "SURVIVE",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Acquire the Ankh",
+      "difficulty": 2,
+      "tags": [
+        "JUNGLE",
+        "BLACK_MARKET",
+        "ITEM"
+      ]
+    },
+    {
+      "text": "Sacrifice yourself to Kali",
+      "difficulty": 2,
+      "tags": [
+        "KALI"
+      ]
+    },
+    {
+      "text": "Defeat Old Bitey",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Kill the Black Knight",
+      "difficulty": 3,
+      "tags": [
+        "HUNT",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Acquire an Eggplant",
+      "difficulty": 3,
+      "tags": [
+        "ITEM",
+        "KALI"
+      ]
+    },
+    {
+      "text": "Telefrag an enemy",
+      "difficulty": 3,
+      "tags": [
+        "HUNT",
+        "ITEM"
+      ]
+    },
+    {
+      "text": "Open the Temple Shortcut",
+      "difficulty": 3,
+      "tags": [
+        "SHORTCUT",
+        "ICE_CAVES"
+      ]
+    },
+    {
+      "text": "Acquire a Ball and Chain",
+      "difficulty": 3,
+      "tags": [
+        "KALI",
+        "ITEM"
+      ]
+    },
+    {
+      "text": "Get the Crysknife",
+      "difficulty": 3,
+      "tags": [
+        "WORM",
+        "JUNGLE",
+        "ITEM"
+      ]
+    },
+    {
+      "text": "Detach the Ball and Chain",
+      "difficulty": 3,
+      "tags": [
+        "ICE_CAVES"
+      ]
+    },
+    {
+      "text": "Enter the City of Gold",
+      "difficulty": 3,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "EXPLORE",
+        "TEMPLE"
+      ]
+    },
+    {
+      "text": "Destroy the Alien Queen",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "ICE_CAVES",
+        "SPACESHIP"
+      ]
+    },
+    {
+      "text": "Using 2 Spelunkers, complete a Stage without a death",
+      "difficulty": 4,
+      "tags": [
+        "CO_OP",
+        "SURVIVE"
+      ]
+    },
+    {
+      "text": "Get the Kapala",
+      "difficulty": 4,
+      "tags": [
+        "KALI"
+      ]
+    },
+    {
+      "text": "Befriend a Crystal Monkey",
+      "difficulty": 4,
+      "tags": [
+        "KALI",
+        "JUNGLE"
+      ]
+    },
+    {
+      "text": "Finish a run with $1,000,000",
+      "difficulty": 4,
+      "tags": [
+        "MONEY"
+      ]
+    },
+    {
+      "text": "Defeat Anubis II",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "TEMPLE"
+      ]
+    },
+    {
+      "text": "Defeat Olmec without using any bombs",
+      "difficulty": 4,
+      "tags": [
+        "BOSS",
+        "TEMPLE"
+      ]
+    },
+    {
+      "text": "Enter Hell",
+      "difficulty": 5,
+      "tags": [
+        "BOSS",
+        "TEMPLE"
+      ]
+    },
+    {
+      "text": "Using 2 Spelunkers, complete an Area without a death",
+      "difficulty": 5,
+      "tags": [
+        "CO_OP",
+        "SURVIVE"
+      ]
+    },
+    {
+      "text": "Kill Vlad",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "HELL"
+      ]
+    },
+    {
+      "text": "Take a Picture of Yama",
+      "difficulty": 5,
+      "tags": [
+        "ITEM",
+        "HELL",
+        "BOSS"
+      ]
+    },
+    {
+      "text": "Kill Enma",
+      "difficulty": 5,
+      "tags": [
+        "HELL",
+        "BOSS"
+      ]
+    },
+    {
+      "text": "Eggplant Yama",
+      "difficulty": 5,
+      "tags": [
+        "ITEM",
+        "HELL",
+        "BOSS"
+      ]
+    }
+  ]
+}

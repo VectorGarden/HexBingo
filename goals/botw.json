@@ -1,0 +1,4404 @@
+{
+  "name": "Breath of the Wild",
+  "goals": [
+    {
+      "text": "Hylian Hood",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Hylian Tunic",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Warm Doublet",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Cold Resistance",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "3 Great Plateau Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Plateau"
+      ]
+    },
+    {
+      "text": "Hylian Trousers",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Any 'Boko' Equipment item",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "3 Dueling Peaks Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "3 Central Tower Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "5 Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "3 Hateno Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "3 Faron Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Faron"
+      ]
+    },
+    {
+      "text": "3 Ridgeland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "Any 'Rusty' Equipment item",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Energizing meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Give Beedle a Beetle",
+      "difficulty": 1,
+      "tags": [
+        "Horse"
+      ]
+    },
+    {
+      "text": "Register a Horse",
+      "difficulty": 1,
+      "tags": [
+        "Horse"
+      ]
+    },
+    {
+      "text": "Anger a Cucco",
+      "difficulty": 1,
+      "tags": [
+        "Cucco"
+      ]
+    },
+    {
+      "text": "Activate Dueling Peaks Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Soup Ladle",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "1 Koko Cooking Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Any Hasty meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Any Spicy meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "5 Great Plateau Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Plateau"
+      ]
+    },
+    {
+      "text": "6 Dueling Peaks Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "3 Lake Tower Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Lake"
+      ]
+    },
+    {
+      "text": "3 Wasteland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "3 Woodland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "3 Lanayru Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "'The Priceless Maracas' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Playtime with Cottla' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Wild Horses' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks",
+        "Horse"
+      ]
+    },
+    {
+      "text": "'The Statue's Bargain' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'Watch Out for the Flowers' Shrine Quest",
+      "difficulty": 1,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Any Enduring meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Any Mighty meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Any Sneaky meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Dubious Food",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Open 2 Bokoblin Camp Chests",
+      "difficulty": 1,
+      "tags": [
+        "Plateau"
+      ]
+    },
+    {
+      "text": "Save a Traveler in Peril",
+      "difficulty": 1,
+      "tags": [
+        "Monster"
+      ]
+    },
+    {
+      "text": "Activate Lake Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Lake"
+      ]
+    },
+    {
+      "text": "3 Tabantha Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Any Stalfos 'Arm' Equipment item",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "3 Side Quests",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "10 Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "3 Eldin Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "3 Akkala Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Pay 1 Great Fairy",
+      "difficulty": 1,
+      "tags": [
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Full Hylian Set",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Soldier's Helm",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Soldier's Armor",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Soldier's Greaves",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Stealth Mask",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Stealth Tights",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Climber's Bandanna",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Flown the Coop' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks",
+        "Heirloom"
+      ]
+    },
+    {
+      "text": "2 Koko Cooking Side Quests",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Arrows of Burning Heat' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'The Apple of My Eye' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "A Minor Test of Strength Shrine",
+      "difficulty": 1,
+      "tags": [
+        "Shrine",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Farming Hoe",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Hearty meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Any Tough meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Hearty Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Energizing Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Chilly Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Hasty Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Enduring Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Mighty Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Tough Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Sneaky Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Rock-Hard Food",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Kill a Wizzrobe of any kind",
+      "difficulty": 1,
+      "tags": [
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "Kill a Stone Talus of any kind",
+      "difficulty": 1,
+      "tags": [
+        "Rupee",
+        "Gems",
+        "Miniboss",
+        "Talus"
+      ]
+    },
+    {
+      "text": "Kill a (normal) Stone Talus",
+      "difficulty": 1,
+      "tags": [
+        "Rupee",
+        "Gems",
+        "Miniboss",
+        "Talus"
+      ]
+    },
+    {
+      "text": "Kill a Decayed Guardian",
+      "difficulty": 1,
+      "tags": [
+        "Miniboss",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Mount a Deer",
+      "difficulty": 1,
+      "tags": [
+        "Horse"
+      ]
+    },
+    {
+      "text": "Obtain a Purple Rupee",
+      "difficulty": 1,
+      "tags": [
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Read Paya's Diary",
+      "difficulty": 1,
+      "tags": [
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Read Purah's Diary",
+      "difficulty": 1,
+      "tags": [
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Activate Hateno Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Activate Faron Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Faron"
+      ]
+    },
+    {
+      "text": "Activate Wasteland Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Activate Ridgeland Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "4 Side Quests",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "Any Rod weapon",
+      "difficulty": 1,
+      "tags": [
+        "Equipment",
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "6 Hateno Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "6 Faron Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Faron"
+      ]
+    },
+    {
+      "text": "6 Lake Tower Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Lake"
+      ]
+    },
+    {
+      "text": "6 Wasteland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "3 Gerudo Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "6 Ridgeland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "3 Hebra Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "6 Woodland Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "6 Lanayru Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok. Lanayru"
+      ]
+    },
+    {
+      "text": "6 Central Tower Koroks",
+      "difficulty": 1,
+      "tags": [
+        "Korok",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "Rubber Helm",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Faron"
+      ]
+    },
+    {
+      "text": "Rubber Armor",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "Rubber Tights",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Faron"
+      ]
+    },
+    {
+      "text": "Stealth Chest Guard",
+      "difficulty": 1,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Misko, the Great Bandit' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Sunken Treasure' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'The Hero's Cache' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'Thunder Magnet' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Faron",
+        "Rubber Gear"
+      ]
+    },
+    {
+      "text": "'A Good-Sized Horse' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Horse"
+      ]
+    },
+    {
+      "text": "'The Spark of Romance' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "'A Gift for the Great Fairy' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Tabantha",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "'Balloon Flight' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "'Riverbed Reward' Side Quest",
+      "difficulty": 1,
+      "tags": [
+        "Side Quest",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "'The Two Rings' Shrine Quest",
+      "difficulty": 1,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "Any Boomerang",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any 'Lizal' Equipment item",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Boat Oar",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any 'Moblin' Equipment item",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Wooden Mop",
+      "difficulty": 1,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Chilly meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Any Electro meal",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Spicy Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Electro Elixir",
+      "difficulty": 1,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Kill a fire-typed Wizzrobe",
+      "difficulty": 1,
+      "tags": [
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "Kill an electric-typed Wizzrobe",
+      "difficulty": 1,
+      "tags": [
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "Kill a Hinox of any kind",
+      "difficulty": 1,
+      "tags": [
+        "Miniboss",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "Kill a (red) Hinox",
+      "difficulty": 1,
+      "tags": [
+        "Miniboss",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "500m in the Gliding Minigame",
+      "difficulty": 1,
+      "tags": [
+        "Minigame",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "Activate Lanayru Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Activate Central Tower",
+      "difficulty": 1,
+      "tags": [
+        "Tower",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "6 Tabantha Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "6 Akkala Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Gerudo Set",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Wasteland",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Red Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Yellow Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Purple Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Green Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Light Yellow Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Gray Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "3 Koko Cooking Side Quests",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'A Gift of Nightshade' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Faron"
+      ]
+    },
+    {
+      "text": "'The Horseback Hoodlums' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Lake"
+      ]
+    },
+    {
+      "text": "'The Royal White Stallion' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Central Hyrule",
+        "Horse",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "'The Cursed Statue' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Fishing Harpoon",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "3 Identical Weapons",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Fireproof Elixir",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Hard-Boiled Egg",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Kill an ice-typed Wizzrobe",
+      "difficulty": 2,
+      "tags": [
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "Obtain a Silver Rupee",
+      "difficulty": 2,
+      "tags": [
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Activate Tabantha Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Activate Woodland Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "15 Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "Snowquill Tunic",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Snowquill Trousers",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Zora Helm",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Zora Armor",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Blue Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "White Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Light Blue Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Orange Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Crimson Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Brown Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "4 Koko Cooking Side Quests",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'The Sheep Rustlers' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'An Ice Guy' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'Diving is Beauty!' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "3 Dueling Peaks Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Crowned Beast' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hateno",
+        "Horse"
+      ]
+    },
+    {
+      "text": "'A Landscape of a Stable' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Any 'Zora' Equipment item",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Ice-typed Equipment item",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Fairy Tonic",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Glazed Meat",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Salt-Grilled Crab",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "2 Stamina Vessels",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Read Robbie's Diary",
+      "difficulty": 2,
+      "tags": [
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Activate Gerudo Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "Activate Eldin Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "7 Great Plateau Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Plateau"
+      ]
+    },
+    {
+      "text": "9 Dueling Peaks Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "9 Hateno Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "9 Lake Tower Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Lake"
+      ]
+    },
+    {
+      "text": "6 Gerudo Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "6 Hebra Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "6 Eldin Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "9 Central Tower Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "Hylian Hood ★",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee",
+        "Great Fairy",
+        "Bokoblin"
+      ]
+    },
+    {
+      "text": "Hylian Tunic ★",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee",
+        "Great Fairy",
+        "Bokoblin"
+      ]
+    },
+    {
+      "text": "Hylian Trousers ★",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Rupee",
+        "Great Fairy",
+        "Bokoblin"
+      ]
+    },
+    {
+      "text": "Full Soldier's Set",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Snowquill Headdress",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Flamebreaker Armor",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Flamebreaker Boots",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Black Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Navy Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Peach Dyed Hylian Hood",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Hylian Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'A Freezing Rod' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Woodland",
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "3 Lake Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Lake"
+      ]
+    },
+    {
+      "text": "3 Central Tower Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "'Master of the Wind' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Any 'Forest Dweller's' Equipment item",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Fire-typed Equipment item",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Electric-typed Equipment item",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any Guardian Spear",
+      "difficulty": 2,
+      "tags": [
+        "Equipment",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Fruitcake",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Copious Fish Skewers",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Kill a Guardian Stalker",
+      "difficulty": 2,
+      "tags": [
+        "Miniboss",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Register the Royal Horse",
+      "difficulty": 2,
+      "tags": [
+        "Horse",
+        "Central Hyrule",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Talk to Kilton",
+      "difficulty": 2,
+      "tags": [
+        "Kilton",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Obtain a Gold Rupee",
+      "difficulty": 2,
+      "tags": [
+        "Rupee"
+      ]
+    },
+    {
+      "text": "5 Heart Containers",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Heart"
+      ]
+    },
+    {
+      "text": "5 Deer in Hunting Minigame",
+      "difficulty": 2,
+      "tags": [
+        "Minigame",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Activate Hebra Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "9 Faron Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Faron"
+      ]
+    },
+    {
+      "text": "9 Ridgeland Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "9 Lanayru Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok. Lanayru"
+      ]
+    },
+    {
+      "text": "Climbing Boots",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'What's for Dinner?' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Faron"
+      ]
+    },
+    {
+      "text": "'The Secret Club's Secret' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Radiant Gear",
+        "Desert Gear"
+      ]
+    },
+    {
+      "text": "'Missing in Action' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'Fireproof Lizard Roundup' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Eldin",
+        "Flame Gear"
+      ]
+    },
+    {
+      "text": "3 Ridgeland Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "'Twin Memories' Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "'Song of Storms' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Faron"
+      ]
+    },
+    {
+      "text": "1 Korok Trial",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "Any Guardian Sword",
+      "difficulty": 2,
+      "tags": [
+        "Equipment",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "3 Identical Shields",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "3 Identical Bows",
+      "difficulty": 2,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Apple Pie",
+      "difficulty": 2,
+      "tags": [
+        "Cooking",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Curry Pilaf",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Kill a Blue Hinox",
+      "difficulty": 2,
+      "tags": [
+        "Miniboss",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "Finish Golf Minigame",
+      "difficulty": 2,
+      "tags": [
+        "Minigame",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "Activate Akkala Tower",
+      "difficulty": 2,
+      "tags": [
+        "Tower",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Obtain a Material from Farosh",
+      "difficulty": 2,
+      "tags": [
+        "Dragon"
+      ]
+    },
+    {
+      "text": "9 Wasteland Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "9 Tabantha Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "9 Woodland Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "9 Akkala Koroks",
+      "difficulty": 2,
+      "tags": [
+        "Korok",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Climber's Bandanna ★",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Barbarian Armor",
+      "difficulty": 2,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'Take Back the Sea' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Faron"
+      ]
+    },
+    {
+      "text": "'Hunt for the Giant Horse' Side Quest",
+      "difficulty": 2,
+      "tags": [
+        "Side Quest",
+        "Lake",
+        "Horse",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "3 Faron Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Faron"
+      ]
+    },
+    {
+      "text": "3 Wasteland Shrines",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "A Modest Test of Strength Shrine",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "'Secret of the Cedars' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'The Desert Labyrinth' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands",
+        "Barbarian Gear"
+      ]
+    },
+    {
+      "text": "'The Eye of the Sandstorm' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands"
+      ]
+    },
+    {
+      "text": "'Into the Vortex' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "'The Skull's Eye' Shrine Quest",
+      "difficulty": 2,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "Any Guardian Shield",
+      "difficulty": 2,
+      "tags": [
+        "Equipment",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Cream of Mushroom Soup",
+      "difficulty": 2,
+      "tags": [
+        "Cooking"
+      ]
+    },
+    {
+      "text": "Play the Bowling Minigame",
+      "difficulty": 2,
+      "tags": [
+        "Minigame",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "20 Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "Pay 2 Great Fairies",
+      "difficulty": 3,
+      "tags": [
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Soldier's Armor ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Desert Voe Headband",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Desert Voe Trousers",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Rubber Helm ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Faron",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Stealth Mask ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Stealth Chest Guard ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Stealth Tights ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Full Stealth Set",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Stealth Gear",
+        "Rupee",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "Barbarian Helm",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "'A Gift for My Beloved' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "3 Hateno Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "3 Tabantha Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "3 Woodland Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "3 Akkala Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "'The Silent Swordswomen' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands"
+      ]
+    },
+    {
+      "text": "'Secret of the Snowy Peaks' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Forgotten Temple Shrine",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "'Shrouded Shrine' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "'The Gut Check Challenge' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Akkala 'Trial of the Labyrinth' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Akkala",
+        "Barbarian Gear"
+      ]
+    },
+    {
+      "text": "Any 'Royal Guard's' Equipment item",
+      "difficulty": 3,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "Any second tier Rod weapon",
+      "difficulty": 3,
+      "tags": [
+        "Equipment",
+        "Wizzrobe"
+      ]
+    },
+    {
+      "text": "Any Ancient Battle Axe",
+      "difficulty": 3,
+      "tags": [
+        "Equipment",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "Monster cake",
+      "difficulty": 3,
+      "tags": [
+        "Cooking",
+        "Kilton"
+      ]
+    },
+    {
+      "text": "Wildberry Crepe",
+      "difficulty": 3,
+      "tags": [
+        "Cooking",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Kill a Stone Talus (Rare)",
+      "difficulty": 3,
+      "tags": [
+        "Rupee",
+        "Miniboss",
+        "Talus"
+      ]
+    },
+    {
+      "text": "Register the Giant Horse",
+      "difficulty": 3,
+      "tags": [
+        "Horse",
+        "Lake",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Mount a Bear",
+      "difficulty": 3,
+      "tags": [
+        "Horse",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Mount a Stalhorse",
+      "difficulty": 3,
+      "tags": [
+        "Horse"
+      ]
+    },
+    {
+      "text": "2000 Rupees",
+      "difficulty": 3,
+      "tags": [
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Read King's Diary",
+      "difficulty": 3,
+      "tags": [
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "Take a Selfie with Hestu",
+      "difficulty": 3,
+      "tags": [
+        "Dueling Peaks",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Sheikah Sensor +",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Rune Upgrade",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "12 Dueling Peaks Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "9 Eldin Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "12 Central Tower Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "Champion's Tunic",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Champion",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Soldier's Helm ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Soldier's Greaves ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Soldier Gear",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Desert Voe Spaulder",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Rubber Armor ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Ridgeland",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Rubber Tights ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Faron",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Zora Greaves",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Lanayru",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Amber Earrings",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'A Royal Recipe' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Central Hyrule",
+        "Cooking"
+      ]
+    },
+    {
+      "text": "2 Shrine Quests",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest"
+      ]
+    },
+    {
+      "text": "'The Seven Heroines' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands"
+      ]
+    },
+    {
+      "text": "'Cliffside Etchings' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Gerudo",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "'Sign of the Shadow' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "Collect 1 Picture Memory",
+      "difficulty": 3,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "Read Zelda's Diary",
+      "difficulty": 3,
+      "tags": [
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "Take a Selfie with Kass",
+      "difficulty": 3,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "3 Lanayru Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "'Sunshroom Sensing' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Hateno",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'By Firefly's Light' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Dueling Peaks",
+        "Heirloom",
+        "Camera"
+      ]
+    },
+    {
+      "text": "12 Hateno Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "12 Lake Tower Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Lake"
+      ]
+    },
+    {
+      "text": "12 Ridgeland Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "9 Hebra Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Flamebreaker Helm",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Zora Armor ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Great Fairy",
+        "Lizalfos"
+      ]
+    },
+    {
+      "text": "Barbarian Leg Wraps",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Hebra"
+      ]
+    },
+    {
+      "text": "3 Hebra Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "3 Eldin Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "'The Serpent's Jaws' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Lake",
+        "Dragon"
+      ]
+    },
+    {
+      "text": "'Test of Will' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "Kill a Frost Talus",
+      "difficulty": 3,
+      "tags": [
+        "Rupee",
+        "Gems",
+        "Miniboss",
+        "Talus",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Kill a Guardian Turret",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Guardian",
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "5 Creatures in Compendium",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "5 Monsters in Compendium",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "5 Equipment in Compendium",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "Take a Selfie with Sidon",
+      "difficulty": 3,
+      "tags": [
+        "Lanayru",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Obtain a Material from Dinraal",
+      "difficulty": 3,
+      "tags": [
+        "Dragon"
+      ]
+    },
+    {
+      "text": "Finish Basic Shield Surfing Minigame",
+      "difficulty": 3,
+      "tags": [
+        "Minigame",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Snow Boots",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Boots",
+        "Side Quest",
+        "Gerudo",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Kill a Igneo Talus",
+      "difficulty": 3,
+      "tags": [
+        "Rupee",
+        "Gems",
+        "Miniboss",
+        "Talus",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "25 Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "12 Faron Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Faron"
+      ]
+    },
+    {
+      "text": "9 Gerudo Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "12 Tabantha Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "12 Woodland Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "12 Akkala Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "12 Lanayru Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok. Lanayru"
+      ]
+    },
+    {
+      "text": "Pay Horse God Malanya",
+      "difficulty": 3,
+      "tags": [
+        "Lake",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "'Tools of the Trade' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Gems"
+      ]
+    },
+    {
+      "text": "Zora Helm ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Great Fairy",
+        "Lizalfos"
+      ]
+    },
+    {
+      "text": "Radiant Mask",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Radiant Shirt",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Radiant Tights",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Topaz Earrings",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'Curry for What Ails You' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Tabantha",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "10 Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "3 Gerudo Shrines",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Gerudo",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "'Fragmented Monument' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Faron",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Collect 2 Picture Memories",
+      "difficulty": 3,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "Kill a Black Hinox",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "Kill a Stalnox",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "Kill a Guardian Skywatcher",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "3 Stamina Vessels",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Obtain a Material from Naydra",
+      "difficulty": 3,
+      "tags": [
+        "Hateno",
+        "Cold Resistance",
+        "Dragon"
+      ]
+    },
+    {
+      "text": "Remote Bomb +",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Rune Upgrade",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "Activate 4 Towers",
+      "difficulty": 3,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "11 Side Quests",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "12 Wasteland Koroks",
+      "difficulty": 3,
+      "tags": [
+        "Korok",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Snowquill Tunic ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Snowquill Trousers ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Full Snowquill Set",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Flamebreaker Boots ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Climbing Boots ★",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Sapphire Circlet",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Ruby Circlet",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Bokoblin Mask",
+      "difficulty": 3,
+      "tags": [
+        "Clothes",
+        "Kilton"
+      ]
+    },
+    {
+      "text": "'Death Mountain's Secret' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "'Lynel Safari' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Lanayru",
+        "Camera",
+        "Zora Gear"
+      ]
+    },
+    {
+      "text": "'The Royal Guard's Gear' Side Quest",
+      "difficulty": 3,
+      "tags": [
+        "Side Quest",
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "'Stranded on Eventide' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Faron"
+      ]
+    },
+    {
+      "text": "'Three Giant Brothers' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Faron",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "'The Bird in the Mountains' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Hebra Labyrinth 'Trial on the Cliff' Shrine Quest",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hebra",
+        "Cold Resistance",
+        "Barbarian Gear"
+      ]
+    },
+    {
+      "text": "Windcleaver",
+      "difficulty": 3,
+      "tags": [
+        "Equipment",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Kill a Lynel",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "Kill a Molduga",
+      "difficulty": 3,
+      "tags": [
+        "Miniboss",
+        "Molduga",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "6 Heart Containers",
+      "difficulty": 3,
+      "tags": [
+        "Shrine",
+        "Heart"
+      ]
+    },
+    {
+      "text": "Take a Selfie with Riju",
+      "difficulty": 3,
+      "tags": [
+        "Wasteland",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Take a Selfie while on fire",
+      "difficulty": 3,
+      "tags": [
+        "Eldin",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Stasis +",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Rune Upgrade",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "10 Equipment in Compendium",
+      "difficulty": 3,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "15 Dueling Peaks Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Dueling Peaks"
+      ]
+    },
+    {
+      "text": "15 Central Tower Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "Champion's Tunic ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Champion",
+        "Camera",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Snowquill Headdress ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Snow Gear",
+        "Cold Resistance",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Full Rubber Set",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Rubber Gear",
+        "Faron",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "Flamebreaker Armor ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Opal Earrings",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'Medicinal Molduga' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Molduga"
+      ]
+    },
+    {
+      "text": "'The Road to Respect' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Eldin",
+        "Talus"
+      ]
+    },
+    {
+      "text": "'Little Sister's Big Request' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "'Legendary Rabbit Trial' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Camera"
+      ]
+    },
+    {
+      "text": "12 Side Quests",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "10 Creatures in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "10 Monsters in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "15 Hateno Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "15 Lake Tower Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Lake"
+      ]
+    },
+    {
+      "text": "12 Gerudo Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "15 Ridgeland Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Ridgeland"
+      ]
+    },
+    {
+      "text": "12 Hebra Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "12 Eldin Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Desert Voe Headband ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Desert Voe Spaulder ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Desert Voe Trousers ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Sand Boots",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Boots",
+        "Side Quest",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "'The Eighth Heroine' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Gerudo",
+        "Boots",
+        "Cold Resistance",
+        "Camera"
+      ]
+    },
+    {
+      "text": "11 Shrines",
+      "difficulty": 4,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "5 Shrine Quests",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest"
+      ]
+    },
+    {
+      "text": "'Guardian Slideshow' Shrine Quest",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Lake",
+        "Camera",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "'The Spring of Power' Shrine Quest",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Akkala",
+        "Dragon"
+      ]
+    },
+    {
+      "text": "Any 'Lynel' Equipment item",
+      "difficulty": 4,
+      "tags": [
+        "Equipment",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "1 Fire, 1 Ice, and 1 Electric weapons",
+      "difficulty": 4,
+      "tags": [
+        "Equipment"
+      ]
+    },
+    {
+      "text": "20 Targets in Flight Range Minigame",
+      "difficulty": 4,
+      "tags": [
+        "Minigame",
+        "Tabantha",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Activate 5 Towers",
+      "difficulty": 4,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "15 Equipment in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "15 Creatures in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "15 Monsters in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "30 Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "15 Faron Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Faron"
+      ]
+    },
+    {
+      "text": "15 Akkala Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Akkala"
+      ]
+    },
+    {
+      "text": "15 Lanayru Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok. Lanayru"
+      ]
+    },
+    {
+      "text": "Full Desert Voe Set",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Desert Gear",
+        "Wasteland",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Flamebreaker Helm ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Zora Greaves ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Great Fairy",
+        "Lizalfos",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Radiant Mask ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Snow Boots ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Boots",
+        "Side Quest",
+        "Great Fairy",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'Slated for Upgrades' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Hateno",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'A Shady Customer' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Akkala",
+        "Kilton",
+        "Camera"
+      ]
+    },
+    {
+      "text": "12 Shrines",
+      "difficulty": 4,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "'The Spring of Wisdom' Shrine Quest",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Hateno",
+        "Cold Resistance",
+        "Dragon"
+      ]
+    },
+    {
+      "text": "Collect 3 Picture Memories",
+      "difficulty": 4,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "Hylian Shield",
+      "difficulty": 4,
+      "tags": [
+        "Miniboss",
+        "Hinox",
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "Mount the Lord of the Mountain",
+      "difficulty": 4,
+      "tags": [
+        "Horse",
+        "Ridgeland",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "Buy a House",
+      "difficulty": 4,
+      "tags": [
+        "Hateno",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "A Major Test of Strength Shrine",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Guardian"
+      ]
+    },
+    {
+      "text": "15 Wasteland Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "15 Tabantha Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "15 Woodland Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Woodland"
+      ]
+    },
+    {
+      "text": "Radiant Shirt ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Radiant Tights ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Amber Earrings ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "'Stalhorse: Pictured!' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Hebra",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'The Stolen Heirloom' Shrine Quest",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Dueling Peaks",
+        "Heirloom",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'Brother's Roast' Shrine Quest",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "1 Divine Beast Main Quest",
+      "difficulty": 4,
+      "tags": [
+        "Divine Beast"
+      ]
+    },
+    {
+      "text": "'Divine Beast Vah Medoh' Main Quest",
+      "difficulty": 4,
+      "tags": [
+        "Divine Beast",
+        "Tabantha",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Revali's Gale",
+      "difficulty": 4,
+      "tags": [
+        "Divine Beast",
+        "Tabantha",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "Kill Coliseum Lynel",
+      "difficulty": 4,
+      "tags": [
+        "Miniboss",
+        "Lynel",
+        "Central Hyrule"
+      ]
+    },
+    {
+      "text": "Activate 6 Towers",
+      "difficulty": 4,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "13 Side Quests",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "Climbing Gear",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "15 Gerudo Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Gerudo"
+      ]
+    },
+    {
+      "text": "15 Hebra Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "15 Eldin Koroks",
+      "difficulty": 4,
+      "tags": [
+        "Korok",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Full Zora Set",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Zora Gear",
+        "Lanayru",
+        "Camera"
+      ]
+    },
+    {
+      "text": "Barbarian Helm ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Great Fairy",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "Barbarian Armor ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Great Fairy",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "Topaz Earrings ★",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Diamond Circlet",
+      "difficulty": 4,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'The Forgotten Sword' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Wasteland",
+        "Gerudo",
+        "Boots",
+        "Cold Resistance",
+        "Camera"
+      ]
+    },
+    {
+      "text": "'Find Kheel' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "'The Jewel Trade' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Eldin",
+        "Gems"
+      ]
+    },
+    {
+      "text": "'Robbie's Research' Side Quest",
+      "difficulty": 4,
+      "tags": [
+        "Side Quest",
+        "Akkala",
+        "Camera"
+      ]
+    },
+    {
+      "text": "6 Shrine Quests",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Shrine Quest"
+      ]
+    },
+    {
+      "text": "'Divine Beast Vah Ruta' Main Quest",
+      "difficulty": 4,
+      "tags": [
+        "Divine Beast",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Mipha's Grace",
+      "difficulty": 4,
+      "tags": [
+        "Divine Beast",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "Collect 4 Picture Memories",
+      "difficulty": 4,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "4 Stamina Vessels",
+      "difficulty": 4,
+      "tags": [
+        "Shrine",
+        "Stamina"
+      ]
+    },
+    {
+      "text": "20 Equipment in Compendium",
+      "difficulty": 4,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "20 Creatures in Compendium",
+      "difficulty": 5,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "20 Monsters in Compendium",
+      "difficulty": 5,
+      "tags": [
+        "Camera",
+        "Compendium"
+      ]
+    },
+    {
+      "text": "35 Koroks",
+      "difficulty": 5,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "Pay 3 Great Fairies",
+      "difficulty": 5,
+      "tags": [
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Full Flamebreaker Set",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Flame Gear",
+        "Eldin",
+        "Rupee"
+      ]
+    },
+    {
+      "text": "Barbarian Leg Wraps ★",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear",
+        "Great Fairy",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "Full Radiant Set",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Radiant Gear",
+        "Rupee",
+        "Gems",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Opal Earrings ★",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Sapphire Circlet ★",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Ruby Circlet ★",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Gems",
+        "Rupee",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "13 Shrines",
+      "difficulty": 5,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "7 Shrine Quests",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest"
+      ]
+    },
+    {
+      "text": "'The Perfect Drink' Shrine Quest",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands"
+      ]
+    },
+    {
+      "text": "'Recital at Warbler's Nest' Shrine Quest",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "'The Ancient Rito Song' Shrine Quest",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Tabantha"
+      ]
+    },
+    {
+      "text": "Collect 5 Picture Memories",
+      "difficulty": 5,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "Spring-Loaded Hammer",
+      "difficulty": 5,
+      "tags": [
+        "Equipment",
+        "Kilton"
+      ]
+    },
+    {
+      "text": "7 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Heart"
+      ]
+    },
+    {
+      "text": "Upgrade All Runes",
+      "difficulty": 5,
+      "tags": [
+        "Camera",
+        "Rune Upgrade",
+        "Hateno"
+      ]
+    },
+    {
+      "text": "'The Ceremonial Song' Shrine Quest",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "'Riddles of Hyrule' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Woodland",
+        "Lynel"
+      ]
+    },
+    {
+      "text": "'Frog Catching' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "'Luminous Stone Gathering' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Lanayru",
+        "Gems"
+      ]
+    },
+    {
+      "text": "'A Wife Washed Away' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "14 Shrines",
+      "difficulty": 5,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "8 Shrine Quests",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest"
+      ]
+    },
+    {
+      "text": "Activate 7 Towers",
+      "difficulty": 5,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "14 Side Quests",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "40 Koroks",
+      "difficulty": 5,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "'Face the Frost Talus' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Tabantha",
+        "Hebra",
+        "Cold Resistance"
+      ]
+    },
+    {
+      "text": "'The Giant of Ralis Pond' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Lanayru",
+        "Hinox"
+      ]
+    },
+    {
+      "text": "15 Shrines",
+      "difficulty": 5,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "'Divine Beast Vah Rudania' Main Quest",
+      "difficulty": 5,
+      "tags": [
+        "Divine Beast",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Daruk's Protection",
+      "difficulty": 5,
+      "tags": [
+        "Divine Beast",
+        "Eldin"
+      ]
+    },
+    {
+      "text": "Collect 6 Picture Memories",
+      "difficulty": 5,
+      "tags": [
+        "Camera"
+      ]
+    },
+    {
+      "text": "Remake a Champion's Weapon or Shield",
+      "difficulty": 5,
+      "tags": [
+        "Equipment",
+        "Divine Beast",
+        "Gems"
+      ]
+    },
+    {
+      "text": "Climbing Gear ★",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Climbing Gear",
+        "Great Fairy"
+      ]
+    },
+    {
+      "text": "Activate 8 Towers",
+      "difficulty": 5,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "45 Koroks",
+      "difficulty": 5,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "'Leviathan Bones' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Camera"
+      ]
+    },
+    {
+      "text": "16 Shrines",
+      "difficulty": 5,
+      "tags": [
+        "Shrine"
+      ]
+    },
+    {
+      "text": "'Divine Beast Vah Naboris' Main Quest",
+      "difficulty": 5,
+      "tags": [
+        "Divine Beast",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Urbosa's Fury",
+      "difficulty": 5,
+      "tags": [
+        "Divine Beast",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "Beat Ganon",
+      "difficulty": 5,
+      "tags": [
+        "Hyrule Castle"
+      ]
+    },
+    {
+      "text": "Activate 9 Towers",
+      "difficulty": 5,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "Full Climber's Set",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Climbing Gear"
+      ]
+    },
+    {
+      "text": "50 Koroks",
+      "difficulty": 5,
+      "tags": [
+        "Korok"
+      ]
+    },
+    {
+      "text": "'Zora Stone Monuments' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Lanayru"
+      ]
+    },
+    {
+      "text": "2 Divine Beast Main Quest",
+      "difficulty": 5,
+      "tags": [
+        "Divine Beast"
+      ]
+    },
+    {
+      "text": "'The Search for Barta' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'The Mystery Polluter' Side Quest",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest",
+        "Wasteland"
+      ]
+    },
+    {
+      "text": "'The Undefeated Champ' Shrine Quest",
+      "difficulty": 5,
+      "tags": [
+        "Shrine",
+        "Shrine Quest",
+        "Wastelands"
+      ]
+    },
+    {
+      "text": "Activate 10 Towers",
+      "difficulty": 5,
+      "tags": [
+        "Tower"
+      ]
+    },
+    {
+      "text": "15 Side Quests",
+      "difficulty": 5,
+      "tags": [
+        "Side Quest"
+      ]
+    },
+    {
+      "text": "Full Barbarian Set",
+      "difficulty": 5,
+      "tags": [
+        "Clothes",
+        "Barbarian Gear"
+      ]
+    }
+  ]
+}

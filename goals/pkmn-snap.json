@@ -1,0 +1,1377 @@
+{
+  "name": "Pokémon Snap",
+  "goals": [
+    {
+      "text": "Gust-using Pidgey",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Sleeping Snorlax",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Vulpix (Uncentered)",
+      "difficulty": 1,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Look at Butterfree in report",
+      "difficulty": 1,
+      "tags": [
+        "REPORT"
+      ]
+    },
+    {
+      "text": "Drive out of Tunnel",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL",
+        "DRIVE"
+      ]
+    },
+    {
+      "text": "Unlock Pester Balls",
+      "difficulty": 1,
+      "tags": [
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Mankey Snipe",
+      "difficulty": 1,
+      "tags": [
+        "PESTER",
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Make Pikachu ride Electrode",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Make three Dugtrios appear",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Fainted Doduo",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Throw Meowth down the hill",
+      "difficulty": 1,
+      "tags": [
+        "BEACH",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Slowbro",
+      "difficulty": 1,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Charmeleon",
+      "difficulty": 1,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Release three Porygons",
+      "difficulty": 1,
+      "tags": [
+        "RIVER",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Speed Pikachu",
+      "difficulty": 1,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Shellder Sign",
+      "difficulty": 1,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Surfer Pikachu",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Album: Rapidash",
+      "difficulty": 1,
+      "tags": [
+        "VOLCANO",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Wonderful Zubat (Cave)",
+      "difficulty": 1,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Beach Sign",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Explode all the Electrodes in Tunnel",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Beach Sign using Dash Engine",
+      "difficulty": 1,
+      "tags": [
+        "BEACH",
+        "SIGN",
+        "DASH"
+      ]
+    },
+    {
+      "text": "Hit a Kakuna with an apple",
+      "difficulty": 1,
+      "tags": [
+        "RIVER",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Make Victreebel appear",
+      "difficulty": 1,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Full camera film in Tunnel",
+      "difficulty": 1,
+      "tags": [
+        "FILM"
+      ]
+    },
+    {
+      "text": "Throw a pester ball at electabuzz",
+      "difficulty": 1,
+      "tags": [
+        "PESTER",
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "3000+ Pic of Butterfree",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Digging Sandslash",
+      "difficulty": 1,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Knock out 3 Pikachus in Tunnel",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Knock down all Geodudes and Gravelers",
+      "difficulty": 1,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "1000- Pic of Electrode",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Save Meowth from the Pidgeys",
+      "difficulty": 1,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Unlock the PokeFlute",
+      "difficulty": 1,
+      "tags": [
+        "FLUTE"
+      ]
+    },
+    {
+      "text": "Make a sparkling Dratini spawn",
+      "difficulty": 1,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Climbing Graveler",
+      "difficulty": 1,
+      "tags": [
+        "VALLEY",
+        "GRAVELER"
+      ]
+    },
+    {
+      "text": "Wonderful: Jynx",
+      "difficulty": 1,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Make both electabuzz activate the TV screens",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Album: Submit pics of 5 butts",
+      "difficulty": 1,
+      "tags": [
+        "MEME",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Tunnel Sign using Dash Engine",
+      "difficulty": 1,
+      "tags": [
+        "TUNNEL",
+        "SIGN",
+        "DASH"
+      ]
+    },
+    {
+      "text": "Running Poliwag",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Get all Poliwags into the water",
+      "difficulty": 2,
+      "tags": [
+        "RIVER",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Sparkling Magikarp (Cave)",
+      "difficulty": 2,
+      "tags": [
+        "CAVE",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "4000+ Haunter",
+      "difficulty": 2,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Volcano Sign",
+      "difficulty": 2,
+      "tags": [
+        "SIGN",
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Pester ball a Vulpix",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Crash into the egg of Moltres",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Three Bulbasaurs",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Album: Palm tree",
+      "difficulty": 2,
+      "tags": [
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Magikarp in Volcano",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Geodude w/ bonus points",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "3000+ Shellder",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "300- Jynx",
+      "difficulty": 2,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Two Muks",
+      "difficulty": 2,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Make both Slowbros spawn",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Drive out of Cave",
+      "difficulty": 2,
+      "tags": [
+        "CAVE",
+        "DRIVE"
+      ]
+    },
+    {
+      "text": "Wonderful: Arcanine",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Wonderful: Magikarp in River",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "3000+ Doduo",
+      "difficulty": 2,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "4000+ Slowbro",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Unlock Valley",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY",
+        "RAINBOW",
+        "FLUTE"
+      ]
+    },
+    {
+      "text": "Jigglypuff Trio",
+      "difficulty": 2,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Fainted Weepinbell",
+      "difficulty": 2,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Wonderful: Staryu",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Magikarp lying on the floor",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Hit the last Electrode in Tunnel without activating the cutscene",
+      "difficulty": 2,
+      "tags": [
+        "TUNNEL",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Album: Dead tree",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Mid-air Sandshrew",
+      "difficulty": 2,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Dancing Slowpoke",
+      "difficulty": 2,
+      "tags": [
+        "RIVER",
+        "FLUTE"
+      ]
+    },
+    {
+      "text": "Fighting Magmars",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Balloon Pikachu",
+      "difficulty": 2,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "4000+ Porygon",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Leave Volcano w/ 4 pics left",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "3200+ Psyduck",
+      "difficulty": 2,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Throw 40 apples into lava in Volcano",
+      "difficulty": 2,
+      "tags": [
+        "APPLE",
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Volcano Sign using Dash Engine",
+      "difficulty": 2,
+      "tags": [
+        "VOLCANO",
+        "SIGN",
+        "DASH"
+      ]
+    },
+    {
+      "text": "Two Cloysters",
+      "difficulty": 3,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Make Charizard spawn",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Three Vulpix",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Hit a Cloyster with an apple",
+      "difficulty": 3,
+      "tags": [
+        "RIVER",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "3500+ Charizard",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Throw twelve apples into a trunk",
+      "difficulty": 3,
+      "tags": [
+        "RIVER",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "2500+ Weepinbell",
+      "difficulty": 3,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Album: all three Pikachus in Tunnel",
+      "difficulty": 3,
+      "tags": [
+        "TUNNEL",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Dancing Meowth",
+      "difficulty": 3,
+      "tags": [
+        "BEACH",
+        "FLUTE"
+      ]
+    },
+    {
+      "text": "Make Magmar attack Charmander",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "500- Moltres",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Kangaskhan in the air",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Snorlax with both feet in the air",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Cave Sign using Dash Engine",
+      "difficulty": 3,
+      "tags": [
+        "CAVE",
+        "SIGN",
+        "DASH"
+      ]
+    },
+    {
+      "text": "Wonderful: Four Metapods",
+      "difficulty": 3,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "3000+ Chansey",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Wonderful: Porygon activating the switch",
+      "difficulty": 3,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Make all four Bulbadittos in Cave transform",
+      "difficulty": 3,
+      "tags": [
+        "PESTER",
+        "DITTO"
+      ]
+    },
+    {
+      "text": "3000+ Ditto",
+      "difficulty": 3,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Hit Moltres with an apple",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Wonderful: Magikarp in Beach",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "3000+ Scyther",
+      "difficulty": 3,
+      "tags": [
+        "BEACH",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "3500+ Kangaskhan",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "3000+ Cloyster",
+      "difficulty": 3,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "3000+ Koffing",
+      "difficulty": 3,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "3000+ Zubat",
+      "difficulty": 3,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "4000+ Rapidash",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "3000+ Charmeleon",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "2000+ Dratini",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "4000+ Gyarados",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "4500+ Dragonite",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Rapidash standing on the front legs",
+      "difficulty": 3,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Make Sandslash faint with a pester ball",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Get eight different Pokemon in Beach",
+      "difficulty": 3,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Crash into a Dratini with your cart",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Four different Pokemon",
+      "difficulty": 3,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "Knock all the Squirtles out of the water in the beginning of Valley",
+      "difficulty": 3,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Jumping Graveler",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "GRAVELER"
+      ]
+    },
+    {
+      "text": "20 pics of the first Grimer in Cave",
+      "difficulty": 4,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Album: 15+ pics",
+      "difficulty": 4,
+      "tags": [
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Sparkling Goldeen pic",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Six Charmanders dancing",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO",
+        "FLUTE"
+      ]
+    },
+    {
+      "text": "Dancing Gravelers",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "FLUTE",
+        "GRAVELER"
+      ]
+    },
+    {
+      "text": "Crash into a Vulpix",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "4000+ Kakuna",
+      "difficulty": 4,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Album: All (5) Zubats in Tunnel and Cave",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL",
+        "CAVE",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Full camera film in Rainbow Cloud",
+      "difficulty": 4,
+      "tags": [
+        "FILM",
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "Submit an uncentered Moltres pic",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Zapdos activating the generator",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Cave sign",
+      "difficulty": 4,
+      "tags": [
+        "CAVE",
+        "SIGN"
+      ]
+    },
+    {
+      "text": "River sign",
+      "difficulty": 4,
+      "tags": [
+        "RIVER",
+        "SIGN"
+      ]
+    },
+    {
+      "text": "Tunnel sign",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL",
+        "SIGN"
+      ]
+    },
+    {
+      "text": "Album: All three different Snorlax dances",
+      "difficulty": 4,
+      "tags": [
+        "FLUTE",
+        "BEACH",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Album: Four different Mankeys",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Knock out three different Mankeys",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "4200+ Gyarados",
+      "difficulty": 4,
+      "tags": [
+        "PESTER",
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Wonderful: Starmie",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Three Squirtles",
+      "difficulty": 4,
+      "tags": [
+        "VALLEY",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Album: All 8 Pikachus in Beach, Tunnel, River, and Cave",
+      "difficulty": 4,
+      "tags": [
+        "ALBUM",
+        "BEACH",
+        "TUNNEL",
+        "RIVER",
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Haunter and a flying apple",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Make the second Scyther spawn",
+      "difficulty": 4,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Album: All three Vileplume dances",
+      "difficulty": 4,
+      "tags": [
+        "RIVER",
+        "FLUTE",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Three Growlithes",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "3500+ Magnemite",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "3500+ Magneton",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "3750+ Snorlax",
+      "difficulty": 4,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "3000+ Zapdos",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "3000+ Lapras",
+      "difficulty": 4,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Six pics of Charizard spitting fire",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Album: Five different exploded Electrodes",
+      "difficulty": 4,
+      "tags": [
+        "APPLE",
+        "TUNNEL",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Album: All three legendary bird eggs",
+      "difficulty": 4,
+      "tags": [
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "Album: Two combined Magnemites",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Unlock Rainbow Cloud",
+      "difficulty": 4,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "3500+ Electrode",
+      "difficulty": 4,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "5000+ Pidgey",
+      "difficulty": 4,
+      "tags": [
+        "BEACH"
+      ]
+    },
+    {
+      "text": "4800+ Magmar",
+      "difficulty": 4,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Slowbro and Shellder",
+      "difficulty": 4,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Album: Jumping Vileplume",
+      "difficulty": 5,
+      "tags": [
+        "RIVER",
+        "FLUTE",
+        "ALBUM"
+      ]
+    },
+    {
+      "text": "4400+ Jigglypuff",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "4000+ Grimer",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "4000+ Victreebel",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "3500+ Poliwag",
+      "difficulty": 5,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "4500+ Moltres",
+      "difficulty": 5,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Two Psyducks",
+      "difficulty": 5,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Snipe first Psyduck w/o using boost (River)",
+      "difficulty": 5,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Wonderful: Metapod climbing back up",
+      "difficulty": 5,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "Crash into a jumping Psyduck",
+      "difficulty": 5,
+      "tags": [
+        "RIVER"
+      ]
+    },
+    {
+      "text": "4000+ Muk",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "500- Koffing",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Bounce apple off of Vileplume 10 times in a row",
+      "difficulty": 5,
+      "tags": [
+        "APPLE",
+        "RIVER"
+      ]
+    },
+    {
+      "text": "4800 Sandslash",
+      "difficulty": 5,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Album: two different Charmeleons lying on the floor",
+      "difficulty": 5,
+      "tags": [
+        "VOLCANO",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Exactly three Charmanders dancing",
+      "difficulty": 5,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "Three Rapidashes",
+      "difficulty": 5,
+      "tags": [
+        "VOLCANO"
+      ]
+    },
+    {
+      "text": "One wing of Zubat only",
+      "difficulty": 5,
+      "tags": [
+        "TUNNEL",
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Four Kakunas",
+      "difficulty": 5,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Submit 11 uncentered pics in Tunnel",
+      "difficulty": 5,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Look at Mew in the Pokemon Report",
+      "difficulty": 5,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "Three Arcanines",
+      "difficulty": 5,
+      "tags": [
+        "VOLCANO",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Two Electabuzz eating the same apple",
+      "difficulty": 5,
+      "tags": [
+        "TUNNEL",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Watch the end credits",
+      "difficulty": 5,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "3000- Mew",
+      "difficulty": 5,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "3400+ Diglett",
+      "difficulty": 5,
+      "tags": [
+        "TUNNEL"
+      ]
+    },
+    {
+      "text": "Pester Ball a Zubat in Cave",
+      "difficulty": 5,
+      "tags": [
+        "CAVE",
+        "PESTER"
+      ]
+    },
+    {
+      "text": "Mew facing you",
+      "difficulty": 5,
+      "tags": [
+        "RAINBOW"
+      ]
+    },
+    {
+      "text": "Wonderful: 11 pics of different Pokemon in Valley",
+      "difficulty": 5,
+      "tags": [
+        "VALLEY"
+      ]
+    },
+    {
+      "text": "Pikachu riding Articuno",
+      "difficulty": 5,
+      "tags": [
+        "CAVE"
+      ]
+    },
+    {
+      "text": "Throw 200 apples into the river in Valley",
+      "difficulty": 5,
+      "tags": [
+        "VALLEY",
+        "APPLE"
+      ]
+    },
+    {
+      "text": "Challenge score in Beach",
+      "difficulty": 5,
+      "tags": [
+        "CHALLENGE",
+        "BEACH"
+      ]
+    },
+    {
+      "text": "Challenge score in Volcano",
+      "difficulty": 5,
+      "tags": [
+        "CHALLENGE",
+        "VOLCANO"
+      ]
+    }
+  ]
+}

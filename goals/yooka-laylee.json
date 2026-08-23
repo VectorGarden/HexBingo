@@ -1,0 +1,684 @@
+{
+  "name": "Yooka Laylee",
+  "goals": [
+    {
+      "text": "2 Health Extenders",
+      "difficulty": 1,
+      "tags": [
+        "extender"
+      ]
+    },
+    {
+      "text": "Shipwreck Pagies",
+      "difficulty": 1,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Shipwreck Quills",
+      "difficulty": 1,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "Kartos Karting",
+      "difficulty": 1,
+      "tags": [
+        "rextro",
+        "tribal"
+      ]
+    },
+    {
+      "text": "2 Rextro Pagies",
+      "difficulty": 1,
+      "tags": [
+        "rextro"
+      ]
+    },
+    {
+      "text": "5 Ghost Writers",
+      "difficulty": 1,
+      "tags": [
+        "ghostwriter"
+      ]
+    },
+    {
+      "text": "5 Hub Pagies",
+      "difficulty": 1,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Tribal Kartos",
+      "difficulty": 1,
+      "tags": [
+        "kartos",
+        "tribal"
+      ]
+    },
+    {
+      "text": "2 Energy Extenders",
+      "difficulty": 1,
+      "tags": [
+        "extender"
+      ]
+    },
+    {
+      "text": "50 Quills in 2 Worlds",
+      "difficulty": 1,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "Defeat Rampo",
+      "difficulty": 1,
+      "tags": [
+        "boss",
+        "tribal"
+      ]
+    },
+    {
+      "text": "Expand Glitter",
+      "difficulty": 1,
+      "tags": [
+        "tome",
+        "glitter"
+      ]
+    },
+    {
+      "text": "Expand 2 Tomes",
+      "difficulty": 1,
+      "tags": [
+        "tome"
+      ]
+    },
+    {
+      "text": "Learn all Tribal Moves",
+      "difficulty": 1,
+      "tags": [
+        "trowzer",
+        "tribal"
+      ]
+    },
+    {
+      "text": "Glitter Kartos",
+      "difficulty": 1,
+      "tags": [
+        "kartos",
+        "glitter"
+      ]
+    },
+    {
+      "text": "Help Clara 2 Times",
+      "difficulty": 1,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Learn 8 Trowzer moves",
+      "difficulty": 1,
+      "tags": [
+        "trowzer"
+      ]
+    },
+    {
+      "text": "Tribal Ghost Writers",
+      "difficulty": 1,
+      "tags": [
+        "ghostwriter",
+        "tribal"
+      ]
+    },
+    {
+      "text": "Unlock Moody",
+      "difficulty": 2,
+      "tags": [
+        "tome",
+        "moody"
+      ]
+    },
+    {
+      "text": "Freezing Room - Intended Way",
+      "difficulty": 2,
+      "tags": [
+        "pagie",
+        "glitter",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Glaciators",
+      "difficulty": 2,
+      "tags": [
+        "rextro",
+        "glitter"
+      ]
+    },
+    {
+      "text": "Defeat Brrreeze",
+      "difficulty": 2,
+      "tags": [
+        "boss",
+        "glitter"
+      ]
+    },
+    {
+      "text": "Glitter Ghost Writers",
+      "difficulty": 2,
+      "tags": [
+        "ghostwriter",
+        "glitter"
+      ]
+    },
+    {
+      "text": "Help Planker 2 Times",
+      "difficulty": 2,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Learn all Glitter Moves",
+      "difficulty": 2,
+      "tags": [
+        "trowzer",
+        "glitter"
+      ]
+    },
+    {
+      "text": "10 Hub Pagies",
+      "difficulty": 2,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "2 Transformation Pagies",
+      "difficulty": 2,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Brrreeze - No Skip",
+      "difficulty": 2,
+      "tags": [
+        "pagie",
+        "glitter",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Quiz 1",
+      "difficulty": 2,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "10 Sub-Area Pagies",
+      "difficulty": 2,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Bee Bop",
+      "difficulty": 2,
+      "tags": [
+        "rextro",
+        "moody"
+      ]
+    },
+    {
+      "text": "Tribal Planker - Flightless",
+      "difficulty": 2,
+      "tags": [
+        "pagie",
+        "tribal",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Unlock Cashino",
+      "difficulty": 2,
+      "tags": [
+        "tome",
+        "cashino"
+      ]
+    },
+    {
+      "text": "Expand Moody",
+      "difficulty": 2,
+      "tags": [
+        "tome",
+        "moody"
+      ]
+    },
+    {
+      "text": "Moody Kartos",
+      "difficulty": 2,
+      "tags": [
+        "kartos",
+        "moody"
+      ]
+    },
+    {
+      "text": "Defeat 2 Bosses",
+      "difficulty": 2,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "4 Health Extenders",
+      "difficulty": 3,
+      "tags": [
+        "extender"
+      ]
+    },
+    {
+      "text": "Defeat Trev",
+      "difficulty": 3,
+      "tags": [
+        "boss",
+        "moody"
+      ]
+    },
+    {
+      "text": "Hurdle Hijinx",
+      "difficulty": 3,
+      "tags": [
+        "rextro",
+        "cashino"
+      ]
+    },
+    {
+      "text": "Help 2 Trolleys",
+      "difficulty": 3,
+      "tags": [
+        "pagie",
+        "moody"
+      ]
+    },
+    {
+      "text": "2 Pirate Treasures",
+      "difficulty": 3,
+      "tags": [
+        "pirate"
+      ]
+    },
+    {
+      "text": "100 Quills in 2 Worlds",
+      "difficulty": 3,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "Race Nimble 2 Times",
+      "difficulty": 3,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "200 Quills",
+      "difficulty": 3,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "Learn all Moody Moves",
+      "difficulty": 3,
+      "tags": [
+        "trowzer",
+        "moody"
+      ]
+    },
+    {
+      "text": "Moody Ghost Writers",
+      "difficulty": 3,
+      "tags": [
+        "ghostwriter",
+        "moody"
+      ]
+    },
+    {
+      "text": "Toxic Pipe Pagie, No Sonar Sheild/Reptile Rush",
+      "difficulty": 3,
+      "tags": [
+        "pagie",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Cashino Kartos",
+      "difficulty": 3,
+      "tags": [
+        "kartos",
+        "cashino"
+      ]
+    },
+    {
+      "text": "Open Moody First",
+      "difficulty": 3,
+      "tags": [
+        "challenge",
+        "tome",
+        "moody"
+      ]
+    },
+    {
+      "text": "Unlock Galleon",
+      "difficulty": 3,
+      "tags": [
+        "tome",
+        "galleon"
+      ]
+    },
+    {
+      "text": "Expand 3 Tomes",
+      "difficulty": 3,
+      "tags": [
+        "tome"
+      ]
+    },
+    {
+      "text": "Defeat I.N.E.P.T.",
+      "difficulty": 3,
+      "tags": [
+        "boss",
+        "cashino",
+        "kartos"
+      ]
+    },
+    {
+      "text": "2 Kartos Pagies",
+      "difficulty": 3,
+      "tags": [
+        "kartos"
+      ]
+    },
+    {
+      "text": "4 Transformation Pagies",
+      "difficulty": 3,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "4 Energy Extenders",
+      "difficulty": 4,
+      "tags": [
+        "extender"
+      ]
+    },
+    {
+      "text": "Save 10 Ghost Writers",
+      "difficulty": 4,
+      "tags": [
+        "ghostwriter"
+      ]
+    },
+    {
+      "text": "Up 'n' Nova",
+      "difficulty": 4,
+      "tags": [
+        "rextro",
+        "galleon"
+      ]
+    },
+    {
+      "text": "15 Hub Pagies",
+      "difficulty": 4,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Learn 12 Trowzer moves",
+      "difficulty": 4,
+      "tags": [
+        "trowzer"
+      ]
+    },
+    {
+      "text": "30 Tokens from broken slot machines",
+      "difficulty": 4,
+      "tags": [
+        "pagie",
+        "cashino"
+      ]
+    },
+    {
+      "text": "Expand Cashino",
+      "difficulty": 4,
+      "tags": [
+        "tome",
+        "cashino"
+      ]
+    },
+    {
+      "text": "200 Quill Pagie",
+      "difficulty": 4,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "400 Quills",
+      "difficulty": 4,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "4 Rextro Pagies",
+      "difficulty": 4,
+      "tags": [
+        "rextro"
+      ]
+    },
+    {
+      "text": "3 Pirate Treasures",
+      "difficulty": 4,
+      "tags": [
+        "pirate"
+      ]
+    },
+    {
+      "text": "15 Sub-Area Pagies",
+      "difficulty": 4,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Expand Galleon",
+      "difficulty": 4,
+      "tags": [
+        "tome",
+        "galleon"
+      ]
+    },
+    {
+      "text": "Cashino Ghost Writers",
+      "difficulty": 4,
+      "tags": [
+        "ghostwriter",
+        "cashino"
+      ]
+    },
+    {
+      "text": "Unlock All Grand Tomes",
+      "difficulty": 4,
+      "tags": [
+        "tome",
+        "completionist"
+      ]
+    },
+    {
+      "text": "Help 2 Space Frogs",
+      "difficulty": 4,
+      "tags": [
+        "pagie",
+        "galleon"
+      ]
+    },
+    {
+      "text": "Galleon Ghost Writers",
+      "difficulty": 5,
+      "tags": [
+        "ghostwriter",
+        "galleon"
+      ]
+    },
+    {
+      "text": "4 Pirate Treasures",
+      "difficulty": 5,
+      "tags": [
+        "pirate"
+      ]
+    },
+    {
+      "text": "Deal with 8 Knights of Hamalot",
+      "difficulty": 5,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Defeat Planette",
+      "difficulty": 5,
+      "tags": [
+        "boss",
+        "galleon"
+      ]
+    },
+    {
+      "text": "3 Kartos Pagies",
+      "difficulty": 5,
+      "tags": [
+        "kartos"
+      ]
+    },
+    {
+      "text": "Galleon Kartos",
+      "difficulty": 5,
+      "tags": [
+        "kartos",
+        "galleon"
+      ]
+    },
+    {
+      "text": "Play 2 Rounds of Golf",
+      "difficulty": 5,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "All Playcoins",
+      "difficulty": 5,
+      "tags": [
+        "completionist"
+      ]
+    },
+    {
+      "text": "Save 15 Ghost Writers",
+      "difficulty": 5,
+      "tags": [
+        "ghostwriter"
+      ]
+    },
+    {
+      "text": "6 Transformation Pagies",
+      "difficulty": 5,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "All Mollycools",
+      "difficulty": 5,
+      "tags": [
+        "completionist"
+      ]
+    },
+    {
+      "text": "Windtunnel Pagie, No Reptile Rush",
+      "difficulty": 5,
+      "tags": [
+        "pagie",
+        "challenge"
+      ]
+    },
+    {
+      "text": "6 Rextro Pagies",
+      "difficulty": 5,
+      "tags": [
+        "rextro"
+      ]
+    },
+    {
+      "text": "Learn all 15 Trowzer moves",
+      "difficulty": 5,
+      "tags": [
+        "trowzer",
+        "completionist"
+      ]
+    },
+    {
+      "text": "600 Quills",
+      "difficulty": 5,
+      "tags": [
+        "quill"
+      ]
+    },
+    {
+      "text": "20 Sub-Area Pagies",
+      "difficulty": 5,
+      "tags": [
+        "pagie"
+      ]
+    },
+    {
+      "text": "Defeat 4 Bosses",
+      "difficulty": 5,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "Defeat Cap B w/ Missle Riding",
+      "difficulty": 5,
+      "tags": [
+        "boss",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Complete All Kartos Tracks",
+      "difficulty": 5,
+      "tags": [
+        "kartos",
+        "completionist"
+      ]
+    },
+    {
+      "text": "Defeat Cap B w/ Butterthree",
+      "difficulty": 5,
+      "tags": [
+        "boss",
+        "challenge"
+      ]
+    }
+  ]
+}

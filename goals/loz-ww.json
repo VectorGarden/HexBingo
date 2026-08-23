@@ -1,0 +1,465 @@
+{
+  "name": "Wind Waker",
+  "goals": [
+    {
+      "text": "Drown",
+      "difficulty": 1,
+      "tags": [
+        "DEATH"
+      ]
+    },
+    {
+      "text": "Die in Any Way",
+      "difficulty": 1,
+      "tags": [
+        "DEATH"
+      ]
+    },
+    {
+      "text": "Win Battleship",
+      "difficulty": 1,
+      "tags": [
+        "MINIGAME"
+      ]
+    },
+    {
+      "text": "Collect 10 Charts",
+      "difficulty": 1,
+      "tags": [
+        "COLLECT"
+      ]
+    },
+    {
+      "text": "Brew a Green/Blue Potion",
+      "difficulty": 1,
+      "tags": [
+        "CHUCHU",
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Feed 2 Fishy Bois",
+      "difficulty": 1,
+      "tags": [
+        "BAIT",
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "Score 20 or higher in Mail Sorting",
+      "difficulty": 1,
+      "tags": [
+        "MINIGAME",
+        "DRAGON_ROOST"
+      ]
+    },
+    {
+      "text": "Throw Medli Into a Wall",
+      "difficulty": 1,
+      "tags": [
+        "DRAGON_ROOST"
+      ]
+    },
+    {
+      "text": "Collect Forest Water",
+      "difficulty": 1,
+      "tags": [
+        "BOTTLE",
+        "FOREST_HAVEN"
+      ]
+    },
+    {
+      "text": "Die by Blue ChuChu",
+      "difficulty": 1,
+      "tags": [
+        "CHUCHU"
+      ]
+    },
+    {
+      "text": "Picto Box",
+      "difficulty": 1,
+      "tags": [
+        "COLLECT",
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Die from a Gunboat",
+      "difficulty": 1,
+      "tags": [
+        "DEATH",
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "Hear a Rumor From Kids",
+      "difficulty": 1,
+      "tags": [
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Kill 5 Enemies With One Attack",
+      "difficulty": 1,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Get a Seagull Hurt",
+      "difficulty": 1,
+      "tags": [
+        "BAIT"
+      ]
+    },
+    {
+      "text": "Heal Grandma",
+      "difficulty": 2,
+      "tags": [
+        "OUTSET"
+      ]
+    },
+    {
+      "text": "Give Kalle Demos Water to Drink",
+      "difficulty": 2,
+      "tags": [
+        "BOTTLE",
+        "FOREST_HAVEN"
+      ]
+    },
+    {
+      "text": "Deluxe Picto Box",
+      "difficulty": 2,
+      "tags": [
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Kill Enemies with 3 Different Alternate Weapons",
+      "difficulty": 2,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "2 Bottles",
+      "difficulty": 2,
+      "tags": [
+        "COLLECT",
+        "WINDFALL",
+        "OCEAN",
+        "DRAGON_ROOST"
+      ]
+    },
+    {
+      "text": "OHKO a Deku Baba with Boomerang",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "FOREST_HAVEN"
+      ]
+    },
+    {
+      "text": "3 chests found on Lookout Platforms",
+      "difficulty": 2,
+      "tags": [
+        "BOMB",
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "At least 1 of Every Spoil (Bag not required)",
+      "difficulty": 2,
+      "tags": [
+        "COLLECT"
+      ]
+    },
+    {
+      "text": "Have 8 Heart Containers",
+      "difficulty": 2,
+      "tags": [
+        "COLLECT"
+      ]
+    },
+    {
+      "text": "Big Octo Great Fairy",
+      "difficulty": 2,
+      "tags": [
+        "BOOMERANG",
+        "BOMB",
+        "ARROW"
+      ]
+    },
+    {
+      "text": "Chest inside Mother Island",
+      "difficulty": 2,
+      "tags": [
+        "OCEAN",
+        "CYCLONUS"
+      ]
+    },
+    {
+      "text": "Clear Pawprint Island",
+      "difficulty": 2,
+      "tags": [
+        "OCEAN",
+        "GRAPPLING_HOOK",
+        "HOOKSHOT"
+      ]
+    },
+    {
+      "text": "Defeat a Stalfos",
+      "difficulty": 2,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Deku Nut Golf",
+      "difficulty": 2,
+      "tags": [
+        "OCEAN",
+        "DEKU_LEAF"
+      ]
+    },
+    {
+      "text": "3 Bottles",
+      "difficulty": 2,
+      "tags": [
+        "COLLECT",
+        "WINDFALL",
+        "OCEAN",
+        "DRAGON_ROOST"
+      ]
+    },
+    {
+      "text": "Open Nintendo Gallery",
+      "difficulty": 2,
+      "tags": [
+        "FOREST_HAVEN",
+        "DEKu_LEAF",
+        "BAIT"
+      ]
+    },
+    {
+      "text": "Double Magic Meter",
+      "difficulty": 3,
+      "tags": [
+        "OCEAN",
+        "BOOMERANG",
+        "BOMB"
+      ]
+    },
+    {
+      "text": "Angular Isles Chest",
+      "difficulty": 3,
+      "tags": [
+        "OCEAN",
+        "HOOKSHOT",
+        "DEKU_LEAF"
+      ]
+    },
+    {
+      "text": "Flight Control Platform Submarine",
+      "difficulty": 3,
+      "tags": [
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "Spook Guy at Milk Bar",
+      "difficulty": 3,
+      "tags": [
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Get Cursed by Cursed Bubble",
+      "difficulty": 3,
+      "tags": [
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "Haul Link the Pig up the Mountain",
+      "difficulty": 3,
+      "tags": [
+        "OUTSET",
+        "OCEAN",
+        "POWER_BRACELETS"
+      ]
+    },
+    {
+      "text": "Fix a Broken Sign with Aria",
+      "difficulty": 3,
+      "tags": [
+        "WIND_WAKER"
+      ]
+    },
+    {
+      "text": "Have 10 Heart Containers",
+      "difficulty": 3,
+      "tags": [
+        "COLLECT"
+      ]
+    },
+    {
+      "text": "20 Golden Feathers to Hoskit",
+      "difficulty": 3,
+      "tags": [
+        "COLLECT"
+      ]
+    },
+    {
+      "text": "Ivan - Catch Killer Bees",
+      "difficulty": 3,
+      "tags": [
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Outset Island Great Fairy",
+      "difficulty": 4,
+      "tags": [
+        "OUTSET",
+        "BOMB"
+      ]
+    },
+    {
+      "text": "Ice Ring Isle - Inner Cave Chest",
+      "difficulty": 4,
+      "tags": [
+        "OCEAN",
+        "FIRE_ARROW"
+      ]
+    },
+    {
+      "text": "OHKO a Wizzrobe with a Fire/Ice Arrow",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "FIRE_ARROW",
+        "ICE_ARROW"
+      ]
+    },
+    {
+      "text": "99 Arrow Quiver",
+      "difficulty": 4,
+      "tags": [
+        "OCEAN",
+        "BOW"
+      ]
+    },
+    {
+      "text": "99 Bomb Bag",
+      "difficulty": 4,
+      "tags": [
+        "OCEAN",
+        "BOMB"
+      ]
+    },
+    {
+      "text": "Diamond Steppe Island Warp Maze Chests",
+      "difficulty": 4,
+      "tags": [
+        "OCEAN",
+        "HOOKSHOT"
+      ]
+    },
+    {
+      "text": "Complete a Long Sidequest",
+      "difficulty": 4,
+      "tags": [
+        "WINDFALL"
+      ]
+    },
+    {
+      "text": "Kill a Darknut",
+      "difficulty": 4,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Top of Deku Tree",
+      "difficulty": 4,
+      "tags": [
+        "FOREST_HAVEN",
+        "DEKu_LEAF"
+      ]
+    },
+    {
+      "text": "20 Joy Pendants to Mrs. Marie",
+      "difficulty": 4,
+      "tags": [
+        "COLLECT",
+        "SPOIL"
+      ]
+    },
+    {
+      "text": "Decorate Private Oasis",
+      "difficulty": 4,
+      "tags": [
+        "OCEAN",
+        "MAIL"
+      ]
+    },
+    {
+      "text": "One Slide Puzzle in Cabana",
+      "difficulty": 5,
+      "tags": [
+        "OCEAN"
+      ]
+    },
+    {
+      "text": "Squash an Enemy with Hammer",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "HAMMER"
+      ]
+    },
+    {
+      "text": "Three-Eye Reef Chest",
+      "difficulty": 5,
+      "tags": [
+        "OCEAN",
+        "BOMB"
+      ]
+    },
+    {
+      "text": "Stock Exotic Flower in Zunari's Shop",
+      "difficulty": 5,
+      "tags": [
+        "WINDFALL",
+        "MAIL"
+      ]
+    },
+    {
+      "text": "OHKO a ReDead with a Light Arrow",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "LIGHT_ARROW"
+      ]
+    },
+    {
+      "text": "Savage Labyrinth Floor 30",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "OUTSET"
+      ]
+    },
+    {
+      "text": "4 Bottles",
+      "difficulty": 5,
+      "tags": [
+        "COLLECT",
+        "WINDFALL",
+        "OCEAN",
+        "DRAGON_ROOST"
+      ]
+    }
+  ]
+}

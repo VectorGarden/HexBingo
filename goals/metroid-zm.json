@@ -1,0 +1,672 @@
+{
+  "name": "Metroid: Zero Mission",
+  "goals": [
+    {
+      "text": "Crateria unknown item",
+      "difficulty": 1,
+      "tags": [
+        "plasmabeam",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Charge Beam",
+      "difficulty": 1,
+      "tags": [
+        "chargebeam",
+        "centipede"
+      ]
+    },
+    {
+      "text": "Use a cannon",
+      "difficulty": 1,
+      "tags": [
+        "cannon"
+      ]
+    },
+    {
+      "text": "Finish by dying",
+      "difficulty": 1,
+      "tags": [
+        "finish"
+      ]
+    },
+    {
+      "text": "Enter your ship",
+      "difficulty": 1,
+      "tags": [
+        "ship"
+      ]
+    },
+    {
+      "text": "Brinstar Map station",
+      "difficulty": 1,
+      "tags": [
+        "maps"
+      ]
+    },
+    {
+      "text": "Fight the giant centipede twice",
+      "difficulty": 1,
+      "tags": [
+        "centipede"
+      ]
+    },
+    {
+      "text": "Enter acid, water, and lava",
+      "difficulty": 1,
+      "tags": [
+        "liquid"
+      ]
+    },
+    {
+      "text": "10 missile tanks",
+      "difficulty": 1,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "3 Kraid missile tanks",
+      "difficulty": 1,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Long Beam",
+      "difficulty": 1,
+      "tags": [
+        "longbeam",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Perform a ball spark",
+      "difficulty": 1,
+      "tags": [
+        "speedbooster",
+        "hijump"
+      ]
+    },
+    {
+      "text": "5 Kraid missile tanks",
+      "difficulty": 1,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Defeat the acid worm",
+      "difficulty": 1,
+      "tags": [
+        "acidworm"
+      ]
+    },
+    {
+      "text": "Ice Beam",
+      "difficulty": 1,
+      "tags": [
+        "icebeam",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Activate ziplines",
+      "difficulty": 1,
+      "tags": [
+        "acidworm"
+      ]
+    },
+    {
+      "text": "7 Brinstar missile tanks",
+      "difficulty": 1,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Hi-Jump",
+      "difficulty": 1,
+      "tags": [
+        "hijump",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Kraid Map station",
+      "difficulty": 1,
+      "tags": [
+        "maps"
+      ]
+    },
+    {
+      "text": "View 3 Chozo hints",
+      "difficulty": 1,
+      "tags": [
+        "chozohints"
+      ]
+    },
+    {
+      "text": "Kill a giant sidehopper",
+      "difficulty": 2,
+      "tags": [
+        "sidehoppers"
+      ]
+    },
+    {
+      "text": "Enter 7 save rooms",
+      "difficulty": 2,
+      "tags": [
+        "saverooms"
+      ]
+    },
+    {
+      "text": "Kraid unkown item",
+      "difficulty": 2,
+      "tags": [
+        "kraid",
+        "spacejump",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "10 Brinstar missile tanks",
+      "difficulty": 2,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Screw Attack",
+      "difficulty": 2,
+      "tags": [
+        "screw",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Finish in your ship",
+      "difficulty": 2,
+      "tags": [
+        "finish",
+        "ship"
+      ]
+    },
+    {
+      "text": "15 missile tanks",
+      "difficulty": 2,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Varia Suit",
+      "difficulty": 2,
+      "tags": [
+        "varia",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "5 E-tanks",
+      "difficulty": 2,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "3 Brinstar E-tanks",
+      "difficulty": 2,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "Wave Beam",
+      "difficulty": 2,
+      "tags": [
+        "wavebeam",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Enter 10 Save rooms",
+      "difficulty": 2,
+      "tags": [
+        "saverooms"
+      ]
+    },
+    {
+      "text": "7 Norfair missile tanks",
+      "difficulty": 2,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Norfair Map station",
+      "difficulty": 2,
+      "tags": [
+        "maps"
+      ]
+    },
+    {
+      "text": "View 5 Chozo hints",
+      "difficulty": 2,
+      "tags": [
+        "chozohints"
+      ]
+    },
+    {
+      "text": "Defeat Kraid",
+      "difficulty": 2,
+      "tags": [
+        "kraid"
+      ]
+    },
+    {
+      "text": "20 missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Defeat the giant wasp",
+      "difficulty": 3,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "Finish while riding a zipline",
+      "difficulty": 3,
+      "tags": [
+        "finish",
+        "acidworm"
+      ]
+    },
+    {
+      "text": "Finish in the Kraid to Norfair tunnel",
+      "difficulty": 3,
+      "tags": [
+        "finish"
+      ]
+    },
+    {
+      "text": "Speed Booster",
+      "difficulty": 3,
+      "tags": [
+        "kraid",
+        "speedbooster",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Ridley Map station",
+      "difficulty": 3,
+      "tags": [
+        "maps"
+      ]
+    },
+    {
+      "text": "Kill 3 different giant sidehoppers",
+      "difficulty": 3,
+      "tags": [
+        "sidehoppers"
+      ]
+    },
+    {
+      "text": "Finish in the varia suit room",
+      "difficulty": 3,
+      "tags": [
+        "varia",
+        "finish"
+      ]
+    },
+    {
+      "text": "5 Ridley missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "3 super missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "6 E-tanks",
+      "difficulty": 3,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "Kill 4 different giant sidehoppers",
+      "difficulty": 3,
+      "tags": [
+        "sidehoppers"
+      ]
+    },
+    {
+      "text": "25 missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "10 Norfair missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "Ridley unknown item",
+      "difficulty": 3,
+      "tags": [
+        "ridley",
+        "gravity",
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "3 Ridley super missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "8 Kraid missile tanks",
+      "difficulty": 3,
+      "tags": [
+        "missiles",
+        "acidworm"
+      ]
+    },
+    {
+      "text": "Defeat Ridley",
+      "difficulty": 3,
+      "tags": [
+        "ridley"
+      ]
+    },
+    {
+      "text": "7 Chozo items",
+      "difficulty": 3,
+      "tags": [
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Open 2 green doors",
+      "difficulty": 3,
+      "tags": [
+        "greendoors"
+      ]
+    },
+    {
+      "text": "12 Norfair missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "missiles",
+        "supers"
+      ]
+    },
+    {
+      "text": "7 E-tanks",
+      "difficulty": 4,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "Kill the giant centipede with a super missile",
+      "difficulty": 4,
+      "tags": [
+        "supers",
+        "centipede"
+      ]
+    },
+    {
+      "text": "1 Crateria super missile tank",
+      "difficulty": 4,
+      "tags": [
+        "supers",
+        "speedbooster"
+      ]
+    },
+    {
+      "text": "1 Norfair E-tank",
+      "difficulty": 4,
+      "tags": [
+        "etanks",
+        "wavebeam",
+        "speedbooster"
+      ]
+    },
+    {
+      "text": "30 missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "2 Kraid E-tanks",
+      "difficulty": 4,
+      "tags": [
+        "etanks",
+        "speedbooster",
+        "acidworm"
+      ]
+    },
+    {
+      "text": "Open 3 green doors",
+      "difficulty": 4,
+      "tags": [
+        "greendoors"
+      ]
+    },
+    {
+      "text": "3 Ridley E-tanks",
+      "difficulty": 4,
+      "tags": [
+        "ridley",
+        "etanks"
+      ]
+    },
+    {
+      "text": "4 super missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "8 Chozo items",
+      "difficulty": 4,
+      "tags": [
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Open 4 green doors",
+      "difficulty": 4,
+      "tags": [
+        "greendoors"
+      ]
+    },
+    {
+      "text": "9 Ridley missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "missiles"
+      ]
+    },
+    {
+      "text": "2 Norfair super missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "Enter 13 Save rooms",
+      "difficulty": 4,
+      "tags": [
+        "saverooms"
+      ]
+    },
+    {
+      "text": "3 Map stations",
+      "difficulty": 4,
+      "tags": [
+        "maps"
+      ]
+    },
+    {
+      "text": "11 Ridley missile tanks",
+      "difficulty": 4,
+      "tags": [
+        "missiles",
+        "speedbooster"
+      ]
+    },
+    {
+      "text": "1 Brinstar super missile tank",
+      "difficulty": 4,
+      "tags": [
+        "supers",
+        "speedbooster",
+        "hijump"
+      ]
+    },
+    {
+      "text": "9 Chozo items",
+      "difficulty": 4,
+      "tags": [
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "3 Crateria missile tanks",
+      "difficulty": 5,
+      "tags": [
+        "missiles",
+        "speedbooster",
+        "hijump"
+      ]
+    },
+    {
+      "text": "5 super missile tanks",
+      "difficulty": 5,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "Kill the acid worm with a super missile",
+      "difficulty": 5,
+      "tags": [
+        "acidworm",
+        "supers"
+      ]
+    },
+    {
+      "text": "13 Ridley missile tanks",
+      "difficulty": 5,
+      "tags": [
+        "missiles",
+        "speedbooster"
+      ]
+    },
+    {
+      "text": "8 E-tanks",
+      "difficulty": 5,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "Kill Kraid with a super missile",
+      "difficulty": 5,
+      "tags": [
+        "kraid",
+        "supers"
+      ]
+    },
+    {
+      "text": "13 Norfair missile tanks",
+      "difficulty": 5,
+      "tags": [
+        "missiles",
+        "screw"
+      ]
+    },
+    {
+      "text": "10 Chozo items",
+      "difficulty": 5,
+      "tags": [
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Enter Tourian",
+      "difficulty": 5,
+      "tags": [
+        "tourian"
+      ]
+    },
+    {
+      "text": "Enter 15 Save rooms",
+      "difficulty": 5,
+      "tags": [
+        "saverooms"
+      ]
+    },
+    {
+      "text": "Kill a metroid",
+      "difficulty": 5,
+      "tags": [
+        "tourian"
+      ]
+    },
+    {
+      "text": "6 super missile tanks",
+      "difficulty": 5,
+      "tags": [
+        "supers"
+      ]
+    },
+    {
+      "text": "9 E-tanks",
+      "difficulty": 5,
+      "tags": [
+        "etanks"
+      ]
+    },
+    {
+      "text": "11 Chozo items",
+      "difficulty": 5,
+      "tags": [
+        "chozoitems"
+      ]
+    },
+    {
+      "text": "Enter 19 Save rooms",
+      "difficulty": 5,
+      "tags": [
+        "saverooms",
+        "tourian"
+      ]
+    }
+  ]
+}

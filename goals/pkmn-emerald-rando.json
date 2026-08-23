@@ -1,0 +1,731 @@
+{
+  "name": "Pokémon: Emerald [Randomizer]",
+  "goals": [
+    {
+      "text": "TM05 (Roar)",
+      "difficulty": 1,
+      "tags": [
+        "114",
+        "tm"
+      ]
+    },
+    {
+      "text": "HM01 (Cut)",
+      "difficulty": 1,
+      "tags": [
+        "rustboro",
+        "hm"
+      ]
+    },
+    {
+      "text": "TM45 (Attract)",
+      "difficulty": 1,
+      "tags": [
+        "verdanturf",
+        "tm"
+      ]
+    },
+    {
+      "text": "Quick Claw",
+      "difficulty": 1,
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "text": "Coin Case",
+      "difficulty": 1,
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "text": "7 different types of PokéBall",
+      "difficulty": 1,
+      "tags": [
+        "balls"
+      ]
+    },
+    {
+      "text": "TM36 (Sludge Bomb)",
+      "difficulty": 1,
+      "tags": [
+        "dewford",
+        "tm"
+      ]
+    },
+    {
+      "text": "A Pokémon with 4 moves sharing its type(s)",
+      "difficulty": 1,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Defeat a Legendary Pokémon",
+      "difficulty": 1,
+      "tags": [
+        "legendary"
+      ]
+    },
+    {
+      "text": "Rematch a trainer with Match Call",
+      "difficulty": 1,
+      "tags": [
+        "pokenav"
+      ]
+    },
+    {
+      "text": "A Pokémon with a status-related ability",
+      "difficulty": 1,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "A Pokémon with a stat-related ability",
+      "difficulty": 1,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Sell a Rare Candy",
+      "difficulty": 1,
+      "tags": [
+        "candy"
+      ]
+    },
+    {
+      "text": "Defeat the Winstrate Family",
+      "difficulty": 1,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Defeat 6 trainers on Route 113",
+      "difficulty": 1,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "A Pokémon with 4 non-TM non-damaging moves",
+      "difficulty": 1,
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "text": "Clefable, Wigglytuff, or Delcatty",
+      "difficulty": 1,
+      "tags": [
+        "stone"
+      ]
+    },
+    {
+      "text": "Raichu, Arcanine, or Ninetales",
+      "difficulty": 1,
+      "tags": [
+        "stone"
+      ]
+    },
+    {
+      "text": "Vileplume, Victreebel, or Exeggutor",
+      "difficulty": 1,
+      "tags": [
+        "stone"
+      ]
+    },
+    {
+      "text": "Poliwrath, Starmie, or Cloyster",
+      "difficulty": 1,
+      "tags": [
+        "stone"
+      ]
+    },
+    {
+      "text": "Beedrill, Butterfree, Dustox or Beautifly",
+      "difficulty": 2,
+      "tags": [
+        "bugs"
+      ]
+    },
+    {
+      "text": "Nidorino or Nidorina",
+      "difficulty": 2,
+      "tags": [
+        "nido"
+      ]
+    },
+    {
+      "text": "Lombre or Nuzleaf",
+      "difficulty": 2,
+      "tags": [
+        "leaves"
+      ]
+    },
+    {
+      "text": "A Pokémon with a weather-related ability",
+      "difficulty": 2,
+      "tags": [
+        "ability"
+      ]
+    },
+    {
+      "text": "Hatch an egg",
+      "difficulty": 2,
+      "tags": [
+        "egg"
+      ]
+    },
+    {
+      "text": "Defeat both Pokémon Breeders on Route 117",
+      "difficulty": 2,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Defeat all 5 Triathletes on Cycling Road",
+      "difficulty": 2,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "$0 on hand",
+      "difficulty": 2,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "Wobbuffet, Flaaffy, or Furret",
+      "difficulty": 2,
+      "tags": [
+        "15"
+      ]
+    },
+    {
+      "text": "Ivysaur, Bayleef, or Grovyle",
+      "difficulty": 2,
+      "tags": [
+        "starters"
+      ]
+    },
+    {
+      "text": "Wartortle, Croconaw, or Marshtomp",
+      "difficulty": 2,
+      "tags": [
+        "starters"
+      ]
+    },
+    {
+      "text": "Charmeleon, Quilava, or Combusken",
+      "difficulty": 2,
+      "tags": [
+        "starters"
+      ]
+    },
+    {
+      "text": "Kelpsy Berry",
+      "difficulty": 2,
+      "tags": [
+        "berry"
+      ]
+    },
+    {
+      "text": "Release starter before Lv11",
+      "difficulty": 2,
+      "tags": [
+        "release"
+      ]
+    },
+    {
+      "text": "TM19 (Giga Drain)",
+      "difficulty": 2,
+      "tags": [
+        "grass",
+        "tm"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon in the Safari Zone",
+      "difficulty": 2,
+      "tags": [
+        "lilycove"
+      ]
+    },
+    {
+      "text": "Mightyena, Linoone, or Raticate",
+      "difficulty": 2,
+      "tags": [
+        "18/20"
+      ]
+    },
+    {
+      "text": "Azumarill, Gyarados, or Quagsire",
+      "difficulty": 2,
+      "tags": [
+        "18/20"
+      ]
+    },
+    {
+      "text": "Kirlia, Loudred, or Kadabra",
+      "difficulty": 2,
+      "tags": [
+        "20/16"
+      ]
+    },
+    {
+      "text": "Masquerain, Ninjask, or Shedinja",
+      "difficulty": 2,
+      "tags": [
+        "22/20/18"
+      ]
+    },
+    {
+      "text": "Burn, Paralyze, or Poison Kecleon",
+      "difficulty": 3,
+      "tags": [
+        "status"
+      ]
+    },
+    {
+      "text": "Revive a fossil",
+      "difficulty": 3,
+      "tags": [
+        "fossil"
+      ]
+    },
+    {
+      "text": "Complete all 3 Battle Tents",
+      "difficulty": 3,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Lileep, Anorith, Kabuto, or Omanyte",
+      "difficulty": 3,
+      "tags": [
+        "fossil"
+      ]
+    },
+    {
+      "text": "Evolve 4 different Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Complete Trainer Hill",
+      "difficulty": 3,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "2 different baby Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "baby"
+      ]
+    },
+    {
+      "text": "2 different Eevee evolutions",
+      "difficulty": 3,
+      "tags": [
+        "eevee"
+      ]
+    },
+    {
+      "text": "TM27 (Return)",
+      "difficulty": 3,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "White Flute",
+      "difficulty": 3,
+      "tags": [
+        "113"
+      ]
+    },
+    {
+      "text": "Exp. Share",
+      "difficulty": 3,
+      "tags": [
+        "rustboro"
+      ]
+    },
+    {
+      "text": "TM44 (Rest)",
+      "difficulty": 3,
+      "tags": [
+        "lilycove"
+      ]
+    },
+    {
+      "text": "Manectric, Houndoom, or Grumpig",
+      "difficulty": 3,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Swellow, Pelipper, or Pidgeotto",
+      "difficulty": 3,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Breloom, Hariyama, or Vigoroth",
+      "difficulty": 3,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Slugma, Numel, or Torkoal",
+      "difficulty": 3,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Barboach, Corphish, or Luvdisc",
+      "difficulty": 3,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Trade a Pokémon",
+      "difficulty": 3,
+      "tags": [
+        "trade"
+      ]
+    },
+    {
+      "text": "Don't use Repels",
+      "difficulty": 3,
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "text": "TM10 (Hidden Power)",
+      "difficulty": 3,
+      "tags": [
+        "tm",
+        "fortree"
+      ]
+    },
+    {
+      "text": "HM08 (Dive)",
+      "difficulty": 3,
+      "tags": [
+        "mossdeep",
+        "hm"
+      ]
+    },
+    {
+      "text": "Pikachu, Plusle, or Minun",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Swablu, Zangoose, or Seviper",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Roselia, Volbeat, or Illumise",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Flygon, Claydol, or Cacturne",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Skarmory, Spinda, or Sandshrew",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Defeat 4 Kecleons",
+      "difficulty": 4,
+      "tags": [
+        "scope"
+      ]
+    },
+    {
+      "text": "20+ Pokémon owned",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "All fishing rods",
+      "difficulty": 4,
+      "tags": [
+        "mossdeep"
+      ]
+    },
+    {
+      "text": "Defeat 8 Ninja Boys",
+      "difficulty": 4,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Own 5 different Bug type Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Own 6 different Flying type Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Own 7 different Normal type Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Own 8 different Water type Pokémon",
+      "difficulty": 4,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Nosepass, Sableye, or Mawile",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Glalie, Sharpedo, or Walrein",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Chimecho, Banette, or Dusclops",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Aggron, Salamence, or Metagross",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Regirock, Regice, or Registeel",
+      "difficulty": 4,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon on Mt. Pyre summit",
+      "difficulty": 4,
+      "tags": [
+        "pyre"
+      ]
+    },
+    {
+      "text": "Catch Deoxys at Birth Island",
+      "difficulty": 4,
+      "tags": [
+        "deoxys"
+      ]
+    },
+    {
+      "text": "Catch Latias or Latios at Southern Island",
+      "difficulty": 4,
+      "tags": [
+        "eon"
+      ]
+    },
+    {
+      "text": "Catch a Pokémon on Mirage Island",
+      "difficulty": 4,
+      "tags": [
+        "50"
+      ]
+    },
+    {
+      "text": "Defeat 10 Swimmers",
+      "difficulty": 5,
+      "tags": [
+        "water",
+        "trainer"
+      ]
+    },
+    {
+      "text": "Complete 3 Trick House mazes",
+      "difficulty": 5,
+      "tags": [
+        "candy",
+        "trainer"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers on Route 125",
+      "difficulty": 5,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "Defeat 9 trainers on Route 123",
+      "difficulty": 5,
+      "tags": [
+        "trainer"
+      ]
+    },
+    {
+      "text": "90 Pokémon seen",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "Teach 8 moves via Move Tutor",
+      "difficulty": 5,
+      "tags": [
+        "tutor"
+      ]
+    },
+    {
+      "text": "Stop the same Pokémon evolving 4 times",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Mental Herb",
+      "difficulty": 5,
+      "tags": [
+        "fortree"
+      ]
+    },
+    {
+      "text": "5 different Lv30+ Pokémon",
+      "difficulty": 5,
+      "tags": [
+        "30"
+      ]
+    },
+    {
+      "text": "Kyogre, Groudon, or Rayquaza",
+      "difficulty": 5,
+      "tags": [
+        "covers"
+      ]
+    },
+    {
+      "text": "TM24 (Thunderbolt)",
+      "difficulty": 5,
+      "tags": [
+        "mauville",
+        "tm"
+      ]
+    },
+    {
+      "text": "Defeat Rival 4",
+      "difficulty": 5,
+      "tags": [
+        "lilycove"
+      ]
+    },
+    {
+      "text": "Feather Badge",
+      "difficulty": 5,
+      "tags": [
+        "feather"
+      ]
+    },
+    {
+      "text": "Mind Badge",
+      "difficulty": 5,
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "text": "Defeat Gabby & Ty 6 times",
+      "difficulty": 5,
+      "tags": [
+        "trainer",
+        "tv"
+      ]
+    },
+    {
+      "text": "30+ Pokémon owned",
+      "difficulty": 5,
+      "tags": [
+        "pkmn"
+      ]
+    },
+    {
+      "text": "7 badges",
+      "difficulty": 5,
+      "tags": [
+        "badges"
+      ]
+    },
+    {
+      "text": "TM26 (Earthquake)",
+      "difficulty": 5,
+      "tags": [
+        "tm",
+        "seafloor"
+      ]
+    },
+    {
+      "text": "Participate in a Contest",
+      "difficulty": 5,
+      "tags": [
+        "contest"
+      ]
+    }
+  ]
+}

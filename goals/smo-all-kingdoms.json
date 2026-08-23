@@ -1,0 +1,2105 @@
+{
+  "name": "Super Mario Odyssey [All Kingdoms]",
+  "goals": [
+    {
+      "text": "6 Moons (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap_Moons"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap"
+      ]
+    },
+    {
+      "text": "12 Moons (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade_Moons"
+      ]
+    },
+    {
+      "text": "28 Moons (Sand)",
+      "difficulty": 1,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "16 Moons (Lake)",
+      "difficulty": 1,
+      "tags": [
+        "Lake_Moons"
+      ]
+    },
+    {
+      "text": "28 Moons (Wooded)",
+      "difficulty": 1,
+      "tags": [
+        "Wooded_Moons"
+      ]
+    },
+    {
+      "text": "30 Moons (Metro)",
+      "difficulty": 1,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "18 Moons (Snow)",
+      "difficulty": 1,
+      "tags": [
+        "Snow_Moons"
+      ]
+    },
+    {
+      "text": "20 Moons (Seaside)",
+      "difficulty": 1,
+      "tags": [
+        "Seaside_Moons"
+      ]
+    },
+    {
+      "text": "26 Moons (Luncheon)",
+      "difficulty": 1,
+      "tags": [
+        "Luncheon_Moons"
+      ]
+    },
+    {
+      "text": "12 Moons (Bowser's)",
+      "difficulty": 1,
+      "tags": [
+        "Bowser_Moons"
+      ]
+    },
+    {
+      "text": "4 Moons (Moon)",
+      "difficulty": 1,
+      "tags": [
+        "Moon_Moons"
+      ]
+    },
+    {
+      "text": "25 Regional Coins (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Sand)",
+      "difficulty": 1,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Lake)",
+      "difficulty": 1,
+      "tags": [
+        "Lake_Regional"
+      ]
+    },
+    {
+      "text": "50 Regional Coins (Wooded)",
+      "difficulty": 1,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Lost)",
+      "difficulty": 1,
+      "tags": [
+        "Lost_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Metro)",
+      "difficulty": 1,
+      "tags": [
+        "Metro_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Snow)",
+      "difficulty": 1,
+      "tags": [
+        "Snow_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Seaside)",
+      "difficulty": 1,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Luncheon)",
+      "difficulty": 1,
+      "tags": [
+        "Luncheon_Regional"
+      ]
+    },
+    {
+      "text": "25 Regional Coins (Bowser's)",
+      "difficulty": 1,
+      "tags": [
+        "Bowser_Regional"
+      ]
+    },
+    {
+      "text": "20 Regional Coins (Moon)",
+      "difficulty": 1,
+      "tags": [
+        "Moon_Regional"
+      ]
+    },
+    {
+      "text": "8 Moons (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap_Moons"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap"
+      ]
+    },
+    {
+      "text": "14 Moons (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade_Moons"
+      ]
+    },
+    {
+      "text": "30 Moons (Sand)",
+      "difficulty": 1,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "18 Moons (Lake)",
+      "difficulty": 1,
+      "tags": [
+        "Lake_Moons"
+      ]
+    },
+    {
+      "text": "30 Moons (Wooded)",
+      "difficulty": 1,
+      "tags": [
+        "Wooded_Moons"
+      ]
+    },
+    {
+      "text": "32 Moons (Metro)",
+      "difficulty": 1,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "20 Moons (Snow)",
+      "difficulty": 1,
+      "tags": [
+        "Snow_Moons"
+      ]
+    },
+    {
+      "text": "22 Moons (Seaside)",
+      "difficulty": 1,
+      "tags": [
+        "Seaside_Moons"
+      ]
+    },
+    {
+      "text": "28 Moons (Luncheon)",
+      "difficulty": 1,
+      "tags": [
+        "Luncheon_Moons"
+      ]
+    },
+    {
+      "text": "14 Moons (Bowser's)",
+      "difficulty": 1,
+      "tags": [
+        "Bowser_Moons"
+      ]
+    },
+    {
+      "text": "6 Moons (Moon)",
+      "difficulty": 1,
+      "tags": [
+        "Moon_Moons"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade_Regional"
+      ]
+    },
+    {
+      "text": "50 Regional Coins (Sand)",
+      "difficulty": 1,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Lake)",
+      "difficulty": 1,
+      "tags": [
+        "Lake_Regional"
+      ]
+    },
+    {
+      "text": "55 Regional Coins (Wooded)",
+      "difficulty": 1,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Lost)",
+      "difficulty": 1,
+      "tags": [
+        "Lost_Regional"
+      ]
+    },
+    {
+      "text": "50 Regional Coins (Metro)",
+      "difficulty": 1,
+      "tags": [
+        "Metro_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Snow)",
+      "difficulty": 1,
+      "tags": [
+        "Snow_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Seaside)",
+      "difficulty": 1,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Luncheon)",
+      "difficulty": 1,
+      "tags": [
+        "Luncheon_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Bowser's)",
+      "difficulty": 1,
+      "tags": [
+        "Bowser_Regional"
+      ]
+    },
+    {
+      "text": "25 Regional Coins (Moon)",
+      "difficulty": 1,
+      "tags": [
+        "Moon_Regional"
+      ]
+    },
+    {
+      "text": "10 Moons (Cap)",
+      "difficulty": 1,
+      "tags": [
+        "Cap_Moons"
+      ]
+    },
+    {
+      "text": "16 Moons (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade_Moons"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Cascade)",
+      "difficulty": 1,
+      "tags": [
+        "Cascade"
+      ]
+    },
+    {
+      "text": "32 Moons (Sand)",
+      "difficulty": 1,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "20 Moons (Lake)",
+      "difficulty": 1,
+      "tags": [
+        "Lake_Moons"
+      ]
+    },
+    {
+      "text": "32 Moons (Wooded)",
+      "difficulty": 1,
+      "tags": [
+        "Wooded_Moons"
+      ]
+    },
+    {
+      "text": "34 Moons (Metro)",
+      "difficulty": 1,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "22 Moons (Snow)",
+      "difficulty": 1,
+      "tags": [
+        "Snow_Moons"
+      ]
+    },
+    {
+      "text": "24 Moons (Seaside)",
+      "difficulty": 1,
+      "tags": [
+        "Seaside_Moons"
+      ]
+    },
+    {
+      "text": "30 Moons (Luncheon)",
+      "difficulty": 1,
+      "tags": [
+        "Luncheon_Moons"
+      ]
+    },
+    {
+      "text": "16 Moons (Bowser's)",
+      "difficulty": 1,
+      "tags": [
+        "Bowser_Moons"
+      ]
+    },
+    {
+      "text": "8 Moons (Moon)",
+      "difficulty": 1,
+      "tags": [
+        "Moon_Moons"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Cap)",
+      "difficulty": 2,
+      "tags": [
+        "Cap_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Cascade)",
+      "difficulty": 2,
+      "tags": [
+        "Cascade_Regional"
+      ]
+    },
+    {
+      "text": "4 Checkpoints (Cascade)",
+      "difficulty": 2,
+      "tags": [
+        "Cascade"
+      ]
+    },
+    {
+      "text": "55 Regional Coins (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Lake)",
+      "difficulty": 2,
+      "tags": [
+        "Lake_Regional"
+      ]
+    },
+    {
+      "text": "60 Regional Coins (Wooded)",
+      "difficulty": 2,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Lost)",
+      "difficulty": 2,
+      "tags": [
+        "Lost_Regional"
+      ]
+    },
+    {
+      "text": "55 Regional Coins (Metro)",
+      "difficulty": 2,
+      "tags": [
+        "Metro_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Snow)",
+      "difficulty": 2,
+      "tags": [
+        "Snow_Regional"
+      ]
+    },
+    {
+      "text": "50 Regional Coins (Seaside)",
+      "difficulty": 2,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Luncheon)",
+      "difficulty": 2,
+      "tags": [
+        "Luncheon_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Bowser's)",
+      "difficulty": 2,
+      "tags": [
+        "Bowser_Regional"
+      ]
+    },
+    {
+      "text": "2 Checkpoints (Cap)",
+      "difficulty": 2,
+      "tags": [
+        "Cap"
+      ]
+    },
+    {
+      "text": "18 Moons (Cascade)",
+      "difficulty": 2,
+      "tags": [
+        "Cascade_Moons"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Cascade)",
+      "difficulty": 2,
+      "tags": [
+        "Cascade"
+      ]
+    },
+    {
+      "text": "34 Moons (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "22 Moons (Lake)",
+      "difficulty": 2,
+      "tags": [
+        "Lake_Moons"
+      ]
+    },
+    {
+      "text": "34 Moons (Wooded)",
+      "difficulty": 2,
+      "tags": [
+        "Wooded_Moons"
+      ]
+    },
+    {
+      "text": "36 Moons (Metro)",
+      "difficulty": 2,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "24 Moons (Snow)",
+      "difficulty": 2,
+      "tags": [
+        "Snow_Moons"
+      ]
+    },
+    {
+      "text": "26 Moons (Seaside)",
+      "difficulty": 2,
+      "tags": [
+        "Seaside_Moons"
+      ]
+    },
+    {
+      "text": "32 Moons (Luncheon)",
+      "difficulty": 2,
+      "tags": [
+        "Luncheon_Moons"
+      ]
+    },
+    {
+      "text": "18 Moons (Bowser's)",
+      "difficulty": 2,
+      "tags": [
+        "Bowser_Moons"
+      ]
+    },
+    {
+      "text": "10 Moons (Moon)",
+      "difficulty": 2,
+      "tags": [
+        "Moon_Moons"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Cap)",
+      "difficulty": 2,
+      "tags": [
+        "Cap_Regional"
+      ]
+    },
+    {
+      "text": "50 Regional Coins (Cascade)",
+      "difficulty": 2,
+      "tags": [
+        "Cascade_Regional"
+      ]
+    },
+    {
+      "text": "60 Regional Coins (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Lake)",
+      "difficulty": 2,
+      "tags": [
+        "Lake_Regional"
+      ]
+    },
+    {
+      "text": "65 Regional Coins (Wooded)",
+      "difficulty": 2,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Lost)",
+      "difficulty": 2,
+      "tags": [
+        "Lost_Regional"
+      ]
+    },
+    {
+      "text": "60 Regional Coins (Metro)",
+      "difficulty": 2,
+      "tags": [
+        "Metro_Regional"
+      ]
+    },
+    {
+      "text": "55 Regional Coins (Seaside)",
+      "difficulty": 2,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "45 Regional Coins (Luncheon)",
+      "difficulty": 2,
+      "tags": [
+        "Luncheon_Regional"
+      ]
+    },
+    {
+      "text": "40 Regional Coins (Bowser's)",
+      "difficulty": 2,
+      "tags": [
+        "Bowser_Regional"
+      ]
+    },
+    {
+      "text": "30 Regional Coins (Moon)",
+      "difficulty": 2,
+      "tags": [
+        "Moon_Regional"
+      ]
+    },
+    {
+      "text": "145 Moons (Total)",
+      "difficulty": 2,
+      "tags": [
+        "Total_Moons"
+      ]
+    },
+    {
+      "text": "36 Moons (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Moon Shards in the Sand (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "24 Moons (Lake)",
+      "difficulty": 2,
+      "tags": [
+        "Lake_Moons"
+      ]
+    },
+    {
+      "text": "36 Moons (Wooded)",
+      "difficulty": 2,
+      "tags": [
+        "Wooded_Moons"
+      ]
+    },
+    {
+      "text": "38 Moons (Metro)",
+      "difficulty": 2,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "20 Moons (Bowser's)",
+      "difficulty": 2,
+      "tags": [
+        "Bowser_Moons"
+      ]
+    },
+    {
+      "text": "Capture both the Cactus and the Tree",
+      "difficulty": 2,
+      "tags": [
+        "Capture_Both"
+      ]
+    },
+    {
+      "text": "300 Total Regional Coins",
+      "difficulty": 2,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "3 Moons from Goombas",
+      "difficulty": 2,
+      "tags": [
+        "Goomba"
+      ]
+    },
+    {
+      "text": "1 Moon from Seeds",
+      "difficulty": 2,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "All Regional Coins in 3 Kingdoms",
+      "difficulty": 2,
+      "tags": [
+        "Regional_Kingdoms"
+      ]
+    },
+    {
+      "text": "65 Regional Coins (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "7 Checkpoints (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Call Jaxi from 5 Stands",
+      "difficulty": 2,
+      "tags": [
+        "Jaxi"
+      ]
+    },
+    {
+      "text": "70 Regional Coins (Wooded)",
+      "difficulty": 2,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "65 Regional Coins (Metro)",
+      "difficulty": 2,
+      "tags": [
+        "Metro_Regional"
+      ]
+    },
+    {
+      "text": "60 Regional Coins (Seaside)",
+      "difficulty": 2,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "35 Regional Coins (Moon)",
+      "difficulty": 2,
+      "tags": [
+        "Moon_Regional"
+      ]
+    },
+    {
+      "text": "2 Moons from Slots",
+      "difficulty": 2,
+      "tags": [
+        "Slots"
+      ]
+    },
+    {
+      "text": "150 Moons (Total)",
+      "difficulty": 2,
+      "tags": [
+        "Total_Moons"
+      ]
+    },
+    {
+      "text": "8 Multi Moons",
+      "difficulty": 2,
+      "tags": [
+        "Multi_Moons"
+      ]
+    },
+    {
+      "text": "2 Moons from Keys",
+      "difficulty": 2,
+      "tags": [
+        "Keys"
+      ]
+    },
+    {
+      "text": "Outfit-Door (Sand)",
+      "difficulty": 2,
+      "tags": [
+        "Locked_Door"
+      ]
+    },
+    {
+      "text": "38 Moons (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Koopa Trace-Walking (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "40 Moons (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Luncheon)",
+      "difficulty": 3,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "325 Total Regional Coins",
+      "difficulty": 3,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "4 Moons from Goombas",
+      "difficulty": 3,
+      "tags": [
+        "Goomba"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "All Regional Coins in 4 Kingdoms",
+      "difficulty": 3,
+      "tags": [
+        "Regional_Kingdoms"
+      ]
+    },
+    {
+      "text": "1 Moon (Underground Moon Caves)",
+      "difficulty": 3,
+      "tags": [
+        "Moon_Caves"
+      ]
+    },
+    {
+      "text": "Seaside Kingdom: Sphynx Quiz Complete!",
+      "difficulty": 3,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "70 Regional Coins (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand_Regional"
+      ]
+    },
+    {
+      "text": "8 Checkpoints (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Call Jaxi from 6 Stands",
+      "difficulty": 3,
+      "tags": [
+        "Jaxi"
+      ]
+    },
+    {
+      "text": "75 Regional Coins (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "Wooded_Regional"
+      ]
+    },
+    {
+      "text": "7 Checkpoints (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "65 Regional Coins (Seaside)",
+      "difficulty": 3,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "3 Moons from Slots",
+      "difficulty": 3,
+      "tags": [
+        "Slots"
+      ]
+    },
+    {
+      "text": "Look at 3 Hint Arts",
+      "difficulty": 3,
+      "tags": [
+        "Hint_View"
+      ]
+    },
+    {
+      "text": "155 Moons (Total)",
+      "difficulty": 3,
+      "tags": [
+        "Total_Moons"
+      ]
+    },
+    {
+      "text": "9 Multi Moons",
+      "difficulty": 3,
+      "tags": [
+        "Multi_Moons"
+      ]
+    },
+    {
+      "text": "3 Moons from Keys",
+      "difficulty": 3,
+      "tags": [
+        "Keys"
+      ]
+    },
+    {
+      "text": "15 Story Moons (excl. Multi Moons)",
+      "difficulty": 3,
+      "tags": [
+        "Story"
+      ]
+    },
+    {
+      "text": "40 Moons (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "8 Moons from sub-areas (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Herding Sheep in the Dunes (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "8 Moons from sub-areas (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "42 Moons (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro_Moons"
+      ]
+    },
+    {
+      "text": "8 Moons from sub-areas (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Luncheon)",
+      "difficulty": 3,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "30 Moons from sub-areas (Total)",
+      "difficulty": 3,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "350 Total Regional Coins",
+      "difficulty": 3,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "Outfit-Door (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "Locked_Door"
+      ]
+    },
+    {
+      "text": "2 Moons (Underground Moon Caves)",
+      "difficulty": 3,
+      "tags": [
+        "Moon_Caves"
+      ]
+    },
+    {
+      "text": "Catch the Rabbit! (Bowser's)",
+      "difficulty": 3,
+      "tags": [
+        "Bowser"
+      ]
+    },
+    {
+      "text": "9 Checkpoints (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "Call Jaxi from 7 Stands",
+      "difficulty": 3,
+      "tags": [
+        "Jaxi"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Lake)",
+      "difficulty": 3,
+      "tags": [
+        "Lake"
+      ]
+    },
+    {
+      "text": "4 Moons (Deep Woods)",
+      "difficulty": 3,
+      "tags": [
+        "Deep_Woods"
+      ]
+    },
+    {
+      "text": "8 Checkpoints (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "70 Regional Coins (Seaside)",
+      "difficulty": 3,
+      "tags": [
+        "Seaside_Regional"
+      ]
+    },
+    {
+      "text": "2 Moons from sub-areas (Bowser's)",
+      "difficulty": 3,
+      "tags": [
+        "Bowser"
+      ]
+    },
+    {
+      "text": "Look at 4 Hint Arts",
+      "difficulty": 3,
+      "tags": [
+        "Hint_View"
+      ]
+    },
+    {
+      "text": "3 Moons from Wooden Crates",
+      "difficulty": 3,
+      "tags": [
+        "Crates"
+      ]
+    },
+    {
+      "text": "160 Moons (Total)",
+      "difficulty": 3,
+      "tags": [
+        "Total_Moons"
+      ]
+    },
+    {
+      "text": "Outfit-Door (Seaside)",
+      "difficulty": 3,
+      "tags": [
+        "Locked_Door"
+      ]
+    },
+    {
+      "text": "Madame Broode Defeated! (Moon)",
+      "difficulty": 3,
+      "tags": [
+        "Extra_Boss"
+      ]
+    },
+    {
+      "text": "42 Moons (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand_Moons"
+      ]
+    },
+    {
+      "text": "Ice Cave Treasure-Moon (Sand)",
+      "difficulty": 3,
+      "tags": [
+        "Sand"
+      ]
+    },
+    {
+      "text": "10 Moons from sub-areas (Wooded)",
+      "difficulty": 3,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "10 Moons from sub-areas (Metro)",
+      "difficulty": 3,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "8 Moons from sub-areas (Luncheon)",
+      "difficulty": 3,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "1 Moon from Lakitu-Fishing",
+      "difficulty": 3,
+      "tags": [
+        "Fishing"
+      ]
+    },
+    {
+      "text": "32 Moons from sub-areas (Total)",
+      "difficulty": 3,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "6 Stickers",
+      "difficulty": 3,
+      "tags": [
+        "Stickers"
+      ]
+    },
+    {
+      "text": "375 Total Regional Coins",
+      "difficulty": 3,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Seaside)",
+      "difficulty": 3,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "8 Unique Life-Up Hearts (excl. Shops)",
+      "difficulty": 3,
+      "tags": [
+        "LifeUp"
+      ]
+    },
+    {
+      "text": "Outfit-Door (Snow)",
+      "difficulty": 3,
+      "tags": [
+        "Locked_Door"
+      ]
+    },
+    {
+      "text": "5 Checkpoints (Lake)",
+      "difficulty": 4,
+      "tags": [
+        "Lake"
+      ]
+    },
+    {
+      "text": "6 Checkpoints (Wooded)",
+      "difficulty": 4,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "5 Moons (Deep Woods)",
+      "difficulty": 4,
+      "tags": [
+        "Deep_Woods"
+      ]
+    },
+    {
+      "text": "9 Checkpoints (Metro)",
+      "difficulty": 4,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "Uncork 3 Fountains (Seaside)",
+      "difficulty": 4,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Bowser's)",
+      "difficulty": 4,
+      "tags": [
+        "Bowser"
+      ]
+    },
+    {
+      "text": "Purchase 8 Hats",
+      "difficulty": 4,
+      "tags": [
+        "Hats"
+      ]
+    },
+    {
+      "text": "Look at 5 Hint Arts",
+      "difficulty": 4,
+      "tags": [
+        "Hint_View"
+      ]
+    },
+    {
+      "text": "4 Moons from Wooden Crates",
+      "difficulty": 4,
+      "tags": [
+        "Crates"
+      ]
+    },
+    {
+      "text": "World Peace in 5 Kingdoms (excl. Cap, Cloud, Lost, Moon)",
+      "difficulty": 4,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "3 Moons (Underground Moon Caves)",
+      "difficulty": 4,
+      "tags": [
+        "Moon_Caves"
+      ]
+    },
+    {
+      "text": "Tostarena-Tourist in the Metro Kingdom!",
+      "difficulty": 4,
+      "tags": [
+        "Tourist"
+      ]
+    },
+    {
+      "text": "9 Moons from Nuts",
+      "difficulty": 4,
+      "tags": [
+        "Nuts"
+      ]
+    },
+    {
+      "text": "Goomba Picture-Match (Cloud)",
+      "difficulty": 4,
+      "tags": [
+        "Cloud"
+      ]
+    },
+    {
+      "text": "3 Checkpoints (Lost)",
+      "difficulty": 4,
+      "tags": [
+        "Lost"
+      ]
+    },
+    {
+      "text": "12 Moons from sub-areas (Metro)",
+      "difficulty": 4,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "2 Moons from Lakitu-Fishing",
+      "difficulty": 4,
+      "tags": [
+        "Fishing"
+      ]
+    },
+    {
+      "text": "34 Moons from sub-areas (Total)",
+      "difficulty": 4,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "7 Stickers",
+      "difficulty": 4,
+      "tags": [
+        "Stickers"
+      ]
+    },
+    {
+      "text": "Purchase 8 Souvenirs",
+      "difficulty": 4,
+      "tags": [
+        "Souvenirs"
+      ]
+    },
+    {
+      "text": "7 Timer Challenges",
+      "difficulty": 4,
+      "tags": [
+        "Timer"
+      ]
+    },
+    {
+      "text": "26 Unique Captures",
+      "difficulty": 4,
+      "tags": [
+        "Unique_Captures"
+      ]
+    },
+    {
+      "text": "400 Total Regional Coins",
+      "difficulty": 4,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "10 Unique Life-Up Hearts (excl. Shops)",
+      "difficulty": 4,
+      "tags": [
+        "LifeUp"
+      ]
+    },
+    {
+      "text": "Puzzle Room Solved! (Lake)",
+      "difficulty": 4,
+      "tags": [
+        "Lake"
+      ]
+    },
+    {
+      "text": "7 Checkpoints (Wooded)",
+      "difficulty": 4,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "6 Moons (Deep Woods)",
+      "difficulty": 4,
+      "tags": [
+        "Deep_Woods"
+      ]
+    },
+    {
+      "text": "RC Car: Race Complete! (Metro)",
+      "difficulty": 4,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "Uncork 4 Fountains (Seaside)",
+      "difficulty": 4,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "Purchase 9 Hats",
+      "difficulty": 4,
+      "tags": [
+        "Hats"
+      ]
+    },
+    {
+      "text": "Purchase 8 Full Costume Sets",
+      "difficulty": 4,
+      "tags": [
+        "Outfits"
+      ]
+    },
+    {
+      "text": "9 Treasure Chest Moons",
+      "difficulty": 4,
+      "tags": [
+        "Treasure_Chest"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Snow)",
+      "difficulty": 4,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "World Peace in 6 Kingdoms (excl. Cap, Cloud, Lost, Moon)",
+      "difficulty": 4,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "17 Story Moons (excl. Multi Moons)",
+      "difficulty": 4,
+      "tags": [
+        "Story"
+      ]
+    },
+    {
+      "text": "2 Moon from Seeds",
+      "difficulty": 4,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "10 Moons from Nuts",
+      "difficulty": 4,
+      "tags": [
+        "Nuts"
+      ]
+    },
+    {
+      "text": "16 Moons (Lost)",
+      "difficulty": 4,
+      "tags": [
+        "Lost_Moons"
+      ]
+    },
+    {
+      "text": "Catch the Rabbit! (Lost)",
+      "difficulty": 4,
+      "tags": [
+        "Lost"
+      ]
+    },
+    {
+      "text": "2 Checkpoints (Snow)",
+      "difficulty": 4,
+      "tags": [
+        "Snow"
+      ]
+    },
+    {
+      "text": "5 Checkpoints (Luncheon)",
+      "difficulty": 4,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "36 Moons from sub-areas (Total)",
+      "difficulty": 4,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "8 Stickers",
+      "difficulty": 4,
+      "tags": [
+        "Stickers"
+      ]
+    },
+    {
+      "text": "Purchase 10 Souvenirs",
+      "difficulty": 4,
+      "tags": [
+        "Souvenirs"
+      ]
+    },
+    {
+      "text": "8 Timer Challenges",
+      "difficulty": 4,
+      "tags": [
+        "Timer"
+      ]
+    },
+    {
+      "text": "7 Moons from 8-bit Sections",
+      "difficulty": 4,
+      "tags": [
+        "8bit"
+      ]
+    },
+    {
+      "text": "Purchase 8 Moons",
+      "difficulty": 4,
+      "tags": [
+        "Shop_Moons"
+      ]
+    },
+    {
+      "text": "28 Unique Captures",
+      "difficulty": 4,
+      "tags": [
+        "Unique_Captures"
+      ]
+    },
+    {
+      "text": "Plant 1 Seed (Lake)",
+      "difficulty": 4,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "8 Checkpoints (Wooded)",
+      "difficulty": 4,
+      "tags": [
+        "Wooded"
+      ]
+    },
+    {
+      "text": "7 Moons (Deep Woods)",
+      "difficulty": 4,
+      "tags": [
+        "Deep_Woods"
+      ]
+    },
+    {
+      "text": "Jump-Rope Hero! (Metro)",
+      "difficulty": 4,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "7 Checkpoints (Seaside)",
+      "difficulty": 4,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "Purchase 10 Hats",
+      "difficulty": 4,
+      "tags": [
+        "Hats"
+      ]
+    },
+    {
+      "text": "3 Warp-Painting Moons",
+      "difficulty": 4,
+      "tags": [
+        "Warp_Painting"
+      ]
+    },
+    {
+      "text": "Purchase 9 Full Costume Sets",
+      "difficulty": 4,
+      "tags": [
+        "Outfits"
+      ]
+    },
+    {
+      "text": "6 Moons from Music Notes",
+      "difficulty": 4,
+      "tags": [
+        "Music_Notes"
+      ]
+    },
+    {
+      "text": "11 Treasure Chest Moons",
+      "difficulty": 4,
+      "tags": [
+        "Treasure_Chest"
+      ]
+    },
+    {
+      "text": "Plant 5 Seeds (Total)",
+      "difficulty": 4,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Sand)",
+      "difficulty": 4,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "11 Moons from Nuts",
+      "difficulty": 5,
+      "tags": [
+        "Nuts"
+      ]
+    },
+    {
+      "text": "18 Moons (Lost)",
+      "difficulty": 5,
+      "tags": [
+        "Lost_Moons"
+      ]
+    },
+    {
+      "text": "4 Barrier-Moons (Snow)",
+      "difficulty": 5,
+      "tags": [
+        "Snow"
+      ]
+    },
+    {
+      "text": "4 Moons from sub-areas (Seaside)",
+      "difficulty": 5,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "6 Checkpoints (Luncheon)",
+      "difficulty": 5,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "38 Moons from sub-areas (Total)",
+      "difficulty": 5,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "9 Stickers",
+      "difficulty": 5,
+      "tags": [
+        "Stickers"
+      ]
+    },
+    {
+      "text": "Purchase 12 Souvenirs",
+      "difficulty": 5,
+      "tags": [
+        "Souvenirs"
+      ]
+    },
+    {
+      "text": "9 Timer Challenges",
+      "difficulty": 5,
+      "tags": [
+        "Timer"
+      ]
+    },
+    {
+      "text": "6 Captain Toad Moons",
+      "difficulty": 5,
+      "tags": [
+        "Captain_Toad"
+      ]
+    },
+    {
+      "text": "9 Moons from 8-bit Sections",
+      "difficulty": 5,
+      "tags": [
+        "8bit"
+      ]
+    },
+    {
+      "text": "6 Moons from Moon Shards",
+      "difficulty": 5,
+      "tags": [
+        "Moon_Shards"
+      ]
+    },
+    {
+      "text": "Catch the Rabbit! (Metro)",
+      "difficulty": 5,
+      "tags": [
+        "Metro"
+      ]
+    },
+    {
+      "text": "2 Moons from sub-areas (Snow)",
+      "difficulty": 5,
+      "tags": [
+        "Snow"
+      ]
+    },
+    {
+      "text": "8 Checkpoints (Seaside)",
+      "difficulty": 5,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "2 Moons from Golden Turnips",
+      "difficulty": 5,
+      "tags": [
+        "Turnips"
+      ]
+    },
+    {
+      "text": "9 Checkpoints (Bowser's)",
+      "difficulty": 5,
+      "tags": [
+        "Bowser"
+      ]
+    },
+    {
+      "text": "4 Warp-Painting Moons",
+      "difficulty": 5,
+      "tags": [
+        "Warp_Painting"
+      ]
+    },
+    {
+      "text": "Purchase 10 Full Costume Sets",
+      "difficulty": 5,
+      "tags": [
+        "Outfits"
+      ]
+    },
+    {
+      "text": "7 Moons from Music Notes",
+      "difficulty": 5,
+      "tags": [
+        "Music_Notes"
+      ]
+    },
+    {
+      "text": "13 Treasure Chest Moons",
+      "difficulty": 5,
+      "tags": [
+        "Treasure_Chest"
+      ]
+    },
+    {
+      "text": "2 Moons from Hint Art",
+      "difficulty": 5,
+      "tags": [
+        "Hint_Moon"
+      ]
+    },
+    {
+      "text": "Plant 6 Seeds (Total)",
+      "difficulty": 5,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Metro)",
+      "difficulty": 5,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "20 Moons (Lost)",
+      "difficulty": 5,
+      "tags": [
+        "Lost_Moons"
+      ]
+    },
+    {
+      "text": "Catch the Rabbit! (Snow)",
+      "difficulty": 5,
+      "tags": [
+        "Snow"
+      ]
+    },
+    {
+      "text": "6 Moons from sub-areas (Seaside)",
+      "difficulty": 5,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "7 Checkpoints (Luncheon)",
+      "difficulty": 5,
+      "tags": [
+        "Luncheon"
+      ]
+    },
+    {
+      "text": "40 Moons from sub-areas (Total)",
+      "difficulty": 5,
+      "tags": [
+        "Sub_Areas"
+      ]
+    },
+    {
+      "text": "10 Timer Challenges",
+      "difficulty": 5,
+      "tags": [
+        "Timer"
+      ]
+    },
+    {
+      "text": "7 Captain Toad Moons",
+      "difficulty": 5,
+      "tags": [
+        "Captain_Toad"
+      ]
+    },
+    {
+      "text": "11 Moons from 8-bit Sections",
+      "difficulty": 5,
+      "tags": [
+        "8bit"
+      ]
+    },
+    {
+      "text": "7 Moons from Moon Shards",
+      "difficulty": 5,
+      "tags": [
+        "Moon_Shards"
+      ]
+    },
+    {
+      "text": "Purchase 9 Moons",
+      "difficulty": 5,
+      "tags": [
+        "Shop_Moons"
+      ]
+    },
+    {
+      "text": "30 Unique Captures",
+      "difficulty": 5,
+      "tags": [
+        "Unique_Captures"
+      ]
+    },
+    {
+      "text": "425 Total Regional Coins",
+      "difficulty": 5,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "Koopa Trace-Walking (Snow)",
+      "difficulty": 5,
+      "tags": [
+        "Snow"
+      ]
+    },
+    {
+      "text": "9 Checkpoints (Seaside)",
+      "difficulty": 5,
+      "tags": [
+        "Seaside"
+      ]
+    },
+    {
+      "text": "3 Moons from Golden Turnips",
+      "difficulty": 5,
+      "tags": [
+        "Turnips"
+      ]
+    },
+    {
+      "text": "10 Checkpoints (Bowser's)",
+      "difficulty": 5,
+      "tags": [
+        "Bowser"
+      ]
+    },
+    {
+      "text": "5 Warp-Painting Moons",
+      "difficulty": 5,
+      "tags": [
+        "Warp_Painting"
+      ]
+    },
+    {
+      "text": "Purchase 11 Full Costume Sets",
+      "difficulty": 5,
+      "tags": [
+        "Outfits"
+      ]
+    },
+    {
+      "text": "8 Moons from Music Notes",
+      "difficulty": 5,
+      "tags": [
+        "Music_Notes"
+      ]
+    },
+    {
+      "text": "15 Treasure Chest Moons",
+      "difficulty": 5,
+      "tags": [
+        "Treasure_Chest"
+      ]
+    },
+    {
+      "text": "3 Moons from Hint Art",
+      "difficulty": 5,
+      "tags": [
+        "Hint_Moon"
+      ]
+    },
+    {
+      "text": "Plant 7 Seeds (Total)",
+      "difficulty": 5,
+      "tags": [
+        "Seeds"
+      ]
+    },
+    {
+      "text": "12 Unique Life-Up Hearts (excl. Shops)",
+      "difficulty": 5,
+      "tags": [
+        "LifeUp"
+      ]
+    },
+    {
+      "text": "19 Story Moons (excl. Multi Moons)",
+      "difficulty": 5,
+      "tags": [
+        "Story"
+      ]
+    },
+    {
+      "text": "2 Moons from sub-areas (Ruined)",
+      "difficulty": 5,
+      "tags": [
+        "Ruined"
+      ]
+    },
+    {
+      "text": "3 Checkpoints (Moon)",
+      "difficulty": 5,
+      "tags": [
+        "Moon"
+      ]
+    },
+    {
+      "text": "Wear the Boxer Shorts",
+      "difficulty": 5,
+      "tags": [
+        "Nipple_Percent"
+      ]
+    },
+    {
+      "text": "11 Timer Challenges",
+      "difficulty": 5,
+      "tags": [
+        "Timer"
+      ]
+    },
+    {
+      "text": "8 Captain Toad Moons",
+      "difficulty": 5,
+      "tags": [
+        "Captain_Toad"
+      ]
+    },
+    {
+      "text": "13 Moons from 8-bit Sections",
+      "difficulty": 5,
+      "tags": [
+        "8bit"
+      ]
+    },
+    {
+      "text": "8 Moons from Moon Shards",
+      "difficulty": 5,
+      "tags": [
+        "Moon_Shards"
+      ]
+    },
+    {
+      "text": "Purchase 10 Moons",
+      "difficulty": 5,
+      "tags": [
+        "Shop_Moons"
+      ]
+    },
+    {
+      "text": "32 Unique Captures",
+      "difficulty": 5,
+      "tags": [
+        "Unique_Captures"
+      ]
+    },
+    {
+      "text": "450 Total Regional Coins",
+      "difficulty": 5,
+      "tags": [
+        "Regional_Coins"
+      ]
+    },
+    {
+      "text": "World Peace Restored! (Luncheon)",
+      "difficulty": 5,
+      "tags": [
+        "World_Peace"
+      ]
+    },
+    {
+      "text": "Outfit-Door (Bowser's)",
+      "difficulty": 5,
+      "tags": [
+        "Locked_Door"
+      ]
+    }
+  ]
+}

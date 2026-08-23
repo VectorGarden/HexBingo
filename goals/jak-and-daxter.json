@@ -1,0 +1,462 @@
+{
+  "name": "Jak and Daxter",
+  "goals": [
+    {
+      "text": "Make the muse do a full lap",
+      "difficulty": 1,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Do the pelican race",
+      "difficulty": 1,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Yakows cell",
+      "difficulty": 1,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Don't miss a single fish",
+      "difficulty": 1,
+      "tags": [
+        "challenge",
+        "task"
+      ]
+    },
+    {
+      "text": "Die of fall damage in Sandover Village",
+      "difficulty": 1,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Get villaged",
+      "difficulty": 1,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Watch 12 total cutscenes",
+      "difficulty": 1,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Break 4 rolling barrels in Misty Island",
+      "difficulty": 1,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Get eaten by the shark in 4 different levels",
+      "difficulty": 1,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Die from burning, drowning, dark eco, and a rat",
+      "difficulty": 1,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Open 7 orb vents",
+      "difficulty": 1,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Go too fast in Mountain Pass",
+      "difficulty": 1,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "100% Mountain Pass",
+      "difficulty": 1,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Destroy all 10 Rat nests",
+      "difficulty": 2,
+      "tags": [
+        "unique",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Ambush cell in Boggy Swamp",
+      "difficulty": 2,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Finish the ambush in Misty Island",
+      "difficulty": 2,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Secret cell in Volcanic Crater",
+      "difficulty": 2,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Kill 10 lurkers on Flut Flut",
+      "difficulty": 2,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Yellow switch cell in Snowy without a skip",
+      "difficulty": 2,
+      "tags": [
+        "task",
+        "challenge"
+      ]
+    },
+    {
+      "text": "Kill all spinning lurkers in LPC",
+      "difficulty": 2,
+      "tags": [
+        "unique",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Blocker cell in Snowy Mountain",
+      "difficulty": 2,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "All orbs in Rock Village",
+      "difficulty": 2,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Buy Mayor and Uncle cells",
+      "difficulty": 2,
+      "tags": [
+        "task",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Buy Gambler and Geologist cells",
+      "difficulty": 2,
+      "tags": [
+        "task",
+        "checklist"
+      ]
+    },
+    {
+      "text": "All scout flies in Volcanic Crater",
+      "difficulty": 2,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "All orbs from both slides in LPC",
+      "difficulty": 3,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "'Bottom of LPC' cell using the 2nd slide",
+      "difficulty": 3,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "All orbs in Volcanic Crater",
+      "difficulty": 3,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Kill both ice lurkers in Snowy with yellow eco",
+      "difficulty": 3,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Break 10 scout flies with yellow eco",
+      "difficulty": 3,
+      "tags": [
+        "checklist"
+      ]
+    },
+    {
+      "text": "Kill 5 lurkers with the ice lurker in Snowy",
+      "difficulty": 3,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Break 3 orb crates in Sentinel without the cannon",
+      "difficulty": 3,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Collect a scout fly in Lava Tube",
+      "difficulty": 3,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Sub 38 Dead Man's Gorge",
+      "difficulty": 3,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Blue rings in Precursor Basin",
+      "difficulty": 3,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "All scout flies in Boggy Swamp",
+      "difficulty": 3,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "120 orbs in Sentinel Beach",
+      "difficulty": 3,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Kill all 7 giant spiders in Spider Cave",
+      "difficulty": 3,
+      "tags": [
+        "unique",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Finish Fire Canyon orbless",
+      "difficulty": 4,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Hardlock your game",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Dark eco crystals cell",
+      "difficulty": 4,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "All orbs in robot room (116)",
+      "difficulty": 4,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Defeat Klaww without losing any health",
+      "difficulty": 4,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Lightning moles cell",
+      "difficulty": 4,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "Do Gem Skip OoB in Volcanic Crater",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Do rats TriHard",
+      "difficulty": 4,
+      "tags": [
+        "task"
+      ]
+    },
+    {
+      "text": "All orbs in Boggy Swamp",
+      "difficulty": 4,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "All cells in LPC",
+      "difficulty": 4,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Defeat Klaww before the plant boss",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Reach Hub 3, then get a cell in Hub 1",
+      "difficulty": 4,
+      "tags": [
+        "unique"
+      ]
+    },
+    {
+      "text": "Get at least 35 cells",
+      "difficulty": 5,
+      "tags": [
+        "collectables",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Buy 4 oracle cells",
+      "difficulty": 5,
+      "tags": [
+        "collectables",
+        "checklist"
+      ]
+    },
+    {
+      "text": "Zeppelins cell without the zoomer",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "task"
+      ]
+    },
+    {
+      "text": "'Raise the chamber' cell without blue eco",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "task"
+      ]
+    },
+    {
+      "text": "3 Precursor Basin scout flies on foot",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "collectables"
+      ]
+    },
+    {
+      "text": "All Snowy Mountain cells without Flut Flut",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "collectables"
+      ]
+    },
+    {
+      "text": "Purple rings in Precursor Basin on-foot",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "task"
+      ]
+    },
+    {
+      "text": "Finish Geyser Rock without eco",
+      "difficulty": 5,
+      "tags": [
+        "challenge"
+      ]
+    },
+    {
+      "text": "Get at least 650 orbs",
+      "difficulty": 5,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Get at least 40 scout flies",
+      "difficulty": 5,
+      "tags": [
+        "collectables"
+      ]
+    },
+    {
+      "text": "Dark cave cell without using light",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "task"
+      ]
+    },
+    {
+      "text": "All Forbidden Jungle cells orbless",
+      "difficulty": 5,
+      "tags": [
+        "challenge",
+        "collectables"
+      ]
+    },
+    {
+      "text": "Ride the boat in Misty Island on the zoomer",
+      "difficulty": 5,
+      "tags": [
+        "challenge"
+      ]
+    }
+  ]
+}

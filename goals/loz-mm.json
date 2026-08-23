@@ -1,0 +1,1254 @@
+{
+  "name": "Majora's Mask",
+  "goals": [
+    {
+      "text": "Blast Mask",
+      "difficulty": 1,
+      "tags": [
+        "allnight"
+      ]
+    },
+    {
+      "text": "Hit hidden owl in West Clock Town",
+      "difficulty": 1,
+      "tags": [
+        "nothing"
+      ]
+    },
+    {
+      "text": "Enter 4th Day",
+      "difficulty": 1,
+      "tags": [
+        "end"
+      ]
+    },
+    {
+      "text": "Keaton Quiz HP",
+      "difficulty": 1,
+      "tags": [
+        "delivery"
+      ]
+    },
+    {
+      "text": "Blank B Button (No Sword)",
+      "difficulty": 1,
+      "tags": [
+        "sword",
+        "epona"
+      ]
+    },
+    {
+      "text": "2 blank C-buttons",
+      "difficulty": 1,
+      "tags": [
+        "delivery"
+      ]
+    },
+    {
+      "text": "Clear all 3 chest icons on Termina Field Map",
+      "difficulty": 1,
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "text": "Rosa Sisters Notebook Ribbon",
+      "difficulty": 1,
+      "tags": [
+        "notebook"
+      ]
+    },
+    {
+      "text": "??? Notebook Ribbon",
+      "difficulty": 1,
+      "tags": [
+        "notebook",
+        "deed"
+      ]
+    },
+    {
+      "text": "Milk",
+      "difficulty": 1,
+      "tags": [
+        "bottle",
+        "ranch"
+      ]
+    },
+    {
+      "text": "Blue Potion",
+      "difficulty": 1,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "20 Magic Beans",
+      "difficulty": 1,
+      "tags": [
+        "slot",
+        "ingx24"
+      ]
+    },
+    {
+      "text": "Deku Playground Heart Piece",
+      "difficulty": 1,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Chateau Romani",
+      "difficulty": 1,
+      "tags": [
+        "delivery",
+        "bottle"
+      ]
+    },
+    {
+      "text": "Gibdo Mask",
+      "difficulty": 1,
+      "tags": [
+        "mirror"
+      ]
+    },
+    {
+      "text": "Postman's Hat",
+      "difficulty": 1,
+      "tags": [
+        "delivery"
+      ]
+    },
+    {
+      "text": "Woodfall Map and Compass",
+      "difficulty": 1,
+      "tags": [
+        "woodfall",
+        "mc"
+      ]
+    },
+    {
+      "text": "Save sun mask",
+      "difficulty": 1,
+      "tags": [
+        "couple"
+      ]
+    },
+    {
+      "text": "7 masks",
+      "difficulty": 1,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "6 Notebook Ribbons",
+      "difficulty": 1,
+      "tags": [
+        "notebook"
+      ]
+    },
+    {
+      "text": "All 5 Termina Grotto HPs",
+      "difficulty": 1,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Woodfall Boss Key",
+      "difficulty": 1,
+      "tags": [
+        "woodfall",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "Unlock Odolwa's Door",
+      "difficulty": 1,
+      "tags": [
+        "woodfall",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "Pendant of Memories",
+      "difficulty": 1,
+      "tags": [
+        "couple",
+        "slot"
+      ]
+    },
+    {
+      "text": "Bunny Hood",
+      "difficulty": 1,
+      "tags": [
+        "ranch"
+      ]
+    },
+    {
+      "text": "Epona's Song",
+      "difficulty": 1,
+      "tags": [
+        "song",
+        "epona",
+        "ranch"
+      ]
+    },
+    {
+      "text": "Doggy Racetrack HP",
+      "difficulty": 1,
+      "tags": [
+        "ranch"
+      ]
+    },
+    {
+      "text": "Postman Notebook Ribbon",
+      "difficulty": 1,
+      "tags": [
+        "notebook",
+        "delivery",
+        "couple"
+      ]
+    },
+    {
+      "text": "10 Woodfall Fairies",
+      "difficulty": 1,
+      "tags": [
+        "fairy",
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Hookshot",
+      "difficulty": 2,
+      "tags": [
+        "hook",
+        "fortress",
+        "stt",
+        "gbt"
+      ]
+    },
+    {
+      "text": "15 Oceanside Skulltula Tokens",
+      "difficulty": 2,
+      "tags": [
+        "spider",
+        "wallet"
+      ]
+    },
+    {
+      "text": "Oceanside Spider House HP",
+      "difficulty": 2,
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "text": "Song of Storms",
+      "difficulty": 2,
+      "tags": [
+        "song",
+        "grave"
+      ]
+    },
+    {
+      "text": "Kill 2 Iron Knuckles",
+      "difficulty": 2,
+      "tags": [
+        "song",
+        "grave"
+      ]
+    },
+    {
+      "text": "Razor Sword",
+      "difficulty": 2,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Captain's Hat",
+      "difficulty": 2,
+      "tags": [
+        "grave"
+      ]
+    },
+    {
+      "text": "Under 00:35 Epona Archery",
+      "difficulty": 2,
+      "tags": [
+        "song",
+        "epona",
+        "ranch"
+      ]
+    },
+    {
+      "text": "Seahorse",
+      "difficulty": 2,
+      "tags": [
+        "picto",
+        "fortress",
+        "bottle"
+      ]
+    },
+    {
+      "text": "Ikana Castle HP",
+      "difficulty": 2,
+      "tags": [
+        "castle"
+      ]
+    },
+    {
+      "text": "Marine Lab Fish HP",
+      "difficulty": 2,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Odolwa's Remains",
+      "difficulty": 2,
+      "tags": [
+        "woodfall",
+        "remains"
+      ]
+    },
+    {
+      "text": "Clear all 3 chest icons on Zora Cape Map",
+      "difficulty": 2,
+      "tags": [
+        "hook",
+        "fortress",
+        "map"
+      ]
+    },
+    {
+      "text": "Biggest Quiver",
+      "difficulty": 2,
+      "tags": [
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Oath to Order",
+      "difficulty": 2,
+      "tags": [
+        "song",
+        "remains"
+      ]
+    },
+    {
+      "text": "All Area Maps from Tingle",
+      "difficulty": 2,
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "text": "Path to Snowhead HP",
+      "difficulty": 2,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Open 8 Woodfall Temple Chests",
+      "difficulty": 2,
+      "tags": [
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Goron Mask",
+      "difficulty": 2,
+      "tags": [
+        "lens"
+      ]
+    },
+    {
+      "text": "Stone Mask",
+      "difficulty": 2,
+      "tags": [
+        "lens"
+      ]
+    },
+    {
+      "text": "Rock Sirloin above head",
+      "difficulty": 2,
+      "tags": [
+        "lens",
+        "end"
+      ]
+    },
+    {
+      "text": "Pictograph of dancing Redead",
+      "difficulty": 2,
+      "tags": [
+        "picto",
+        "mirror"
+      ]
+    },
+    {
+      "text": "4 Business Scrub HPs",
+      "difficulty": 2,
+      "tags": [
+        "heart",
+        "scrub",
+        "deed"
+      ]
+    },
+    {
+      "text": "Don Gero's Mask",
+      "difficulty": 2,
+      "tags": [
+        "lens"
+      ]
+    },
+    {
+      "text": "Mask of Truth",
+      "difficulty": 2,
+      "tags": [
+        "spider"
+      ]
+    },
+    {
+      "text": "Pinnacle Rock HP",
+      "difficulty": 2,
+      "tags": [
+        "picto",
+        "fortress"
+      ]
+    },
+    {
+      "text": "Giant Wallet",
+      "difficulty": 2,
+      "tags": [
+        "wallet",
+        "spider"
+      ]
+    },
+    {
+      "text": "Bottled Deku Princess",
+      "difficulty": 2,
+      "tags": [
+        "woodfall",
+        "remains"
+      ]
+    },
+    {
+      "text": "Poe Hut HP",
+      "difficulty": 2,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Both Shooting Gallery HPs",
+      "difficulty": 2,
+      "tags": [
+        "heart",
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Unbar 5 doors in the Well",
+      "difficulty": 2,
+      "tags": [
+        "mirror"
+      ]
+    },
+    {
+      "text": "500 rupees in wallet",
+      "difficulty": 2,
+      "tags": [
+        "wallet",
+        "spider"
+      ]
+    },
+    {
+      "text": "Couple's Mask",
+      "difficulty": 3,
+      "tags": [
+        "couple"
+      ]
+    },
+    {
+      "text": "Open 2 chests in the Well",
+      "difficulty": 3,
+      "tags": [
+        "mirror"
+      ]
+    },
+    {
+      "text": "Circus Leader's Mask",
+      "difficulty": 3,
+      "tags": [
+        "mask",
+        "notebook"
+      ]
+    },
+    {
+      "text": "Gold Rupee From Ikana Business Scrub",
+      "difficulty": 3,
+      "tags": [
+        "scrub",
+        "deed"
+      ]
+    },
+    {
+      "text": "Biggest Bomb Bag",
+      "difficulty": 3,
+      "tags": [
+        "scrub",
+        "lens"
+      ]
+    },
+    {
+      "text": "6 Hearts (no dupe)",
+      "difficulty": 3,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "1000 rupees in bank",
+      "difficulty": 3,
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "text": "Pirates  Fortress HP",
+      "difficulty": 3,
+      "tags": [
+        "fortress"
+      ]
+    },
+    {
+      "text": "10 Notebook ribbons",
+      "difficulty": 3,
+      "tags": [
+        "notebook"
+      ]
+    },
+    {
+      "text": "Great Spin",
+      "difficulty": 3,
+      "tags": [
+        "fairy",
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Lullaby Intro",
+      "difficulty": 3,
+      "tags": [
+        "lens",
+        "song"
+      ]
+    },
+    {
+      "text": "All top row songs",
+      "difficulty": 3,
+      "tags": [
+        "song",
+        "grave",
+        "epona"
+      ]
+    },
+    {
+      "text": "Garo Mask",
+      "difficulty": 3,
+      "tags": [
+        "ranch",
+        "epona"
+      ]
+    },
+    {
+      "text": "Open 11 Pirates' Fortress area chests",
+      "difficulty": 3,
+      "tags": [
+        "fortress",
+        "hook"
+      ]
+    },
+    {
+      "text": "Pictograph of Pamela outside her house",
+      "difficulty": 3,
+      "tags": [
+        "picto",
+        "cerpin",
+        "grave"
+      ]
+    },
+    {
+      "text": "Goron Lullaby",
+      "difficulty": 3,
+      "tags": [
+        "lens",
+        "song"
+      ]
+    },
+    {
+      "text": "Powder Keg",
+      "difficulty": 3,
+      "tags": [
+        "lens"
+      ]
+    },
+    {
+      "text": "Defeat a Garo Ninja",
+      "difficulty": 3,
+      "tags": [
+        "epona"
+      ]
+    },
+    {
+      "text": "Romani's Mask",
+      "difficulty": 3,
+      "tags": [
+        "ranch"
+      ]
+    },
+    {
+      "text": "All-Night Mask",
+      "difficulty": 3,
+      "tags": [
+        "allnight",
+        "wallet",
+        "spider"
+      ]
+    },
+    {
+      "text": "10 masks",
+      "difficulty": 3,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "Romani Notebook Ribbon",
+      "difficulty": 3,
+      "tags": [
+        "notebook",
+        "epona"
+      ]
+    },
+    {
+      "text": "Big Poe",
+      "difficulty": 3,
+      "tags": [
+        "grave"
+      ]
+    },
+    {
+      "text": "3 real bottles (no dupe)",
+      "difficulty": 3,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "Column of 4 masks on pause",
+      "difficulty": 3,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "Grow 8 bean plants",
+      "difficulty": 3,
+      "tags": [
+        "ingx24"
+      ]
+    },
+    {
+      "text": "45 Skulltula Tokens",
+      "difficulty": 3,
+      "tags": [
+        "spider",
+        "wallet"
+      ]
+    },
+    {
+      "text": "Explode Hole in Ikana Castle Ceiling",
+      "difficulty": 3,
+      "tags": [
+        "lens",
+        "castle"
+      ]
+    },
+    {
+      "text": "Captain's Hat, Gibdo Mask, and Garo Mask",
+      "difficulty": 3,
+      "tags": [
+        "mask",
+        "grave",
+        "epona"
+      ]
+    },
+    {
+      "text": "Row of 6 masks on pause",
+      "difficulty": 3,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "Red, Green, and Blue Potions",
+      "difficulty": 3,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "1 elemental arrow",
+      "difficulty": 3,
+      "tags": [
+        "elemental"
+      ]
+    },
+    {
+      "text": "12 masks",
+      "difficulty": 3,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "3 bottom row songs",
+      "difficulty": 3,
+      "tags": [
+        "song"
+      ]
+    },
+    {
+      "text": "All 3 Photo Hut Area HPs",
+      "difficulty": 4,
+      "tags": [
+        "heart",
+        "picto",
+        "remains",
+        "woodfall"
+      ]
+    },
+    {
+      "text": "Diagonal of 4 slots in item inventory",
+      "difficulty": 4,
+      "tags": [
+        "slot",
+        "bottle"
+      ]
+    },
+    {
+      "text": "Mask of Scents",
+      "difficulty": 4,
+      "tags": [
+        "woodfall",
+        "remains"
+      ]
+    },
+    {
+      "text": "Magical Mushroom",
+      "difficulty": 4,
+      "tags": [
+        "woodfall",
+        "remains"
+      ]
+    },
+    {
+      "text": "Snowhead Map and Compass",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "mc"
+      ]
+    },
+    {
+      "text": "Fire Arrows",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "elemental"
+      ]
+    },
+    {
+      "text": "Snowhead Boss Key",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "5 HPs in East Clock Town",
+      "difficulty": 4,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "7 Hearts (no dupe)",
+      "difficulty": 4,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Mirror Shield",
+      "difficulty": 4,
+      "tags": [
+        "mirror"
+      ]
+    },
+    {
+      "text": "12 slots in item inventory",
+      "difficulty": 4,
+      "tags": [
+        "slot",
+        "bottle"
+      ]
+    },
+    {
+      "text": "3 unused small keys in Snowhead",
+      "difficulty": 4,
+      "tags": [
+        "snowhead"
+      ]
+    },
+    {
+      "text": "Unlock Goht's Door",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "4 Total Unused Small Keys",
+      "difficulty": 4,
+      "tags": [
+        "snowhead"
+      ]
+    },
+    {
+      "text": "4 real bottles (no dupe)",
+      "difficulty": 4,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "2 Boss Keys",
+      "difficulty": 4,
+      "tags": [
+        "bosskey"
+      ]
+    },
+    {
+      "text": "Open 10 chests in Snowhead",
+      "difficulty": 4,
+      "tags": [
+        "snowhead"
+      ]
+    },
+    {
+      "text": "Gorman Brothers Notebook ribbon",
+      "difficulty": 4,
+      "tags": [
+        "notebook",
+        "epona",
+        "ranch"
+      ]
+    },
+    {
+      "text": "Hit all 10 owls",
+      "difficulty": 4,
+      "tags": [
+        "hook",
+        "stt"
+      ]
+    },
+    {
+      "text": "Goht's Remains",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "remains"
+      ]
+    },
+    {
+      "text": "Light Arrows",
+      "difficulty": 4,
+      "tags": [
+        "elemental",
+        "stt"
+      ]
+    },
+    {
+      "text": "5 STT Fairies",
+      "difficulty": 4,
+      "tags": [
+        "stt"
+      ]
+    },
+    {
+      "text": "20 pictures in Notebook",
+      "difficulty": 4,
+      "tags": [
+        "notebook"
+      ]
+    },
+    {
+      "text": "Beaver HP",
+      "difficulty": 4,
+      "tags": [
+        "hook",
+        "bottle"
+      ]
+    },
+    {
+      "text": "Curiosity Shop Owner Notebook Ribbon",
+      "difficulty": 4,
+      "tags": [
+        "notebook",
+        "allnight",
+        "spider"
+      ]
+    },
+    {
+      "text": "7 songs",
+      "difficulty": 4,
+      "tags": [
+        "song"
+      ]
+    },
+    {
+      "text": "New Wave Bossa Nova",
+      "difficulty": 4,
+      "tags": [
+        "song",
+        "fortress",
+        "gbt"
+      ]
+    },
+    {
+      "text": "10 unique bottle contents",
+      "difficulty": 4,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "14 masks",
+      "difficulty": 4,
+      "tags": [
+        "mask"
+      ]
+    },
+    {
+      "text": "STT Map and Compass",
+      "difficulty": 4,
+      "tags": [
+        "stt",
+        "mc"
+      ]
+    },
+    {
+      "text": "Remove all blocks from Snowhead Pillar",
+      "difficulty": 4,
+      "tags": [
+        "lens",
+        "snowhead"
+      ]
+    },
+    {
+      "text": "GBT Map and Compass",
+      "difficulty": 4,
+      "tags": [
+        "gbt",
+        "mc"
+      ]
+    },
+    {
+      "text": "2 boss remains",
+      "difficulty": 4,
+      "tags": [
+        "remains"
+      ]
+    },
+    {
+      "text": "Open 5 chests in GBT",
+      "difficulty": 4,
+      "tags": [
+        "gbt"
+      ]
+    },
+    {
+      "text": "Clear 3 chest icons on Mountain Village Maps",
+      "difficulty": 4,
+      "tags": [
+        "snowhead",
+        "remains",
+        "map"
+      ]
+    },
+    {
+      "text": "Normal Poe",
+      "difficulty": 4,
+      "tags": [
+        "stt",
+        "istt"
+      ]
+    },
+    {
+      "text": "Get Wizrobe stray fairy in STT",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt"
+      ]
+    },
+    {
+      "text": "10 Snowhead Fairies",
+      "difficulty": 5,
+      "tags": [
+        "snowhead"
+      ]
+    },
+    {
+      "text": "Giant's Mask",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt"
+      ]
+    },
+    {
+      "text": "Open chest of Magic Beans",
+      "difficulty": 5,
+      "tags": [
+        "ingx24",
+        "istt",
+        "stt"
+      ]
+    },
+    {
+      "text": "Gyorg's Remains",
+      "difficulty": 5,
+      "tags": [
+        "gbt",
+        "remains"
+      ]
+    },
+    {
+      "text": "Destroy 15 ice blocks in Snowhead",
+      "difficulty": 5,
+      "tags": [
+        "snowhead",
+        "elemental"
+      ]
+    },
+    {
+      "text": "Press 3 yellow floor switches in STT",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt"
+      ]
+    },
+    {
+      "text": "Change Water Direction in GBT",
+      "difficulty": 5,
+      "tags": [
+        "gbt"
+      ]
+    },
+    {
+      "text": "Unlock Gyorg's Door",
+      "difficulty": 5,
+      "tags": [
+        "gbt",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "Elegy of Emptiness",
+      "difficulty": 5,
+      "tags": [
+        "song",
+        "mirror",
+        "castle"
+      ]
+    },
+    {
+      "text": "Ice Arrows",
+      "difficulty": 5,
+      "tags": [
+        "elemental",
+        "gbt"
+      ]
+    },
+    {
+      "text": "20 total stray fairies",
+      "difficulty": 5,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "10 STT Fairies",
+      "difficulty": 5,
+      "tags": [
+        "stt"
+      ]
+    },
+    {
+      "text": "STT Boss Key",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "Activate Green Water Pump in GBT",
+      "difficulty": 5,
+      "tags": [
+        "gbt"
+      ]
+    },
+    {
+      "text": "10 fairies in GBT",
+      "difficulty": 5,
+      "tags": [
+        "gbt"
+      ]
+    },
+    {
+      "text": "2 elemental arrows",
+      "difficulty": 5,
+      "tags": [
+        "elemental"
+      ]
+    },
+    {
+      "text": "2 unused small keys in Stone Tower",
+      "difficulty": 5,
+      "tags": [
+        "stt"
+      ]
+    },
+    {
+      "text": "Double Magic",
+      "difficulty": 5,
+      "tags": [
+        "snowhead",
+        "lens"
+      ]
+    },
+    {
+      "text": "Unlock Twinmold's Door",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt",
+        "bosskey"
+      ]
+    },
+    {
+      "text": "8 hearts (no dupe)",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Twinmold's Remains",
+      "difficulty": 5,
+      "tags": [
+        "stt",
+        "istt",
+        "remains"
+      ]
+    },
+    {
+      "text": "Kill Gekko in GBT",
+      "difficulty": 5,
+      "tags": [
+        "gbt",
+        "elemental"
+      ]
+    },
+    {
+      "text": "Gold Dust",
+      "difficulty": 5,
+      "tags": [
+        "snowhead",
+        "remains",
+        "bottle"
+      ]
+    },
+    {
+      "text": "3 Temple Compasses",
+      "difficulty": 5,
+      "tags": [
+        "mc"
+      ]
+    },
+    {
+      "text": "15 Notebook ribbons",
+      "difficulty": 5,
+      "tags": [
+        "notebook"
+      ]
+    },
+    {
+      "text": "Melt 3 Ice Blocks in GBT",
+      "difficulty": 5,
+      "tags": [
+        "gbt",
+        "elemental"
+      ]
+    },
+    {
+      "text": "Gilded Sword",
+      "difficulty": 5,
+      "tags": [
+        "sword",
+        "snowhead",
+        "remains"
+      ]
+    },
+    {
+      "text": "Cremia's reward (hug or 200 rupees)",
+      "difficulty": 5,
+      "tags": [
+        "ranch"
+      ]
+    },
+    {
+      "text": "All temple maps",
+      "difficulty": 5,
+      "tags": [
+        "mc",
+        "gbt"
+      ]
+    },
+    {
+      "text": "30 total stray fairies",
+      "difficulty": 5,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "7 fairies in every temple",
+      "difficulty": 5,
+      "tags": [
+        "fairy"
+      ]
+    }
+  ]
+}

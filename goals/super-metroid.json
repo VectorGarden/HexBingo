@@ -1,0 +1,730 @@
+{
+  "name": "Super Metroid",
+  "goals": [
+    {
+      "text": "10+ Power Bombs",
+      "difficulty": 1,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Spazer",
+      "difficulty": 1,
+      "tags": [
+        "spazer"
+      ]
+    },
+    {
+      "text": "Defeat Spore Spawn",
+      "difficulty": 1,
+      "tags": [
+        "sporespawn"
+      ]
+    },
+    {
+      "text": "Brinstar Map Station",
+      "difficulty": 1,
+      "tags": [
+        "brinstarmap"
+      ]
+    },
+    {
+      "text": "3+ Energy Tanks",
+      "difficulty": 1,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "15+ Power Bombs",
+      "difficulty": 1,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "15+ Super Missiles",
+      "difficulty": 1,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "3+ Energy Tanks and 30+ Missiles",
+      "difficulty": 1,
+      "tags": [
+        "energytank",
+        "missile"
+      ]
+    },
+    {
+      "text": "Crateria Map Station",
+      "difficulty": 1,
+      "tags": [
+        "crateriamap"
+      ]
+    },
+    {
+      "text": "20+ Power Bombs",
+      "difficulty": 1,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "4+ Energy Tanks",
+      "difficulty": 1,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "75+ Missiles",
+      "difficulty": 1,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "50+ Missiles",
+      "difficulty": 1,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "Both Brinstar Missile Recharge Stations",
+      "difficulty": 1,
+      "tags": [
+        "missilerecharge",
+        "brinstar"
+      ]
+    },
+    {
+      "text": "5+ Energy Tanks",
+      "difficulty": 1,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "4+ Energy Tanks and 15+ Power Bombs",
+      "difficulty": 1,
+      "tags": [
+        "energytank",
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Collect 25+ Crateria Missiles or 40+ Brinstar Missiles",
+      "difficulty": 1,
+      "tags": [
+        "missile",
+        "areamissile"
+      ]
+    },
+    {
+      "text": "Destroy at least 1 statue",
+      "difficulty": 1,
+      "tags": [
+        "statueroom"
+      ]
+    },
+    {
+      "text": "6+ Energy Tanks",
+      "difficulty": 2,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "2+ Reserve Tanks",
+      "difficulty": 2,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "Ice Beam",
+      "difficulty": 2,
+      "tags": [
+        "icebeam"
+      ]
+    },
+    {
+      "text": "25+ Power Bombs",
+      "difficulty": 2,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Defeat Crocomire",
+      "difficulty": 2,
+      "tags": [
+        "crocomire"
+      ]
+    },
+    {
+      "text": "Norfair Map Station",
+      "difficulty": 2,
+      "tags": [
+        "norfairmap"
+      ]
+    },
+    {
+      "text": "Wave Beam",
+      "difficulty": 2,
+      "tags": [
+        "wavebeam"
+      ]
+    },
+    {
+      "text": "100+ Missiles",
+      "difficulty": 2,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "7+ Energy Tanks",
+      "difficulty": 2,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "Grapple Beam",
+      "difficulty": 2,
+      "tags": [
+        "grapplebeam",
+        "crocomire"
+      ]
+    },
+    {
+      "text": "Norfair Reserve Tank",
+      "difficulty": 2,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "Maridia Map Station",
+      "difficulty": 2,
+      "tags": [
+        "maridiamap"
+      ]
+    },
+    {
+      "text": "30+ Power Bombs",
+      "difficulty": 2,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "125+ Missiles",
+      "difficulty": 2,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "Collect 50 out of 75 Norfair Missiles",
+      "difficulty": 2,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "8+ Energy Tanks",
+      "difficulty": 2,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "7+ Energy Tanks and 70+ Missiles",
+      "difficulty": 2,
+      "tags": [
+        "energytank",
+        "missile"
+      ]
+    },
+    {
+      "text": "Collect all 40 Crateria Missiles",
+      "difficulty": 3,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "Collect all 10 Wrecked Ship Super Missiles",
+      "difficulty": 3,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Crateria Power Bomb",
+      "difficulty": 3,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Collect both Crateria Energy Tanks",
+      "difficulty": 3,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "Collect all 15 Brinstar Super Missiles",
+      "difficulty": 3,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Collect all 25 Brinstar Power Bombs",
+      "difficulty": 3,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Brinstar Reserve Tank",
+      "difficulty": 3,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "Collect all 15 Wrecked Ship Missiles",
+      "difficulty": 3,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "Crateria Super Missile",
+      "difficulty": 3,
+      "tags": [
+        "supermissile",
+        "skipspeedbooster"
+      ]
+    },
+    {
+      "text": "Wrecked Ship Energy Tank",
+      "difficulty": 3,
+      "tags": [
+        "energytank",
+        "wsetroom"
+      ]
+    },
+    {
+      "text": "Wrecked Ship Reserve Tank",
+      "difficulty": 3,
+      "tags": [
+        "reservetank",
+        "skipspeedbooster"
+      ]
+    },
+    {
+      "text": "Collect all 5 Brinstar Energy Tanks",
+      "difficulty": 3,
+      "tags": [
+        "energytank",
+        "skipspeedbooster"
+      ]
+    },
+    {
+      "text": "Collect all 60 Brinstar Missiles",
+      "difficulty": 3,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "20+ Super Missiles",
+      "difficulty": 3,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Wrecked Ship Map Station",
+      "difficulty": 3,
+      "tags": [
+        "wsmap"
+      ]
+    },
+    {
+      "text": "Collect Gauntlet Energy Tank or X-Ray Scope",
+      "difficulty": 4,
+      "tags": [
+        "energytank",
+        "xrayscope"
+      ]
+    },
+    {
+      "text": "35+ Power Bombs",
+      "difficulty": 4,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Fully explore the Wrecked Ship",
+      "difficulty": 4,
+      "tags": [
+        "phantoon",
+        "gravitysuit"
+      ]
+    },
+    {
+      "text": "25+ Super Missiles",
+      "difficulty": 4,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "9+ Energy Tanks",
+      "difficulty": 4,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "3+ Reserve Tanks",
+      "difficulty": 4,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "X-Ray Scope",
+      "difficulty": 4,
+      "tags": [
+        "xrayscope"
+      ]
+    },
+    {
+      "text": "3 Norfair Energy Tanks or 1 Maridia Energy Tank",
+      "difficulty": 4,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "10+ Energy Tanks",
+      "difficulty": 4,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "30+ Super Missiles",
+      "difficulty": 4,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Visit the critters",
+      "difficulty": 4,
+      "tags": [
+        "speedbooster"
+      ]
+    },
+    {
+      "text": "Collect Grapple Beam or Wrecked Ship Energy Tank",
+      "difficulty": 4,
+      "tags": [
+        "grapplebeam",
+        "wsetroom"
+      ]
+    },
+    {
+      "text": "Visit Crateria-Maridia Elevator",
+      "difficulty": 4,
+      "tags": [
+        "forgottenarea"
+      ]
+    },
+    {
+      "text": "Collect X Super Missiles and 50-X Power Bombs",
+      "difficulty": 4,
+      "tags": [
+        "supermissile",
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Collect X Energy Tanks and 11-X Reserve Tanks",
+      "difficulty": 4,
+      "tags": [
+        "energytank",
+        "reserve"
+      ]
+    },
+    {
+      "text": "Visit all 3 Brinstar Energy Recharge Stations",
+      "difficulty": 4,
+      "tags": [
+        "energyrecharge",
+        "skipspeedbooster"
+      ]
+    },
+    {
+      "text": "Crateria Map Station or Wrecked Ship Map Station",
+      "difficulty": 4,
+      "tags": [
+        "crateriamap",
+        "wsmap"
+      ]
+    },
+    {
+      "text": "Norfair Reserve Tank or Wrecked Ship Reserve Tank",
+      "difficulty": 4,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "60+ Missiles and 20+ Super Missiles",
+      "difficulty": 4,
+      "tags": [
+        "missile",
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Screw Attack",
+      "difficulty": 4,
+      "tags": [
+        "screwattack"
+      ]
+    },
+    {
+      "text": "Destroy at least 2 statues",
+      "difficulty": 4,
+      "tags": [
+        "statueroom"
+      ]
+    },
+    {
+      "text": "Defeat Botwoon",
+      "difficulty": 5,
+      "tags": [
+        "botwoon"
+      ]
+    },
+    {
+      "text": "Maridia Power Bomb",
+      "difficulty": 5,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Defeat Spore Spawn and Botwoon",
+      "difficulty": 5,
+      "tags": [
+        "sporespawn",
+        "botwoon"
+      ]
+    },
+    {
+      "text": "Springball",
+      "difficulty": 5,
+      "tags": [
+        "springball"
+      ]
+    },
+    {
+      "text": "Defeat Golden Torizo",
+      "difficulty": 5,
+      "tags": [
+        "gt",
+        "screwattack"
+      ]
+    },
+    {
+      "text": "40+ Power Bombs",
+      "difficulty": 5,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Maridia Reserve Tank",
+      "difficulty": 5,
+      "tags": [
+        "reservetank"
+      ]
+    },
+    {
+      "text": "Defeat Golden Torizo and Spore Spawn",
+      "difficulty": 5,
+      "tags": [
+        "gt",
+        "sporespawn",
+        "screwattack"
+      ]
+    },
+    {
+      "text": "Defeat Ridley",
+      "difficulty": 5,
+      "tags": [
+        "ridley"
+      ]
+    },
+    {
+      "text": "Defeat Draygon",
+      "difficulty": 5,
+      "tags": [
+        "draygon"
+      ]
+    },
+    {
+      "text": "Collect all 15 Norfair Power Bombs",
+      "difficulty": 5,
+      "tags": [
+        "powerbomb"
+      ]
+    },
+    {
+      "text": "Collect Springball or defeat Draygon",
+      "difficulty": 5,
+      "tags": [
+        "springball",
+        "draygon",
+        "icebeam",
+        "grapplebeam"
+      ]
+    },
+    {
+      "text": "Defeat Crocomire and Draygon",
+      "difficulty": 5,
+      "tags": [
+        "crocomire",
+        "draygon"
+      ]
+    },
+    {
+      "text": "Space Jump",
+      "difficulty": 5,
+      "tags": [
+        "spacejump",
+        "draygon"
+      ]
+    },
+    {
+      "text": "Charge Beam, Spazer, Wave Beam, Ice Beam, and Plasma Beam",
+      "difficulty": 5,
+      "tags": [
+        "chargebeam",
+        "spazer",
+        "wavebeam",
+        "icebeam",
+        "plasmabeam"
+      ]
+    },
+    {
+      "text": "Norfair Super Missile",
+      "difficulty": 5,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "4 Reserve Tanks",
+      "difficulty": 5,
+      "tags": [
+        "reservetank",
+        "skipspeedbooster"
+      ]
+    },
+    {
+      "text": "Collect all 40 Maridia Missiles",
+      "difficulty": 5,
+      "tags": [
+        "missile"
+      ]
+    },
+    {
+      "text": "Plasma Beam",
+      "difficulty": 5,
+      "tags": [
+        "plasmabeam",
+        "draygon"
+      ]
+    },
+    {
+      "text": "Defeat Crocomire and Ridley",
+      "difficulty": 5,
+      "tags": [
+        "crocomire",
+        "ridley"
+      ]
+    },
+    {
+      "text": "Collect all 4 Norfair Energy Tanks",
+      "difficulty": 5,
+      "tags": [
+        "energytank",
+        "ridley"
+      ]
+    },
+    {
+      "text": "35+ Super Missiles",
+      "difficulty": 5,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Collect Plasma Beam or defeat Ridley",
+      "difficulty": 5,
+      "tags": [
+        "plasma",
+        "ridley",
+        "draygon"
+      ]
+    },
+    {
+      "text": "Collect all 15 Maridia Super Missiles",
+      "difficulty": 5,
+      "tags": [
+        "supermissile"
+      ]
+    },
+    {
+      "text": "Collect both Maridia Energy Tanks",
+      "difficulty": 5,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "11+ Energy Tanks",
+      "difficulty": 5,
+      "tags": [
+        "energytank"
+      ]
+    },
+    {
+      "text": "Hi-Jump Boots, Speed Booster, and Space Jump",
+      "difficulty": 5,
+      "tags": [
+        "hijump",
+        "speedbooster",
+        "spacejump"
+      ]
+    }
+  ]
+}

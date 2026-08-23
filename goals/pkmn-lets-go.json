@@ -1,0 +1,529 @@
+{
+  "name": "Pokémon Lets Go!",
+  "goals": [
+    {
+      "text": "Win a Battle with only your starter",
+      "difficulty": 1,
+      "tags": [
+        "BATTLE",
+        "STARTER"
+      ]
+    },
+    {
+      "text": "Catch a Pokemon with 2 Pokeballs",
+      "difficulty": 1,
+      "tags": [
+        "CATCH"
+      ]
+    },
+    {
+      "text": "Win a Badge with only your starter",
+      "difficulty": 1,
+      "tags": [
+        "BATTLE",
+        "BADGE",
+        "STARTER"
+      ]
+    },
+    {
+      "text": "Catch a Pokemon with your first throw",
+      "difficulty": 1,
+      "tags": [
+        "CATCH"
+      ]
+    },
+    {
+      "text": "Catch a Pokemon with an Excellent Throw",
+      "difficulty": 1,
+      "tags": [
+        "CATCH"
+      ]
+    },
+    {
+      "text": "Find 3 hidden items",
+      "difficulty": 1,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Evolve a Pokemon after catching another Pokemon in it's Evolution line",
+      "difficulty": 1,
+      "tags": [
+        "EVOLVE"
+      ]
+    },
+    {
+      "text": "Run around a wild Pokemon 10 times without entering a battle",
+      "difficulty": 1,
+      "tags": [
+        "DODGE"
+      ]
+    },
+    {
+      "text": "Win a Battle with only status moves",
+      "difficulty": 1,
+      "tags": [
+        "BATTLE"
+      ]
+    },
+    {
+      "text": "Win a Badge with only status moes",
+      "difficulty": 1,
+      "tags": [
+        "BATTLE",
+        "BADGE"
+      ]
+    },
+    {
+      "text": "Catch Bulbasaur, Charmander, Squirtle, Caterpie, Pidgey, and Pikachu",
+      "difficulty": 2,
+      "tags": [
+        "CATCH",
+        "BULBASAUR",
+        "CHARMANDER",
+        "SQUIRTLE",
+        "CATERPIE",
+        "PIDGEY",
+        "PIKACHU"
+      ]
+    },
+    {
+      "text": "Catch Squirtle and Mankey",
+      "difficulty": 2,
+      "tags": [
+        "CATCH",
+        "SQUIRTLE",
+        "MANKEY"
+      ]
+    },
+    {
+      "text": "Catch Charizard, Growlithe, and Arcanine",
+      "difficulty": 2,
+      "tags": [
+        "CATCH",
+        "CHARMANDER",
+        "GROWLITHE"
+      ]
+    },
+    {
+      "text": "Catch or Evolve a rideable Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "CATCH",
+        "EVOLVE",
+        "AERODACTYL",
+        "GROWLITHE",
+        "CHARMANDER",
+        "DODUO",
+        "DRATINI",
+        "MAGIKARP",
+        "GASTLY",
+        "KANGASKHAN",
+        "LAPRAS",
+        "MACHOP",
+        "ONIX",
+        "MEOWTH",
+        "PONYTA",
+        "RHYHORN",
+        "SNORLAX",
+        "STARYU",
+        "TAUROS"
+      ]
+    },
+    {
+      "text": "Go through Diglett's Cave without encountering a Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "TRAVEL",
+        "DODGE",
+        "VERMILLION"
+      ]
+    },
+    {
+      "text": "Travel from Fuschia to Cinnabar by water without encountering a Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "TRAVEL",
+        "DODGE",
+        "FUSCHIA",
+        "CINNABAR"
+      ]
+    },
+    {
+      "text": "Beat Lt. Surge's Raichu with a Pikachu",
+      "difficulty": 2,
+      "tags": [
+        "BATTLE",
+        "BADGE",
+        "PIKACHU"
+      ]
+    },
+    {
+      "text": "Beat 5 Coach Trainers",
+      "difficulty": 2,
+      "tags": [
+        "BATTLE"
+      ]
+    },
+    {
+      "text": "Catch 4 of [Pikachu, Clefairy, Hitmonchan or Hitmonlee, Jynx, Electabuzz, Magmar, Snorlax, Chansey]",
+      "difficulty": 2,
+      "tags": [
+        "CATCH",
+        "PIKACHU",
+        "CLEFAIRY",
+        "HITMONCHAN",
+        "HITMONLEE",
+        "JYNX",
+        "ELECTABUZZ",
+        "MAGMAR",
+        "SNORLAX",
+        "CHANSEY"
+      ]
+    },
+    {
+      "text": "Go through Mount Moon without encountering a Pokemon",
+      "difficulty": 2,
+      "tags": [
+        "TRAVEL",
+        "DODGE"
+      ]
+    },
+    {
+      "text": "Go though Rock Tunnel without encountering a Pokemon",
+      "difficulty": 3,
+      "tags": [
+        "TRAVEL",
+        "DODGE"
+      ]
+    },
+    {
+      "text": "Beat Brock's Onix without using a super-effective move",
+      "difficulty": 3,
+      "tags": [
+        "BATTLE"
+      ]
+    },
+    {
+      "text": "Catch Vileplume",
+      "difficulty": 3,
+      "tags": [
+        "CATCH",
+        "EVOLVE",
+        "ODDISH"
+      ]
+    },
+    {
+      "text": "Beat every trainer in Pokemon Tower without healing or having a Pokemon faint",
+      "difficulty": 3,
+      "tags": [
+        "BATTLE"
+      ]
+    },
+    {
+      "text": "Catch a Pokemon that requires battling before capture",
+      "difficulty": 3,
+      "tags": [
+        "BATTLE",
+        "CATCH"
+      ]
+    },
+    {
+      "text": "See 100 Pokemon",
+      "difficulty": 3,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Catch 3 Eevee and get a Fire, a Water, and a Thunder Stone",
+      "difficulty": 3,
+      "tags": [
+        "CATCH",
+        "CELADON"
+      ]
+    },
+    {
+      "text": "Catch 2 of [Vileplume, Poliwrath, Slowbro, Hitmonchan or Hitmonlee, an Eeveelution]",
+      "difficulty": 3,
+      "tags": [
+        "CATCH",
+        "ODDISH",
+        "POLIWAG",
+        "SLOWPOKE",
+        "HITMONCHAN",
+        "HITMONLEE",
+        "EEVEE"
+      ]
+    },
+    {
+      "text": "Catch 3 of [Electabuzz, Magmar, Scyther, Golbat, Magneton, Onix, Rhydon, Seadra, Chansey]",
+      "difficulty": 3,
+      "tags": [
+        "CATCH",
+        "ELECTABUZZ",
+        "MAGMAR",
+        "SCYTHER",
+        "ZUBAT",
+        "MAGNEMITE",
+        "ONIX",
+        "RHYHORN",
+        "HORSEA",
+        "CHANSEY"
+      ]
+    },
+    {
+      "text": "Catch a Kingler, Pinsir, Koffing, Cubone, and Dugtrio",
+      "difficulty": 3,
+      "tags": [
+        "CATCH",
+        "KRABBY",
+        "PINSIR",
+        "KOFFING",
+        "CUBONE",
+        "DIGLETT"
+      ]
+    },
+    {
+      "text": "Catch Poliwag, Bulbasaur, Shellder, Slowbro, Slowpoke, Metapod, Psyduck, Porygon, and Cloyster",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "POLIWAG",
+        "BULBASAUR",
+        "SHELLDER",
+        "SLOWPOKE",
+        "CATERPIE",
+        "PSYDUCK",
+        "PORYGON"
+      ]
+    },
+    {
+      "text": "Catch Lapras, Primeape, Krabby, Muk, Tauros, and Snorlax",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "LAPRAS",
+        "MANKEY",
+        "KRABBY",
+        "GRIMER",
+        "TAUROS",
+        "SNORLAX"
+      ]
+    },
+    {
+      "text": "Catch Electrode, Electabuzz, Kakuna, Zubat, Magikarp, Haunter, Diglett, Dugtrio, Magnemite, and Magneton",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "VOLTORB",
+        "ELECTABUZZ",
+        "WEEDLE",
+        "ZUBAT",
+        "MAGIKARP",
+        "GASTLY",
+        "DIGLETT",
+        "MAGNEMITE"
+      ]
+    },
+    {
+      "text": "Beat Sabrina using only a Haunter",
+      "difficulty": 4,
+      "tags": [
+        "BATTLE",
+        "BADGE",
+        "GASTLY"
+      ]
+    },
+    {
+      "text": "Catch 3 Non-Starter Pokemon which can Mega-Evolve",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "ABRA",
+        "GASTLY",
+        "KANGASKHAN",
+        "PINSIR",
+        "MAGIKARP",
+        "AERODACTYL",
+        "MEWTWO",
+        "SCYTHER",
+        "WEEDLE",
+        "PIDGEY",
+        "SLOWPOKE",
+        "ONIX"
+      ]
+    },
+    {
+      "text": "Catch Ditto, Grimer, Muk, Jigglypuff, Koffing, Weepinbell, and Victreebel",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "DITTO",
+        "GRIMER",
+        "JIGGLYPUFF",
+        "KOFFING",
+        "BELLSPROUT"
+      ]
+    },
+    {
+      "text": "Catch 3 Rare Spawn Pokemon",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "BULBASAUR",
+        "CHARMANDER",
+        "SQUIRTLE",
+        "HITMONLEE",
+        "HITMONCHAN",
+        "CHANSEY",
+        "LAPRAS",
+        "PORYGON",
+        "SNORLAX",
+        "ARTICUNO",
+        "ZAPDOS",
+        "MOLTRES",
+        "DRATINI"
+      ]
+    },
+    {
+      "text": "Trade for all Alolan variants",
+      "difficulty": 4,
+      "tags": [
+        "TRADE",
+        "CATCH",
+        "RATTATA",
+        "PIKACHU",
+        "SANDSHREW",
+        "VULPIX",
+        "DIGLETT",
+        "MEOWTH",
+        "GEODUDE",
+        "GRIMER",
+        "EXEGGCUTE",
+        "CUBONE"
+      ]
+    },
+    {
+      "text": "Catch Pidgey, Doduo, Pikachu, Butterfree, Lapras, Meowth, Eevee, and Kangaskhan",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "PIDGEY",
+        "DODUO",
+        "PIKACHU",
+        "BUTTERFREE",
+        "LAPRAS",
+        "MEOWTH",
+        "EEVEE",
+        "KANGASKHAN"
+      ]
+    },
+    {
+      "text": "Catch Nidoking, Arcanine, Blastoise, Nidoqueen, Magmar, Scyther, Golem, Eevee, and Electabuzz",
+      "difficulty": 4,
+      "tags": [
+        "CATCH",
+        "NIDORAN♂",
+        "GROWLITHE",
+        "SQUIRTLE",
+        "NIDORAN♀",
+        "MAGMAR",
+        "SCYTHER",
+        "GEODUDE",
+        "EEVEE",
+        "ELECTABUZZ"
+      ]
+    },
+    {
+      "text": "Catch Zapdos",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "BATTLE",
+        "ZAPDOS"
+      ]
+    },
+    {
+      "text": "Catch Rapidash, Vulpix, Charmander, Magmar, Charmeleon, and Moltres",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "BATTLE",
+        "PONYTA",
+        "VULPIX",
+        "CHARMANDER",
+        "MAGMAR",
+        "MOLTRES"
+      ]
+    },
+    {
+      "text": "Catch Jynx and Articuno",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "BATTLE",
+        "JYNX",
+        "ARCTICUNO"
+      ]
+    },
+    {
+      "text": "Catch Geodude, Sandshrew, Graveler, Sandslash, Gyarados, Staryu, Starmie, Dragonite, Dratini, and Goldeen",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "GEODUDE",
+        "SANDSHREW",
+        "MAGIKARP",
+        "STARYU",
+        "DRATINI",
+        "GOLDEEN"
+      ]
+    },
+    {
+      "text": "Catch Snorlax, Scyther, and Chansey",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "BATTLE",
+        "SNORLAX",
+        "SCYTHER",
+        "CHANSEY"
+      ]
+    },
+    {
+      "text": "Beat Erika without using a damaging move",
+      "difficulty": 5,
+      "tags": [
+        "BATTLE",
+        "BADGE",
+        "CELADON"
+      ]
+    },
+    {
+      "text": "Beat the Elite Four while not switching until a Pokemon has fainted",
+      "difficulty": 5,
+      "tags": [
+        "BATTLE",
+        "ELITE_FOUR"
+      ]
+    },
+    {
+      "text": "Find a Shiny Pokemon",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "SHINY"
+      ]
+    },
+    {
+      "text": "Catch Mewtwo",
+      "difficulty": 5,
+      "tags": [
+        "CATCH",
+        "BATTLE"
+      ]
+    }
+  ]
+}

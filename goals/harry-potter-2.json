@@ -1,0 +1,740 @@
+{
+  "name": "Harry Potter 2",
+  "goals": [
+    {
+      "text": "Get all 28 beans in Willow",
+      "difficulty": 1,
+      "tags": [
+        "willow"
+      ]
+    },
+    {
+      "text": "Activate both secrets in Willow from out of bounds",
+      "difficulty": 1,
+      "tags": [
+        "willow"
+      ]
+    },
+    {
+      "text": "Complete Willow without using the mouse",
+      "difficulty": 1,
+      "tags": [
+        "willow"
+      ]
+    },
+    {
+      "text": "Get all of the beans in the chasm",
+      "difficulty": 1,
+      "tags": [
+        "rictu"
+      ]
+    },
+    {
+      "text": "Get Hagrid's Wizard Card during your first night at Hogwarts",
+      "difficulty": 1,
+      "tags": [
+        "cards",
+        "outside"
+      ]
+    },
+    {
+      "text": "Get 8 challenge stars in Rictusempra",
+      "difficulty": 1,
+      "tags": [
+        "rictu",
+        "stars"
+      ]
+    },
+    {
+      "text": "Hit 10 cauldrons",
+      "difficulty": 1,
+      "tags": [
+        "collection"
+      ]
+    },
+    {
+      "text": "Get on top of Hagrid's Hut",
+      "difficulty": 1,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Get all Rictusempra secrets",
+      "difficulty": 1,
+      "tags": [
+        "rictu",
+        "cards"
+      ]
+    },
+    {
+      "text": "Put 15 crabs into pits during Rictusempra",
+      "difficulty": 1,
+      "tags": [
+        "rictu"
+      ]
+    },
+    {
+      "text": "Kill Peeves",
+      "difficulty": 1,
+      "tags": [
+        "skurge"
+      ]
+    },
+    {
+      "text": "Finish a spell challenge with a gnome in your hand",
+      "difficulty": 1,
+      "tags": [
+        "compstar"
+      ]
+    },
+    {
+      "text": "Collect the 14 beans on the roof in the Bean Bonus Room",
+      "difficulty": 1,
+      "tags": [
+        "beans"
+      ]
+    },
+    {
+      "text": "Complete a Quidditch game before learning how to fly",
+      "difficulty": 1,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Lose 5 house points",
+      "difficulty": 1,
+      "tags": [
+        "inside"
+      ]
+    },
+    {
+      "text": "Cast at all 3 of the pigs near Hagrid's Hut",
+      "difficulty": 1,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Get behind the Quidditch gate",
+      "difficulty": 1,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Get the 16 beans on Lockhart's balcony",
+      "difficulty": 1,
+      "tags": [
+        "stairs"
+      ]
+    },
+    {
+      "text": "Complete Rictusempra without using the mouse",
+      "difficulty": 2,
+      "tags": [
+        "rictu"
+      ]
+    },
+    {
+      "text": "Get 8 Skurge challenge stars",
+      "difficulty": 2,
+      "tags": [
+        "skurge",
+        "stars"
+      ]
+    },
+    {
+      "text": "Get all Skurge secrets",
+      "difficulty": 2,
+      "tags": [
+        "skurge",
+        "cards"
+      ]
+    },
+    {
+      "text": "Clip 4 gnomes out of bounds",
+      "difficulty": 2,
+      "tags": [
+        "bicorn"
+      ]
+    },
+    {
+      "text": "Enter Quidditch practice from out of bounds",
+      "difficulty": 2,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "All Bicorn secrets",
+      "difficulty": 2,
+      "tags": [
+        "bicorn",
+        "cards"
+      ]
+    },
+    {
+      "text": "Empty 10 armor stands",
+      "difficulty": 2,
+      "tags": [
+        "inside"
+      ]
+    },
+    {
+      "text": "Lose a Quidditch match by 250 points",
+      "difficulty": 2,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Complete Skurge without using the mouse",
+      "difficulty": 2,
+      "tags": [
+        "skurge"
+      ]
+    },
+    {
+      "text": "Get enough ingredients for 4 potions during Bicorn",
+      "difficulty": 2,
+      "tags": [
+        "bicorn",
+        "potions"
+      ]
+    },
+    {
+      "text": "Complete all 10 duels",
+      "difficulty": 2,
+      "tags": [
+        "duels",
+        "beans"
+      ]
+    },
+    {
+      "text": "Activate a potion cauldron with a gnome",
+      "difficulty": 2,
+      "tags": [
+        "potions"
+      ]
+    },
+    {
+      "text": "Get to the Diffindo classroom before Quidditch practice",
+      "difficulty": 2,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Complete Diffindo without casting Diffindo",
+      "difficulty": 2,
+      "tags": [
+        "diffindo"
+      ]
+    },
+    {
+      "text": "Empty 5 bean boxes",
+      "difficulty": 2,
+      "tags": [
+        "collection"
+      ]
+    },
+    {
+      "text": "Buy the Quidditch Armor",
+      "difficulty": 2,
+      "tags": [
+        "beans"
+      ]
+    },
+    {
+      "text": "Talk to Percy, Hagrid, Snape, and Madam Pomfrey",
+      "difficulty": 2,
+      "tags": [
+        "inside",
+        "outside",
+        "stairs"
+      ]
+    },
+    {
+      "text": "Beat Peter without Expelliarmus",
+      "difficulty": 2,
+      "tags": [
+        "duels",
+        "beans"
+      ]
+    },
+    {
+      "text": "Get 9 Diffindo challenge stars",
+      "difficulty": 2,
+      "tags": [
+        "diffindo",
+        "stars"
+      ]
+    },
+    {
+      "text": "Complete Diffindo without using the mouse",
+      "difficulty": 2,
+      "tags": [
+        "diffindo"
+      ]
+    },
+    {
+      "text": "Have 15 potions",
+      "difficulty": 2,
+      "tags": [
+        "potions"
+      ]
+    },
+    {
+      "text": "Buy the Nimbus 2001",
+      "difficulty": 2,
+      "tags": [
+        "beans"
+      ]
+    },
+    {
+      "text": "Make a 5 mushroom high tower in Diffindo",
+      "difficulty": 3,
+      "tags": [
+        "diffindo"
+      ]
+    },
+    {
+      "text": "Get all Boomslang secrets",
+      "difficulty": 3,
+      "tags": [
+        "boom",
+        "cards"
+      ]
+    },
+    {
+      "text": "Collect 3 chocolate frogs in Boomslang",
+      "difficulty": 3,
+      "tags": [
+        "boom"
+      ]
+    },
+    {
+      "text": "Buy 3 Bronze Wizard Cards",
+      "difficulty": 3,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Get 2 health increases",
+      "difficulty": 3,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Beat Malfoy with only Mimblewimble",
+      "difficulty": 3,
+      "tags": [
+        "diffindo"
+      ]
+    },
+    {
+      "text": "Cut all Venomous Tentacula heads off in Boomslang",
+      "difficulty": 3,
+      "tags": [
+        "boom"
+      ]
+    },
+    {
+      "text": "Collect 17 challenge stars",
+      "difficulty": 3,
+      "tags": [
+        "stars"
+      ]
+    },
+    {
+      "text": "Finish with 1000 beans",
+      "difficulty": 3,
+      "tags": [
+        "beans"
+      ]
+    },
+    {
+      "text": "Get 13 Diffindo challenge stars",
+      "difficulty": 3,
+      "tags": [
+        "diffindo",
+        "stars"
+      ]
+    },
+    {
+      "text": "Complete Boomslang without jumping",
+      "difficulty": 3,
+      "tags": [
+        "boom"
+      ]
+    },
+    {
+      "text": "Complete Goyle without casting Skurge",
+      "difficulty": 3,
+      "tags": [
+        "goyle"
+      ]
+    },
+    {
+      "text": "Go up the fireplace in Goyle",
+      "difficulty": 3,
+      "tags": [
+        "goyle"
+      ]
+    },
+    {
+      "text": "Get 2 keys",
+      "difficulty": 3,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Let McGonagall fall down during the second Nick cutscene",
+      "difficulty": 3,
+      "tags": [
+        "stairs",
+        "goyle"
+      ]
+    },
+    {
+      "text": "Buy 4 Silver Wizard Cards",
+      "difficulty": 3,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Collect 23 wizard cards",
+      "difficulty": 3,
+      "tags": [
+        "cards"
+      ]
+    },
+    {
+      "text": "Get all Goyle secrets",
+      "difficulty": 3,
+      "tags": [
+        "goyle",
+        "cards"
+      ]
+    },
+    {
+      "text": "Win a Quidditch match by 60 points",
+      "difficulty": 3,
+      "tags": [
+        "outside"
+      ]
+    },
+    {
+      "text": "Open 5 of each of the 4 chest types",
+      "difficulty": 3,
+      "tags": [
+        "collection"
+      ]
+    },
+    {
+      "text": "Hit 8 different Lumos statues in Goyle",
+      "difficulty": 3,
+      "tags": [
+        "goyle"
+      ]
+    },
+    {
+      "text": "Knock over 8 flower pots",
+      "difficulty": 3,
+      "tags": [
+        "collection",
+        "boom"
+      ]
+    },
+    {
+      "text": "Collect both potion ingredients as Harry in Slytherin",
+      "difficulty": 4,
+      "tags": [
+        "slyth"
+      ]
+    },
+    {
+      "text": "Hit 25 cauldrons",
+      "difficulty": 4,
+      "tags": [
+        "collection"
+      ]
+    },
+    {
+      "text": "Spawn 12 gnomes in the girl's bathroom",
+      "difficulty": 4,
+      "tags": [
+        "collection"
+      ]
+    },
+    {
+      "text": "Finish with 2000 beans",
+      "difficulty": 4,
+      "tags": [
+        "beans"
+      ]
+    },
+    {
+      "text": "Get 3 health increases",
+      "difficulty": 4,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Buy 8 Bronze Wizard Cards",
+      "difficulty": 4,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Get all Slytherin secrets",
+      "difficulty": 4,
+      "tags": [
+        "slyth",
+        "cards"
+      ]
+    },
+    {
+      "text": "Walk up the stairs to Girl's Dormitory in Slytherin",
+      "difficulty": 4,
+      "tags": [
+        "slyth"
+      ]
+    },
+    {
+      "text": "Collect 37 wizard cards",
+      "difficulty": 4,
+      "tags": [
+        "cards"
+      ]
+    },
+    {
+      "text": "Collect 31 challenge stars",
+      "difficulty": 4,
+      "tags": [
+        "stars"
+      ]
+    },
+    {
+      "text": "Get 5 secrets as Harry in Slytherin",
+      "difficulty": 4,
+      "tags": [
+        "slyth"
+      ]
+    },
+    {
+      "text": "Complete Spongify without using the mouse",
+      "difficulty": 4,
+      "tags": [
+        "sponge"
+      ]
+    },
+    {
+      "text": "Jump on 5 Spongify tiles in a row without landing",
+      "difficulty": 4,
+      "tags": [
+        "sponge"
+      ]
+    },
+    {
+      "text": "Enter Forest from out of bounds",
+      "difficulty": 4,
+      "tags": [
+        "forest"
+      ]
+    },
+    {
+      "text": "Get 3 keys",
+      "difficulty": 4,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    },
+    {
+      "text": "Get all 4 completion stars",
+      "difficulty": 4,
+      "tags": [
+        "sponge",
+        "compstar"
+      ]
+    },
+    {
+      "text": "Open all 5 Peeves chests",
+      "difficulty": 4,
+      "tags": [
+        "goyle"
+      ]
+    },
+    {
+      "text": "Collect 8 beans from the Great Hall at night",
+      "difficulty": 4,
+      "tags": [
+        "inside",
+        "forest"
+      ]
+    },
+    {
+      "text": "Get all Grounds secrets in both day and night",
+      "difficulty": 4,
+      "tags": [
+        "cards"
+      ]
+    },
+    {
+      "text": "Get all Entry Hall secrets",
+      "difficulty": 4,
+      "tags": [
+        "cards",
+        "inside"
+      ]
+    },
+    {
+      "text": "Have 9 Slytherins surrounding you on the table in Slytherin",
+      "difficulty": 5,
+      "tags": [
+        "slyth"
+      ]
+    },
+    {
+      "text": "Get all Forest secrets",
+      "difficulty": 5,
+      "tags": [
+        "forest",
+        "cards"
+      ]
+    },
+    {
+      "text": "Get all Grand Staircase secrets",
+      "difficulty": 5,
+      "tags": [
+        "cards",
+        "stairs",
+        "sponge"
+      ]
+    },
+    {
+      "text": "Hit all of the ropes in the Aragog fight",
+      "difficulty": 5,
+      "tags": [
+        "forest"
+      ]
+    },
+    {
+      "text": "Kill 12 spiders in the Aragog fight",
+      "difficulty": 5,
+      "tags": [
+        "forest"
+      ]
+    },
+    {
+      "text": "Get 8 Spongify challenge stars",
+      "difficulty": 5,
+      "tags": [
+        "sponge",
+        "stars"
+      ]
+    },
+    {
+      "text": "Cast on 5 Lumos statues during Spongify",
+      "difficulty": 5,
+      "tags": [
+        "sponge"
+      ]
+    },
+    {
+      "text": "Use all 9 Spongify tiles in the Grand Staircase area",
+      "difficulty": 5,
+      "tags": [
+        "sponge",
+        "stairs"
+      ]
+    },
+    {
+      "text": "Get all Spongify secrets",
+      "difficulty": 5,
+      "tags": [
+        "sponge",
+        "cards"
+      ]
+    },
+    {
+      "text": "All Chamber secrets",
+      "difficulty": 5,
+      "tags": [
+        "chamber"
+      ]
+    },
+    {
+      "text": "Skip the boulder cutscene in Chamber",
+      "difficulty": 5,
+      "tags": [
+        "chamber"
+      ]
+    },
+    {
+      "text": "Collect 53 wizard cards",
+      "difficulty": 5,
+      "tags": [
+        "cards"
+      ]
+    },
+    {
+      "text": "Put 4 imps into the same hole",
+      "difficulty": 5,
+      "tags": [
+        "sponge"
+      ]
+    },
+    {
+      "text": "Avoid fire damage from the snake statues in Chamber",
+      "difficulty": 5,
+      "tags": [
+        "chamber"
+      ]
+    },
+    {
+      "text": "Finish the game",
+      "difficulty": 5,
+      "tags": [
+        "chamber"
+      ]
+    },
+    {
+      "text": "Take no damage in the Basilisk fight",
+      "difficulty": 5,
+      "tags": [
+        "chamber"
+      ]
+    },
+    {
+      "text": "Get the Harry Potter Wizard Card",
+      "difficulty": 5,
+      "tags": [
+        "cards"
+      ]
+    },
+    {
+      "text": "Get 5 health increases",
+      "difficulty": 5,
+      "tags": [
+        "cards",
+        "beans"
+      ]
+    }
+  ]
+}

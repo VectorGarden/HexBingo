@@ -1,0 +1,643 @@
+{
+  "name": "Breath of the Wild [Hunt]",
+  "goals": [
+    {
+      "text": "Fox",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "3 birds",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Bushy-Tailed Squirrel",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Shoot a Bluepee",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Boar",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Goat",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Wolf or Coyote",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Buck or Doe",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Buffalo",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Moose",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Great-Horned Rhinoceros",
+      "difficulty": 1,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Chuchu",
+      "difficulty": 1,
+      "tags": [
+        "CHUCHU",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Keese",
+      "difficulty": 1,
+      "tags": [
+        "KEESE",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Octorok",
+      "difficulty": 1,
+      "tags": [
+        "OCTOROK",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Peblit",
+      "difficulty": 1,
+      "tags": [
+        "TALUS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Entire group of Peblit",
+      "difficulty": 1,
+      "tags": [
+        "TALUS",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Group of 3+ Chuchu",
+      "difficulty": 1,
+      "tags": [
+        "CHUCHU",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Stal monster",
+      "difficulty": 2,
+      "tags": [
+        "STAL",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Group of 5+ Keese",
+      "difficulty": 2,
+      "tags": [
+        "KEESE",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Bokoblin",
+      "difficulty": 2,
+      "tags": [
+        "BOKOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Moblin",
+      "difficulty": 2,
+      "tags": [
+        "MOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Lizalfos",
+      "difficulty": 2,
+      "tags": [
+        "LIZALFOS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Yiga Footsoldier",
+      "difficulty": 2,
+      "tags": [
+        "YIGA",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Level 2 Monster [Blue]",
+      "difficulty": 2,
+      "tags": [
+        "MONSTER",
+        "LEVEL"
+      ]
+    },
+    {
+      "text": "One of each basic Stal [LIZALFOS, BOKOBLIN, MOBLIN]",
+      "difficulty": 2,
+      "tags": [
+        "STAL",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Group of Bokoblins attacking people",
+      "difficulty": 2,
+      "tags": [
+        "BOKOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Entire camp of Bokoblin",
+      "difficulty": 2,
+      "tags": [
+        "BOKOBLIN",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Bomb: 3+ Wolves/Coyotes at once",
+      "difficulty": 2,
+      "tags": [
+        "BOMB",
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Wizzrobe",
+      "difficulty": 2,
+      "tags": [
+        "WIZZROBE",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Entire group of 3+ Moblin",
+      "difficulty": 2,
+      "tags": [
+        "MOBLIN",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Assassinate: Lure Mob into trap by throwing bomb",
+      "difficulty": 2,
+      "tags": [
+        "ASSASSINATE",
+        "TRAP",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Bokoblin after luring into Bee trap",
+      "difficulty": 2,
+      "tags": [
+        "TRAP",
+        "BOKOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Bear",
+      "difficulty": 3,
+      "tags": [
+        "CREATURE"
+      ]
+    },
+    {
+      "text": "Yiga Blademaster",
+      "difficulty": 3,
+      "tags": [
+        "YIGA",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Snipe: 5 Mobs in Bullet Time",
+      "difficulty": 3,
+      "tags": [
+        "SNIPE",
+        "ARROW",
+        "BULLET TIME",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Chuchu of each element [FIRE, ICE, ELECTRIC]",
+      "difficulty": 3,
+      "tags": [
+        "CHUCHU",
+        "MONSTER",
+        "ELEMENT"
+      ]
+    },
+    {
+      "text": "Keese of each element [FIRE, ICE, ELECTRIC]",
+      "difficulty": 3,
+      "tags": [
+        "KEESE",
+        "MONSTER",
+        "ELEMENT"
+      ]
+    },
+    {
+      "text": "Peblit of each element [IGNEO, FROST]",
+      "difficulty": 3,
+      "tags": [
+        "TALUS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Snipe: Camp of Bokoblins [Plain Arrows]",
+      "difficulty": 3,
+      "tags": [
+        "SNIPE",
+        "ARROW",
+        "BOKOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Knock all Mobs off the Ancient Tree Stump",
+      "difficulty": 3,
+      "tags": [
+        "MONSTER",
+        "WATER"
+      ]
+    },
+    {
+      "text": "Assassinate: Mob in stasis",
+      "difficulty": 3,
+      "tags": [
+        "STASIS",
+        "ASSASSINATE",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Guardian Scout",
+      "difficulty": 3,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Level 3 Monster [Black]",
+      "difficulty": 3,
+      "tags": [
+        "MONSTER",
+        "LEVEL"
+      ]
+    },
+    {
+      "text": "Assassinate: Camp of sleeping Bokoblins",
+      "difficulty": 3,
+      "tags": [
+        "ASSASSINATE",
+        "BOKOBLIN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Entire group of 3+ Lizalfos",
+      "difficulty": 3,
+      "tags": [
+        "LIZALFOS",
+        "MONSTER",
+        "MASSACRE"
+      ]
+    },
+    {
+      "text": "Wizzrobe of each element [FIRE, ICE, ELECTRIC]",
+      "difficulty": 3,
+      "tags": [
+        "WIZZROBE",
+        "MONSTER",
+        "ELEMENT"
+      ]
+    },
+    {
+      "text": "Octorok of each type [TREASURE, WATER, SKY, SNOW, ROCK, FOREST]",
+      "difficulty": 3,
+      "tags": [
+        "OCTOROK",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "All Mobs in Skull base with bombs",
+      "difficulty": 3,
+      "tags": [
+        "BOMB",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Snipe: 3 Mobs in one Bullet Time activation",
+      "difficulty": 3,
+      "tags": [
+        "SNIPE",
+        "ARROW",
+        "BULLET TIME",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Lizalfos of each element [FIRE, ICE, ELECTRIC]",
+      "difficulty": 4,
+      "tags": [
+        "LIZALFOS",
+        "MONSTER",
+        "ELEMENT"
+      ]
+    },
+    {
+      "text": "Talus",
+      "difficulty": 4,
+      "tags": [
+        "TALUS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Hinox",
+      "difficulty": 4,
+      "tags": [
+        "HINOX",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Stalnox",
+      "difficulty": 4,
+      "tags": [
+        "HINOX",
+        "STAL",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Talus of each type [LUMINOUS, RARE]",
+      "difficulty": 4,
+      "tags": [
+        "TALUS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "3 different Hinox",
+      "difficulty": 4,
+      "tags": [
+        "HINOX",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "Hinox using only arrows",
+      "difficulty": 4,
+      "tags": [
+        "ARROW",
+        "HINOX",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "3 different Talus",
+      "difficulty": 4,
+      "tags": [
+        "TALUS",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "5 different Hinox",
+      "difficulty": 4,
+      "tags": [
+        "HINOX",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "Decayed Guardian",
+      "difficulty": 4,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Level 4 Monster [White/Silver]",
+      "difficulty": 4,
+      "tags": [
+        "MONSTER",
+        "LEVEL"
+      ]
+    },
+    {
+      "text": "Talus of each element [IGNEO, FROST]",
+      "difficulty": 4,
+      "tags": [
+        "TALUS",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "3 different Stalnox",
+      "difficulty": 4,
+      "tags": [
+        "HINOX",
+        "STAL",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "5 different Talus",
+      "difficulty": 4,
+      "tags": [
+        "TALUS",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "Lure Mob into getting struck by lightning",
+      "difficulty": 4,
+      "tags": [
+        "TRAP",
+        "LIGHTNING",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "10 different Hinox",
+      "difficulty": 5,
+      "tags": [
+        "HINOX",
+        "STAL",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "Guardian Skywatcher",
+      "difficulty": 5,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Guardian Turret",
+      "difficulty": 5,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Molduga",
+      "difficulty": 5,
+      "tags": [
+        "MOLDUGA",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Guardian Stalker",
+      "difficulty": 5,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "Lynel",
+      "difficulty": 5,
+      "tags": [
+        "LYNEL",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "5 different Stalnox",
+      "difficulty": 5,
+      "tags": [
+        "HINOX",
+        "STAL",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "10 different Talus",
+      "difficulty": 5,
+      "tags": [
+        "TALUS",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "The Coliseum Lynel",
+      "difficulty": 5,
+      "tags": [
+        "LYNEL",
+        "MONSTER"
+      ]
+    },
+    {
+      "text": "3 different Lynel without using Ancient arrows",
+      "difficulty": 5,
+      "tags": [
+        "LYNEL",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "All 4 Molduga",
+      "difficulty": 5,
+      "tags": [
+        "MOLDUGA",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    },
+    {
+      "text": "Destroy all 26 Guardian Stalkers in Hyrule Field",
+      "difficulty": 5,
+      "tags": [
+        "GUARDIAN",
+        "MONSTER",
+        "GENOCIDE"
+      ]
+    }
+  ],
+  "rules": [
+    "In a competition: everyone starts at the same tower",
+    "Teleporting only allowed to towers",
+    "Cannot teleport until a goal on the board has been accomplished since last teleport"
+  ]
+}

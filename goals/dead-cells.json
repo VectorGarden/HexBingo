@@ -1,0 +1,406 @@
+{
+  "name": "Dead Cells",
+  "goals": [
+    {
+      "text": "Dodge a hit by rolling",
+      "difficulty": 1,
+      "tags": [
+        "ENEMY"
+      ]
+    },
+    {
+      "text": "Glass: Die from the first hit taken in a Stage",
+      "difficulty": 1,
+      "tags": [
+        "DEATH",
+        "ENEMY"
+      ]
+    },
+    {
+      "text": "Unlock all teleporters in a Stage",
+      "difficulty": 1,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Deflect a ranged attack",
+      "difficulty": 1,
+      "tags": [
+        "ENEMY",
+        "SHIELD"
+      ]
+    },
+    {
+      "text": "Buy 2 pieces of gear with Cells",
+      "difficulty": 1,
+      "tags": [
+        "CELLS",
+        "GEAR"
+      ]
+    },
+    {
+      "text": "Kill an enemy by Stomping",
+      "difficulty": 1,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Access a Branched Path",
+      "difficulty": 1,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Get 20 Cells from one stage",
+      "difficulty": 1,
+      "tags": [
+        "HUNT",
+        "EXPLORE",
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Kill an enemy in one hit",
+      "difficulty": 1,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Kill an enemy through a status effect",
+      "difficulty": 1,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Kill 5 Enemies with a Turret",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "TURRET"
+      ]
+    },
+    {
+      "text": "Stun and Kill 10 Shieldbearers from the front",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "TRAP",
+        "GRENADE",
+        "EXPLORE",
+        "PRISONERS_QUARTERS",
+        "ANCIENT_SEWERS",
+        "OSSUARY"
+      ]
+    },
+    {
+      "text": "Dodge 5 Kamikazes without taking damage",
+      "difficulty": 2,
+      "tags": [
+        "ENEMY",
+        "EXPLORE",
+        "TOXIC_SEWERS",
+        "ANCIENT_SEWERS",
+        "PRISON_DEPTHS",
+        "STILT_VILLAGE",
+        "GRAVEYARD",
+        "SLUMBERING_SANCTUARY",
+        "FORGOTTEN_SEPULCHER"
+      ]
+    },
+    {
+      "text": "Kill 5 Enemies after Trapping them",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "TRAP"
+      ]
+    },
+    {
+      "text": "Genocide: Kill all enemies in a stage",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Find a Secret Item",
+      "difficulty": 2,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Kill a Shocker with a Ranged Weapon",
+      "difficulty": 2,
+      "tags": [
+        "HUNT",
+        "RANGED",
+        "OSSUARY"
+      ]
+    },
+    {
+      "text": "Unlock a Keyed Door",
+      "difficulty": 2,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Access a Timed Door",
+      "difficulty": 2,
+      "tags": [
+        "SPEEDRUN"
+      ]
+    },
+    {
+      "text": "Pacifist: Complete a stage but do not kill any enemy",
+      "difficulty": 2,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Find a Secret Grimoire",
+      "difficulty": 3,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Unlock 3 New Grenades",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Unlock 3 New Shields",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Kill every Enemy in a Stage by kicking them",
+      "difficulty": 3,
+      "tags": [
+        "HUNT",
+        "MELEE"
+      ]
+    },
+    {
+      "text": "Unlock 3 New Traps or Turrets",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Unlock 3 New Melee Weapons",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Unlock 3 New Ranged Weapons",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Upgrade a piece of Gear to +",
+      "difficulty": 3,
+      "tags": [
+        "CELLS"
+      ]
+    },
+    {
+      "text": "Kill 20 enemies in a Stage with only grenades",
+      "difficulty": 3,
+      "tags": [
+        "HUNT",
+        "GRENADE"
+      ]
+    },
+    {
+      "text": "Release and Escape from an Elite enemy",
+      "difficulty": 3,
+      "tags": [
+        "ENEMY",
+        "ELITE"
+      ]
+    },
+    {
+      "text": "Be infected then cured of Malaise",
+      "difficulty": 4,
+      "tags": [
+        "ENEMY",
+        "MALAISE",
+        "HIGH_PEAK_CASTLE"
+      ]
+    },
+    {
+      "text": "Defeat an Elite enemy",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "ELITE"
+      ]
+    },
+    {
+      "text": "Omae Wa Mou Shindeiru [Teleport behind enemy and kill them]",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "GEAR"
+      ]
+    },
+    {
+      "text": "Drag an Elite Enemy from its spawn to the end of the level",
+      "difficulty": 4,
+      "tags": [
+        "EXPLORE",
+        "ELITE"
+      ]
+    },
+    {
+      "text": "Get 3 Dark Trackers to follow you and then Kill them all without dodging",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "EXPLORE",
+        "FORGOTTEN_SEPULCHER",
+        "CLOCK_TOWER"
+      ]
+    },
+    {
+      "text": "Sniper: Kill all enemies in a stage with Ranged Weapons",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "RANGED"
+      ]
+    },
+    {
+      "text": "Defeat 3 Elite Enemies",
+      "difficulty": 4,
+      "tags": [
+        "HUNT",
+        "ELITE"
+      ]
+    },
+    {
+      "text": "Find a Legendary Item",
+      "difficulty": 4,
+      "tags": [
+        "EXPLORE",
+        "HUNT",
+        "GEAR"
+      ]
+    },
+    {
+      "text": "Kill 3 Golems",
+      "difficulty": 4,
+      "tags": [
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Win a Daily run",
+      "difficulty": 4,
+      "tags": [
+        "SPEEDRUN"
+      ]
+    },
+    {
+      "text": "Complete a Challenge Rift",
+      "difficulty": 5,
+      "tags": [
+        "CHALLENGE"
+      ]
+    },
+    {
+      "text": "Beat 3 Stages in a row without mutations",
+      "difficulty": 5,
+      "tags": [
+        "EXPLORE",
+        "HUNT"
+      ]
+    },
+    {
+      "text": "Access 3 Timed Doors in a row",
+      "difficulty": 5,
+      "tags": [
+        "SPEEDRUN"
+      ]
+    },
+    {
+      "text": "Beat the Final Boss",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS"
+      ]
+    },
+    {
+      "text": "Leave a stage without getting hit",
+      "difficulty": 5,
+      "tags": [
+        "EXPLORE"
+      ]
+    },
+    {
+      "text": "Beat a Boss with a Boss Stem Cell equipped",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "NEW_GAME_PLUS"
+      ]
+    },
+    {
+      "text": "Beat a Boss without getting hit",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS"
+      ]
+    },
+    {
+      "text": "Beat a Boss with Ranged Weapons only",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "RANGED"
+      ]
+    },
+    {
+      "text": "Beat a Boss with Melee only",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "MELEE"
+      ]
+    },
+    {
+      "text": "Beat a Boss with Traps and Turrets only",
+      "difficulty": 5,
+      "tags": [
+        "HUNT",
+        "BOSS",
+        "TRAP",
+        "TURRET"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "name": "Pokémon: Red / Blue",
+  "goals": [
+    {
+      "text": "TM 12 (Water Gun)",
+      "difficulty": 1,
+      "tags": [
+        "watergun"
+      ]
+    },
+    {
+      "text": "Town Map",
+      "difficulty": 1,
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "text": "TM 39 (Swift)",
+      "difficulty": 1,
+      "tags": [
+        "swift"
+      ]
+    },
+    {
+      "text": "View the Space Shuttle Columbia",
+      "difficulty": 1,
+      "tags": [
+        "space"
+      ]
+    },
+    {
+      "text": "Farfetch'd",
+      "difficulty": 1,
+      "tags": [
+        "trades"
+      ]
+    },
+    {
+      "text": "Rattata",
+      "difficulty": 1,
+      "tags": [
+        "lol"
+      ]
+    },
+    {
+      "text": "Vaporeon",
+      "difficulty": 1,
+      "tags": [
+        "vapor"
+      ]
+    },
+    {
+      "text": "TM 40 (Skull Bash)",
+      "difficulty": 1,
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "text": "Kill or catch both Snorlaxes",
+      "difficulty": 1,
+      "tags": [
+        "snorlax"
+      ]
+    },
+    {
+      "text": "TM 19 (Seismic Toss)",
+      "difficulty": 1,
+      "tags": [
+        "seismic"
+      ]
+    },
+    {
+      "text": "Kill a Haunter",
+      "difficulty": 1,
+      "tags": [
+        "haunt"
+      ]
+    },
+    {
+      "text": "TM 44 (Rest)",
+      "difficulty": 1,
+      "tags": [
+        "rest"
+      ]
+    },
+    {
+      "text": "Any Pokemon with a multi-hit move",
+      "difficulty": 1,
+      "tags": [
+        "fury"
+      ]
+    },
+    {
+      "text": "Good Rod",
+      "difficulty": 1,
+      "tags": [
+        "rod"
+      ]
+    },
+    {
+      "text": "10 pokemon owned",
+      "difficulty": 1,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "4 Badges",
+      "difficulty": 1,
+      "tags": [
+        "Badges"
+      ]
+    },
+    {
+      "text": "Clefable",
+      "difficulty": 1,
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "text": "Defeat all 3 starters",
+      "difficulty": 1,
+      "tags": [
+        "tunnel"
+      ]
+    },
+    {
+      "text": "Any pokemon with 4 status moves",
+      "difficulty": 1,
+      "tags": [
+        "moves"
+      ]
+    },
+    {
+      "text": "TM 10 (Double Edge)",
+      "difficulty": 2,
+      "tags": [
+        "edge"
+      ]
+    },
+    {
+      "text": "Defeat 2 Engineers",
+      "difficulty": 2,
+      "tags": [
+        "engineers"
+      ]
+    },
+    {
+      "text": "Pidgeotto",
+      "difficulty": 2,
+      "tags": [
+        "pidge"
+      ]
+    },
+    {
+      "text": "Arcanine or Ninetales",
+      "difficulty": 2,
+      "tags": [
+        "fires"
+      ]
+    },
+    {
+      "text": "20 TMs",
+      "difficulty": 2,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Vileplume or Victreebell",
+      "difficulty": 2,
+      "tags": [
+        "leafs"
+      ]
+    },
+    {
+      "text": "Beedrill or Butterfree",
+      "difficulty": 2,
+      "tags": [
+        "bug"
+      ]
+    },
+    {
+      "text": "Any pokemon with 4 damage dealing special moves",
+      "difficulty": 2,
+      "tags": [
+        "moves"
+      ]
+    },
+    {
+      "text": "Teach TM 49 (Tri Attack)",
+      "difficulty": 2,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Defeat Viridian Rival",
+      "difficulty": 2,
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "text": "Raichu",
+      "difficulty": 2,
+      "tags": [
+        "elec"
+      ]
+    },
+    {
+      "text": "3 HMs",
+      "difficulty": 2,
+      "tags": [
+        "hm"
+      ]
+    },
+    {
+      "text": "Defeat 3 Scientists",
+      "difficulty": 2,
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "text": "TM42 (Dream Eater)",
+      "difficulty": 2,
+      "tags": [
+        "dream"
+      ]
+    },
+    {
+      "text": "Nidoking or Nidoqueen",
+      "difficulty": 2,
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "text": "2 PP Ups",
+      "difficulty": 2,
+      "tags": [
+        "pp"
+      ]
+    },
+    {
+      "text": "Defeat all 8 trainers on Route 3",
+      "difficulty": 2,
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "text": "Wigglytuff",
+      "difficulty": 2,
+      "tags": [
+        "moon"
+      ]
+    },
+    {
+      "text": "Mr. Mime",
+      "difficulty": 2,
+      "tags": [
+        "trades"
+      ]
+    },
+    {
+      "text": "Dugtrio",
+      "difficulty": 2,
+      "tags": [
+        "trio"
+      ]
+    },
+    {
+      "text": "TM26 (Earthquake)",
+      "difficulty": 2,
+      "tags": [
+        "silph"
+      ]
+    },
+    {
+      "text": "Ditto",
+      "difficulty": 3,
+      "tags": [
+        "ditto"
+      ]
+    },
+    {
+      "text": "HM5 (Flash)",
+      "difficulty": 3,
+      "tags": [
+        "hm"
+      ]
+    },
+    {
+      "text": "Hitmonchan or Hitmonlee",
+      "difficulty": 3,
+      "tags": [
+        "fighting"
+      ]
+    },
+    {
+      "text": "Kadabra",
+      "difficulty": 3,
+      "tags": [
+        "abra"
+      ]
+    },
+    {
+      "text": "TM 28 (Dig)",
+      "difficulty": 3,
+      "tags": [
+        "tm"
+      ]
+    },
+    {
+      "text": "Starmie",
+      "difficulty": 3,
+      "tags": [
+        "waters"
+      ]
+    },
+    {
+      "text": "Cloyster",
+      "difficulty": 3,
+      "tags": [
+        "waters"
+      ]
+    },
+    {
+      "text": "Defeat 7 Pikachus",
+      "difficulty": 3,
+      "tags": [
+        "pika"
+      ]
+    },
+    {
+      "text": "Defeat 4 Beauties",
+      "difficulty": 3,
+      "tags": [
+        "beauty"
+      ]
+    },
+    {
+      "text": "Tentacruel",
+      "difficulty": 3,
+      "tags": [
+        "Surf"
+      ]
+    },
+    {
+      "text": "Any pokemon with a 5 PP non-TM move",
+      "difficulty": 3,
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "text": "Super Rod",
+      "difficulty": 3,
+      "tags": [
+        "super"
+      ]
+    },
+    {
+      "text": "Lapras",
+      "difficulty": 3,
+      "tags": [
+        "Silph"
+      ]
+    },
+    {
+      "text": "TM 41 (Softboiled)",
+      "difficulty": 3,
+      "tags": [
+        "soft"
+      ]
+    },
+    {
+      "text": "Gyarados",
+      "difficulty": 3,
+      "tags": [
+        "Gyarados"
+      ]
+    },
+    {
+      "text": "Defeat 5 Jugglers",
+      "difficulty": 3,
+      "tags": [
+        "balls"
+      ]
+    },
+    {
+      "text": "Defeat all 16 trainers on Routes 24 and 25",
+      "difficulty": 3,
+      "tags": [
+        "nugget"
+      ]
+    },
+    {
+      "text": "Onix",
+      "difficulty": 3,
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "text": "Golbat",
+      "difficulty": 3,
+      "tags": [
+        "golbat"
+      ]
+    },
+    {
+      "text": "Any Pokemon with Stomp",
+      "difficulty": 3,
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "text": "4 different level 30 Pokemon",
+      "difficulty": 4,
+      "tags": [
+        "team"
+      ]
+    },
+    {
+      "text": "Kabuto or Omanyte",
+      "difficulty": 4,
+      "tags": [
+        "fossil"
+      ]
+    },
+    {
+      "text": "4 Rare Candies",
+      "difficulty": 4,
+      "tags": [
+        "candy"
+      ]
+    },
+    {
+      "text": "TM16 (Payday)",
+      "difficulty": 4,
+      "tags": [
+        "payday"
+      ]
+    },
+    {
+      "text": "6 different Poison type Pokemon",
+      "difficulty": 4,
+      "tags": [
+        "items"
+      ]
+    },
+    {
+      "text": "Charmeleon",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Ivysaur",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Tangela",
+      "difficulty": 4,
+      "tags": [
+        "tangela"
+      ]
+    },
+    {
+      "text": "Venomoth",
+      "difficulty": 4,
+      "tags": [
+        "venomoth"
+      ]
+    },
+    {
+      "text": "20 pokemon owned",
+      "difficulty": 4,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "5 Badges",
+      "difficulty": 4,
+      "tags": [
+        "badges"
+      ]
+    },
+    {
+      "text": "Master Ball",
+      "difficulty": 4,
+      "tags": [
+        "silph"
+      ]
+    },
+    {
+      "text": "Squirtle",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Silph Scope",
+      "difficulty": 4,
+      "tags": [
+        "hideout"
+      ]
+    },
+    {
+      "text": "Venusaur",
+      "difficulty": 4,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Defeat all 15 trainers in Rock Tunnel",
+      "difficulty": 4,
+      "tags": [
+        "tunnel"
+      ]
+    },
+    {
+      "text": "Kill a Parasect",
+      "difficulty": 4,
+      "tags": [
+        "parasect"
+      ]
+    },
+    {
+      "text": "Psyduck",
+      "difficulty": 4,
+      "tags": [
+        "Seafoam"
+      ]
+    },
+    {
+      "text": "Graveler",
+      "difficulty": 4,
+      "tags": [
+        "rock"
+      ]
+    },
+    {
+      "text": "Electrode",
+      "difficulty": 4,
+      "tags": [
+        "elec"
+      ]
+    },
+    {
+      "text": "Defeat all 12 trainers in Mt Moon",
+      "difficulty": 4,
+      "tags": [
+        "mt"
+      ]
+    },
+    {
+      "text": "Dewgong",
+      "difficulty": 4,
+      "tags": [
+        "seafoam"
+      ]
+    },
+    {
+      "text": "TM 31 (Mimic)",
+      "difficulty": 5,
+      "tags": [
+        "mimic"
+      ]
+    },
+    {
+      "text": "Charizard",
+      "difficulty": 5,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "text": "Arbok or Sandslash",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Magnemite",
+      "difficulty": 5,
+      "tags": [
+        "plant"
+      ]
+    },
+    {
+      "text": "$75,000",
+      "difficulty": 5,
+      "tags": [
+        "money"
+      ]
+    },
+    {
+      "text": "6 Badges",
+      "difficulty": 5,
+      "tags": [
+        "badges"
+      ]
+    },
+    {
+      "text": "Defeat a Slowbro",
+      "difficulty": 5,
+      "tags": [
+        "Slowbro"
+      ]
+    },
+    {
+      "text": "Cubone",
+      "difficulty": 5,
+      "tags": [
+        "cubone"
+      ]
+    },
+    {
+      "text": "Aerodactyl",
+      "difficulty": 5,
+      "tags": [
+        "fossil"
+      ]
+    },
+    {
+      "text": "Hypno",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Defeat all 17 trainers aboard the SS Anne",
+      "difficulty": 5,
+      "tags": [
+        "anne"
+      ]
+    },
+    {
+      "text": "Defeat 3 Burglars",
+      "difficulty": 5,
+      "tags": [
+        "robber"
+      ]
+    },
+    {
+      "text": "Magmar or Electabuzz",
+      "difficulty": 5,
+      "tags": [
+        "troll"
+      ]
+    },
+    {
+      "text": "Volcanobadge",
+      "difficulty": 5,
+      "tags": [
+        "badges"
+      ]
+    },
+    {
+      "text": "Persian or Primeape",
+      "difficulty": 5,
+      "tags": [
+        "raise"
+      ]
+    },
+    {
+      "text": "Chansey or Kangaskhan or Tauros",
+      "difficulty": 5,
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "text": "Any level 50 pokemon",
+      "difficulty": 5,
+      "tags": [
+        "zapdos"
+      ]
+    },
+    {
+      "text": "70 pokemon seen",
+      "difficulty": 5,
+      "tags": [
+        "dex"
+      ]
+    },
+    {
+      "text": "30 Pokemon owned",
+      "difficulty": 5,
+      "tags": [
+        "dex"
+      ]
+    }
+  ]
+}
