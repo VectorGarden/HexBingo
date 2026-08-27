@@ -21,6 +21,7 @@
   const LISTS_KEY = "hexbingo.lists.v1";
   const BOARDS_KEY = "hexbingo.boards.v1";
   const REVEAL_KEY = "hexbingo.reveal.v1";
+  const BOARD_LIMIT = 40;   // saved boards kept before the least-recently-used go
 
   /* ── storage: real localStorage when available, memory when not ── */
 
@@ -408,17 +409,37 @@
     return [state.listId, state.mode, state.size, state.seed].join("|");
   }
 
+  /* Entries are { t, marks }. Older builds stored a bare marks array; those
+     still load, and carry no timestamp so they're the first to be evicted. */
+
+  function markStamp(entry) {
+    return (entry && entry.t) || 0;
+  }
+
   function saveMarks() {
     const all = store.get(BOARDS_KEY) || {};
-    all[boardKey()] = state.marks;
-    const keys = Object.keys(all);
-    if (keys.length > 40) delete all[keys[0]];
+    const key = boardKey();
+    all[key] = { t: Date.now(), marks: state.marks };
+
+    // Evict by last-touched, and never the board being played. Reassigning an
+    // existing key doesn't move its position in Object.keys, so the old
+    // insertion-order prune could delete the board it had just saved.
+    const others = Object.keys(all).filter(k => k !== key);
+    const excess = others.length - (BOARD_LIMIT - 1);
+    if (excess > 0) {
+      others
+        .sort((a, b) => markStamp(all[a]) - markStamp(all[b]))
+        .slice(0, excess)
+        .forEach(k => { delete all[k]; });
+    }
+
     store.set(BOARDS_KEY, all);
   }
 
   function loadMarks(n) {
     const all = store.get(BOARDS_KEY) || {};
-    const saved = all[boardKey()];
+    const entry = all[boardKey()];
+    const saved = Array.isArray(entry) ? entry : (entry && entry.marks);
     if (Array.isArray(saved) && saved.length === n) return saved;
     return Array.from({ length: n }, () => ({ status: "open", progress: 0 }));
   }

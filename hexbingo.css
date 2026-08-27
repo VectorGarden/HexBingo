@@ -434,8 +434,14 @@ button:focus-visible, .cell:focus-visible, .chip:focus-visible{
   gap: 16px;
   flex-wrap: wrap;
   justify-content: center;
+  /* #stage centres its children, which sizes this to max-content — so without
+     a cap flex-wrap has nothing to wrap against and the end chips land off
+     screen with no scrollbar to reach them (body is overflow:hidden). */
+  max-width: 100%;
 }
-.rail-group{ display: flex; gap: 4px; }
+/* Groups wrap too, or a single 9-chip axis (61 hexes) overflows a phone
+   on its own — .rail only ever breaks between groups. */
+.rail-group{ display: flex; gap: 4px; flex-wrap: wrap; justify-content: center; }
 
 .chip{
   display: flex;
@@ -487,6 +493,7 @@ button:focus-visible, .cell:focus-visible, .chip:focus-visible{
 
 .railwrap{
   flex: 0 0 auto;
+  align-self: stretch;       /* opt out of #stage's align-items: center */
   display: flex;
   align-items: center;
   justify-content: center;
