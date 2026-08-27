@@ -84,6 +84,18 @@ export function wonLines(geo, marks) {
 }
 
 /**
+ * Every hex claimed — a blackout, in bingo terms.
+ *
+ * Distinct from winning every line: a blocked goal is not done, so a board
+ * carrying one never blacks out even when all its lines are complete.
+ * @param {Mark[]} marks
+ * @returns {boolean}
+ */
+export function isBlackout(marks) {
+  return marks.length > 0 && marks.every(m => m.status === "done");
+}
+
+/**
  * Mission reveal mode seals everything past the first unfinished goal.
  * @param {Mark[]} marks
  * @returns {number} index of the first unfinished goal, or -1 if all are done

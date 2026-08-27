@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import {
-  boardKey, createMarks, pruneBoards, readMarks, revealGate,
+  boardKey, createMarks, isBlackout, pruneBoards, readMarks, revealGate,
   stepProgress, toggleBlocked, toggleDone, wonLines
 } from "../src/core/marks.js";
 import { buildGeometry, missionGeometry } from "../src/core/geometry.js";
@@ -91,6 +91,38 @@ test("mission mode wins on its single five-goal line", () => {
   assert.equal(wonLines(geo, marks).length, 0);
   marks = toggleDone(marks, 4);
   assert.equal(wonLines(geo, marks).length, 1);
+});
+
+test("isBlackout needs every hex claimed", () => {
+  let m = createMarks(3);
+  assert.equal(isBlackout(m), false);
+  m = toggleDone(m, 0);
+  m = toggleDone(m, 1);
+  assert.equal(isBlackout(m), false, "two of three is not a blackout");
+  m = toggleDone(m, 2);
+  assert.equal(isBlackout(m), true);
+});
+
+test("a blocked goal prevents a blackout even with every line won", () => {
+  const geo = buildGeometry(2);
+  let marks = createMarks(geo.cells.length);
+  geo.cells.forEach(c => { marks = toggleDone(marks, c.i); });
+  assert.equal(wonLines(geo, marks).length, geo.lines.length, "every line is won");
+  assert.equal(isBlackout(marks), true);
+
+  marks = toggleBlocked(marks, 0);
+  assert.equal(isBlackout(marks), false, "one blocked goal is not a full board");
+});
+
+test("partial progress does not count towards a blackout", () => {
+  let m = createMarks(2);
+  m = toggleDone(m, 0);
+  m = stepProgress(m, 1, 0.75);
+  assert.equal(isBlackout(m), false);
+});
+
+test("an empty board is not a blackout", () => {
+  assert.equal(isBlackout([]), false);
 });
 
 test("revealGate points at the first unfinished goal", () => {
