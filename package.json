@@ -1,0 +1,18 @@
+{
+  "name": "hexbingo",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Seeded hexagonal bingo boards for speedruns. The site itself has no dependencies; these scripts are for development only.",
+  "scripts": {
+    "test": "node --test test/",
+    "typecheck": "tsc -p jsconfig.json --noEmit",
+    "validate": "node tools/validate-goals.js",
+    "check": "npm run validate && npm test && npm run typecheck",
+    "serve": "python3 -m http.server 8000"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "typescript": "^5.9.0"
+  }
+}

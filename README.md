@@ -7,36 +7,69 @@ dependencies, no framework.
 ```
 index.html                page structure
 hexbingo.css              styles
-hexbingo.js               geometry, RNG, board generation, interaction
-editor.js                 in-browser goal editor
-icon.svg                  primary favicon
-favicon.ico               7-size .ico for older browsers and bookmarks
-apple-touch-icon.png      iOS home screen
-icon-192.png icon-512.png PWA / Android
-site.webmanifest          app metadata
+
+src/core/                 pure logic, no DOM — this is what the tests cover
+  constants.js              shared values
+  rng.js                    seeded RNG
+  geometry.js               cells, colours and lines from a radius
+  generate.js               which goal lands on which hex
+  goals.js                  normalising, and the import parsers
+  marks.js                  the board model: claim, block, progress, wins
+  demo.js                   fallback list when goals/ can't be reached
+
+src/app/                  the browser half
+  main.js                   boot and wiring
+  state.js                  the one mutable state, and the only place it changes
+  storage.js                localStorage with an in-memory fallback
+  boards.js                 saved progress, keyed by list+mode+size+seed
+  lists.js                  the manifest, and lists fetched on demand
+  board.js rail.js          the board and the line rail
+  cellmenu.js               the press-and-hold menu
+  picker.js sheets.js       the game picker and the modal sheets
+  audio.js url.js dom.js    fanfare, history, element lookup
+
+src/editor/editor.js      in-browser goal editor
+
 goals/index.json          manifest: which lists exist
 goals/<game>.json         one file per game (45 included)
-goals/bundle.js           generated; offline fallback only
-tools/build-bundle.js     regenerates the bundle
+goals/schema.json         what a goal file must look like
+tools/validate-goals.js   checks every list against it
 tools/convert-goals.js    migrates the old goallist/ files
-CNAME .gitignore          deploy domain, ignored editor/OS files
+test/                     node --test, no framework
 ```
 
-Removed from the old version: jQuery, seedrandom.js, all inline event handlers,
-and the 19 hardcoded `<li>` elements.
+No build step and no runtime dependencies. `index.html` loads one ES module and
+the browser resolves the rest. The `devDependencies` in `package.json` are for
+checking the code, never for shipping it.
 
-Goal lists are plain JSON, fetched at runtime. Hosted anywhere that serves
-static files, that's all there is to it.
+**It needs a server** — ES modules and `fetch` are both blocked on `file://`.
+Any static server will do:
 
-Opening `index.html` straight off disk is the awkward case, because browsers
-block `fetch` on `file://`. So `goals/bundle.js` bakes the same JSON into one
-script. It is **only** loaded if the fetch fails, injected at runtime rather
-than sitting in a `<script>` tag — at 45 lists the bundle is roughly 470 KB,
-and a hosted visitor should never pay for it.
+```
+npm run serve      # or: python3 -m http.server 8000, npx serve, …
+```
 
-Re-run `node tools/build-bundle.js` after editing lists if you work off disk.
-If you only ever use a real server, delete `goals/bundle.js` entirely; nothing
-breaks.
+---
+
+## Working on it
+
+```
+npm install        # devDependencies: TypeScript and node types
+npm run check      # validate goal files, run the tests, type-check
+```
+
+- **`npm test`** runs `node --test test/` — no framework, no config. Everything
+  in `src/core/` is pure, so it is tested directly: geometry invariants at every
+  radius, RNG determinism, the difficulty curve, the legacy import formats, and
+  the board rules. Needs Node 18 or newer.
+- **`npm run validate`** checks every goal list against `goals/schema.json`. A
+  malformed file fails silently at runtime — that game just disappears from the
+  picker — so this is the gate that catches it.
+- **`npm run typecheck`** runs TypeScript over the JSDoc annotations with
+  `--noEmit`. There is no TypeScript in the source and nothing is compiled; it
+  reads the comments and checks the JavaScript as-is.
+
+All three run in CI on every push.
 
 ---
 
@@ -64,9 +97,12 @@ list without touching the repo. To ship one:
    ```json
    { "id": "your-game", "name": "Your Game", "file": "your-game.json" }
    ```
-3. If you open the page off disk, `node tools/build-bundle.js`.
+3. Run `npm run validate` to check it before you push. CI does the same.
 
 ### Goal file format
+
+`goals/schema.json` is the authority, and `npm run validate` checks every file
+against it.
 
 ```json
 {
@@ -193,14 +229,14 @@ are the only places it appears.
 
 Both are fine today, but worth knowing about:
 
-- **Nothing validates the goal lists.** A malformed JSON file fails silently at
-  runtime — that game just disappears from the picker. A gate would check that
-  every list parses, has goals, has difficulties in 1–5, is named in
-  `goals/index.json`, and that no file is orphaned. That means switching Source
-  to **GitHub Actions**, which replaces branch deploys rather than adding to them.
-- **Everything in the repo is served**, `goals/bundle.js` (~470 KB) and `tools/`
-  included. Visitors never fetch them, so the cost is repo size, not bandwidth.
-  A workflow could drop them from the artifact.
+- **It does not gate on CI.** `.github/workflows/ci.yml` validates the goal
+  lists, runs the tests and type-checks on every push, but a branch deploy
+  publishes whether or not that passed. Making the deploy wait means switching
+  Source to **GitHub Actions**, which replaces branch deploys rather than
+  adding to them.
+- **Everything in the repo is served**, `src/`, `tools/` and `test/` included.
+  Visitors only ever fetch what `index.html` references, so the cost is repo
+  size rather than bandwidth. A workflow could trim the artifact.
 
 There is also no `.nojekyll`, so Jekyll does process the site. That is harmless
 here because nothing starts with `_` — add such a file and you would need it.
