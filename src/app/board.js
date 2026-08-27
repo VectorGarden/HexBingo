@@ -5,13 +5,14 @@
  */
 
 import { PROGRESS_STEP, revealGate } from "../core/marks.js";
+import { createGestureState, reduce } from "../core/gestures.js";
 import { el } from "./dom.js";
 import { state, stepProgress, toggleBlocked, toggleDone, wonLines } from "./state.js";
 import { closeCellMenu, openCellMenu } from "./cellmenu.js";
 import { paintLines, setHover } from "./rail.js";
 
-const PRESS_MS = 500;
-const PRESS_SLOP = 10;      // px of drift still counted as a hold
+const PRESS_MS = 500;       // how long a hold has to last; the drift it may
+                            // tolerate is PRESS_SLOP, in core/gestures.js
 
 /** @param {string} text */
 function lengthClass(text) {
@@ -149,64 +150,87 @@ export function fit() {
    its progress had no gesture at all. Rather than overload swipe (which fights
    the page scroll) or double-tap (which fights the primary tap), a
    press-and-hold opens a menu holding exactly those two actions.
+
+   Which intent a sequence adds up to lives in core/gestures.js, where it can be
+   replayed as data. Everything here is the adapter: turn DOM events into plain
+   descriptors, own the clock, and carry out whatever comes back.
    ------------------------------------------------------------ */
 
-/** @type {{x: number, y: number, timer: any}|null} */
-let press = null;
-let swallowClick = false;
+let gesture = createGestureState();
 
-function endPress() {
-  if (press && press.timer) clearTimeout(press.timer);
-  press = null;
+/** @type {any} */
+let holdTimer = null;
+/** @type {{i: number, node: any}|null} */
+let pressed = null;
+
+function cancelHold() {
+  if (holdTimer) clearTimeout(holdTimer);
+  holdTimer = null;
+  pressed = null;
+}
+
+/**
+ * Feed one event to the reducer and carry out what it decides.
+ * @param {import("../core/gestures.js").GestureEvent} event
+ * @param {number} [i] the hex the event landed on
+ * @param {any} [node]
+ */
+function dispatch(event, i, node) {
+  const { state, action } = reduce(gesture, event);
+  gesture = state;
+
+  switch (action) {
+    case "claim":
+      if (i !== undefined) toggleDone(i);
+      break;
+    case "block":
+      if (i !== undefined) toggleBlocked(i);
+      break;
+    case "startPress":
+      cancelHold();
+      if (i === undefined || !node) break;
+      pressed = { i, node };
+      // the reducer is time-free, so the clock lives here and reports back
+      holdTimer = setTimeout(() => { holdTimer = null; dispatch({ type: "hold" }); }, PRESS_MS);
+      break;
+    case "cancelPress":
+      cancelHold();
+      break;
+    case "openMenu":
+      if (pressed) openCellMenu(pressed.i, pressed.node);
+      break;
+    default:
+      break;
+  }
 }
 
 export function wireBoard() {
   el.cells.addEventListener("click", (/** @type {any} */ e) => {
     const node = e.target.closest(".cell");
     if (!node) return;
-    if (swallowClick) { swallowClick = false; return; }
-    toggleDone(+node.dataset.i);
+    dispatch({ type: "click" }, +node.dataset.i, node);
   });
 
   el.cells.addEventListener("contextmenu", (/** @type {any} */ e) => {
     const node = e.target.closest(".cell");
     if (!node || node.disabled) return;
     e.preventDefault();
-    // Android fires this partway through a long press; there the menu is
-    // already on its way, so blocking here too would fire twice.
-    if (press || swallowClick) return;
-    toggleBlocked(+node.dataset.i);
-    // macOS turns a ctrl-click into a context menu *and* an ordinary click, so
-    // without this the hex is blocked and then immediately claimed by the click
-    // that follows. A plain right-click sends no click at all, and the next
-    // pointerdown clears the flag either way.
-    swallowClick = true;
+    dispatch({ type: "contextmenu" }, +node.dataset.i, node);
   });
 
   el.cells.addEventListener("pointerdown", (/** @type {any} */ e) => {
-    swallowClick = false;
-    endPress();
-    if (e.pointerType === "mouse") return;      // right-click already covers this
     const node = e.target.closest(".cell");
-    if (!node || node.disabled) return;
-    const i = +node.dataset.i;
-    press = {
-      x: e.clientX, y: e.clientY,
-      timer: setTimeout(() => {
-        swallowClick = true;                     // don't also claim the hex
-        if (press) press.timer = null;
-        openCellMenu(i, node);
-      }, PRESS_MS)
-    };
+    // still tell the reducer, so a press on nothing clears the last one
+    if (!node || node.disabled) { dispatch({ type: "pointercancel" }); return; }
+    dispatch({ type: "pointerdown", pointerType: e.pointerType, x: e.clientX, y: e.clientY },
+      +node.dataset.i, node);
   });
 
   el.cells.addEventListener("pointermove", (/** @type {any} */ e) => {
-    if (!press) return;
-    if (Math.abs(e.clientX - press.x) > PRESS_SLOP ||
-        Math.abs(e.clientY - press.y) > PRESS_SLOP) endPress();
+    dispatch({ type: "pointermove", x: e.clientX, y: e.clientY });
   });
-  el.cells.addEventListener("pointerup", endPress);
-  el.cells.addEventListener("pointercancel", () => { endPress(); swallowClick = false; });
+  el.cells.addEventListener("pointerup", () => dispatch({ type: "pointerup" }));
+  el.cells.addEventListener("pointercancel", () => dispatch({ type: "pointercancel" }));
 
   el.cells.addEventListener("wheel", (/** @type {any} */ e) => {
     const node = e.target.closest(".cell");
