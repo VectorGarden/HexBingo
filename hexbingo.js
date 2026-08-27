@@ -9,7 +9,7 @@
 (function () {
   "use strict";
 
-  const VERSION = "1.0.1";
+  const VERSION = "1.1.0";
   const RADIUS = 2;
   const HUES = ["R", "O", "Y", "G", "B", "P"];
   const HUE_NAME = { R: "Red", O: "Orange", Y: "Yellow", G: "Green", B: "Blue", P: "Purple" };
@@ -692,46 +692,170 @@
     el.clearPins.classList.toggle("gone", state.pinned.size === 0);
   }
 
+  /* The three things you can do to a hex, shared by mouse, keyboard and touch
+     so the gestures can't drift apart. */
+
+  function toggleDone(i) {
+    const mark = state.marks[i];
+    setMark(i, { status: mark.status === "done" ? "open" : "done", progress: 0 });
+  }
+
+  function toggleBlocked(i) {
+    const mark = state.marks[i];
+    setMark(i, { status: mark.status === "blocked" ? "open" : "blocked", progress: 0 });
+  }
+
+  function stepProgress(i, delta) {
+    const next = Math.min(1, Math.max(0, state.marks[i].progress + delta));
+    setMark(i, { status: next >= 1 ? "done" : "open", progress: next >= 1 ? 0 : next });
+  }
+
+  /* ── long-press menu ────────────────────────────────────────
+     Touch has neither a right-click nor a wheel, so blocking a goal and
+     nudging its progress had no gesture at all. Rather than overload swipe
+     (which fights the page scroll) or double-tap (which fights the primary
+     tap), a press-and-hold opens a small menu holding exactly the two
+     actions that were unreachable.
+     ------------------------------------------------------------ */
+
+  const PRESS_MS = 500;
+  const PRESS_SLOP = 10;      // px of drift still counted as a hold
+  let press = null;
+  let swallowClick = false;
+
+  function endPress() {
+    if (press && press.timer) clearTimeout(press.timer);
+    press = null;
+  }
+
+  function syncCellMenu() {
+    const i = +el.cellMenu.dataset.i;
+    const mark = state.marks[i];
+    if (!mark) return;
+    el.cellMenuN.textContent = mark.status === "done"
+      ? "Done"
+      : Math.round(mark.progress * 100) + "%";
+    el.cellMenuBlock.textContent = mark.status === "blocked" ? "Unblock" : "Block";
+  }
+
+  function openCellMenu(i, node) {
+    const menu = el.cellMenu;
+    menu.dataset.i = i;
+    menu.hidden = false;
+    syncCellMenu();
+
+    // measured after unhiding, so the flip-above test uses the real height
+    const cell = node.getBoundingClientRect();
+    const box = menu.getBoundingClientRect();
+    let left = cell.left + cell.width / 2 - box.width / 2;
+    let top = cell.bottom + 8;
+    if (top + box.height > window.innerHeight - 8) top = cell.top - box.height - 8;
+    menu.style.left = Math.min(Math.max(8, left), window.innerWidth - box.width - 8) + "px";
+    menu.style.top = Math.min(Math.max(8, top), window.innerHeight - box.height - 8) + "px";
+
+    node.classList.add("menued");
+    el.cellMenuPlus.focus({ preventScroll: true });
+
+    // Dismiss on the next pointerdown, not on click: the click that ends the
+    // opening press lands several hundred ms later and would shut the menu
+    // before a finger could reach it. This press's pointerdown is already
+    // spent, so the next one is always a genuinely new interaction.
+    document.addEventListener("pointerdown", outsideCellMenu, true);
+  }
+
+  function closeCellMenu() {
+    if (el.cellMenu.hidden) return;
+    const node = el.cells.children[+el.cellMenu.dataset.i];
+    const hadFocus = el.cellMenu.contains(document.activeElement);
+    el.cellMenu.hidden = true;
+    document.removeEventListener("pointerdown", outsideCellMenu, true);
+    if (node) {
+      node.classList.remove("menued");
+      // only chase focus back if it was ours to begin with
+      if (hadFocus && !node.disabled) node.focus({ preventScroll: true });
+    }
+  }
+
+  function outsideCellMenu(e) {
+    if (!e.target.closest(".cellmenu")) closeCellMenu();
+  }
+
+  function wireCellMenu() {
+    el.cellMenu.addEventListener("click", e => {
+      const button = e.target.closest("button");
+      if (!button) return;
+      const i = +el.cellMenu.dataset.i;
+      const act = button.dataset.act;
+      if (act === "block") { toggleBlocked(i); closeCellMenu(); return; }
+      stepProgress(i, act === "plus" ? 0.25 : -0.25);
+      syncCellMenu();
+    });
+    // the menu is pinned to viewport coordinates, so anything that moves the
+    // board underneath it invalidates the position
+    window.addEventListener("resize", closeCellMenu);
+    window.addEventListener("scroll", closeCellMenu, true);
+  }
+
   function wireBoard() {
     el.cells.addEventListener("click", e => {
       const node = e.target.closest(".cell");
       if (!node) return;
-      const i = +node.dataset.i;
-      const mark = state.marks[i];
-      setMark(i, { status: mark.status === "done" ? "open" : "done", progress: 0 });
+      if (swallowClick) { swallowClick = false; return; }
+      toggleDone(+node.dataset.i);
     });
 
     el.cells.addEventListener("contextmenu", e => {
       const node = e.target.closest(".cell");
       if (!node || node.disabled) return;
       e.preventDefault();
-      const i = +node.dataset.i;
-      const mark = state.marks[i];
-      setMark(i, { status: mark.status === "blocked" ? "open" : "blocked", progress: 0 });
+      // Android fires this partway through a long press; there the menu is
+      // already on its way, so blocking here too would fire twice.
+      if (press || swallowClick) return;
+      toggleBlocked(+node.dataset.i);
     });
+
+    el.cells.addEventListener("pointerdown", e => {
+      swallowClick = false;
+      endPress();
+      if (e.pointerType === "mouse") return;      // right-click already covers this
+      const node = e.target.closest(".cell");
+      if (!node || node.disabled) return;
+      const i = +node.dataset.i;
+      press = {
+        x: e.clientX, y: e.clientY,
+        timer: setTimeout(() => {
+          swallowClick = true;                     // don't also claim the hex
+          if (press) press.timer = null;
+          openCellMenu(i, node);
+        }, PRESS_MS)
+      };
+    });
+
+    el.cells.addEventListener("pointermove", e => {
+      if (!press) return;
+      if (Math.abs(e.clientX - press.x) > PRESS_SLOP ||
+          Math.abs(e.clientY - press.y) > PRESS_SLOP) endPress();
+    });
+    el.cells.addEventListener("pointerup", endPress);
+    el.cells.addEventListener("pointercancel", () => { endPress(); swallowClick = false; });
 
     el.cells.addEventListener("wheel", e => {
       const node = e.target.closest(".cell");
       if (!node || node.disabled) return;
       e.preventDefault();
-      const i = +node.dataset.i;
-      const step = e.deltaY < 0 ? 0.25 : -0.25;
-      const next = Math.min(1, Math.max(0, state.marks[i].progress + step));
-      setMark(i, { status: next >= 1 ? "done" : "open", progress: next >= 1 ? 0 : next });
+      stepProgress(+node.dataset.i, e.deltaY < 0 ? 0.25 : -0.25);
     }, { passive: false });
 
     el.cells.addEventListener("keydown", e => {
       const node = e.target.closest(".cell");
       if (!node) return;
       const i = +node.dataset.i;
-      const mark = state.marks[i];
       if (e.key === "+" || e.key === "=" || e.key === "-") {
         e.preventDefault();
-        const next = Math.min(1, Math.max(0, mark.progress + (e.key === "-" ? -0.25 : 0.25)));
-        setMark(i, { status: next >= 1 ? "done" : "open", progress: next >= 1 ? 0 : next });
+        stepProgress(i, e.key === "-" ? -0.25 : 0.25);
       } else if (e.key === "x" || e.key === "Delete" || e.key === "Backspace") {
         e.preventDefault();
-        setMark(i, { status: mark.status === "blocked" ? "open" : "blocked", progress: 0 });
+        toggleBlocked(i);
       }
     });
 
@@ -918,6 +1042,7 @@
   function randomSeed() { return String(Math.floor(Math.random() * 900000) + 100000); }
 
   function build(seed) {
+    closeCellMenu();          // renderBoard() replaces the node it points at
     const id = state.listId;
     if (!id) { el.empty.hidden = false; el.board.hidden = true; return; }
 
@@ -1002,6 +1127,7 @@
   function openSheet(id) {
     const sheet = $(id);
     if (!sheet.hidden) return;
+    closeCellMenu();
     sheetOpener = document.activeElement;
     sheet.hidden = false;
     Array.prototype.forEach.call(document.body.children, node => {
@@ -1041,7 +1167,8 @@
       "sizeSelect", "sizeField", "revealField", "revealToggle", "generateBtn", "randomBtn",
       "editBtn", "helpBtn", "seedOut", "copyLink", "version", "year",
       "gameButton", "gameLabel", "gamePop", "gameSearch", "gameList", "gameNone",
-      "clearPins", "rulesBtn", "rulesList"]
+      "clearPins", "rulesBtn", "rulesList",
+      "cellMenu", "cellMenuN", "cellMenuPlus", "cellMenuBlock"]
       .forEach(k => { el[k] = $(k); });
     el.bands = document.querySelector(".bands");
 
@@ -1062,6 +1189,7 @@
     if (url.seed) el.seedInput.value = url.seed;
 
     wireBoard();
+    wireCellMenu();
 
     function randomBoard() {
       el.seedInput.value = "";
@@ -1102,6 +1230,7 @@
     });
     document.addEventListener("keydown", e => {
       if (e.key !== "Escape") return;
+      if (!el.cellMenu.hidden) { closeCellMenu(); return; }
       const open = document.querySelectorAll(".sheet:not([hidden])");
       if (open.length) { closeAllSheets(); return; }
       if (!el.gamePop.hidden) { closeGames(); return; }

@@ -133,8 +133,11 @@
 
     rows.forEach(({ g, i }) => el.edGoals.appendChild(goalRow(g, i)));
 
-    el.edCount.textContent = current.goals.length + " goals" +
-      (current.goals.length < 19 ? " — a hex board needs 19" : "");
+    // the board on screen, not a hardcoded 19 — Size goes up to 61
+    const need = (HB.state.geo && HB.state.geo.cells.length) || 19;
+    const have = current.goals.length;
+    el.edCount.textContent = have + " goals" +
+      (have < need ? " — the current board needs " + need : "");
   }
 
   function goalRow(goal, index) {
@@ -161,8 +164,10 @@
     text.readOnly = isBuiltin;
     text.addEventListener("change", () => {
       goal.text = text.value.trim();
-      if (!goal.text) { current.goals.splice(index, 1); }
+      const removed = !goal.text;
+      if (removed) current.goals.splice(index, 1);
       saveCurrent();
+      if (removed) renderTiers();     // a tier just lost a goal
       renderGoals();
     });
 

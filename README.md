@@ -266,6 +266,10 @@ Anything it can't parse is reported rather than silently skipped.
 - Click a hex to claim it, click again to release.
 - Right-click to block a goal you don't want.
 - Scroll on a hex, or press <kbd>+</kbd>/<kbd>−</kbd>, for partial progress.
+- **On touch**, tap to claim and press-and-hold for the rest. Neither
+  right-click nor the wheel exists there, so blocking and partial progress live
+  in a small menu the hold opens. Holding is deliberately the only new gesture:
+  a swipe would fight the page scroll and a double-tap would fight the tap.
 - Hover a hex to see its three lines light up across the board.
 - **Random board** rolls a new seed. **Use this seed** rebuilds from the seed box.
   Pressing <kbd>r</kbd> anywhere outside a text field rolls a new board.

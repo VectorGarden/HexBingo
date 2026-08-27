@@ -25,6 +25,7 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
 <meta name="theme-color" content="#14121a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow+Semi+Condensed:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="hexbingo.css">
@@ -114,6 +115,15 @@
     No goals loaded yet. Open <b>Edit goals</b> to write a list, or add a file to <code>goals/</code>.
   </p>
 </main>
+
+<!-- Long-press a hex on touch: block and partial progress have no other
+     gesture there, since neither right-click nor the wheel exists. -->
+<div id="cellMenu" class="cellmenu" hidden role="group" aria-label="Goal actions">
+  <button id="cellMenuMinus" class="cm-b" type="button" data-act="minus" aria-label="Less progress">&minus;</button>
+  <span id="cellMenuN" class="cellmenu-n">0%</span>
+  <button id="cellMenuPlus" class="cm-b" type="button" data-act="plus" aria-label="More progress">+</button>
+  <button id="cellMenuBlock" class="cm-b cm-wide" type="button" data-act="block">Block</button>
+</div>
 
 <footer class="foot">
   <span class="foot-l">HexBingo <b id="version"></b> · Reizu · <span id="year"></span></span>
@@ -218,6 +228,7 @@
       <dt>Claim a hex</dt><dd>Click it. Click again to release.</dd>
       <dt>Block a hex</dt><dd>Right-click to mark a goal you don't want. Right-click again to clear.</dd>
       <dt>Track partial progress</dt><dd>Scroll on a hex, or press <kbd>+</kbd> / <kbd>−</kbd> while it's focused.</dd>
+      <dt>On a phone</dt><dd>Tap to claim. Press and hold a hex for the actions that have no touch gesture — progress and Block.</dd>
       <dt>See your lines</dt><dd>Hover a hex and its three lines light up across the board. Hover a chip in the rail to trace that one line.</dd>
       <dt>Win</dt><dd>Complete any of the 15 lines. Short lines are only three hexes but hold the hardest goals — the centre hex is the easiest goal on the board and sits on three full-length lines.</dd>
       <dt>Pin a line</dt><dd>Click a chip in the rail to keep it highlighted. Pinned lines get a coloured ring and their hexes a bright border. Click again to unpin, or press <kbd>Esc</kbd> to clear.</dd>

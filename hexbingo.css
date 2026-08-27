@@ -280,6 +280,13 @@ button:focus-visible, .cell:focus-visible, .chip:focus-visible{
    and pokes bright corners through the top and bottom points. */
 
 .cell{
+  /* manipulation kills the double-tap zoom and the 300ms tap delay while
+     leaving scroll and pinch alone; the callout/select rules stop iOS
+     turning a long press into a text selection. */
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
   position: absolute;
   left: calc(50% + var(--x) * var(--w));
   top:  calc(50% + var(--y) * var(--w));
@@ -709,3 +716,46 @@ kbd{
 @media (prefers-reduced-motion: reduce){
   *, *::before, *::after{ transition-duration: .01ms !important; animation-duration: .01ms !important; }
 }
+
+/* ─────────────── long-press menu ─────────────── */
+
+.cellmenu{
+  position: fixed;
+  z-index: 25;                 /* under .sheet (30), over the board */
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px;
+  background: var(--panel);
+  border: 1px solid var(--edge-2);
+  border-radius: 999px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, .55);
+}
+.cm-b{
+  min-width: 40px;
+  height: 36px;
+  padding: 0 12px;
+  background: var(--panel-2);
+  border: 1px solid var(--edge);
+  border-radius: 999px;
+  color: var(--text);
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 1;
+  cursor: pointer;
+}
+.cm-b:hover{ border-color: var(--edge-2); }
+.cm-b:active{ background: var(--edge); }
+.cm-wide{ font-size: 14px; letter-spacing: .02em; }
+.cellmenu-n{
+  min-width: 46px;
+  text-align: center;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+/* the hex the menu belongs to, so it stays findable behind the popover */
+.cell.menued{ outline: 2px solid var(--edge-2); outline-offset: -3px; }
