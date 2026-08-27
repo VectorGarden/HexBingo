@@ -23,10 +23,20 @@
 
   /* ── persistence ── */
 
+  /* rules and tips are optional and the editor has no UI for them, but they
+     ride along through save, duplicate, import and export — dropping them
+     silently lost a list's rules the moment you copied it. */
+  function pack(list, id) {
+    const out = { id: id, name: list.name, goals: list.goals };
+    if (Array.isArray(list.rules) && list.rules.length) out.rules = list.rules.slice();
+    if (Array.isArray(list.tips) && list.tips.length) out.tips = list.tips.slice();
+    return out;
+  }
+
   function saveCurrent() {
     if (!current || isBuiltin) return;
     const map = HB.store.get(HB.LISTS_KEY) || {};
-    map[currentId] = { id: currentId, name: current.name, goals: current.goals };
+    map[currentId] = pack(current, currentId);
     HB.store.set(HB.LISTS_KEY, map);
     HB.refreshGames();
     if (HB.state.listId === currentId) HB.rebuild();
@@ -315,11 +325,12 @@
       if (!current) return;
       const id = newId();
       const map = HB.store.get(HB.LISTS_KEY) || {};
-      map[id] = {
-        id,
+      map[id] = pack({
         name: current.name + " copy",
-        goals: current.goals.map(g => ({ ...g, tags: [...g.tags] }))
-      };
+        goals: current.goals.map(g => ({ ...g, tags: [...g.tags] })),
+        rules: current.rules,
+        tips: current.tips
+      }, id);
       HB.store.set(HB.LISTS_KEY, map);
       HB.refreshGames();
       currentId = id;
@@ -389,7 +400,7 @@
       const id = newId();
       const list = HB.normalise(parsed, id);
       const map = HB.store.get(HB.LISTS_KEY) || {};
-      map[id] = { id, name: list.name, goals: list.goals };
+      map[id] = pack(list, id);
       HB.store.set(HB.LISTS_KEY, map);
       HB.refreshGames();
       currentId = id;
@@ -406,8 +417,12 @@
       const a = document.createElement("a");
       a.href = url;
       a.download = name + ".json";
+      document.body.appendChild(a);     // Firefox ignores a click on a detached link
       a.click();
-      URL.revokeObjectURL(url);
+      a.remove();
+      // Revoking straight after click() races the download in Firefox and
+      // Safari, which may still be reading the blob when the call returns.
+      setTimeout(() => URL.revokeObjectURL(url), 10000);
       msg("Downloaded. Put it in goals/ and add it to goals/index.json.");
     });
 
@@ -424,10 +439,12 @@
   }
 
   function toFile() {
-    return JSON.stringify({
-      name: current.name,
-      goals: current.goals.map(g => ({ text: g.text, difficulty: g.difficulty, tags: g.tags }))
-    }, null, 2) + "\n";
+    // shape matches goals/<game>.json: name, optional rules/tips, then goals
+    const out = { name: current.name };
+    if (Array.isArray(current.rules) && current.rules.length) out.rules = current.rules;
+    if (Array.isArray(current.tips) && current.tips.length) out.tips = current.tips;
+    out.goals = current.goals.map(g => ({ text: g.text, difficulty: g.difficulty, tags: g.tags }));
+    return JSON.stringify(out, null, 2) + "\n";
   }
 
   /* ── boot ── */
