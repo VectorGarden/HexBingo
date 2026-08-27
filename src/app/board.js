@@ -176,6 +176,11 @@ export function wireBoard() {
     // already on its way, so blocking here too would fire twice.
     if (press || swallowClick) return;
     toggleBlocked(+node.dataset.i);
+    // macOS turns a ctrl-click into a context menu *and* an ordinary click, so
+    // without this the hex is blocked and then immediately claimed by the click
+    // that follows. A plain right-click sends no click at all, and the next
+    // pointerdown clears the flag either way.
+    swallowClick = true;
   });
 
   el.cells.addEventListener("pointerdown", (/** @type {any} */ e) => {
