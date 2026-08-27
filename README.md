@@ -69,7 +69,11 @@ npm run check      # validate goal files, run the tests, type-check
   `--noEmit`. There is no TypeScript in the source and nothing is compiled; it
   reads the comments and checks the JavaScript as-is.
 
-All three run in CI on every push.
+- **`npm run build`** assembles `_site/`, exactly what a deploy publishes.
+
+All three checks run on every push and pull request
+(`.github/workflows/checks.yml`), and again as the gate in front of the deploy
+(`.github/workflows/deploy.yml`). A red check means the live site does not move.
 
 ---
 
@@ -196,8 +200,11 @@ Every internal path is relative, so the site works at a domain root *and* under
 
 ### How it is set up
 
-**Settings → Pages → Source: Deploy from a branch**, `main` / `/ (root)`.
-GitHub serves the repo as-is. There is no build step and no workflow.
+**Settings → Pages → Source: GitHub Actions.** `.github/workflows/deploy.yml`
+runs on every push to `main`: it validates the goal lists, runs the tests and
+type-checks, assembles the artifact, publishes it, then fetches the live URLs
+back to confirm they are there. A failure at any of those steps means the
+previous version stays up.
 
 DNS is one record, pointing at the **owner** host rather than the repo:
 
@@ -206,14 +213,32 @@ bingo   CNAME   vectorgarden.github.io.
 ```
 
 The repo name never appears in DNS — GitHub works out which repo owns the domain
-from the `CNAME` file at the root. "Enforce HTTPS" is on and the certificate
-renews on its own.
+from the `CNAME` file in the published artifact. "Enforce HTTPS" is on and the
+certificate renews on its own.
+
+### What gets published
+
+`tools/build-site.js` copies an explicit allowlist into `_site/`. Run it
+yourself with `npm run build`.
+
+The artifact **is** the site, which changes two things from the old branch
+deploy. Anything left out is a 404 rather than merely absent from the repo, and
+a missing `CNAME` silently drops the custom domain on the next deploy — so the
+script refuses to build if any required file is missing, and checks that `CNAME`
+still looks like a domain.
+
+Left out, because nothing fetches them: `test/`, `tools/`, `.github/`,
+`README.md`, `package*.json`, `jsconfig.json`. That trims roughly 90 KB off a
+1.4 MB repo — worth doing for tidiness, but it is not why the deploy moved.
+
+Jekyll no longer runs at all, so there is no `.nojekyll` and no file or folder
+beginning with `_` to worry about.
 
 ### What is in the repo for this
 
 | File | Why |
 |---|---|
-| `CNAME` | Holds `bingo.reizu.dev`. Deleting it drops the custom domain on the next deploy. |
+| `CNAME` | Holds `bingo.reizu.dev`. It must reach the artifact or the custom domain is dropped, which is why the build script checks for it. |
 | `404.html` | Themed not-found page. Its "Go to HexBingo" link detects a `*.github.io` project path and adjusts, so it works on both URLs. |
 | `og.png`, meta tags | Link preview for Discord, Twitter, Slack. Since the whole point is pasting board links, this matters more than usual. |
 | `robots.txt`, `sitemap.xml` | Both reference the live domain. |
@@ -225,22 +250,6 @@ home, not whichever URL a crawler happened to reach. If the domain ever changes,
 those four lines in `index.html` plus `CNAME`, `robots.txt` and `sitemap.xml`
 are the only places it appears.
 
-### Two things a branch deploy does not do
-
-Both are fine today, but worth knowing about:
-
-- **It does not gate on CI.** `.github/workflows/ci.yml` validates the goal
-  lists, runs the tests and type-checks on every push, but a branch deploy
-  publishes whether or not that passed. Making the deploy wait means switching
-  Source to **GitHub Actions**, which replaces branch deploys rather than
-  adding to them.
-- **Everything in the repo is served**, `src/`, `tools/` and `test/` included.
-  Visitors only ever fetch what `index.html` references, so the cost is repo
-  size rather than bandwidth. A workflow could trim the artifact.
-
-There is also no `.nojekyll`, so Jekyll does process the site. That is harmless
-here because nothing starts with `_` — add such a file and you would need it.
-
 ### Pushing
 
 ```
@@ -251,8 +260,8 @@ git commit -m "..."
 git push
 ```
 
-If a workflow is ever added, pushing `.github/workflows/` with a fine-grained PAT
-needs the `workflow` permission or GitHub rejects the push.
+Pushing changes under `.github/workflows/` with a fine-grained PAT needs the
+`workflow` permission, or GitHub rejects the push. Normal SSH or the CLI is fine.
 
 ### Checking it worked
 

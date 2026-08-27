@@ -1,0 +1,66 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time, and never cancel one mid-flight: a half-published
+# site is worse than a slightly stale one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # The gate. Nothing below runs if the goal lists, tests or types are unhappy.
+  check:
+    uses: ./.github/workflows/checks.yml
+
+  build:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Explicit allowlist. The artifact *is* the site now, so anything it
+      # misses 404s, and a missing CNAME would drop the custom domain.
+      - name: Assemble the site
+        run: node tools/build-site.js _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # The artifact replaces the whole site, so confirm the things that
+      # would break quietly: the module entry point, the goal manifest, and
+      # the link-preview image.
+      - name: Smoke-check what was published
+        run: |
+          base="${{ steps.deployment.outputs.page_url }}"
+          fail=0
+          for path in "" "goals/index.json" "src/app/main.js" "hexbingo.css" "og.png" "404.html"; do
+            code=$(curl -sS -o /dev/null -w '%{http_code}' --retry 5 --retry-delay 3 --retry-all-errors "${base}${path}")
+            printf '  %s  %s%s\n' "$code" "$base" "$path"
+            [ "$code" = "200" ] || fail=1
+          done
+          exit $fail

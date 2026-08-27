@@ -9,6 +9,7 @@
     "typecheck": "tsc -p jsconfig.json --noEmit",
     "validate": "node tools/validate-goals.js",
     "check": "npm run validate && npm test && npm run typecheck",
+    "build": "node tools/build-site.js _site",
     "serve": "python3 -m http.server 8000"
   },
   "devDependencies": {
