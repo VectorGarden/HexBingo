@@ -208,10 +208,6 @@ function scaler(tiers) {
   return n => Math.min(5, Math.max(1, Math.ceil((n / max) * 5)));
 }
 
-function slug(name) {
-  return String(name).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-}
-
 /* ── main ─────────────────────────────────────────────────── */
 
 function main() {

@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      # devDependencies only — the site itself ships no dependencies
+      - run: npm ci
+
+      # A malformed goal file fails silently at runtime — that game just
+      # disappears from the picker — so it has to fail here instead.
+      - name: Validate goal lists
+        run: node tools/validate-goals.js
+
+      - name: Unit tests
+        run: node --test test/
+
+      # JSDoc types, checked with no build step and nothing shipped
+      - name: Type check
+        run: npm run typecheck
