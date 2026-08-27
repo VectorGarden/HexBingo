@@ -92,6 +92,8 @@
   </div>
 
   <div class="bar-end">
+    <button id="completeBtn" class="btn btn-win" type="button" disabled
+            title="Claim every hex on a line to enable this">Complete</button>
     <button id="rulesBtn" class="btn" type="button" hidden>Rules</button>
     <button id="editBtn" class="btn" type="button">Edit goals</button>
     <button id="helpBtn" class="btn btn-ghost" type="button" aria-label="How to play">?</button>
@@ -110,6 +112,8 @@
   </div>
 
   <p id="notice" class="notice" role="status" hidden></p>
+
+  <p id="winNote" class="winnote" role="status" hidden></p>
 
   <p id="empty" class="empty" hidden>
     No goals loaded yet. Open <b>Edit goals</b> to write a list, or add a file to <code>goals/</code>.

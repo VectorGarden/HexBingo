@@ -28,6 +28,7 @@
 
   --r: 7px;
   --gap: 5px;
+  --ctl: 34px;      /* one height for every control in the top bar */
 
   /* pointy-top regular hexagon; shared so cell and rim stay in step */
   --hex: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
@@ -96,6 +97,9 @@ button, input, select, textarea{ font: inherit; color: inherit; }
   display: flex;
   gap: 8px;
   flex: 0 0 auto;
+  /* .controls sits its boxes under caps labels and bottom-aligns them, so
+     centring this group left it floating 8px above Random board */
+  align-self: flex-end;
 }
 
 .field{ display: flex; flex-direction: column; gap: 3px; }
@@ -201,7 +205,32 @@ select, input[type=text], input[type=search], textarea{
   padding: 6px 9px;
   min-width: 0;
 }
-select{ max-width: 240px; }
+
+/* Left native, a select renders as a system popup button — on macOS a shorter
+   box with a double chevron — so Mode and Size came out both smaller and
+   differently styled from every other control, and flex-end alignment then
+   dropped their labels below GAME and SEED. Reset it and draw the same caret
+   the game picker uses. */
+select{
+  max-width: 240px;
+  appearance: none;
+  -webkit-appearance: none;
+  padding-right: 26px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6' fill='none' stroke='%238d869d' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 9px center;
+  background-size: 10px 6px;
+}
+select:hover{ border-color: var(--edge-2); }
+
+/* A native select's content box is intrinsically taller than an input's even
+   with identical padding, so the bar's controls have to be told a height
+   rather than inferring one. */
+.bar select,
+.bar input[type=text],
+.bar input[type=search],
+.bar .combo-btn,
+.bar .btn{ height: var(--ctl); }
 input[type=text], input[type=search]{ font-variant-numeric: tabular-nums; }
 textarea{ font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 13px; width: 100%; resize: vertical; }
 
@@ -759,3 +788,34 @@ kbd{
 
 /* the hex the menu belongs to, so it stays findable behind the popover */
 .cell.menued{ outline: 2px solid var(--edge-2); outline-offset: -3px; }
+
+/* ─────────────── complete ─────────────── */
+
+.btn-win{
+  font-family: var(--display);
+  font-weight: 700;
+  letter-spacing: .02em;
+}
+.btn-win:disabled{
+  opacity: .4;
+  cursor: not-allowed;
+}
+/* lit only once a line is actually finished, so the button reads as the
+   reward rather than another control sitting there */
+.btn-win.ready{
+  color: var(--ink);
+  background: var(--Y);
+  border-color: var(--Y);
+  box-shadow: 0 0 0 3px rgba(255, 214, 61, .18);
+}
+.btn-win.ready:hover{ filter: brightness(1.08); }
+
+.winnote{
+  margin: 0;
+  text-align: center;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: .02em;
+  color: var(--Y);
+}

@@ -282,6 +282,10 @@ Anything it can't parse is reported rather than silently skipped.
   chip gets a coloured ring and its hexes get a bright border. Pin as many as you
   like; click again to unpin, <kbd>Esc</kbd> or **Clear pinned** to drop them all.
   Pins reset when you generate a new board.
+- **Complete** stays disabled until a line is actually finished — every hex on
+  it claimed. Once one is, the button lights up, and pressing it names the line
+  and plays a short fanfare. In Mission mode the single five-goal column is the
+  line, so the same button covers it.
 - A **Rules** button appears when the current list ships rules.
 - **Mission** mode has a **One at a time** toggle: only the next unfinished goal
   is readable, the rest show as Locked until you get there. The setting sticks
@@ -311,3 +315,8 @@ Progress is saved per seed, so a refresh mid-run doesn't lose your board.
   rather not depend on it at all.
 - Board state and custom lists use `localStorage` with an in-memory fallback, so
   nothing breaks in private browsing.
+- The win fanfare is synthesised with the Web Audio API rather than shipped as a
+  file — four oscillators playing a major arpeggio. That keeps the site free of
+  binary assets, and it only ever fires from a real click, which is the gesture
+  browsers require before an `AudioContext` may make noise. If audio is
+  unavailable the button still works and simply stays silent.
