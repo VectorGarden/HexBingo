@@ -19,6 +19,7 @@ goals/<game>.json         one file per game (45 included)
 goals/bundle.js           generated; offline fallback only
 tools/build-bundle.js     regenerates the bundle
 tools/convert-goals.js    migrates the old goallist/ files
+CNAME .gitignore          deploy domain, ignored editor/OS files
 ```
 
 Removed from the old version: jQuery, seedrandom.js, all inline event handlers,
@@ -149,121 +150,73 @@ recur). Between minimum and comfortable, the hard tiers run dry and the outer
 rings flatten — a 61-hex board on a 40-goal list produces a non-monotonic
 difficulty curve. The page warns you in both cases.
 
--------:|------:|------:|-------------------:|-----------:|
-| 1 | 7 | 9 | 9 | 0 |
-| 2 | 19 | **15** | **15** | 0 |
-| 3 | 37 | 21 | 15 | 6 |
-| 4 | 61 | 27 | 15 | 12 |
-
-Cells are `3r² + 3r + 1`; lines are `3(2r+1)`. At radius 2 the line count lands
-exactly on C(6,2) = 15, which is why every line gets a clean two-colour name like
-`R–G`. That is not a coincidence, it's the design — and it only works at radius 2.
-Radius 3 gives 21 lines but still only six edges, so six lines end up sharing a
-name with another line.
-
-The code handles this by appending a numeric suffix (`RG`, `RG2`), which runs but
-reads badly. A real radius-3 board would need a different naming scheme —
-numbered edges (`R2–G1`), or dropping colour-pair names for coordinates.
-
-So the cost, if you ever want it:
-
-- Geometry and lines: **free**, already done.
-- Layout and text sizing: **small**, the CSS scales off `--w` and `spanX/spanY`.
-- Line naming: **the actual work**, and it's a design decision more than a coding one.
-- Difficulty balance: **needs retuning**. The ring→difficulty curve is calibrated
-  for three rings and would want re-checking against 21 lines of length 3–7.
-
 ---
 
 ## Deploying to GitHub Pages
 
-Lives in its own repo, **`reizuseharu/HexBingo`**, published to
-**https://bingo.reizu.dev**. Everything needed is already here — no code changes
-are required for a project repo, because every internal path is relative. The
-site works at a domain root *and* under `reizuseharu.github.io/HexBingo/`, which
-is where it'll sit until DNS and the certificate settle.
+Lives in **`VectorGarden/HexBingo`**, published to **https://bingo.reizu.dev**.
+Every internal path is relative, so the site works at a domain root *and* under
+`vectorgarden.github.io/HexBingo/` — hosting it elsewhere needs no code changes.
 
-### Steps
+### How it is set up
 
-1. **Create the repo** `HexBingo` and push these files to its root on `main`.
-2. **Settings → Pages → Source: GitHub Actions.** Not "Deploy from a branch" —
-   the included workflow validates the goal files, then publishes.
-3. Push once and let the workflow finish. The site should be live at
-   `https://reizuseharu.github.io/HexBingo/`.
-4. **Settings → Pages → Custom domain: `bingo.reizu.dev`.** Save and wait for the
-   DNS check to go green.
-5. **Tick "Enforce HTTPS"** once the certificate is issued — up to an hour, and
-   the box stays greyed out until then.
+**Settings → Pages → Source: Deploy from a branch**, `main` / `/ (root)`.
+GitHub serves the repo as-is. There is no build step and no workflow.
 
-### DNS
-
-Your existing record is already right, as long as it targets the **user** host
-and not the repo:
+DNS is one record, pointing at the **owner** host rather than the repo:
 
 ```
-bingo   CNAME   reizuseharu.github.io.
+bingo   CNAME   vectorgarden.github.io.
 ```
 
-That is the same target for a project repo as for a user site — the repo name
-never appears in DNS. GitHub works out which repo owns the domain from the
-`CNAME` file in the published artifact.
+The repo name never appears in DNS — GitHub works out which repo owns the domain
+from the `CNAME` file at the root. "Enforce HTTPS" is on and the certificate
+renews on its own.
 
-### Things specific to a separate repo
-
-- **The old `reizuseharu.github.io` keeps serving the old HexBingo** until you
-  change it. Two sites, two repos. Empty it, archive it, or point it elsewhere —
-  just don't put a `CNAME` for `bingo.reizu.dev` in it too, or the two repos will
-  fight over the domain and GitHub will unset it on one of them.
-- **Repo name casing matters in URLs.** `HexBingo` gives
-  `reizuseharu.github.io/HexBingo/`, and that path is case-sensitive. Irrelevant
-  once the custom domain is live.
-- **Pushing workflow files needs the right credentials.** If you push with a
-  fine-grained PAT it must include the `workflow` permission, or GitHub rejects
-  the push with a message about `.github/workflows`. Normal SSH or the CLI is
-  fine.
-- **Use git rather than the web uploader** for the first push. Drag-and-drop
-  handles dot-folders like `.github/` unreliably, and `.nojekyll` is easy to lose.
-
-```
-cd HexBingo
-git init -b main
-git add -A
-git commit -m "HexBingo rewrite"
-git remote add origin git@github.com:reizuseharu/HexBingo.git
-git push -u origin main
-```
-
-### What's in the repo for this
+### What is in the repo for this
 
 | File | Why |
 |---|---|
-| `CNAME` | Holds `bingo.reizu.dev`. Required in the deploy artifact — with the Actions workflow, GitHub will *not* re-add it for you, so deleting it drops the custom domain on the next deploy. |
-| `.nojekyll` | Skips Jekyll processing. Faster builds, and stops it from swallowing any file or folder beginning with `_`. |
-| `.github/workflows/pages.yml` | Validates every goal list, then deploys. |
-| `404.html` | Themed not-found page. Its "Go to HexBingo" link detects a `*.github.io` project path and adjusts, so it works before and after the domain switch. |
+| `CNAME` | Holds `bingo.reizu.dev`. Deleting it drops the custom domain on the next deploy. |
+| `404.html` | Themed not-found page. Its "Go to HexBingo" link detects a `*.github.io` project path and adjusts, so it works on both URLs. |
 | `og.png`, meta tags | Link preview for Discord, Twitter, Slack. Since the whole point is pasting board links, this matters more than usual. |
 | `robots.txt`, `sitemap.xml` | Both reference the live domain. |
 | `site.webmanifest` + icons | "Add to home screen" on iOS and Android. |
 
 The canonical URL, `og:url` and `og:image` are absolute and point at
-`bingo.reizu.dev`. That's deliberate — they should describe the site's real home,
-not whichever URL a crawler happened to reach. If you ever change the domain,
-those four lines in `index.html` plus `CNAME`, `robots.txt` and `sitemap.xml` are
-the only places it appears.
+`bingo.reizu.dev`. That is deliberate — they should describe the site's real
+home, not whichever URL a crawler happened to reach. If the domain ever changes,
+those four lines in `index.html` plus `CNAME`, `robots.txt` and `sitemap.xml`
+are the only places it appears.
 
-### The workflow
+### Two things a branch deploy does not do
 
-It runs on every push and does two things:
+Both are fine today, but worth knowing about:
 
-- **Validates the goal lists.** A malformed JSON file fails silently at runtime —
-  that game just disappears from the picker. The build checks every list parses,
-  has goals, has difficulties in 1–5, is listed in `goals/index.json`, and that
-  no file is orphaned. Any problem fails the build before it ships.
-- **Trims what isn't served.** `goals/bundle.js` (~470 KB), `tools/`, and
-  `.gitignore` are dropped from the artifact. The bundle only exists for opening
-  `index.html` off disk; a hosted visitor fetches the JSON.
+- **Nothing validates the goal lists.** A malformed JSON file fails silently at
+  runtime — that game just disappears from the picker. A gate would check that
+  every list parses, has goals, has difficulties in 1–5, is named in
+  `goals/index.json`, and that no file is orphaned. That means switching Source
+  to **GitHub Actions**, which replaces branch deploys rather than adding to them.
+- **Everything in the repo is served**, `goals/bundle.js` (~470 KB) and `tools/`
+  included. Visitors never fetch them, so the cost is repo size, not bandwidth.
+  A workflow could drop them from the artifact.
 
-That leaves 63 files, about 1.3 MB, almost all of it goal data.
+There is also no `.nojekyll`, so Jekyll does process the site. That is harmless
+here because nothing starts with `_` — add such a file and you would need it.
+
+### Pushing
+
+```
+git clone git@github.com:VectorGarden/HexBingo.git
+cd HexBingo
+git add -A
+git commit -m "..."
+git push
+```
+
+If a workflow is ever added, pushing `.github/workflows/` with a fine-grained PAT
+needs the `workflow` permission or GitHub rejects the push.
 
 ### Checking it worked
 
@@ -341,9 +294,11 @@ Progress is saved per seed, so a refresh mid-run doesn't lose your board.
   `favicon.ico` carries 16/24/32/48/64/128/256 px for browsers that ignore SVG
   favicons, and the PNGs plus `site.webmanifest` cover iOS and Android home
   screens. Delete the old `favicon.ico` from the original repo — this replaces it.
-- The old `Content-Security-Policy` meta tag is gone. It blocked local scripts
-  under `file://`, and there is no inline JS left for it to protect against. If
-  you want one back, set it as a real header rather than a meta tag.
+- The old `Content-Security-Policy` meta tag is gone — it blocked local scripts
+  under `file://`. `index.html` has no inline JS at all; `404.html` has one small
+  inline `<script>`, so a policy would need a hash for it. A meta tag is the only
+  option while the site is served by a branch deploy, since that cannot set
+  response headers.
 - Fonts come from Google Fonts (Barlow Condensed / Semi Condensed). The condensed
   widths are doing real work — hexagons are narrow at top and bottom, so a
   condensed face fits noticeably more text per line. This is the site's only

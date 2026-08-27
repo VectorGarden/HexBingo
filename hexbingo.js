@@ -9,7 +9,7 @@
 (function () {
   "use strict";
 
-  const VERSION = "1.0.0";
+  const VERSION = "1.0.1";
   const RADIUS = 2;
   const HUES = ["R", "O", "Y", "G", "B", "P"];
   const HUE_NAME = { R: "Red", O: "Orange", Y: "Yellow", G: "Green", B: "Blue", P: "Purple" };
@@ -26,16 +26,28 @@
   /* ── storage: real localStorage when available, memory when not ── */
 
   const memory = {};
+  const failed = {};        // keys whose last write didn't reach localStorage
+
   const store = {
     get(key) {
+      // A failed write leaves localStorage holding the *older* value, so
+      // preferring it there would silently roll the change back. Once a key
+      // has failed, memory is the truth until a write lands again.
+      if (failed[key]) return memory[key] || null;
       try {
         const raw = localStorage.getItem(key);
-        return raw ? JSON.parse(raw) : (memory[key] || null);
-      } catch (e) { return memory[key] || null; }
+        if (raw) return JSON.parse(raw);
+      } catch (e) { /* unavailable, or corrupt JSON */ }
+      return memory[key] || null;
     },
     set(key, value) {
       memory[key] = value;
-      try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) { /* private mode, preview iframe */ }
+      try {
+        localStorage.setItem(key, JSON.stringify(value));
+        delete failed[key];
+      } catch (e) {
+        failed[key] = true;   // private mode, preview iframe, or over quota
+      }
     }
   };
 
@@ -806,11 +818,18 @@
         (i === games.active ? " active" : "");
       li.setAttribute("role", "option");
       li.setAttribute("aria-selected", String(item.id === state.listId));
+      li.id = "gameOpt" + i;
       li.dataset.id = item.id;
       li.dataset.i = i;
       li.textContent = item.name;
       el.gameList.appendChild(li);
     });
+
+    // Arrow keys move a class; without this the move is silent to a screen
+    // reader, because focus stays in the search box the whole time.
+    const active = games.filtered[games.active] ? "gameOpt" + games.active : null;
+    if (active) el.gameSearch.setAttribute("aria-activedescendant", active);
+    else el.gameSearch.removeAttribute("aria-activedescendant");
 
     el.gameNone.hidden = games.filtered.length > 0;
   }
@@ -833,6 +852,7 @@
   function closeGames() {
     el.gamePop.hidden = true;
     el.gameButton.setAttribute("aria-expanded", "false");
+    el.gameSearch.removeAttribute("aria-activedescendant");
   }
 
   function chooseGame(id) {
@@ -972,13 +992,47 @@
 
   /* ── sheets ── */
 
+  /* aria-modal alone tells a screen reader the page is blocked but does nothing
+     about Tab, which used to walk straight out of the dialog into the header
+     behind it. Marking the rest of the body inert handles both, and restoring
+     focus on close puts the caret back on the button that opened the sheet. */
+
+  let sheetOpener = null;
+
   function openSheet(id) {
     const sheet = $(id);
+    if (!sheet.hidden) return;
+    sheetOpener = document.activeElement;
     sheet.hidden = false;
+    Array.prototype.forEach.call(document.body.children, node => {
+      if (node === sheet || node.hasAttribute("inert")) return;
+      node.setAttribute("inert", "");
+      node.dataset.sheetInert = "1";
+    });
     const focusable = sheet.querySelector("select, input, button");
     if (focusable) focusable.focus();
   }
-  function closeSheet(id) { $(id).hidden = true; }
+
+  function closeSheet(id) {
+    const sheet = $(id);
+    if (!sheet || sheet.hidden) return;
+    sheet.hidden = true;
+
+    // another sheet may still be up; only lift inert once the last one closes
+    if (!document.querySelector(".sheet:not([hidden])")) {
+      document.querySelectorAll("[data-sheet-inert]").forEach(node => {
+        node.removeAttribute("inert");
+        delete node.dataset.sheetInert;
+      });
+      const opener = sheetOpener;
+      sheetOpener = null;
+      if (opener && document.contains(opener) && !opener.closest("[inert]")) opener.focus();
+    }
+  }
+
+  function closeAllSheets() {
+    document.querySelectorAll(".sheet:not([hidden])").forEach(sheet => closeSheet(sheet.id));
+  }
 
   /* ── boot ── */
 
@@ -1044,12 +1098,12 @@
     document.addEventListener("click", e => {
       const close = e.target.closest("[data-close]");
       if (close) closeSheet(close.dataset.close);
-      else if (e.target.classList.contains("sheet")) e.target.hidden = true;
+      else if (e.target.classList.contains("sheet")) closeSheet(e.target.id);
     });
     document.addEventListener("keydown", e => {
       if (e.key !== "Escape") return;
       const open = document.querySelectorAll(".sheet:not([hidden])");
-      if (open.length) { open.forEach(sheet => { sheet.hidden = true; }); return; }
+      if (open.length) { closeAllSheets(); return; }
       if (!el.gamePop.hidden) { closeGames(); return; }
       clearPins();
     });

@@ -50,6 +50,10 @@ manifest.forEach(entry => {
     name: entry.name || data.name || entry.id,
     goals: data.goals || []
   };
+  // Carried through so the Rules button still works off the filesystem —
+  // the fetched path keeps these, and the bundle has to match it.
+  if (Array.isArray(data.rules) && data.rules.length) list.rules = data.rules;
+  if (Array.isArray(data.tips) && data.tips.length) list.tips = data.tips;
   total += list.goals.length;
   chunks.push("HexBingoGoals(" + JSON.stringify(list) + ");");
   console.log("  " + list.name + " — " + list.goals.length + " goals");
