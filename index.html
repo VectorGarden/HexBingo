@@ -106,10 +106,14 @@
 
   <div class="railwrap">
     <div id="rail" class="rail" aria-label="Lines"></div>
+    <button id="completeBtn" class="btn btn-win" type="button" disabled
+            title="Claim every hex on a line to enable this">Complete</button>
     <button id="clearPins" class="btn btn-ghost pinclear gone" type="button">Clear pinned</button>
   </div>
 
   <p id="notice" class="notice" role="status" hidden></p>
+
+  <p id="winNote" class="winnote" role="status" hidden></p>
 
   <p id="empty" class="empty" hidden>
     No goals loaded yet. Open <b>Edit goals</b> to write a list, or add a file to <code>goals/</code>.

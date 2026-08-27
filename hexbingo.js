@@ -9,7 +9,7 @@
 (function () {
   "use strict";
 
-  const VERSION = "1.1.0";
+  const VERSION = "1.2.0";
   const RADIUS = 2;
   const HUES = ["R", "O", "Y", "G", "B", "P"];
   const HUE_NAME = { R: "Red", O: "Orange", Y: "Yellow", G: "Green", B: "Blue", P: "Purple" };
@@ -569,6 +569,25 @@
     });
   }
 
+  /* A line is won when every hex on it is claimed. Mission mode has exactly
+     one line covering all five goals, so the same test carries both modes. */
+  function wonLines() {
+    return state.geo.lines.filter(line =>
+      line.cells.length &&
+      line.cells.every(c => state.marks[c.i] && state.marks[c.i].status === "done"));
+  }
+
+  function syncComplete(won) {
+    const names = won.map(l => l.label || l.id);
+    el.completeBtn.disabled = names.length === 0;
+    el.completeBtn.classList.toggle("ready", names.length > 0);
+    el.completeBtn.title = names.length
+      ? (names.length === 1 ? names[0] + " is complete" : names.length + " lines are complete")
+      : "Claim every hex on a line to enable this";
+    // releasing a hex un-wins the line, so the announcement goes with it
+    if (!names.length) el.winNote.hidden = true;
+  }
+
   function applyMarks() {
     const nodes = el.cells.children;
     state.marks.forEach((mark, i) => {
@@ -580,6 +599,9 @@
       node.querySelector(".cell-fill").style.height =
         (mark.status === "open" ? Math.round(mark.progress * 100) : 0) + "%";
     });
+
+    const won = wonLines();
+    syncComplete(won);
 
     if (state.mode === "mission") {
       // reveal mode: everything past the first unfinished goal stays sealed
@@ -595,10 +617,10 @@
     }
 
     if (state.mode !== "hex") return;
+    const wonSet = new Set(won.map(l => l.i));
     state.geo.lines.forEach(line => {
-      const won = line.cells.every(c => state.marks[c.i] && state.marks[c.i].status === "done");
       const chip = el.rail.querySelector('.chip[data-line="' + line.i + '"]');
-      if (chip) chip.classList.toggle("won", won);
+      if (chip) chip.classList.toggle("won", wonSet.has(line.i));
     });
   }
 
@@ -1043,6 +1065,7 @@
 
   function build(seed) {
     closeCellMenu();          // renderBoard() replaces the node it points at
+    if (el.winNote) el.winNote.hidden = true;
     const id = state.listId;
     if (!id) { el.empty.hidden = false; el.board.hidden = true; return; }
 
@@ -1115,6 +1138,53 @@
     return { game: p.get("game"), mode: p.get("mode"), size: p.get("size"), seed: p.get("seed") };
   }
 
+  /* ── the win fanfare ────────────────────────────────────────
+     Synthesised rather than shipped as a file: the site has no binary
+     assets and no dependencies, and a rising major arpeggio is a few
+     oscillators. Built on the click, which is the gesture browsers
+     require before an AudioContext may make noise.
+     ------------------------------------------------------------ */
+
+  const C5 = 523.25, E5 = 659.25, G5 = 783.99, C6 = 1046.50;
+  let audio = null;
+
+  function voice(dest, hz, at, dur, level) {
+    const osc = audio.createOscillator();
+    const gain = audio.createGain();
+    osc.type = "triangle";
+    osc.frequency.setValueAtTime(hz, at);
+    // exponential ramps can't touch zero, hence the near-silent floor
+    gain.gain.setValueAtTime(0.0001, at);
+    gain.gain.exponentialRampToValueAtTime(level, at + 0.015);
+    gain.gain.exponentialRampToValueAtTime(0.0001, at + dur);
+    osc.connect(gain);
+    gain.connect(dest);
+    osc.start(at);
+    osc.stop(at + dur + 0.05);
+  }
+
+  function fanfare() {
+    const Ctx = window.AudioContext || window.webkitAudioContext;
+    if (!Ctx) return false;
+    try {
+      audio = audio || new Ctx();
+      if (audio.state === "suspended") audio.resume();
+
+      const master = audio.createGain();
+      master.gain.value = 0.5;
+      master.connect(audio.destination);
+
+      const t0 = audio.currentTime + 0.03;
+      const step = 0.11;
+      [C5, E5, G5].forEach((hz, i) => voice(master, hz, t0 + i * step, 0.2, 0.55));
+      voice(master, C6, t0 + 3 * step, 0.9, 0.6);              // the note it lands on
+      [C5, E5, G5].forEach(hz => voice(master, hz, t0 + 3 * step, 0.9, 0.25));  // triad under it
+      return true;
+    } catch (e) {
+      return false;     // no audio device, autoplay policy, locked-down context
+    }
+  }
+
   /* ── sheets ── */
 
   /* aria-modal alone tells a screen reader the page is blocked but does nothing
@@ -1167,7 +1237,7 @@
       "sizeSelect", "sizeField", "revealField", "revealToggle", "generateBtn", "randomBtn",
       "editBtn", "helpBtn", "seedOut", "copyLink", "version", "year",
       "gameButton", "gameLabel", "gamePop", "gameSearch", "gameList", "gameNone",
-      "clearPins", "rulesBtn", "rulesList",
+      "clearPins", "rulesBtn", "rulesList", "completeBtn", "winNote",
       "cellMenu", "cellMenuN", "cellMenuPlus", "cellMenuBlock"]
       .forEach(k => { el[k] = $(k); });
     el.bands = document.querySelector(".bands");
@@ -1222,6 +1292,19 @@
     el.helpBtn.addEventListener("click", () => openSheet("help"));
     el.rulesBtn.addEventListener("click", () => openSheet("rules"));
     el.clearPins.addEventListener("click", clearPins);
+
+    el.completeBtn.addEventListener("click", () => {
+      const won = wonLines();
+      if (!won.length) return;              // disabled already, but don't trust the DOM
+      const names = won.map(l => l.label || l.id);
+      el.winNote.hidden = false;
+      el.winNote.textContent = state.mode === "mission"
+        ? "Mission complete — all " + state.geo.cells.length + " goals."
+        : (names.length === 1
+            ? "Bingo! " + names[0] + " is complete."
+            : "Bingo! " + names.length + " lines complete: " + names.join(", ") + ".");
+      fanfare();
+    });
     el.editBtn.addEventListener("click", () => openSheet("editor"));
     document.addEventListener("click", e => {
       const close = e.target.closest("[data-close]");

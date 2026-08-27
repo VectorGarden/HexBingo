@@ -759,3 +759,34 @@ kbd{
 
 /* the hex the menu belongs to, so it stays findable behind the popover */
 .cell.menued{ outline: 2px solid var(--edge-2); outline-offset: -3px; }
+
+/* ─────────────── complete ─────────────── */
+
+.btn-win{
+  font-family: var(--display);
+  font-weight: 700;
+  letter-spacing: .02em;
+}
+.btn-win:disabled{
+  opacity: .4;
+  cursor: not-allowed;
+}
+/* lit only once a line is actually finished, so the button reads as the
+   reward rather than another control sitting there */
+.btn-win.ready{
+  color: var(--ink);
+  background: var(--Y);
+  border-color: var(--Y);
+  box-shadow: 0 0 0 3px rgba(255, 214, 61, .18);
+}
+.btn-win.ready:hover{ filter: brightness(1.08); }
+
+.winnote{
+  margin: 0;
+  text-align: center;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: .02em;
+  color: var(--Y);
+}
