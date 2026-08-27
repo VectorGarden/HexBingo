@@ -8,6 +8,7 @@ import { MAX_RADIUS, MIN_RADIUS, RADIUS, REVEAL_KEY, VERSION } from "../core/con
 import { generate } from "../core/generate.js";
 import { MISSION, geoFor } from "../core/geometry.js";
 import { goalBudget } from "../core/goals.js";
+import { isBlackout } from "../core/marks.js";
 import { applyMarks, fit, renderBoard, wireBoard } from "./board.js";
 import { wireCellMenu, closeCellMenu } from "./cellmenu.js";
 import { bindElements, el } from "./dom.js";
@@ -134,9 +135,13 @@ function announceWin() {
   const won = wonLines();
   if (!won.length) return;              // disabled already, but don't trust the DOM
   el.winNote.hidden = false;
+  const goals = state.geo.cells.length;
   el.winNote.textContent = state.mode === "mission"
-    ? "Mission complete — all " + state.geo.cells.length + " goals."
-    : winMessage(won.map(l => l.label || l.id));
+    ? "Mission complete — all " + goals + " goals."
+    : isBlackout(state.marks)
+      // clearing the whole board outranks whichever lines it happened to win
+      ? "Blackout! Every one of the " + goals + " goals."
+      : winMessage(won.map(l => l.label || l.id));
   fanfare();
 }
 
