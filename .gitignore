@@ -21,6 +21,9 @@ npm-debug.log*
 yarn-error.log*
 .npm/
 
+# ─── Build output ───
+_site/
+
 # ─── Local env ───
 .env
 .env.local
