@@ -113,16 +113,30 @@ export async function build(seed, opts = {}) {
   else if (how === "replace") replaceUrl(state);
 }
 
+/** Past this many, the list of names stops being information. */
+const NAMES_SHOWN = 4;
+
+/**
+ * @param {string[]} names
+ * @returns {string}
+ */
+function winMessage(names) {
+  if (names.length === 1) return "Bingo! " + names[0] + " is complete.";
+  const shown = names.slice(0, NAMES_SHOWN);
+  const rest = names.length - shown.length;
+  // a finished 61-hex board wins 27 lines at once, and naming them all filled
+  // the banner with three lines of ids nobody reads
+  return "Bingo! " + names.length + " lines complete: " + shown.join(", ") +
+    (rest ? " and " + rest + " more." : ".");
+}
+
 function announceWin() {
   const won = wonLines();
   if (!won.length) return;              // disabled already, but don't trust the DOM
-  const names = won.map(l => l.label || l.id);
   el.winNote.hidden = false;
   el.winNote.textContent = state.mode === "mission"
     ? "Mission complete — all " + state.geo.cells.length + " goals."
-    : (names.length === 1
-        ? "Bingo! " + names[0] + " is complete."
-        : "Bingo! " + names.length + " lines complete: " + names.join(", ") + ".");
+    : winMessage(won.map(l => l.label || l.id));
   fanfare();
 }
 

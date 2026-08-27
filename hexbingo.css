@@ -262,6 +262,7 @@ button:focus-visible, .cell:focus-visible, .chip:focus-visible{
 /* ─────────────── stage ─────────────── */
 
 #stage{
+  position: relative;      /* anchors the win banner, which is out of flow */
   flex: 1 1 auto;
   min-height: 0;
   display: flex;
@@ -810,12 +811,41 @@ kbd{
 }
 .btn-win.ready:hover{ filter: brightness(1.08); }
 
+/* Out of flow on purpose. This used to sit in the stage column, so arriving
+   shrank the board by ~30px and every hex jumped the moment you pressed
+   Complete. Reserving a fixed band would not have been enough either: the text
+   grows with the number of finished lines and wraps on a narrow screen. It sits
+   near the Complete button rather than under the rail, since that is where you
+   just clicked. */
 .winnote{
-  margin: 0;
+  position: absolute;
+  z-index: 22;                  /* over the board, under the sheets (30) */
+  top: 10px;
+  /* Centred with auto margins rather than left:50% + translate: an absolutely
+     positioned box shrink-to-fits against the space left of it, so anchoring at
+     the midpoint halved the width available and wrapped long wins far more than
+     they needed to. */
+  left: 0;
+  right: 0;
+  width: fit-content;
+  margin: 0 auto;
+  max-width: min(92%, 620px);
+  padding: 7px 18px;
+  border-radius: 999px;
+  background: var(--panel);
+  border: 1px solid var(--Y);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .55);
   text-align: center;
   font-family: var(--display);
   font-weight: 700;
   font-size: 18px;
   letter-spacing: .02em;
   color: var(--Y);
+  pointer-events: none;         /* never swallow a click meant for a hex */
+  animation: winnote-in .22s ease-out;
+}
+
+@keyframes winnote-in{
+  from{ opacity: 0; transform: translateY(-6px); }
+  to  { opacity: 1; transform: none; }
 }
