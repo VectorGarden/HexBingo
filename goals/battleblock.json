@@ -3140,12 +3140,16 @@
     {
       "text": "Kill 5 unique cats",
       "difficulty": 2,
-      "tags": []
+      "tags": [
+        "Cat"
+      ]
     },
     {
       "text": "Kill 10 unique cats",
       "difficulty": 2,
-      "tags": []
+      "tags": [
+        "Cat"
+      ]
     },
     {
       "text": "Kill 5 pieces of toast",
@@ -3384,222 +3388,330 @@
     {
       "text": "Clear 3 Chapter 1 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 2 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 3 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 4 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 5 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 6 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 7 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear 3 Chapter 8 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 1 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 2 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 3 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 4 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 5 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 6 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 7 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "100% Clear 3 Chapter 8 scenes",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch1",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch1",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch2",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch2",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch3",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch3",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch4",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch4",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch5",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch5",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch6",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch6",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch7",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch7",
+        "clear"
+      ]
     },
     {
       "text": "Clear Encores in Ch8",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch8",
+        "clear"
+      ]
     },
     {
       "text": "100% Encores in Ch1",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch1"
+      ]
     },
     {
       "text": "100% Encores in Ch2",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch2"
+      ]
     },
     {
       "text": "100% Encores in Ch3",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch3"
+      ]
     },
     {
       "text": "100% Encores in Ch4",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch4"
+      ]
     },
     {
       "text": "100% Encores in Ch5",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch5"
+      ]
     },
     {
       "text": "100% Encores in Ch6",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch6"
+      ]
     },
     {
       "text": "100% Encores in Ch7",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch7"
+      ]
     },
     {
       "text": "100% Encores in Ch8",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ch8"
+      ]
     },
     {
       "text": "3-2 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "3-2",
+        "Pacifict"
+      ]
     },
     {
       "text": "3-2 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "3-2",
+        "Genocide"
+      ]
     },
     {
       "text": "1-8 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "1-8",
+        "Pacifict"
+      ]
     },
     {
       "text": "1-8 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "1-8",
+        "Genocide"
+      ]
     },
     {
       "text": "3-5 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "3-5",
+        "Pacifict"
+      ]
     },
     {
       "text": "3-5 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "3-5",
+        "Genocide"
+      ]
     },
     {
       "text": "7-9 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "7-9",
+        "Pacifict"
+      ]
     },
     {
       "text": "7-9 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "7-9",
+        "Genocide"
+      ]
     },
     {
       "text": "6-3 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "6-3",
+        "Pacifict"
+      ]
     },
     {
       "text": "6-3 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "6-3",
+        "Genocide"
+      ]
     },
     {
       "text": "7-5 Pacifict",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "7-5",
+        "Pacifict"
+      ]
     },
     {
       "text": "7-5 Genocide",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "7-5",
+        "Genocide"
+      ]
     },
     {
       "text": "Get all checkpoints in 7-5",
@@ -3660,132 +3772,184 @@
     {
       "text": "1 golden hat",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Golden Hat"
+      ]
     },
     {
       "text": "2 golden hats",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Golden Hat"
+      ]
     },
     {
       "text": "3 golden hats",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Golden Hat"
+      ]
     },
     {
       "text": "50 unique gems",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Gem"
+      ]
     },
     {
       "text": "100 unique gems",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Gem"
+      ]
     },
     {
       "text": "150 unique gems",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Gem"
+      ]
     },
     {
       "text": "200 unique gems",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Gem"
+      ]
     },
     {
       "text": "10 unique yarns",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Yarn"
+      ]
     },
     {
       "text": "15 unique yarns",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Yarn"
+      ]
     },
     {
       "text": "20 unique yarns",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Yarn"
+      ]
     },
     {
       "text": "25 unique yarns",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Yarn"
+      ]
     },
     {
       "text": "30 unique yarns",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "Yarn"
+      ]
     },
     {
       "text": "15 NPC kills",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "NPC Kill"
+      ]
     },
     {
       "text": "20 NPC kills",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "NPC Kill"
+      ]
     },
     {
       "text": "25 NPC kills",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "NPC Kill"
+      ]
     },
     {
       "text": "30 NPC kills",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "NPC Kill"
+      ]
     },
     {
       "text": "20 unique stage clears",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Stage Clear"
+      ]
     },
     {
       "text": "25 unique stage clears",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Stage Clear"
+      ]
     },
     {
       "text": "30 unique stage clears",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Stage Clear"
+      ]
     },
     {
       "text": "35 unique stage clears",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Stage Clear"
+      ]
     },
     {
       "text": "40 unique stage clears",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Stage Clear"
+      ]
     },
     {
       "text": "10 unique clock stamps",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Clock Stamp"
+      ]
     },
     {
       "text": "15 unique clock stamps",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Clock Stamp"
+      ]
     },
     {
       "text": "20 unique clock stamps",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Clock Stamp"
+      ]
     },
     {
       "text": "25 unique clock stamps",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Clock Stamp"
+      ]
     },
     {
       "text": "30 unique clock stamps",
       "difficulty": 5,
-      "tags": []
+      "tags": [
+        "Clock Stamp"
+      ]
     },
     {
       "text": "Vacuum a cat's grenade and die from it",

@@ -299,6 +299,8 @@ they are tiered — the centre hex will be no easier than the rim. Open **Edit
 goals**, duplicate the list, and use the per-goal difficulty button to spread
 them; `npm run validate` warns about thin tiers until you do.
 
+Their **tags** are done, which is the other half of good placement — see below.
+
 ### Planned
 
 Written but not yet ready, or waiting on goals being drafted:
@@ -315,6 +317,52 @@ Written but not yet ready, or waiting on goals being drafted:
 
 **Pokémon Stadium** was cancelled. Around 58 goals exist for it, but it is not
 shipping.
+
+---
+
+## Tags
+
+Tags are what stop a single line reading "8 Heart Pieces / 12 Heart Pieces".
+Board generation penalises placing two goals that share one near each other, so
+a tag earns its keep only when several goals carry it — a tag on a single goal
+does nothing at all.
+
+Most lists were tagged by hand and that vocabulary is better than anything a
+machine would derive from the text. Lists imported from sources that carried no
+tags are the gap, and `tools/generate-tags.js` fills it:
+
+```
+node tools/generate-tags.js            # report what would change
+node tools/generate-tags.js --write    # write it
+```
+
+It **never touches a goal that already has tags.** For a goal that has none it
+first looks for a tag the list already uses and that the goal's text plainly
+contains — so a new Hat in Time goal mentioning a relic joins the existing
+`relic` group rather than starting a parallel one. Failing that, it derives tags
+from phrases that recur across the list, folding plurals together and keeping
+acronyms intact. Filling one gap can grow the vocabulary enough to match
+another, so it repeats until nothing moves; running it twice is a no-op.
+
+What that did to the eight lists with gaps, measured over 300 boards each:
+
+| List | Tagged | Lines carrying a repeated family |
+|---|---|---|
+| Super Mario World | 15% → 94% | 64.1% → 0.0% |
+| New Super Mario Bros. Wii | 0% → 88% | 38.4% → 0.0% |
+| BattleBlock Theater | 87% → 100% | 30.1% → 0.0% |
+| Link's Awakening | 0% → 75% | 21.0% → 0.0% |
+| A Link to the Past | 0% → 76% | 14.4% → 0.0% |
+| Tony Hawk's Underground | 0% → 71% | 9.2% → 0.0% |
+| A Hat in Time | 98% → 100% | 7.3% → 0.1% |
+| Breath of the Wild [Great Plateau] | 97% → 100% | 57.0% → 57.0% |
+
+Great Plateau does not move because only one goal was missing tags. Its 57% is
+inherent: 38 goals, densely tagged, half of them on a 19-hex board at once, so
+families are bound to meet. A bigger list, not better tags, is the fix there.
+
+Goals still without tags are ones whose wording it shares with nothing else in
+the list, where a tag would have no one to push against.
 
 ---
 

@@ -11,7 +11,9 @@
     {
       "text": "Get the chest over the mud pit",
       "difficulty": 1,
-      "tags": []
+      "tags": [
+        "Chest"
+      ]
     },
     {
       "text": "Rusted Weapon",
