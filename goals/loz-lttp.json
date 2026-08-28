@@ -60,305 +60,305 @@
       "text": "Desert Palace Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Palace Big",
-        "Desert Palace"
+        "big chest",
+        "palace big",
+        "desert palace"
       ]
     },
     {
       "text": "Tower of Hera Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Hera",
-        "Tower"
+        "big chest",
+        "hera",
+        "tower"
       ]
     },
     {
       "text": "Palace of Darkness Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Palace",
-        "Darkness"
+        "big chest",
+        "palace",
+        "darkness"
       ]
     },
     {
       "text": "Swamp Palace Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Palace Big",
-        "Swamp Palace"
+        "big chest",
+        "palace big",
+        "swamp palace"
       ]
     },
     {
       "text": "Skull Woods Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Skull Wood"
+        "big chest",
+        "skull wood"
       ]
     },
     {
       "text": "Thieves' Town Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Thieve Town"
+        "big chest",
+        "thieve town"
       ]
     },
     {
       "text": "Ice Palace Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Ice Palace",
-        "Palace Big"
+        "big chest",
+        "ice palace",
+        "palace big"
       ]
     },
     {
       "text": "Misery Mire Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Misery Mire"
+        "big chest",
+        "misery mire"
       ]
     },
     {
       "text": "Turtle Rock Big Chest",
       "difficulty": 3,
       "tags": [
-        "Big Chest",
-        "Turtle Rock"
+        "big chest",
+        "turtle rock"
       ]
     },
     {
       "text": "Desert Palace Compass",
       "difficulty": 3,
       "tags": [
-        "Palace Compass",
-        "Desert Palace"
+        "palace compass",
+        "desert palace"
       ]
     },
     {
       "text": "Tower of Hera Compass",
       "difficulty": 3,
       "tags": [
-        "Compass",
-        "Hera",
-        "Tower"
+        "compass",
+        "hera",
+        "tower"
       ]
     },
     {
       "text": "Palace of Darkness Compass",
       "difficulty": 3,
       "tags": [
-        "Palace",
-        "Compass",
-        "Darkness"
+        "palace",
+        "compass",
+        "darkness"
       ]
     },
     {
       "text": "Swamp Palace Compass",
       "difficulty": 3,
       "tags": [
-        "Palace Compass",
-        "Swamp Palace"
+        "palace compass",
+        "swamp palace"
       ]
     },
     {
       "text": "Skull Woods Compass",
       "difficulty": 3,
       "tags": [
-        "Skull Wood",
-        "Compass"
+        "skull wood",
+        "compass"
       ]
     },
     {
       "text": "Thieves' Town Compass",
       "difficulty": 3,
       "tags": [
-        "Thieve Town",
-        "Compass"
+        "thieve town",
+        "compass"
       ]
     },
     {
       "text": "Ice Palace Compass",
       "difficulty": 3,
       "tags": [
-        "Ice Palace",
-        "Palace Compass"
+        "ice palace",
+        "palace compass"
       ]
     },
     {
       "text": "Misery Mire Compass",
       "difficulty": 3,
       "tags": [
-        "Misery Mire",
-        "Compass"
+        "misery mire",
+        "compass"
       ]
     },
     {
       "text": "Turtle Rock Compass",
       "difficulty": 3,
       "tags": [
-        "Turtle Rock",
-        "Compass"
+        "turtle rock",
+        "compass"
       ]
     },
     {
       "text": "Desert Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Desert"
+        "map",
+        "desert"
       ]
     },
     {
       "text": "Hera Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Hera"
+        "map",
+        "hera"
       ]
     },
     {
       "text": "Darkness Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Darkness"
+        "map",
+        "darkness"
       ]
     },
     {
       "text": "Swamp Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Swamp"
+        "map",
+        "swamp"
       ]
     },
     {
       "text": "Skull Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Skull"
+        "map",
+        "skull"
       ]
     },
     {
       "text": "Thieves' Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Thieve"
+        "map",
+        "thieve"
       ]
     },
     {
       "text": "Ice Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Ice"
+        "map",
+        "ice"
       ]
     },
     {
       "text": "Mire Map",
       "difficulty": 3,
       "tags": [
-        "Map",
-        "Mire"
+        "map",
+        "mire"
       ]
     },
     {
       "text": "TRock Map",
       "difficulty": 3,
       "tags": [
-        "Map"
+        "map"
       ]
     },
     {
       "text": "Open 5 Small Key Doors (Palace of Darkness)",
       "difficulty": 3,
       "tags": [
-        "Open Small",
-        "Small Key",
-        "Key Door"
+        "open small",
+        "small key",
+        "key door"
       ]
     },
     {
       "text": "Open 4 Small Key Doors (Skull Woods)",
       "difficulty": 3,
       "tags": [
-        "Open Small",
-        "Small Key",
-        "Key Door"
+        "open small",
+        "small key",
+        "key door"
       ]
     },
     {
       "text": "Open 6 Small Key Doors (Ice Palace)",
       "difficulty": 3,
       "tags": [
-        "Open Small",
-        "Small Key",
-        "Key Door"
+        "open small",
+        "small key",
+        "key door"
       ]
     },
     {
       "text": "Open 6 Small Key Doors (Misery Mire)",
       "difficulty": 3,
       "tags": [
-        "Open Small",
-        "Small Key",
-        "Key Door"
+        "open small",
+        "small key",
+        "key door"
       ]
     },
     {
       "text": "Open Purple Chest",
       "difficulty": 3,
       "tags": [
-        "Chest",
-        "Open"
+        "chest",
+        "open"
       ]
     },
     {
       "text": "Break Ether Monolith",
       "difficulty": 3,
       "tags": [
-        "Break",
-        "Monolith"
+        "break",
+        "monolith"
       ]
     },
     {
       "text": "Break Bombos Monolith",
       "difficulty": 3,
       "tags": [
-        "Break",
-        "Monolith"
+        "break",
+        "monolith"
       ]
     },
     {
       "text": "Open Misery Mire",
       "difficulty": 3,
       "tags": [
-        "Misery Mire",
-        "Open"
+        "misery mire",
+        "open"
       ]
     },
     {
       "text": "Open Turtle Rock",
       "difficulty": 3,
       "tags": [
-        "Turtle Rock",
-        "Open"
+        "turtle rock",
+        "open"
       ]
     },
     {
       "text": "Death Mountain Lonely Island",
       "difficulty": 3,
       "tags": [
-        "Island"
+        "island"
       ]
     },
     {
@@ -370,22 +370,22 @@
       "text": "Byrna Cave",
       "difficulty": 3,
       "tags": [
-        "Cave"
+        "cave"
       ]
     },
     {
       "text": "Mimic Cave",
       "difficulty": 3,
       "tags": [
-        "Cave",
-        "Mimic"
+        "cave",
+        "mimic"
       ]
     },
     {
       "text": "Lake Hylia Island",
       "difficulty": 3,
       "tags": [
-        "Island"
+        "island"
       ]
     },
     {
@@ -402,7 +402,7 @@
       "text": "Speak to Fat Faerie",
       "difficulty": 3,
       "tags": [
-        "Faerie"
+        "faerie"
       ]
     },
     {
@@ -419,99 +419,99 @@
       "text": "Spend 1000 rupees",
       "difficulty": 3,
       "tags": [
-        "Spend Rupee"
+        "spend rupee"
       ]
     },
     {
       "text": "Spend 1500 rupees",
       "difficulty": 3,
       "tags": [
-        "Spend Rupee"
+        "spend rupee"
       ]
     },
     {
       "text": "40 Arrows",
       "difficulty": 3,
       "tags": [
-        "Arrow"
+        "arrow"
       ]
     },
     {
       "text": "50 Arrows",
       "difficulty": 3,
       "tags": [
-        "Arrow"
+        "arrow"
       ]
     },
     {
       "text": "20 Bombs",
       "difficulty": 3,
       "tags": [
-        "Bomb"
+        "bomb"
       ]
     },
     {
       "text": "30 Bombs",
       "difficulty": 3,
       "tags": [
-        "Bomb"
+        "bomb"
       ]
     },
     {
       "text": "40 Arrows and 20 Bombs",
       "difficulty": 3,
       "tags": [
-        "Bomb",
-        "Arrow"
+        "bomb",
+        "arrow"
       ]
     },
     {
       "text": "8 Heart Pieces",
       "difficulty": 3,
       "tags": [
-        "Heart Piece"
+        "heart piece"
       ]
     },
     {
       "text": "12 Heart Pieces",
       "difficulty": 3,
       "tags": [
-        "Heart Piece"
+        "heart piece"
       ]
     },
     {
       "text": "4 Heart Containers",
       "difficulty": 3,
       "tags": [
-        "Heart Container"
+        "heart container"
       ]
     },
     {
       "text": "6 Heart Containers",
       "difficulty": 3,
       "tags": [
-        "Heart Container"
+        "heart container"
       ]
     },
     {
       "text": "10+ Total Hearts",
       "difficulty": 3,
       "tags": [
-        "Heart"
+        "heart"
       ]
     },
     {
       "text": "12+ Total Hearts",
       "difficulty": 3,
       "tags": [
-        "Heart"
+        "heart"
       ]
     },
     {
       "text": "Master Sword Pedestal",
       "difficulty": 3,
       "tags": [
-        "Sword"
+        "sword"
       ]
     },
     {
@@ -523,104 +523,104 @@
       "text": "2 Crystals",
       "difficulty": 3,
       "tags": [
-        "Crystal"
+        "crystal"
       ]
     },
     {
       "text": "3 Crystals",
       "difficulty": 3,
       "tags": [
-        "Crystal"
+        "crystal"
       ]
     },
     {
       "text": "2 Light World Dungeons",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Light World"
+        "world dungeon",
+        "light world"
       ]
     },
     {
       "text": "3 Light World Dungeons",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Light World"
+        "world dungeon",
+        "light world"
       ]
     },
     {
       "text": "2 Dark World Dungeons",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Dark World"
+        "world dungeon",
+        "dark world"
       ]
     },
     {
       "text": "3 Dark World Dungeons",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Dark World"
+        "world dungeon",
+        "dark world"
       ]
     },
     {
       "text": "Bomb open a cracked floor in any dungeon",
       "difficulty": 3,
       "tags": [
-        "Bomb Open",
-        "Dungeon",
-        "Cracked"
+        "bomb open",
+        "dungeon",
+        "cracked"
       ]
     },
     {
       "text": "Bomb open a cracked door in any dungeon",
       "difficulty": 3,
       "tags": [
-        "Bomb Open",
-        "Dungeon",
-        "Door"
+        "bomb open",
+        "dungeon",
+        "door"
       ]
     },
     {
       "text": "Move or destroy a wall in any dungeon",
       "difficulty": 3,
       "tags": [
-        "Dungeon"
+        "dungeon"
       ]
     },
     {
       "text": "Hit Crystal Switch with Frozen Enemy",
       "difficulty": 3,
       "tags": [
-        "Crystal"
+        "crystal"
       ]
     },
     {
       "text": "Read 3 Dark World Dungeon Telepathic Tiles",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Dark World",
-        "Tile"
+        "world dungeon",
+        "dark world",
+        "tile"
       ]
     },
     {
       "text": "2 Dungeon Blue Rupee Rooms",
       "difficulty": 3,
       "tags": [
-        "Dungeon",
-        "Room",
-        "Rupee"
+        "dungeon",
+        "room",
+        "rupee"
       ]
     },
     {
       "text": "Spawn a chest in 2 dungeons",
       "difficulty": 3,
       "tags": [
-        "Chest",
-        "Dungeon"
+        "chest",
+        "dungeon"
       ]
     },
     {
@@ -637,41 +637,41 @@
       "text": "Clear 2 Tile Rooms",
       "difficulty": 3,
       "tags": [
-        "Room",
-        "Tile"
+        "room",
+        "tile"
       ]
     },
     {
       "text": "Finish in a Light World Dungeon Fairy Room",
       "difficulty": 3,
       "tags": [
-        "World Dungeon",
-        "Light World",
-        "Room"
+        "world dungeon",
+        "light world",
+        "room"
       ]
     },
     {
       "text": "Finish in a Dark Room",
       "difficulty": 3,
       "tags": [
-        "Room",
-        "Dark"
+        "room",
+        "dark"
       ]
     },
     {
       "text": "Finish in a Rupee Floor Room",
       "difficulty": 3,
       "tags": [
-        "Room",
-        "Rupee",
-        "Floor"
+        "room",
+        "rupee",
+        "floor"
       ]
     },
     {
       "text": "Finish in a Trap Room",
       "difficulty": 3,
       "tags": [
-        "Room"
+        "room"
       ]
     },
     {
@@ -683,28 +683,28 @@
       "text": "Finish in a Room with a Bumper",
       "difficulty": 3,
       "tags": [
-        "Room"
+        "room"
       ]
     },
     {
       "text": "Finish in a Room with an Orange Warp",
       "difficulty": 3,
       "tags": [
-        "Room"
+        "room"
       ]
     },
     {
       "text": "Finish in a Room with a Firebar",
       "difficulty": 3,
       "tags": [
-        "Room"
+        "room"
       ]
     },
     {
       "text": "Finish in a Room with a Firesnake",
       "difficulty": 3,
       "tags": [
-        "Room"
+        "room"
       ]
     },
     {
@@ -731,52 +731,52 @@
       "text": "Defeat a Red Eyegore and Red Mimic",
       "difficulty": 3,
       "tags": [
-        "Mimic"
+        "mimic"
       ]
     },
     {
       "text": "Burn a Floating Stalfos Skull",
       "difficulty": 3,
       "tags": [
-        "Skull",
-        "Burn"
+        "skull",
+        "burn"
       ]
     },
     {
       "text": "Burn a Ball + Chain Trooper",
       "difficulty": 3,
       "tags": [
-        "Burn"
+        "burn"
       ]
     },
     {
       "text": "Freeze a Dodongo",
       "difficulty": 3,
       "tags": [
-        "Freeze"
+        "freeze"
       ]
     },
     {
       "text": "Freeze a Bomb Slug",
       "difficulty": 3,
       "tags": [
-        "Bomb",
-        "Freeze"
+        "bomb",
+        "freeze"
       ]
     },
     {
       "text": "Stun a Pikit",
       "difficulty": 3,
       "tags": [
-        "Stun"
+        "stun"
       ]
     },
     {
       "text": "Stun a Turtle",
       "difficulty": 3,
       "tags": [
-        "Turtle",
-        "Stun"
+        "turtle",
+        "stun"
       ]
     },
     {
@@ -788,7 +788,7 @@
       "text": "Collect the Lantern",
       "difficulty": 3,
       "tags": [
-        "Lantern"
+        "lantern"
       ]
     },
     {
@@ -810,46 +810,46 @@
       "text": "Bottled Bee",
       "difficulty": 3,
       "tags": [
-        "Bottled"
+        "bottled"
       ]
     },
     {
       "text": "Bottled Faerie",
       "difficulty": 3,
       "tags": [
-        "Bottled",
-        "Faerie"
+        "bottled",
+        "faerie"
       ]
     },
     {
       "text": "Bottled Potion",
       "difficulty": 3,
       "tags": [
-        "Bottled"
+        "bottled"
       ]
     },
     {
       "text": "Lantern or Fire Rod",
       "difficulty": 3,
       "tags": [
-        "Rod",
-        "Lantern"
+        "rod",
+        "lantern"
       ]
     },
     {
       "text": "Collect Rod + Cane of the same color",
       "difficulty": 3,
       "tags": [
-        "Rod Cane",
-        "Color"
+        "rod cane",
+        "color"
       ]
     },
     {
       "text": "Collect Rod + Cane of opposite colors",
       "difficulty": 3,
       "tags": [
-        "Rod Cane",
-        "Color"
+        "rod cane",
+        "color"
       ]
     },
     {
@@ -861,22 +861,22 @@
       "text": "Upgrade Shield",
       "difficulty": 3,
       "tags": [
-        "Upgrade"
+        "upgrade"
       ]
     },
     {
       "text": "Upgrade Sword",
       "difficulty": 3,
       "tags": [
-        "Upgrade",
-        "Sword"
+        "upgrade",
+        "sword"
       ]
     },
     {
       "text": "Visit the Catfish with a Follower",
       "difficulty": 3,
       "tags": [
-        "Follower"
+        "follower"
       ]
     },
     {
@@ -888,23 +888,23 @@
       "text": "Buy from 2 Shops in each World",
       "difficulty": 3,
       "tags": [
-        "World"
+        "world"
       ]
     },
     {
       "text": "4 NPC/Object Followers",
       "difficulty": 3,
       "tags": [
-        "Follower"
+        "follower"
       ]
     },
     {
       "text": "Reveal a Hidden Cave under a rock in both Worlds",
       "difficulty": 3,
       "tags": [
-        "World",
-        "Rock",
-        "Cave"
+        "world",
+        "rock",
+        "cave"
       ]
     },
     {

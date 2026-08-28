@@ -327,6 +327,11 @@ Board generation penalises placing two goals that share one near each other, so
 a tag earns its keep only when several goals carry it — a tag on a single goal
 does nothing at all.
 
+**Tags are lowercase, everywhere.** They are matched literally, so case used to
+split families without saying anything: banjo-tooie carried `jiggies` on 34
+goals and `Jiggies` on one, and those two never pushed each other apart. Five
+other lists had the same split.
+
 Most lists were tagged by hand and that vocabulary is better than anything a
 machine would derive from the text. Lists imported from sources that carried no
 tags are the gap, and `tools/generate-tags.js` fills it:
@@ -363,6 +368,15 @@ families are bound to meet. A bigger list, not better tags, is the fix there.
 
 Goals still without tags are ones whose wording it shares with nothing else in
 the list, where a tag would have no one to push against.
+
+### Typos
+
+There is no automated spelling pass, and attempts at one are not worth keeping:
+these lists are full of proper nouns and game jargon, so a dictionary flags
+Ghast, Korok and Lynel while missing the things that are actually wrong. Fixes
+are made when someone spots one, and checked against how the rest of the repo
+spells the same word — `Pacifict` was corrected to `Pacifist` because five other
+lists already spelled it that way.
 
 ---
 

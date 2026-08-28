@@ -110,7 +110,7 @@
       "text": "4 Badges",
       "difficulty": 1,
       "tags": [
-        "Badges"
+        "badges"
       ]
     },
     {
@@ -348,7 +348,7 @@
       "text": "Tentacruel",
       "difficulty": 3,
       "tags": [
-        "Surf"
+        "surf"
       ]
     },
     {
@@ -369,7 +369,7 @@
       "text": "Lapras",
       "difficulty": 3,
       "tags": [
-        "Silph"
+        "silph"
       ]
     },
     {
@@ -383,7 +383,7 @@
       "text": "Gyarados",
       "difficulty": 3,
       "tags": [
-        "Gyarados"
+        "gyarados"
       ]
     },
     {
@@ -544,7 +544,7 @@
       "text": "Psyduck",
       "difficulty": 4,
       "tags": [
-        "Seafoam"
+        "seafoam"
       ]
     },
     {
@@ -621,7 +621,7 @@
       "text": "Defeat a Slowbro",
       "difficulty": 5,
       "tags": [
-        "Slowbro"
+        "slowbro"
       ]
     },
     {

@@ -5,412 +5,412 @@
       "text": "Sleep in a bed",
       "difficulty": 1,
       "tags": [
-        "STABLE",
-        "TOWN"
+        "stable",
+        "town"
       ]
     },
     {
       "text": "Feed a dog",
       "difficulty": 1,
       "tags": [
-        "STABLE",
-        "TOWN",
-        "DOG"
+        "stable",
+        "town",
+        "dog"
       ]
     },
     {
       "text": "Get a dog to lead you to treasure",
       "difficulty": 1,
       "tags": [
-        "STABLE",
-        "TOWN",
-        "DOG"
+        "stable",
+        "town",
+        "dog"
       ]
     },
     {
       "text": "Read Paya's diary that mentions Link without teleporting to any shrine in Necluda",
       "difficulty": 1,
       "tags": [
-        "KAKARIKO VILLAGE"
+        "kakariko village"
       ]
     },
     {
       "text": "Talk to a child Zora",
       "difficulty": 1,
       "tags": [
-        "ZORA'S DOMAIN"
+        "zora's domain"
       ]
     },
     {
       "text": "Talk to a child Rito",
       "difficulty": 1,
       "tags": [
-        "RITO VILLAGE"
+        "rito village"
       ]
     },
     {
       "text": "Talk to a child Goron",
       "difficulty": 1,
       "tags": [
-        "GORON CITY"
+        "goron city"
       ]
     },
     {
       "text": "Meet a Moblin wearing a Moblin Mask",
       "difficulty": 1,
       "tags": [
-        "KILTON",
-        "MOBLIN",
-        "MOB"
+        "kilton",
+        "moblin",
+        "mob"
       ]
     },
     {
       "text": "Meet a Bokoblin wearing a Bokoblin Mask",
       "difficulty": 1,
       "tags": [
-        "KILTON",
-        "BOKOBLIN",
-        "MOB"
+        "kilton",
+        "bokoblin",
+        "mob"
       ]
     },
     {
       "text": "Meet a Lizalfos wearing a Lizalfos mask",
       "difficulty": 1,
       "tags": [
-        "KILTON",
-        "LIZALFOS",
-        "MOB"
+        "kilton",
+        "lizalfos",
+        "mob"
       ]
     },
     {
       "text": "Hit an mob with a Spring-Loaded Hammer and sent it flying",
       "difficulty": 2,
       "tags": [
-        "KILTON",
-        "BATTLE",
-        "MOB"
+        "kilton",
+        "battle",
+        "mob"
       ]
     },
     {
       "text": "Find a Ball and Chain Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "MAGNESIS"
+        "korok",
+        "magnesis"
       ]
     },
     {
       "text": "Find a Block Puzzle Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "MAGNESIS"
+        "korok",
+        "magnesis"
       ]
     },
     {
       "text": "Find a Boulder (Hole) Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "STASIS"
+        "korok",
+        "stasis"
       ]
     },
     {
       "text": "Find a Boulder (Goal) Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "STASIS"
+        "korok",
+        "stasis"
       ]
     },
     {
       "text": "Find a Disappearing Flower Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Find a Fruit Tree Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Find Hestu's Maracas",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "HESTU",
-        "BATTLE"
+        "korok",
+        "hestu",
+        "battle"
       ]
     },
     {
       "text": "Find a Trapped in Ice Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Find a Lily Circle Korok",
       "difficulty": 2,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Drop a rock on a Korok's head",
       "difficulty": 3,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Find an Offering Korok (outside of Kakariko)",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "FRUIT"
+        "korok",
+        "fruit"
       ]
     },
     {
       "text": "Find a Petroglyph (Rock Circle) Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Find a Pinwheel Archery (Balloon/Acorn) Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "BOW"
+        "korok",
+        "bow"
       ]
     },
     {
       "text": "Find an (Under a) Rock Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Meet Hestu in the Korok Forest",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "HESTU",
-        "KOROK FOREST"
+        "korok",
+        "hestu",
+        "korok forest"
       ]
     },
     {
       "text": "Find a Rock Throw Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "WATER"
+        "korok",
+        "water"
       ]
     },
     {
       "text": "Find a Tree Stump Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "GLIDER"
+        "korok",
+        "glider"
       ]
     },
     {
       "text": "Find an Acorn Korok",
       "difficulty": 3,
       "tags": [
-        "KOROK",
-        "BOW"
+        "korok",
+        "bow"
       ]
     },
     {
       "text": "Distract a Mob with some food",
       "difficulty": 3,
       "tags": [
-        "FOOD",
-        "MOB"
+        "food",
+        "mob"
       ]
     },
     {
       "text": "Find a Moving Sparkle Korok",
       "difficulty": 4,
       "tags": [
-        "KOROK"
+        "korok"
       ]
     },
     {
       "text": "Scare a cucco into laying an egg",
       "difficulty": 4,
       "tags": [
-        "CUCCO",
-        "WEAPON"
+        "cucco",
+        "weapon"
       ]
     },
     {
       "text": "Get a Moblin to throw a Bokoblin",
       "difficulty": 4,
       "tags": [
-        "MOBLIN",
-        "BOKOBLIN",
-        "MOB"
+        "moblin",
+        "bokoblin",
+        "mob"
       ]
     },
     {
       "text": "Meet a Lynel wearing a Lynel Mask",
       "difficulty": 4,
       "tags": [
-        "KILTON",
-        "LYNEL",
-        "MOB"
+        "kilton",
+        "lynel",
+        "mob"
       ]
     },
     {
       "text": "Find a Fence Hurdle Korok",
       "difficulty": 4,
       "tags": [
-        "KOROK",
-        "HORSE"
+        "korok",
+        "horse"
       ]
     },
     {
       "text": "Complete the \"Trial of Second Sight\" Quest",
       "difficulty": 4,
       "tags": [
-        "KOROK",
-        "KOROK FOREST",
-        "QUEST"
+        "korok",
+        "korok forest",
+        "quest"
       ]
     },
     {
       "text": "Throw a Boomerang at a Lizalfos",
       "difficulty": 4,
       "tags": [
-        "LIZALFOS",
-        "BOOMERANG",
-        "MOB"
+        "lizalfos",
+        "boomerang",
+        "mob"
       ]
     },
     {
       "text": "Get a Bokoblin or Moblin to use a Deku Leaf as a weapon",
       "difficulty": 4,
       "tags": [
-        "BOKOBLIN",
-        "MOBLIN",
-        "DEKU LEAF",
-        "BATTLE"
+        "bokoblin",
+        "moblin",
+        "deku leaf",
+        "battle"
       ]
     },
     {
       "text": "Complete the \"Test of Wood\" Quest",
       "difficulty": 4,
       "tags": [
-        "KOROK",
-        "KOROK FOREST",
-        "QUEST"
+        "korok",
+        "korok forest",
+        "quest"
       ]
     },
     {
       "text": "Complete the \"Lost Pilgrimage\" Quest",
       "difficulty": 4,
       "tags": [
-        "KOROK",
-        "KOROK FOREST",
-        "QUEST"
+        "korok",
+        "korok forest",
+        "quest"
       ]
     },
     {
       "text": "Shoot a Blupee",
       "difficulty": 5,
       "tags": [
-        "BLUPEE",
-        "BOW"
+        "blupee",
+        "bow"
       ]
     },
     {
       "text": "Sneak into a meeting on Satori Mountain",
       "difficulty": 5,
       "tags": [
-        "SATORI MOUNTAIN"
+        "satori mountain"
       ]
     },
     {
       "text": "Complete the \"A Gift of Nightshade\" Quest",
       "difficulty": 5,
       "tags": [
-        "LOVER'S POND",
-        "FLOWER",
-        "QUEST"
+        "lover's pond",
+        "flower",
+        "quest"
       ]
     },
     {
       "text": "Make a Creamy Heart Soup after taking a cooking class from Ashai in Gerudo Town",
       "difficulty": 5,
       "tags": [
-        "FOOD",
-        "GERUDO TOWN"
+        "food",
+        "gerudo town"
       ]
     },
     {
       "text": "Find the 'Booty' Memory",
       "difficulty": 5,
       "tags": [
-        "MEMORY",
-        "ZELDA"
+        "memory",
+        "zelda"
       ]
     },
     {
       "text": "Find the \"Mipha's Touch\" Memory",
       "difficulty": 5,
       "tags": [
-        "MEMORY",
-        "VAH RUTA",
-        "ZORA'S DOMAIN",
-        "QUEST"
+        "memory",
+        "vah ruta",
+        "zora's domain",
+        "quest"
       ]
     },
     {
       "text": "Complete the \"A Gift for My Beloved\" Quest",
       "difficulty": 5,
       "tags": [
-        "QUEST",
-        "HATENO VILLAGE",
-        "RESTLESS CRICKET"
+        "quest",
+        "hateno village",
+        "restless cricket"
       ]
     },
     {
       "text": "Defeat a Mob with a Cucco army",
       "difficulty": 5,
       "tags": [
-        "MOB",
-        "CUCCO",
-        "PUZZLE"
+        "mob",
+        "cucco",
+        "puzzle"
       ]
     },
     {
       "text": "Complete the \"Recital at Warbler's Nest\" Quest",
       "difficulty": 5,
       "tags": [
-        "RITO VILLAGE",
-        "QUEST"
+        "rito village",
+        "quest"
       ]
     },
     {
       "text": "Attend Hudson's Wedding",
       "difficulty": 5,
       "tags": [
-        "TARREY TOWN",
-        "QUEST",
-        "RITO VILLAGE",
-        "GERUDO TOWN",
-        "GORON CITY",
-        "HATENO VILLAGE"
+        "tarrey town",
+        "quest",
+        "rito village",
+        "gerudo town",
+        "goron city",
+        "hateno village"
       ]
     }
   ]

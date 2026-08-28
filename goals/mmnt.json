@@ -5,369 +5,369 @@
       "text": "Slide under a jumping virus 10 times without getting landed on",
       "difficulty": 1,
       "tags": [
-        "EXPLORE",
-        "VIRUS"
+        "explore",
+        "virus"
       ]
     },
     {
       "text": "Find a Hidden Item",
       "difficulty": 1,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Skip a battle by using Invis",
       "difficulty": 1,
       "tags": [
-        "CHIP"
+        "chip"
       ]
     },
     {
       "text": "Use a FullEnrg in a Boss Battle",
       "difficulty": 1,
       "tags": [
-        "ITEM",
-        "HUNT",
-        "BOSS"
+        "item",
+        "hunt",
+        "boss"
       ]
     },
     {
       "text": "Max out a Battlechip",
       "difficulty": 1,
       "tags": [
-        "CHIP"
+        "chip"
       ]
     },
     {
       "text": "Get a BckupChp",
       "difficulty": 1,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Max out Double Jump Battlechips",
       "difficulty": 1,
       "tags": [
-        "CHIP",
-        "HUNT",
-        "VIRUS"
+        "chip",
+        "hunt",
+        "virus"
       ]
     },
     {
       "text": "Delete every enemy in a level",
       "difficulty": 1,
       "tags": [
-        "HUNT",
-        "EXPLORE",
-        "VIRUS"
+        "hunt",
+        "explore",
+        "virus"
       ]
     },
     {
       "text": "Delete a Mettaur that's head is still down",
       "difficulty": 1,
       "tags": [
-        "HUNT",
-        "VIRUS"
+        "hunt",
+        "virus"
       ]
     },
     {
       "text": "Dodge a bomb by sliding 10 times in a row",
       "difficulty": 1,
       "tags": [
-        "EXPLORE",
-        "VIRUS"
+        "explore",
+        "virus"
       ]
     },
     {
       "text": "Delete a Cannon after it has locked on",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "VIRUS"
+        "hunt",
+        "virus"
       ]
     },
     {
       "text": "Get 8 HPMemorys",
       "difficulty": 2,
       "tags": [
-        "EXPLORE",
-        "ITEM"
+        "explore",
+        "item"
       ]
     },
     {
       "text": "Use a Program Advance",
       "difficulty": 2,
       "tags": [
-        "CHIP"
+        "chip"
       ]
     },
     {
       "text": "Get 3 PowerUPs",
       "difficulty": 2,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Delete 5 of each enemy in an area",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "EXPLORE",
-        "VIRUS"
+        "hunt",
+        "explore",
+        "virus"
       ]
     },
     {
       "text": "Get 4 MemUPs",
       "difficulty": 2,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Beat a Miniboss without using charged Buster shots or battlechips",
       "difficulty": 2,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "Use 3 Unlockers",
       "difficulty": 2,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Get 2 RegUPs",
       "difficulty": 2,
       "tags": [
-        "ITEM",
-        "EXPLORE"
+        "item",
+        "explore"
       ]
     },
     {
       "text": "Get a Fire, Aqua, and Elec Swrd",
       "difficulty": 2,
       "tags": [
-        "CHIP",
-        "HUNT",
-        "EXPLORE"
+        "chip",
+        "hunt",
+        "explore"
       ]
     },
     {
       "text": "Get a Fire, Aqua, and Elec Blde",
       "difficulty": 3,
       "tags": [
-        "CHIP",
-        "EXPLORE"
+        "chip",
+        "explore"
       ]
     },
     {
       "text": "Defeat a Boss with a Program Advance",
       "difficulty": 3,
       "tags": [
-        "CHIP",
-        "BOSS",
-        "HUNT"
+        "chip",
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank TorchMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank NeedleMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank IceMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank BrightMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank ElecMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "Get GoldFist",
       "difficulty": 3,
       "tags": [
-        "CHIP",
-        "EXPLORE"
+        "chip",
+        "explore"
       ]
     },
     {
       "text": "S-Rank GutsMan.exe in Simulator without Invis",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "Survive being hit my a Security Beam in QuickMan's stage",
       "difficulty": 3,
       "tags": [
-        "SURVIVE",
-        "CHIP"
+        "survive",
+        "chip"
       ]
     },
     {
       "text": "S-Rank QuickMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank ColorMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank ShadowMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank SwordMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "Get FireArmr",
       "difficulty": 4,
       "tags": [
-        "SHOP"
+        "shop"
       ]
     },
     {
       "text": "Get WoodArmr",
       "difficulty": 4,
       "tags": [
-        "SHOP"
+        "shop"
       ]
     },
     {
       "text": "Get ElecArmr",
       "difficulty": 4,
       "tags": [
-        "SHOP"
+        "shop"
       ]
     },
     {
       "text": "Get AquaArmr",
       "difficulty": 4,
       "tags": [
-        "SHOP"
+        "shop"
       ]
     },
     {
       "text": "S-Rank GravityMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank PharoahMan.exe in Simulator without Invis",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank StarMan.exe in Simulator without Invis",
       "difficulty": 5,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "S-Rank ProtoMan.exe in Simulator without Invis",
       "difficulty": 5,
       "tags": [
-        "BOSS",
-        "HUNT"
+        "boss",
+        "hunt"
       ]
     },
     {
       "text": "Save Zero",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS",
-        "EXPLORE"
+        "hunt",
+        "boss",
+        "explore"
       ]
     },
     {
       "text": "Get Aqua, Fire, Wood, and Elec Auras",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "EXPLORE",
-        "VIRUS"
+        "hunt",
+        "explore",
+        "virus"
       ]
     },
     {
       "text": "Beat Bass",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS"
+        "hunt",
+        "boss"
       ]
     },
     {
       "text": "Beat Zero with only Buster and without Invis",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS"
+        "hunt",
+        "boss"
       ]
     }
   ]

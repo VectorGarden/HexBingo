@@ -5,14 +5,14 @@
       "text": "Red Coin Star in WF",
       "difficulty": 1,
       "tags": [
-        "WF"
+        "wf"
       ]
     },
     {
       "text": "100 Coin Star in WF",
       "difficulty": 1,
       "tags": [
-        "WF"
+        "wf"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "text": "Beat the King in BOB",
       "difficulty": 1,
       "tags": [
-        "BOB"
+        "bob"
       ]
     },
     {
@@ -61,7 +61,7 @@
       "text": "Collect 120 Coins in one stage",
       "difficulty": 1,
       "tags": [
-        "WF",
+        "wf",
         "hundredcoin"
       ]
     },
@@ -69,7 +69,7 @@
       "text": "100 Coin Star in CCM",
       "difficulty": 1,
       "tags": [
-        "CCM"
+        "ccm"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "text": "Mario Wings to the Sky BOB",
       "difficulty": 1,
       "tags": [
-        "BOB",
+        "bob",
         "wingcap"
       ]
     },
@@ -112,14 +112,14 @@
       "text": "Red Coin Star in HMC",
       "difficulty": 1,
       "tags": [
-        "HMC"
+        "hmc"
       ]
     },
     {
       "text": "All Stars in Whomps",
       "difficulty": 1,
       "tags": [
-        "WF"
+        "wf"
       ]
     },
     {
@@ -140,14 +140,14 @@
       "text": "Red Coin Star in TTM",
       "difficulty": 1,
       "tags": [
-        "TTM"
+        "ttm"
       ]
     },
     {
       "text": "Cruiser Crossing the Rainbow RR",
       "difficulty": 1,
       "tags": [
-        "RR"
+        "rr"
       ]
     },
     {
@@ -161,21 +161,21 @@
       "text": "Secrets Star in THI",
       "difficulty": 1,
       "tags": [
-        "THI"
+        "thi"
       ]
     },
     {
       "text": "Secrets Star in WDW",
       "difficulty": 2,
       "tags": [
-        "WDW"
+        "wdw"
       ]
     },
     {
       "text": "Red Coin Star in BOB",
       "difficulty": 2,
       "tags": [
-        "BOB"
+        "bob"
       ]
     },
     {
@@ -192,7 +192,7 @@
       "text": "Red Coin Star in BBH",
       "difficulty": 2,
       "tags": [
-        "BBH"
+        "bbh"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "text": "100 Coin Star in LLL",
       "difficulty": 2,
       "tags": [
-        "LLL"
+        "lll"
       ]
     },
     {
@@ -220,7 +220,7 @@
       "text": "Red Coin Star in SSL",
       "difficulty": 2,
       "tags": [
-        "SSL",
+        "ssl",
         "wingcap"
       ]
     },
@@ -228,28 +228,28 @@
       "text": "All Stars in CCM",
       "difficulty": 2,
       "tags": [
-        "CCM"
+        "ccm"
       ]
     },
     {
       "text": "100 Coin Star in JRB",
       "difficulty": 2,
       "tags": [
-        "JRB"
+        "jrb"
       ]
     },
     {
       "text": "Red Coin Star in WDW",
       "difficulty": 2,
       "tags": [
-        "WDW"
+        "wdw"
       ]
     },
     {
       "text": "Eye in the Secret Room BBH",
       "difficulty": 2,
       "tags": [
-        "BBH",
+        "bbh",
         "vanishcap"
       ]
     },
@@ -265,14 +265,14 @@
       "text": "100 Coin Star in WDW",
       "difficulty": 2,
       "tags": [
-        "WDW"
+        "wdw"
       ]
     },
     {
       "text": "100 Coin Star in TTC",
       "difficulty": 2,
       "tags": [
-        "TTC"
+        "ttc"
       ]
     },
     {
@@ -286,14 +286,14 @@
       "text": "100 Coin Star in SSL",
       "difficulty": 2,
       "tags": [
-        "SSL"
+        "ssl"
       ]
     },
     {
       "text": "Into the Igloo SL",
       "difficulty": 2,
       "tags": [
-        "SL",
+        "sl",
         "vanishcap"
       ]
     },
@@ -315,14 +315,14 @@
       "text": "Red Coin Star in JRB",
       "difficulty": 3,
       "tags": [
-        "JRB"
+        "jrb"
       ]
     },
     {
       "text": "Mystery of the Monkey Cage TTM",
       "difficulty": 3,
       "tags": [
-        "TTM"
+        "ttm"
       ]
     },
     {
@@ -336,7 +336,7 @@
       "text": "Collect the Caps DDD",
       "difficulty": 3,
       "tags": [
-        "DDD",
+        "ddd",
         "vanishcap"
       ]
     },
@@ -354,22 +354,22 @@
       "text": "100 Coin Star in TTM",
       "difficulty": 3,
       "tags": [
-        "TTM"
+        "ttm"
       ]
     },
     {
       "text": "4 Stars each from SSL and HMC",
       "difficulty": 3,
       "tags": [
-        "SSL",
-        "HMC"
+        "ssl",
+        "hmc"
       ]
     },
     {
       "text": "All Stars in LLL",
       "difficulty": 3,
       "tags": [
-        "LLL"
+        "lll"
       ]
     },
     {
@@ -383,7 +383,7 @@
       "text": "Race Through Downtown WDW",
       "difficulty": 3,
       "tags": [
-        "WDW",
+        "wdw",
         "vanishcap"
       ]
     },
@@ -391,43 +391,43 @@
       "text": "100 Coin Star in HMC",
       "difficulty": 3,
       "tags": [
-        "HMC"
+        "hmc"
       ]
     },
     {
       "text": "100 Coin Star in THI",
       "difficulty": 3,
       "tags": [
-        "THI"
+        "thi"
       ]
     },
     {
       "text": "100 Coin Star in DDD",
       "difficulty": 3,
       "tags": [
-        "DDD"
+        "ddd"
       ]
     },
     {
       "text": "4 Stars each from BOB and CCM",
       "difficulty": 3,
       "tags": [
-        "BOB",
-        "CCM"
+        "bob",
+        "ccm"
       ]
     },
     {
       "text": "100 Coin Star in RR",
       "difficulty": 3,
       "tags": [
-        "RR"
+        "rr"
       ]
     },
     {
       "text": "100 Coin Star in BOB",
       "difficulty": 3,
       "tags": [
-        "BOB",
+        "bob",
         "wingcap"
       ]
     },
@@ -442,7 +442,7 @@
       "text": "100 Coin Star in BBH",
       "difficulty": 3,
       "tags": [
-        "BBH"
+        "bbh"
       ]
     },
     {
@@ -456,16 +456,16 @@
       "text": "Defeat all 4 Mini-Bosses",
       "difficulty": 3,
       "tags": [
-        "SSL",
-        "THI"
+        "ssl",
+        "thi"
       ]
     },
     {
       "text": "3 Stars each from JRB and BBH",
       "difficulty": 3,
       "tags": [
-        "JRB",
-        "BBH"
+        "jrb",
+        "bbh"
       ]
     },
     {
@@ -479,7 +479,7 @@
       "text": "100 Coin Star in SL",
       "difficulty": 3,
       "tags": [
-        "SL",
+        "sl",
         "vanishcap"
       ]
     },
@@ -487,7 +487,7 @@
       "text": "Rematch with Koopa the Quick THI",
       "difficulty": 3,
       "tags": [
-        "THI"
+        "thi"
       ]
     },
     {
@@ -518,29 +518,29 @@
       "text": "All Stars in JRB",
       "difficulty": 4,
       "tags": [
-        "JRB"
+        "jrb"
       ]
     },
     {
       "text": "5 Stars in SL",
       "difficulty": 4,
       "tags": [
-        "SL"
+        "sl"
       ]
     },
     {
       "text": "3 Stars each from TTC and RR",
       "difficulty": 4,
       "tags": [
-        "TTC",
-        "RR"
+        "ttc",
+        "rr"
       ]
     },
     {
       "text": "All Stars in HMC",
       "difficulty": 4,
       "tags": [
-        "HMC"
+        "hmc"
       ]
     },
     {
@@ -563,37 +563,37 @@
       "text": "5 Stars in DDD",
       "difficulty": 4,
       "tags": [
-        "DDD"
+        "ddd"
       ]
     },
     {
       "text": "4 Stars each from JRB and DDD",
       "difficulty": 4,
       "tags": [
-        "JRB",
-        "DDD"
+        "jrb",
+        "ddd"
       ]
     },
     {
       "text": "3 Stars each from THI and TTM",
       "difficulty": 4,
       "tags": [
-        "THI",
-        "TTM"
+        "thi",
+        "ttm"
       ]
     },
     {
       "text": "All Stars in BOB",
       "difficulty": 4,
       "tags": [
-        "BOB"
+        "bob"
       ]
     },
     {
       "text": "All Stars in TTC",
       "difficulty": 4,
       "tags": [
-        "TTC"
+        "ttc"
       ]
     },
     {
@@ -609,7 +609,7 @@
       "text": "5 Stars in BBH",
       "difficulty": 4,
       "tags": [
-        "BBH"
+        "bbh"
       ]
     },
     {
@@ -623,21 +623,21 @@
       "text": "All Stars in SSL",
       "difficulty": 4,
       "tags": [
-        "SSL"
+        "ssl"
       ]
     },
     {
       "text": "6 Stars in WDW",
       "difficulty": 4,
       "tags": [
-        "WDW"
+        "wdw"
       ]
     },
     {
       "text": "6 Stars in SSL",
       "difficulty": 4,
       "tags": [
-        "SSL"
+        "ssl"
       ]
     },
     {
@@ -652,9 +652,9 @@
       "text": "Win All 3 Character Races",
       "difficulty": 5,
       "tags": [
-        "BOB",
-        "CCM",
-        "THI"
+        "bob",
+        "ccm",
+        "thi"
       ]
     },
     {
@@ -669,7 +669,7 @@
       "text": "All Stars in TTM",
       "difficulty": 5,
       "tags": [
-        "TTM"
+        "ttm"
       ]
     },
     {
@@ -691,7 +691,7 @@
       "text": "6 Stars in RR",
       "difficulty": 5,
       "tags": [
-        "RR"
+        "rr"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "text": "All Stars in Snowmans",
       "difficulty": 5,
       "tags": [
-        "SL",
+        "sl",
         "vanishcap"
       ]
     },
@@ -720,21 +720,21 @@
       "text": "6 Stars in BBH",
       "difficulty": 5,
       "tags": [
-        "BBH"
+        "bbh"
       ]
     },
     {
       "text": "6 Stars in DDD",
       "difficulty": 5,
       "tags": [
-        "DDD"
+        "ddd"
       ]
     },
     {
       "text": "All Stars in WDW",
       "difficulty": 5,
       "tags": [
-        "WDW",
+        "wdw",
         "vanishcap"
       ]
     },
@@ -742,14 +742,14 @@
       "text": "All Stars in THI",
       "difficulty": 5,
       "tags": [
-        "THI"
+        "thi"
       ]
     },
     {
       "text": "All Stars in BBH",
       "difficulty": 5,
       "tags": [
-        "BBH",
+        "bbh",
         "vanishcap"
       ]
     },
@@ -764,7 +764,7 @@
       "text": "All Stars in DDD",
       "difficulty": 5,
       "tags": [
-        "DDD",
+        "ddd",
         "vanishcap"
       ]
     },
@@ -772,7 +772,7 @@
       "text": "All Stars in RR",
       "difficulty": 5,
       "tags": [
-        "RR"
+        "rr"
       ]
     }
   ]

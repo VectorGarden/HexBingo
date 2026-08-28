@@ -5,458 +5,458 @@
       "text": "Beat an Auto-Mario Level",
       "difficulty": 1,
       "tags": [
-        "BEAT"
+        "beat"
       ]
     },
     {
       "text": "Create and Submit a Level",
       "difficulty": 1,
       "tags": [
-        "CREATE"
+        "create"
       ]
     },
     {
       "text": "Get a 1-UP by touching top of flagpole or gate",
       "difficulty": 1,
       "tags": [
-        "LIFE",
-        "BEAT"
+        "life",
+        "beat"
       ]
     },
     {
       "text": "Get crushed",
       "difficulty": 1,
       "tags": [
-        "DIE",
-        "CRUSH"
+        "die",
+        "crush"
       ]
     },
     {
       "text": "Get 100 Coins in a Level",
       "difficulty": 1,
       "tags": [
-        "COIN"
+        "coin"
       ]
     },
     {
       "text": "Beat a level in Ghost House Theme",
       "difficulty": 1,
       "tags": [
-        "BEAT",
-        "GHOST_HOUSE"
+        "beat",
+        "ghost_house"
       ]
     },
     {
       "text": "Grab the axe in castle",
       "difficulty": 1,
       "tags": [
-        "CASTLE",
-        "BEAT"
+        "castle",
+        "beat"
       ]
     },
     {
       "text": "Beat a level and get 3 1-UPs [Normal +]",
       "difficulty": 1,
       "tags": [
-        "LIFE",
-        "BEAT"
+        "life",
+        "beat"
       ]
     },
     {
       "text": "Beat a level in Night Mode",
       "difficulty": 1,
       "tags": [
-        "BEAT",
-        "NIGHT"
+        "beat",
+        "night"
       ]
     },
     {
       "text": "Sacrifice a Yoshi to achieve a higher jump",
       "difficulty": 2,
       "tags": [
-        "YOSHI"
+        "yoshi"
       ]
     },
     {
       "text": "Beat a Level without collecting a power-up",
       "difficulty": 2,
       "tags": [
-        "BEAT",
-        "NO_DAMAGE"
+        "beat",
+        "no_damage"
       ]
     },
     {
       "text": "Die to a dry bones",
       "difficulty": 2,
       "tags": [
-        "DIE",
-        "DRY_BONES"
+        "die",
+        "dry_bones"
       ]
     },
     {
       "text": "Get 1-UP by using Koopa Shell",
       "difficulty": 2,
       "tags": [
-        "LIFE",
-        "SHELL"
+        "life",
+        "shell"
       ]
     },
     {
       "text": "Get 100k Points in a level",
       "difficulty": 2,
       "tags": [
-        "POINT"
+        "point"
       ]
     },
     {
       "text": "Die to fire",
       "difficulty": 2,
       "tags": [
-        "DIE",
-        "FIRE"
+        "die",
+        "fire"
       ]
     },
     {
       "text": "Beat a level without using a checkpoint",
       "difficulty": 2,
       "tags": [
-        "BEAT"
+        "beat"
       ]
     },
     {
       "text": "Beat a boss with a star",
       "difficulty": 2,
       "tags": [
-        "STAR",
-        "BOSS"
+        "star",
+        "boss"
       ]
     },
     {
       "text": "Die to an angry wiggler",
       "difficulty": 2,
       "tags": [
-        "DIE",
-        "WIGGLER"
+        "die",
+        "wiggler"
       ]
     },
     {
       "text": "Get a 1-UP by stomping on 8 Goombas in a row",
       "difficulty": 2,
       "tags": [
-        "LIFE",
-        "GOOMBA"
+        "life",
+        "goomba"
       ]
     },
     {
       "text": "Get a WR in a Level",
       "difficulty": 2,
       "tags": [
-        "BEAT",
-        "WORLD_RECORD"
+        "beat",
+        "world_record"
       ]
     },
     {
       "text": "Die from Death trap",
       "difficulty": 2,
       "tags": [
-        "DIE",
-        "TRAP"
+        "die",
+        "trap"
       ]
     },
     {
       "text": "Beat 7 Easy Levels",
       "difficulty": 3,
       "tags": [
-        "BEAT",
-        "EASY"
+        "beat",
+        "easy"
       ]
     },
     {
       "text": "Beat 5 Normal Levels",
       "difficulty": 3,
       "tags": [
-        "BEAT",
-        "NORMAL"
+        "beat",
+        "normal"
       ]
     },
     {
       "text": "Grab 3 red coins",
       "difficulty": 3,
       "tags": [
-        "RED_COIN"
+        "red_coin"
       ]
     },
     {
       "text": "Beat 10 Single Player Levels",
       "difficulty": 3,
       "tags": [
-        "BEAT",
-        "SINGLE_PLAYER"
+        "beat",
+        "single_player"
       ]
     },
     {
       "text": "Get a 1-UP by defeating enemies through sliding",
       "difficulty": 3,
       "tags": [
-        "LIFE",
-        "HUNT"
+        "life",
+        "hunt"
       ]
     },
     {
       "text": "Do a Pow Block Drop Jump",
       "difficulty": 3,
       "tags": [
-        "KAIZO",
-        "POW"
+        "kaizo",
+        "pow"
       ]
     },
     {
       "text": "Hit Boos out of a block",
       "difficulty": 3,
       "tags": [
-        "BOO"
+        "boo"
       ]
     },
     {
       "text": "Beat an Auto-Scrolling Level",
       "difficulty": 3,
       "tags": [
-        "BEAT",
-        "AUTOSCROLL"
+        "beat",
+        "autoscroll"
       ]
     },
     {
       "text": "Beat a level with a enemy defeat count clear condition",
       "difficulty": 3,
       "tags": [
-        "LIFE",
-        "CONDITION",
-        "HUNT"
+        "life",
+        "condition",
+        "hunt"
       ]
     },
     {
       "text": "Beat a level in each Theme",
       "difficulty": 3,
       "tags": [
-        "BEAT"
+        "beat"
       ]
     },
     {
       "text": "Die to a blooper",
       "difficulty": 3,
       "tags": [
-        "DIE",
-        "BLOOPER"
+        "die",
+        "blooper"
       ]
     },
     {
       "text": "Steal a power-up from an opponent in Versus",
       "difficulty": 3,
       "tags": [
-        "VERSUS"
+        "versus"
       ]
     },
     {
       "text": "Beat 3 Co-Op Levels",
       "difficulty": 3,
       "tags": [
-        "BEAT",
-        "CO_OP"
+        "beat",
+        "co_op"
       ]
     },
     {
       "text": "Activate an On/Off Switch Timer by using a shell",
       "difficulty": 4,
       "tags": [
-        "SHELL",
-        "ONOFF"
+        "shell",
+        "onoff"
       ]
     },
     {
       "text": "Do a Shell Jump",
       "difficulty": 4,
       "tags": [
-        "KAIZO",
-        "SHELL"
+        "kaizo",
+        "shell"
       ]
     },
     {
       "text": "Kill an opponent in Versus",
       "difficulty": 4,
       "tags": [
-        "HUNT",
-        "VERSUS"
+        "hunt",
+        "versus"
       ]
     },
     {
       "text": "Do a P-Switch Jump",
       "difficulty": 4,
       "tags": [
-        "KAIZO",
-        "P_SWITCH"
+        "kaizo",
+        "p_switch"
       ]
     },
     {
       "text": "Beat a Speedrun level",
       "difficulty": 4,
       "tags": [
-        "BEAT",
-        "SPEEDRUN"
+        "beat",
+        "speedrun"
       ]
     },
     {
       "text": "Beat a level with a no-damage clear condition",
       "difficulty": 4,
       "tags": [
-        "BEAT",
-        "CONDITION",
-        "NO_DAMAGE"
+        "beat",
+        "condition",
+        "no_damage"
       ]
     },
     {
       "text": "Do a Spring Drop Jump",
       "difficulty": 4,
       "tags": [
-        "KAIZO",
-        "SPRING"
+        "kaizo",
+        "spring"
       ]
     },
     {
       "text": "Beat 3 Expert Levels",
       "difficulty": 4,
       "tags": [
-        "BEAT",
-        "EXPERT"
+        "beat",
+        "expert"
       ]
     },
     {
       "text": "Die due to a Kaizo block",
       "difficulty": 4,
       "tags": [
-        "DIE",
-        "KAIZO"
+        "die",
+        "kaizo"
       ]
     },
     {
       "text": "Do a P-Switch Drop Jump",
       "difficulty": 4,
       "tags": [
-        "KAIZO",
-        "P_SWITCH"
+        "kaizo",
+        "p_switch"
       ]
     },
     {
       "text": "Steal a Clear Condition in Versus",
       "difficulty": 4,
       "tags": [
-        "VERSUS",
-        "CONDITION"
+        "versus",
+        "condition"
       ]
     },
     {
       "text": "Win 2 Versus Matches",
       "difficulty": 4,
       "tags": [
-        "WIN",
-        "VERSUS"
+        "win",
+        "versus"
       ]
     },
     {
       "text": "Beat a Multiplayer Level Solo",
       "difficulty": 4,
       "tags": [
-        "BEAT",
-        "MULTIPLAYER"
+        "beat",
+        "multiplayer"
       ]
     },
     {
       "text": "Use Dev Door/Item",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Win a Versus match without anyone else touching the Flagpole",
       "difficulty": 5,
       "tags": [
-        "WIN"
+        "win"
       ]
     },
     {
       "text": "Bob-omb excavation",
       "difficulty": 5,
       "tags": [
-        "BOB_OMB"
+        "bob_omb"
       ]
     },
     {
       "text": "Defeat a Bowser using Pow blocks",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "POW",
-        "BOSS"
+        "hunt",
+        "pow",
+        "boss"
       ]
     },
     {
       "text": "Beat a Super Expert Level",
       "difficulty": 5,
       "tags": [
-        "BEAT",
-        "SUPER_EXPERT"
+        "beat",
+        "super_expert"
       ]
     },
     {
       "text": "Defeat a Bowser using fireballs",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS"
+        "hunt",
+        "boss"
       ]
     },
     {
       "text": "Steal a Clear Condition in Versus and then Win",
       "difficulty": 5,
       "tags": [
-        "VERSUS",
-        "CONDITION",
-        "WIN"
+        "versus",
+        "condition",
+        "win"
       ]
     },
     {
       "text": "Beat a level with a no touching the ground after leaving clear condition",
       "difficulty": 5,
       "tags": [
-        "BEAT",
-        "CONDITION",
-        "NO_LEAVE_GROUND"
+        "beat",
+        "condition",
+        "no_leave_ground"
       ]
     },
     {
       "text": "Defeat a boss by clipping them into On/Off Blocks",
       "difficulty": 5,
       "tags": [
-        "BOSS",
-        "HUNT",
-        "ONOFF"
+        "boss",
+        "hunt",
+        "onoff"
       ]
     },
     {
       "text": "Beat a level with a no-jump clear condition",
       "difficulty": 5,
       "tags": [
-        "BEAT",
-        "CONDITION",
-        "NO_JUMP"
+        "beat",
+        "condition",
+        "no_jump"
       ]
     },
     {
       "text": "Win 3 Versus Matches in a row",
       "difficulty": 5,
       "tags": [
-        "WIN",
-        "VERSUS"
+        "win",
+        "versus"
       ]
     }
   ]

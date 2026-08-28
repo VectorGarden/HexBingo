@@ -13,6 +13,10 @@
  * This never touches a goal that already has tags. Most lists were tagged by
  * hand and that vocabulary is better than anything derived from the text; the
  * gaps are lists imported from sources that carried no tags at all.
+ *
+ * Tags are lowercase throughout the repo. Case used to vary and it silently
+ * split families — banjo-tooie carried `jiggies` on 34 goals and `Jiggies` on
+ * one, and those two never pushed each other apart.
  */
 
 import fs from "node:fs";
@@ -74,47 +78,6 @@ function phrases(text) {
 }
 
 /**
- * Present a phrase the way the goals themselves write it, so an acronym stays
- * an acronym (NPC, not Npc) and a proper noun keeps its shape.
- * @param {string} phrase
- * @param {Map<string, string>} casing lowercase word -> how the list writes it
- */
-function present(phrase, casing) {
-  return phrase.split(" ")
-    .map(w => casing.get(w) || (w[0].toUpperCase() + w.slice(1)))
-    .join(" ");
-}
-
-/**
- * The commonest original spelling of each word across a list.
- * @param {{text: string}[]} goals
- * @returns {Map<string, string>}
- */
-function casingOf(goals) {
-  /** @type {Map<string, Map<string, number>>} */
-  const seen = new Map();
-  for (const g of goals) {
-    for (const raw of String(g.text).split(/[^A-Za-z0-9'\-]+/)) {
-      if (!raw) continue;
-      const key = singular(raw.toLowerCase().replace(/'s$/, ""));
-      if (!seen.has(key)) seen.set(key, new Map());
-      const forms = seen.get(key);
-      const form = singular(raw.replace(/'s$/, ""));
-      forms.set(form, (forms.get(form) || 0) + 1);
-    }
-  }
-  const out = new Map();
-  for (const [key, forms] of seen) {
-    const best = [...forms].sort((a, b) => b[1] - a[1] ||
-      (b[0] === b[0].toUpperCase() ? 1 : 0) - (a[0] === a[0].toUpperCase() ? 1 : 0))[0][0];
-    // Only an acronym earns its own spelling. Ordinary words are title-cased
-    // whatever the sentence did to them, so tags read consistently.
-    if (best.length > 1 && best === best.toUpperCase() && /[A-Z]/.test(best)) out.set(key, best);
-  }
-  return out;
-}
-
-/**
  * Tags derived from what recurs across a list.
  * @param {{text: string}[]} goals
  * @param {{minShare?: number, maxPerGoal?: number}} [opts]
@@ -122,7 +85,6 @@ function casingOf(goals) {
  */
 export function derivedTags(goals, { minShare = 2, maxPerGoal = 3 } = {}) {
   const perGoal = goals.map(g => phrases(g.text));
-  const casing = casingOf(goals);
 
   /** @type {Map<string, number>} */
   const shared = new Map();
@@ -150,7 +112,7 @@ export function derivedTags(goals, { minShare = 2, maxPerGoal = 3 } = {}) {
       if (chosen.some(c => c.includes(h) || h.includes(c))) continue;
       chosen.push(h);
     }
-    return chosen.map(p => present(p, casing));
+    return chosen;      // already lowercase; the repo keeps one casing throughout
   });
 }
 
@@ -165,6 +127,7 @@ export function derivedTags(goals, { minShare = 2, maxPerGoal = 3 } = {}) {
 export function matchExisting(text, vocabulary) {
   const hay = " " + text.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").replace(/\s+/g, " ") + " ";
   return vocabulary
+    .map(t => t.toLowerCase())
     .filter(tag => {
       const t = tag.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").trim();
       return t.length >= 3 && hay.includes(" " + t + " ");

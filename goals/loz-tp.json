@@ -5,1140 +5,1140 @@
       "text": "Fishing Rod",
       "difficulty": 1,
       "tags": [
-        "Ordon"
+        "ordon"
       ]
     },
     {
       "text": "Lantern",
       "difficulty": 1,
       "tags": [
-        "SFaron"
+        "sfaron"
       ]
     },
     {
       "text": "Gale Boomerang",
       "difficulty": 1,
       "tags": [
-        "Forest"
+        "forest"
       ]
     },
     {
       "text": "B&C",
       "difficulty": 1,
       "tags": [
-        "SPR"
+        "spr"
       ]
     },
     {
       "text": "1 Portal",
       "difficulty": 1,
       "tags": [
-        "Portals"
+        "portals"
       ]
     },
     {
       "text": "Free Talo",
       "difficulty": 1,
       "tags": [
-        "NFaron",
-        "SFaron"
+        "nfaron",
+        "sfaron"
       ]
     },
     {
       "text": "1 Golden Bug",
       "difficulty": 1,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "1 Stamp",
       "difficulty": 1,
       "tags": [
-        "Stamps",
-        "CoO"
+        "stamps",
+        "coo"
       ]
     },
     {
       "text": "Slingshot",
       "difficulty": 1,
       "tags": [
-        "Ordon"
+        "ordon"
       ]
     },
     {
       "text": "Clawshot",
       "difficulty": 1,
       "tags": [
-        "Lakebed"
+        "lakebed"
       ]
     },
     {
       "text": "Spinner",
       "difficulty": 1,
       "tags": [
-        "AG"
+        "ag"
       ]
     },
     {
       "text": "Iron Boots",
       "difficulty": 1,
       "tags": [
-        "Bo"
+        "bo"
       ]
     },
     {
       "text": "Forest Temple Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "Forest"
+        "maps",
+        "forest"
       ]
     },
     {
       "text": "Goron Mines Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "GM"
+        "maps",
+        "gm"
       ]
     },
     {
       "text": "Lakebed Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "Lakebed"
+        "maps",
+        "lakebed"
       ]
     },
     {
       "text": "Arbiters Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "AG"
+        "maps",
+        "ag"
       ]
     },
     {
       "text": "Snowpeak Ruins Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "SPR"
+        "maps",
+        "spr"
       ]
     },
     {
       "text": "Temple of Time Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "ToT"
+        "maps",
+        "tot"
       ]
     },
     {
       "text": "CitS Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "City"
+        "maps",
+        "city"
       ]
     },
     {
       "text": "Palace Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "PoT"
+        "maps",
+        "pot"
       ]
     },
     {
       "text": "Hyrule Castle Map",
       "difficulty": 1,
       "tags": [
-        "Maps",
-        "Castle"
+        "maps",
+        "castle"
       ]
     },
     {
       "text": "Forest Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "Forest"
+        "compasses",
+        "forest"
       ]
     },
     {
       "text": "Goron Mines Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "GM"
+        "compasses",
+        "gm"
       ]
     },
     {
       "text": "Lakebed Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "Lakebed"
+        "compasses",
+        "lakebed"
       ]
     },
     {
       "text": "Arbiters Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "AG"
+        "compasses",
+        "ag"
       ]
     },
     {
       "text": "Snowpeak Ruins Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "SPR"
+        "compasses",
+        "spr"
       ]
     },
     {
       "text": "Temple of Time Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "ToT"
+        "compasses",
+        "tot"
       ]
     },
     {
       "text": "CitS Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "City"
+        "compasses",
+        "city"
       ]
     },
     {
       "text": "Palace Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "PoT"
+        "compasses",
+        "pot"
       ]
     },
     {
       "text": "Hyrule Castle Compass",
       "difficulty": 1,
       "tags": [
-        "Compasses",
-        "Castle"
+        "compasses",
+        "castle"
       ]
     },
     {
       "text": "Forest Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "Forest"
+        "bk",
+        "forest"
       ]
     },
     {
       "text": "Goron Mines 3rd Key Shard",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "GM"
+        "bk",
+        "gm"
       ]
     },
     {
       "text": "Lakebed Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "Lakebed"
+        "bk",
+        "lakebed"
       ]
     },
     {
       "text": "Arbiters Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "AG"
+        "bk",
+        "ag"
       ]
     },
     {
       "text": "Snowpeak Ruins Bedroom Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "SPR"
+        "bk",
+        "spr"
       ]
     },
     {
       "text": "Temple of Time Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "ToT"
+        "bk",
+        "tot"
       ]
     },
     {
       "text": "CitS Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "City"
+        "bk",
+        "city"
       ]
     },
     {
       "text": "Palace Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "PoT"
+        "bk",
+        "pot"
       ]
     },
     {
       "text": "Hyrule Castle Boss Key",
       "difficulty": 2,
       "tags": [
-        "BK",
-        "Castle"
+        "bk",
+        "castle"
       ]
     },
     {
       "text": "Pumpkin in Snowpeak Ruins",
       "difficulty": 2,
       "tags": [
-        "SPR",
-        "Soup"
+        "spr",
+        "soup"
       ]
     },
     {
       "text": "Goat Cheese in Snowpeak Ruins",
       "difficulty": 2,
       "tags": [
-        "SPR",
-        "Soup"
+        "spr",
+        "soup"
       ]
     },
     {
       "text": "Defeat King Bulblin Once",
       "difficulty": 2,
       "tags": [
-        "KB"
+        "kb"
       ]
     },
     {
       "text": "2 Stamps",
       "difficulty": 2,
       "tags": [
-        "Stamps",
-        "CoO"
+        "stamps",
+        "coo"
       ]
     },
     {
       "text": "2 Portals",
       "difficulty": 2,
       "tags": [
-        "Portals"
+        "portals"
       ]
     },
     {
       "text": "2 Golden Bugs",
       "difficulty": 2,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "Ending Blow",
       "difficulty": 2,
       "tags": [
-        "Skills"
+        "skills"
       ]
     },
     {
       "text": "Ordon/Wooden Shield",
       "difficulty": 2,
       "tags": [
-        "MalosShop",
-        "Shields"
+        "malosshop",
+        "shields"
       ]
     },
     {
       "text": "1 Bottle",
       "difficulty": 2,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "Get Midna Charge",
       "difficulty": 2,
       "tags": [
-        "SFaron"
+        "sfaron"
       ]
     },
     {
       "text": "1 Poe Soul",
       "difficulty": 2,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "4 Stamps",
       "difficulty": 2,
       "tags": [
-        "Stamps",
-        "CoO"
+        "stamps",
+        "coo"
       ]
     },
     {
       "text": "Master Sword",
       "difficulty": 2,
       "tags": [
-        "Grove",
-        "Swords"
+        "grove",
+        "swords"
       ]
     },
     {
       "text": "Clear Faron Twilight",
       "difficulty": 2,
       "tags": [
-        "NFaron",
-        "SFaron"
+        "nfaron",
+        "sfaron"
       ]
     },
     {
       "text": "Clear Eldin Twilight",
       "difficulty": 2,
       "tags": [
-        "Eldin"
+        "eldin"
       ]
     },
     {
       "text": "Acquire Nasty Soup/Purple Chu Jelly",
       "difficulty": 2,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "1 Bomb Bag",
       "difficulty": 2,
       "tags": [
-        "Bombs"
+        "bombs"
       ]
     },
     {
       "text": "Big Quiver",
       "difficulty": 2,
       "tags": [
-        "Quiver"
+        "quiver"
       ]
     },
     {
       "text": "Bow",
       "difficulty": 2,
       "tags": [
-        "GM"
+        "gm"
       ]
     },
     {
       "text": "Dominion Rod",
       "difficulty": 2,
       "tags": [
-        "ToT"
+        "tot"
       ]
     },
     {
       "text": "Double Clawshots",
       "difficulty": 2,
       "tags": [
-        "City"
+        "city"
       ]
     },
     {
       "text": "Acquire Red Potion/Chu Jelly",
       "difficulty": 3,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "Acquire Blue Potion/Chu Jelly",
       "difficulty": 3,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "8 Stamps",
       "difficulty": 3,
       "tags": [
-        "Stamps",
-        "CoO"
+        "stamps",
+        "coo"
       ]
     },
     {
       "text": "4 Portals",
       "difficulty": 3,
       "tags": [
-        "Portals"
+        "portals"
       ]
     },
     {
       "text": "2 Poe Souls",
       "difficulty": 3,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "4 Golden Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "All 2 South Hyrule Field Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "All 2 Gerudo Desert Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "All 2 Sacred Grove and Temple of Time Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "All 2 Gorge Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs",
-        "Eldin"
+        "bugs",
+        "eldin"
       ]
     },
     {
       "text": "All 4 Eldin Field Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs",
-        "Eldin"
+        "bugs",
+        "eldin"
       ]
     },
     {
       "text": "All 2 Kakariko and Graveyard Bugs",
       "difficulty": 3,
       "tags": [
-        "Bugs",
-        "Eldin"
+        "bugs",
+        "eldin"
       ]
     },
     {
       "text": "All 5 Snowpeak Poes",
       "difficulty": 3,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "All 3 Snowpeak Ruins Poes",
       "difficulty": 3,
       "tags": [
-        "Poes",
-        "SPR"
+        "poes",
+        "spr"
       ]
     },
     {
       "text": "All 2 Temple of Time Poes",
       "difficulty": 3,
       "tags": [
-        "Poes",
-        "ToT"
+        "poes",
+        "tot"
       ]
     },
     {
       "text": "All 2 City in the Sky Poes",
       "difficulty": 3,
       "tags": [
-        "Poes",
-        "City"
+        "poes",
+        "city"
       ]
     },
     {
       "text": "All 6 Desert Overworld and Bulblin Camp Poes",
       "difficulty": 3,
       "tags": [
-        "Poes",
-        "KB"
+        "poes",
+        "kb"
       ]
     },
     {
       "text": "Jovani's Poe",
       "difficulty": 3,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "Light Sword",
       "difficulty": 3,
       "tags": [
-        "PoT"
+        "pot"
       ]
     },
     {
       "text": "Ordon Sword",
       "difficulty": 3,
       "tags": [
-        "Swords"
+        "swords"
       ]
     },
     {
       "text": "Hylian Shield",
       "difficulty": 3,
       "tags": [
-        "MalosShop",
-        "Shields"
+        "malosshop",
+        "shields"
       ]
     },
     {
       "text": "Hawkeye",
       "difficulty": 3,
       "tags": [
-        "MalosShop"
+        "malosshop"
       ]
     },
     {
       "text": "2 Bottles",
       "difficulty": 3,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "4 Poe Souls",
       "difficulty": 3,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "Defeat Diababa",
       "difficulty": 3,
       "tags": [
-        "Forest"
+        "forest"
       ]
     },
     {
       "text": "Defeat Blizzeta",
       "difficulty": 3,
       "tags": [
-        "SPR"
+        "spr"
       ]
     },
     {
       "text": "Acquire Superb Soup",
       "difficulty": 3,
       "tags": [
-        "Bottles",
-        "SPR",
-        "Soup"
+        "bottles",
+        "spr",
+        "soup"
       ]
     },
     {
       "text": "8 Poe Souls",
       "difficulty": 3,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "5 Hearts",
       "difficulty": 3,
       "tags": [
-        "Hearts"
+        "hearts"
       ]
     },
     {
       "text": "Shield Bash",
       "difficulty": 3,
       "tags": [
-        "Skills"
+        "skills"
       ]
     },
     {
       "text": "Big Wallet",
       "difficulty": 4,
       "tags": [
-        "Wallet",
-        "CoS",
-        "Bugs"
+        "wallet",
+        "cos",
+        "bugs"
       ]
     },
     {
       "text": "Poe Lantern",
       "difficulty": 4,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "Bomb Bag Upgrade",
       "difficulty": 4,
       "tags": [
-        "Bombs"
+        "bombs"
       ]
     },
     {
       "text": "Acquire Rare Chu Jelly",
       "difficulty": 4,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "Acquire Green Chu Jelly",
       "difficulty": 4,
       "tags": [
-        "Bottles",
-        "CoO",
-        "Poes"
+        "bottles",
+        "coo",
+        "poes"
       ]
     },
     {
       "text": "Defeat King Bulblin Twice",
       "difficulty": 4,
       "tags": [
-        "KB"
+        "kb"
       ]
     },
     {
       "text": "Defeat Fyrus",
       "difficulty": 4,
       "tags": [
-        "GM"
+        "gm"
       ]
     },
     {
       "text": "Defeat Morpheel",
       "difficulty": 4,
       "tags": [
-        "Lakebed"
+        "lakebed"
       ]
     },
     {
       "text": "Defeat Stallord",
       "difficulty": 4,
       "tags": [
-        "AG"
+        "ag"
       ]
     },
     {
       "text": "Defeat Argorok",
       "difficulty": 4,
       "tags": [
-        "City"
+        "city"
       ]
     },
     {
       "text": "6 Hearts",
       "difficulty": 4,
       "tags": [
-        "Hearts"
+        "hearts"
       ]
     },
     {
       "text": "8 Golden Bugs",
       "difficulty": 4,
       "tags": [
-        "Bugs"
+        "bugs"
       ]
     },
     {
       "text": "Backslice",
       "difficulty": 4,
       "tags": [
-        "Skills"
+        "skills"
       ]
     },
     {
       "text": "2 Bomb Bags",
       "difficulty": 4,
       "tags": [
-        "Bombs"
+        "bombs"
       ]
     },
     {
       "text": "Defeat King Bulblin 3 Times",
       "difficulty": 4,
       "tags": [
-        "KB"
+        "kb"
       ]
     },
     {
       "text": "Get 5 Dungeon Maps",
       "difficulty": 4,
       "tags": [
-        "Maps"
+        "maps"
       ]
     },
     {
       "text": "Get 5 Dungeon Compasses",
       "difficulty": 4,
       "tags": [
-        "Compasses"
+        "compasses"
       ]
     },
     {
       "text": "Giant Quiver",
       "difficulty": 4,
       "tags": [
-        "Quiver"
+        "quiver"
       ]
     },
     {
       "text": "Defeat Armogohma",
       "difficulty": 4,
       "tags": [
-        "ToT"
+        "tot"
       ]
     },
     {
       "text": "Defeat Zant",
       "difficulty": 4,
       "tags": [
-        "PoT"
+        "pot"
       ]
     },
     {
       "text": "Helmsplitter",
       "difficulty": 4,
       "tags": [
-        "Skills"
+        "skills"
       ]
     },
     {
       "text": "7 Hearts",
       "difficulty": 4,
       "tags": [
-        "Hearts"
+        "hearts"
       ]
     },
     {
       "text": "3 Bottles",
       "difficulty": 4,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "Own 2 Shields",
       "difficulty": 4,
       "tags": [
-        "Shields",
-        "MalosShop"
+        "shields",
+        "malosshop"
       ]
     },
     {
       "text": "Clear Lanayru Twilight",
       "difficulty": 4,
       "tags": [
-        "Lanayru"
+        "lanayru"
       ]
     },
     {
       "text": "Own 2 Swords",
       "difficulty": 4,
       "tags": [
-        "Swords"
+        "swords"
       ]
     },
     {
       "text": "Zora Armour",
       "difficulty": 4,
       "tags": [
-        "Eldin",
-        "Escort",
-        "Clothing"
+        "eldin",
+        "escort",
+        "clothing"
       ]
     },
     {
       "text": "Giant Wallet",
       "difficulty": 4,
       "tags": [
-        "Wallet",
-        "CoS",
-        "Bugs"
+        "wallet",
+        "cos",
+        "bugs"
       ]
     },
     {
       "text": "Repair Castle Town Bridge",
       "difficulty": 4,
       "tags": [
-        "Eldin",
-        "MalosShop",
-        "KB1"
+        "eldin",
+        "malosshop",
+        "kb1"
       ]
     },
     {
       "text": "4 Bottles",
       "difficulty": 4,
       "tags": [
-        "Bottles"
+        "bottles"
       ]
     },
     {
       "text": "All 2 West of Castle Town Bugs",
       "difficulty": 5,
       "tags": [
-        "Bugs",
-        "Lanayru"
+        "bugs",
+        "lanayru"
       ]
     },
     {
       "text": "All 2 South of Castle Town Bugs",
       "difficulty": 5,
       "tags": [
-        "Bugs",
-        "Lanayru"
+        "bugs",
+        "lanayru"
       ]
     },
     {
       "text": "All 2 Lanayru Field Bugs",
       "difficulty": 5,
       "tags": [
-        "Bugs",
-        "Lanayru"
+        "bugs",
+        "lanayru"
       ]
     },
     {
       "text": "All 2 Lake Hylia Bridge Bugs",
       "difficulty": 5,
       "tags": [
-        "Bugs",
-        "Lanayru"
+        "bugs",
+        "lanayru"
       ]
     },
     {
       "text": "All 2 Zoras Domain and Upper Zoras River Bugs",
       "difficulty": 5,
       "tags": [
-        "Bugs",
-        "Lanayru"
+        "bugs",
+        "lanayru"
       ]
     },
     {
       "text": "All 4 Kakariko and Graveyard Poes",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "Eldin"
+        "poes",
+        "eldin"
       ]
     },
     {
       "text": "All 3 Sacred Grove Poes",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "SPR"
+        "poes",
+        "spr"
       ]
     },
     {
       "text": "All 5 Lake Hylia Poes",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "Lanayru"
+        "poes",
+        "lanayru"
       ]
     },
     {
       "text": "All 4 Big Poes in Arbiter's Grounds",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "AG"
+        "poes",
+        "ag"
       ]
     },
     {
       "text": "All 3 Cave of Ordeals Poes",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "CoO",
-        "Stamps"
+        "poes",
+        "coo",
+        "stamps"
       ]
     },
     {
       "text": "All 3 Zoras Domain and Upper Zoras River Poes",
       "difficulty": 5,
       "tags": [
-        "Poes",
-        "Lanayru"
+        "poes",
+        "lanayru"
       ]
     },
     {
       "text": "Hidden Village Poe",
       "difficulty": 5,
       "tags": [
-        "Poes"
+        "poes"
       ]
     },
     {
       "text": "Fishing Rod Earring Upgrade",
       "difficulty": 5,
       "tags": [
-        "Eldin",
-        "Swords",
-        "AG"
+        "eldin",
+        "swords",
+        "ag"
       ]
     },
     {
       "text": "Finish Cave of Ordeals",
       "difficulty": 5,
       "tags": [
-        "CoO",
-        "Poes",
-        "Stamps"
+        "coo",
+        "poes",
+        "stamps"
       ]
     },
     {
       "text": "3 Bomb Bags",
       "difficulty": 5,
       "tags": [
-        "Bombs"
+        "bombs"
       ]
     },
     {
       "text": "9 Hearts",
       "difficulty": 5,
       "tags": [
-        "Hearts"
+        "hearts"
       ]
     },
     {
       "text": "Mortal Draw",
       "difficulty": 5,
       "tags": [
-        "Skills"
+        "skills"
       ]
     },
     {
       "text": "Deliver Hotspring water to the Goron south of Castle Town",
       "difficulty": 5,
       "tags": [
-        "Bottles",
-        "Lanayru"
+        "bottles",
+        "lanayru"
       ]
     },
     {
       "text": "Horse Call",
       "difficulty": 5,
       "tags": [
-        "Escort",
-        "HiddenVillage",
-        "ToT"
+        "escort",
+        "hiddenvillage",
+        "tot"
       ]
     },
     {
       "text": "Defeat All King Bulblins",
       "difficulty": 5,
       "tags": [
-        "KB"
+        "kb"
       ]
     },
     {
       "text": "Fix Dominion Rod",
       "difficulty": 5,
       "tags": [
-        "HiddenVillage",
-        "ToT"
+        "hiddenvillage",
+        "tot"
       ]
     },
     {
       "text": "Acquire all Fused Shadows",
       "difficulty": 5,
       "tags": [
-        "Forest",
-        "GM",
-        "Lakebed"
+        "forest",
+        "gm",
+        "lakebed"
       ]
     },
     {
       "text": "Catch the Hylian Loach",
       "difficulty": 5,
       "tags": [
-        "Fish"
+        "fish"
       ]
     },
     {
       "text": "All Hyrule Castle Stamps",
       "difficulty": 5,
       "tags": [
-        "Stamps",
-        "HiddenVillage",
-        "ToT"
+        "stamps",
+        "hiddenvillage",
+        "tot"
       ]
     },
     {
       "text": "Complete Skybook Quest",
       "difficulty": 5,
       "tags": [
-        "HiddenVillage",
-        "ToT"
+        "hiddenvillage",
+        "tot"
       ]
     },
     {
       "text": "Acquire all Mirror Shards",
       "difficulty": 5,
       "tags": [
-        "AG",
-        "SPR",
-        "ToT",
-        "City"
+        "ag",
+        "spr",
+        "tot",
+        "city"
       ]
     },
     {
       "text": "Magic Armour",
       "difficulty": 5,
       "tags": [
-        "Clothing",
-        "Eldin",
-        "KB1"
+        "clothing",
+        "eldin",
+        "kb1"
       ]
     },
     {
       "text": "Deluxe Wallet",
       "difficulty": 5,
       "tags": [
-        "Wallet",
-        "CoS",
-        "Bugs"
+        "wallet",
+        "cos",
+        "bugs"
       ]
     },
     {
       "text": "Every Dungeon Map",
       "difficulty": 5,
       "tags": [
-        "Maps"
+        "maps"
       ]
     },
     {
       "text": "Every Compass",
       "difficulty": 5,
       "tags": [
-        "Compasses"
+        "compasses"
       ]
     }
   ]

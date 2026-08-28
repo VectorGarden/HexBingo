@@ -3141,14 +3141,14 @@
       "text": "Kill 5 unique cats",
       "difficulty": 2,
       "tags": [
-        "Cat"
+        "cat"
       ]
     },
     {
       "text": "Kill 10 unique cats",
       "difficulty": 2,
       "tags": [
-        "Cat"
+        "cat"
       ]
     },
     {
@@ -3618,11 +3618,11 @@
       ]
     },
     {
-      "text": "3-2 Pacifict",
+      "text": "3-2 Pacifist",
       "difficulty": 4,
       "tags": [
         "3-2",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3630,15 +3630,15 @@
       "difficulty": 4,
       "tags": [
         "3-2",
-        "Genocide"
+        "genocide"
       ]
     },
     {
-      "text": "1-8 Pacifict",
+      "text": "1-8 Pacifist",
       "difficulty": 4,
       "tags": [
         "1-8",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3646,15 +3646,15 @@
       "difficulty": 4,
       "tags": [
         "1-8",
-        "Genocide"
+        "genocide"
       ]
     },
     {
-      "text": "3-5 Pacifict",
+      "text": "3-5 Pacifist",
       "difficulty": 4,
       "tags": [
         "3-5",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3662,15 +3662,15 @@
       "difficulty": 4,
       "tags": [
         "3-5",
-        "Genocide"
+        "genocide"
       ]
     },
     {
-      "text": "7-9 Pacifict",
+      "text": "7-9 Pacifist",
       "difficulty": 4,
       "tags": [
         "7-9",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3678,15 +3678,15 @@
       "difficulty": 4,
       "tags": [
         "7-9",
-        "Genocide"
+        "genocide"
       ]
     },
     {
-      "text": "6-3 Pacifict",
+      "text": "6-3 Pacifist",
       "difficulty": 4,
       "tags": [
         "6-3",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3694,15 +3694,15 @@
       "difficulty": 4,
       "tags": [
         "6-3",
-        "Genocide"
+        "genocide"
       ]
     },
     {
-      "text": "7-5 Pacifict",
+      "text": "7-5 Pacifist",
       "difficulty": 4,
       "tags": [
         "7-5",
-        "Pacifict"
+        "pacifist"
       ]
     },
     {
@@ -3710,7 +3710,7 @@
       "difficulty": 4,
       "tags": [
         "7-5",
-        "Genocide"
+        "genocide"
       ]
     },
     {
@@ -3773,182 +3773,182 @@
       "text": "1 golden hat",
       "difficulty": 4,
       "tags": [
-        "Golden Hat"
+        "golden hat"
       ]
     },
     {
       "text": "2 golden hats",
       "difficulty": 4,
       "tags": [
-        "Golden Hat"
+        "golden hat"
       ]
     },
     {
       "text": "3 golden hats",
       "difficulty": 4,
       "tags": [
-        "Golden Hat"
+        "golden hat"
       ]
     },
     {
       "text": "50 unique gems",
       "difficulty": 4,
       "tags": [
-        "Gem"
+        "gem"
       ]
     },
     {
       "text": "100 unique gems",
       "difficulty": 4,
       "tags": [
-        "Gem"
+        "gem"
       ]
     },
     {
       "text": "150 unique gems",
       "difficulty": 4,
       "tags": [
-        "Gem"
+        "gem"
       ]
     },
     {
       "text": "200 unique gems",
       "difficulty": 4,
       "tags": [
-        "Gem"
+        "gem"
       ]
     },
     {
       "text": "10 unique yarns",
       "difficulty": 4,
       "tags": [
-        "Yarn"
+        "yarn"
       ]
     },
     {
       "text": "15 unique yarns",
       "difficulty": 4,
       "tags": [
-        "Yarn"
+        "yarn"
       ]
     },
     {
       "text": "20 unique yarns",
       "difficulty": 4,
       "tags": [
-        "Yarn"
+        "yarn"
       ]
     },
     {
       "text": "25 unique yarns",
       "difficulty": 4,
       "tags": [
-        "Yarn"
+        "yarn"
       ]
     },
     {
       "text": "30 unique yarns",
       "difficulty": 4,
       "tags": [
-        "Yarn"
+        "yarn"
       ]
     },
     {
       "text": "15 NPC kills",
       "difficulty": 5,
       "tags": [
-        "NPC Kill"
+        "npc kill"
       ]
     },
     {
       "text": "20 NPC kills",
       "difficulty": 5,
       "tags": [
-        "NPC Kill"
+        "npc kill"
       ]
     },
     {
       "text": "25 NPC kills",
       "difficulty": 5,
       "tags": [
-        "NPC Kill"
+        "npc kill"
       ]
     },
     {
       "text": "30 NPC kills",
       "difficulty": 5,
       "tags": [
-        "NPC Kill"
+        "npc kill"
       ]
     },
     {
       "text": "20 unique stage clears",
       "difficulty": 5,
       "tags": [
-        "Stage Clear"
+        "stage clear"
       ]
     },
     {
       "text": "25 unique stage clears",
       "difficulty": 5,
       "tags": [
-        "Stage Clear"
+        "stage clear"
       ]
     },
     {
       "text": "30 unique stage clears",
       "difficulty": 5,
       "tags": [
-        "Stage Clear"
+        "stage clear"
       ]
     },
     {
       "text": "35 unique stage clears",
       "difficulty": 5,
       "tags": [
-        "Stage Clear"
+        "stage clear"
       ]
     },
     {
       "text": "40 unique stage clears",
       "difficulty": 5,
       "tags": [
-        "Stage Clear"
+        "stage clear"
       ]
     },
     {
       "text": "10 unique clock stamps",
       "difficulty": 5,
       "tags": [
-        "Clock Stamp"
+        "clock stamp"
       ]
     },
     {
       "text": "15 unique clock stamps",
       "difficulty": 5,
       "tags": [
-        "Clock Stamp"
+        "clock stamp"
       ]
     },
     {
       "text": "20 unique clock stamps",
       "difficulty": 5,
       "tags": [
-        "Clock Stamp"
+        "clock stamp"
       ]
     },
     {
       "text": "25 unique clock stamps",
       "difficulty": 5,
       "tags": [
-        "Clock Stamp"
+        "clock stamp"
       ]
     },
     {
       "text": "30 unique clock stamps",
       "difficulty": 5,
       "tags": [
-        "Clock Stamp"
+        "clock stamp"
       ]
     },
     {

@@ -5,455 +5,455 @@
       "text": "Tame a horse after landing on it through gliding",
       "difficulty": 1,
       "tags": [
-        "AFFECTION",
-        "HORSE"
+        "affection",
+        "horse"
       ]
     },
     {
       "text": "Tame a horse after sneaking up on it",
       "difficulty": 1,
       "tags": [
-        "AFFECTION",
-        "HORSE"
+        "affection",
+        "horse"
       ]
     },
     {
       "text": "Take 3 pictures of different groups of horses",
       "difficulty": 1,
       "tags": [
-        "PICTURE",
-        "HORSE"
+        "picture",
+        "horse"
       ]
     },
     {
       "text": "Register a solid color horse",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "COLOR",
-        "REGISTER"
+        "horse",
+        "color",
+        "register"
       ]
     },
     {
       "text": "Take 5 pictures of boars running at you",
       "difficulty": 1,
       "tags": [
-        "BOAR",
-        "PICTURE",
-        "BATTLE"
+        "boar",
+        "picture",
+        "battle"
       ]
     },
     {
       "text": "Steal a horse from a Bokoblin",
       "difficulty": 1,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Ride a Lynel",
       "difficulty": 1,
       "tags": [
-        "LYNEL",
-        "BATTLE"
+        "lynel",
+        "battle"
       ]
     },
     {
       "text": "Ride a horse to Gerudo Desert",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Rito Village",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Hateno Village",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Kakariko Village",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Lurelin Village",
       "difficulty": 1,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Take pictures of 3 possible horse coat colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 1,
       "tags": [
-        "COLOR",
-        "PICTURE",
-        "HORSE"
+        "color",
+        "picture",
+        "horse"
       ]
     },
     {
       "text": "Take pictures of 3 possible horse mane colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 1,
       "tags": [
-        "COLOR",
-        "PICTURE",
-        "HORSE"
+        "color",
+        "picture",
+        "horse"
       ]
     },
     {
       "text": "Take pictures of 3 possible horse snout colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 1,
       "tags": [
-        "COLOR",
-        "PICTURE",
-        "HORSE"
+        "color",
+        "picture",
+        "horse"
       ]
     },
     {
       "text": "Take pictures of 2 possible horse ankle colors/lengths [short/long white/black]",
       "difficulty": 1,
       "tags": [
-        "COLOR",
-        "PICTURE",
-        "HORSE"
+        "color",
+        "picture",
+        "horse"
       ]
     },
     {
       "text": "Get a Lynel's attention and escape on a horse",
       "difficulty": 2,
       "tags": [
-        "LYNEL",
-        "HORSE"
+        "lynel",
+        "horse"
       ]
     },
     {
       "text": "Register a horse at one stable and ride to another",
       "difficulty": 2,
       "tags": [
-        "HORSE",
-        "TRAVEL",
-        "REGISTER"
+        "horse",
+        "travel",
+        "register"
       ]
     },
     {
       "text": "Free all horses from a gang of Bokoblins",
       "difficulty": 2,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Max a horse's affection",
       "difficulty": 2,
       "tags": [
-        "AFFECTION",
-        "HORSE"
+        "affection",
+        "horse"
       ]
     },
     {
       "text": "Register 5 horses",
       "difficulty": 2,
       "tags": [
-        "REGISTER",
-        "HORSE"
+        "register",
+        "horse"
       ]
     },
     {
       "text": "Ride a horse from Gerudo to Akkala or vice versa",
       "difficulty": 3,
       "tags": [
-        "TRAVEL",
-        "HORSE"
+        "travel",
+        "horse"
       ]
     },
     {
       "text": "Ride a horse from Faron to Hebra or vice versa",
       "difficulty": 3,
       "tags": [
-        "TRAVEL",
-        "HORSE"
+        "travel",
+        "horse"
       ]
     },
     {
       "text": "Take a picture of both types of boars [Woodland / Red-Tusked]",
       "difficulty": 3,
       "tags": [
-        "BOAR",
-        "PICTURE"
+        "boar",
+        "picture"
       ]
     },
     {
       "text": "Take a picture of both types of bears [Honeyvore / Grizzlemaw]",
       "difficulty": 3,
       "tags": [
-        "BEAR",
-        "PICTURE"
+        "bear",
+        "picture"
       ]
     },
     {
       "text": "Register Ganonhorse [Giant Horse] without stamina food / elixers",
       "difficulty": 3,
       "tags": [
-        "GANON",
-        "HORSE",
-        "STAMINA"
+        "ganon",
+        "horse",
+        "stamina"
       ]
     },
     {
       "text": "Register Zelda's Hereditary Horse [White Horse] without stamina food / elixirs",
       "difficulty": 3,
       "tags": [
-        "ZELDA",
-        "HORSE",
-        "STAMINA"
+        "zelda",
+        "horse",
+        "stamina"
       ]
     },
     {
       "text": "Register Zelda's Hereditary Horse [White Horse] without stamina upgrades",
       "difficulty": 3,
       "tags": [
-        "ZELDA",
-        "REGISTER",
-        "HORSE",
-        "STAMINA"
+        "zelda",
+        "register",
+        "horse",
+        "stamina"
       ]
     },
     {
       "text": "Register Ganonhorse [Giant Horse] without stamina upgrades",
       "difficulty": 3,
       "tags": [
-        "GANON",
-        "REGISTER",
-        "HORSE",
-        "STAMINA"
+        "ganon",
+        "register",
+        "horse",
+        "stamina"
       ]
     },
     {
       "text": "Max 5 horses' affection",
       "difficulty": 3,
       "tags": [
-        "AFFECTION",
-        "REGISTER",
-        "HORSE"
+        "affection",
+        "register",
+        "horse"
       ]
     },
     {
       "text": "Ride a stalhorse to Kilton's Fang and Bone",
       "difficulty": 4,
       "tags": [
-        "STALHORSE",
-        "TRAVEL"
+        "stalhorse",
+        "travel"
       ]
     },
     {
       "text": "Ride a bear to a stable",
       "difficulty": 4,
       "tags": [
-        "BEAR",
-        "TRAVEL"
+        "bear",
+        "travel"
       ]
     },
     {
       "text": "Ride a buck to a stable",
       "difficulty": 4,
       "tags": [
-        "MOOSE",
-        "TRAVEL"
+        "moose",
+        "travel"
       ]
     },
     {
       "text": "Ride a doe to a stable",
       "difficulty": 4,
       "tags": [
-        "MOOSE",
-        "TRAVEL"
+        "moose",
+        "travel"
       ]
     },
     {
       "text": "Ride a boar to a stable",
       "difficulty": 4,
       "tags": [
-        "BOAR",
-        "TRAVEL"
+        "boar",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Death Mountain Marker",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to Zora's Domain",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "VILLAGE",
-        "TRAVEL"
+        "horse",
+        "village",
+        "travel"
       ]
     },
     {
       "text": "Take pictures of all possible horse coat colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "PICTURE",
-        "COLOR"
+        "horse",
+        "picture",
+        "color"
       ]
     },
     {
       "text": "Take pictures of all possible horse mane colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "PICTURE",
-        "COLOR"
+        "horse",
+        "picture",
+        "color"
       ]
     },
     {
       "text": "Take pictures of all possible horse snout colors [brown/light brown/black/gray/blue/white]",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "PICTURE",
-        "COLOR"
+        "horse",
+        "picture",
+        "color"
       ]
     },
     {
       "text": "Take pictures of all possible horse ankle colors/lengths [short/long white/black]",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "PICTURE",
-        "COLOR"
+        "horse",
+        "picture",
+        "color"
       ]
     },
     {
       "text": "Ride a horse to Hyrule Castle",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "TRAVEL"
+        "horse",
+        "travel"
       ]
     },
     {
       "text": "Ride the same horse, without dismounting, to 3 stables",
       "difficulty": 4,
       "tags": [
-        "TRAVEL",
-        "HORSE"
+        "travel",
+        "horse"
       ]
     },
     {
       "text": "Take a picture of a horse on top of a Talus",
       "difficulty": 4,
       "tags": [
-        "HORSE",
-        "PICTURE"
+        "horse",
+        "picture"
       ]
     },
     {
       "text": "Ride a stalhorse to the Satori mountain meeting spot",
       "difficulty": 4,
       "tags": [
-        "STALHORSE",
-        "TRAVEL"
+        "stalhorse",
+        "travel"
       ]
     },
     {
       "text": "Ride a horse to the shrine of Courage, Wisdom, or Power",
       "difficulty": 5,
       "tags": [
-        "HORSE",
-        "TRAVEL"
+        "horse",
+        "travel"
       ]
     },
     {
       "text": "Ride a sandseal to each molduga in Gerudo Desert",
       "difficulty": 5,
       "tags": [
-        "SANDSEAL",
-        "TRAVEL"
+        "sandseal",
+        "travel"
       ]
     },
     {
       "text": "Take a picture of every rideable mount",
       "difficulty": 5,
       "tags": [
-        "PICTURE"
+        "picture"
       ]
     },
     {
       "text": "Defeat a Hinox on horseback",
       "difficulty": 5,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Defeat a Talus on horseback",
       "difficulty": 5,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Defeat a Guardian on horseback",
       "difficulty": 5,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Defeat a Lynel on horseback",
       "difficulty": 5,
       "tags": [
-        "BATTLE",
-        "HORSE"
+        "battle",
+        "horse"
       ]
     },
     {
       "text": "Defeat a Molduga while being pulled by a sandseal",
       "difficulty": 5,
       "tags": [
-        "BATTLE",
-        "SANDSEAL"
+        "battle",
+        "sandseal"
       ]
     },
     {
       "text": "Unleash the horse god",
       "difficulty": 5,
       "tags": [
-        "HORSE_GOD"
+        "horse_god"
       ]
     }
   ]
