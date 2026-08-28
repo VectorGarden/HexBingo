@@ -5,9 +5,19 @@
     "file": "hat-in-time.json"
   },
   {
+    "id": "loz-albw",
+    "name": "A Link Between Worlds",
+    "file": "loz-albw.json"
+  },
+  {
     "id": "loz-lttp",
     "name": "A Link to the Past",
     "file": "loz-lttp.json"
+  },
+  {
+    "id": "banjo-kazooie",
+    "name": "Banjo-Kazooie",
+    "file": "banjo-kazooie.json"
   },
   {
     "id": "banjo-tooie",
@@ -45,6 +55,11 @@
     "file": "botw-mount.json"
   },
   {
+    "id": "captain-toad",
+    "name": "Captain Toad: Treasure Tracker",
+    "file": "captain-toad.json"
+  },
+  {
     "id": "celeste",
     "name": "Celeste",
     "file": "celeste.json"
@@ -55,14 +70,44 @@
     "file": "dark-souls.json"
   },
   {
+    "id": "darksiders",
+    "name": "Darksiders",
+    "file": "darksiders.json"
+  },
+  {
     "id": "dead-cells",
     "name": "Dead Cells",
     "file": "dead-cells.json"
   },
   {
+    "id": "digimon-dawn-dusk",
+    "name": "Digimon World Dawn/Dusk",
+    "file": "digimon-dawn-dusk.json"
+  },
+  {
+    "id": "digimon-world-ds",
+    "name": "Digimon World DS",
+    "file": "digimon-world-ds.json"
+  },
+  {
     "id": "dk64",
     "name": "Donkey Kong 64",
     "file": "dk64.json"
+  },
+  {
+    "id": "dkc-tf",
+    "name": "Donkey Kong Country: Tropical Freeze",
+    "file": "dkc-tf.json"
+  },
+  {
+    "id": "duck-game",
+    "name": "Duck Game",
+    "file": "duck-game.json"
+  },
+  {
+    "id": "enter-the-gungeon",
+    "name": "Enter the Gungeon",
+    "file": "enter-the-gungeon.json"
   },
   {
     "id": "ff1",
@@ -95,6 +140,16 @@
     "file": "mmnt.json"
   },
   {
+    "id": "mmz-collection",
+    "name": "Mega Man Zero Collection",
+    "file": "mmz-collection.json"
+  },
+  {
+    "id": "mmzx",
+    "name": "Mega Man ZX + Advent",
+    "file": "mmzx.json"
+  },
+  {
     "id": "metroid-zm",
     "name": "Metroid: Zero Mission",
     "file": "metroid-zm.json"
@@ -108,6 +163,21 @@
     "id": "nsmb-wii",
     "name": "New Super Mario Bros. Wii",
     "file": "nsmb-wii.json"
+  },
+  {
+    "id": "loz-oot",
+    "name": "Ocarina of Time",
+    "file": "loz-oot.json"
+  },
+  {
+    "id": "loz-ooa",
+    "name": "Oracle of Ages",
+    "file": "loz-ooa.json"
+  },
+  {
+    "id": "loz-oos",
+    "name": "Oracle of Seasons",
+    "file": "loz-oos.json"
   },
   {
     "id": "pkmn-crystal",
@@ -145,9 +215,19 @@
     "file": "pkmn-snap.json"
   },
   {
+    "id": "rayman-legends",
+    "name": "Rayman Legends",
+    "file": "rayman-legends.json"
+  },
+  {
     "id": "rogue-legacy",
     "name": "Rogue Legacy",
     "file": "rogue-legacy.json"
+  },
+  {
+    "id": "shovel-knight",
+    "name": "Shovel Knight",
+    "file": "shovel-knight.json"
   },
   {
     "id": "loz-ss",
@@ -178,6 +258,16 @@
     "id": "spelunky",
     "name": "Spelunky",
     "file": "spelunky.json"
+  },
+  {
+    "id": "sm3dl",
+    "name": "Super Mario 3D Land",
+    "file": "sm3dl.json"
+  },
+  {
+    "id": "sm3dw",
+    "name": "Super Mario 3D World",
+    "file": "sm3dw.json"
   },
   {
     "id": "sm64",
@@ -215,6 +305,11 @@
     "file": "super-metroid.json"
   },
   {
+    "id": "ssbu",
+    "name": "Super Smash Bros. Ultimate",
+    "file": "ssbu.json"
+  },
+  {
     "id": "sotn",
     "name": "Symphony of the Night",
     "file": "sotn.json"
@@ -223,6 +318,11 @@
     "id": "sotn-rando",
     "name": "Symphony of the Night [Randomizer]",
     "file": "sotn-rando.json"
+  },
+  {
+    "id": "loz-mc",
+    "name": "The Minish Cap",
+    "file": "loz-mc.json"
   },
   {
     "id": "thug",

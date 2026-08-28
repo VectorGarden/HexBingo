@@ -1,0 +1,245 @@
+{
+  "name": "Shovel Knight",
+  "goals": [
+    {
+      "text": "Clear the Plains",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Collect 1000 gold",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Break 20 dirt blocks",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Buy a Health upgrade",
+      "difficulty": 1,
+      "tags": [
+        "upgrade",
+        "buy",
+        "health"
+      ]
+    },
+    {
+      "text": "Find a Music Sheet",
+      "difficulty": 1,
+      "tags": [
+        "music sheet",
+        "find"
+      ]
+    },
+    {
+      "text": "Dig up a Chester chest",
+      "difficulty": 1,
+      "tags": [
+        "chester"
+      ]
+    },
+    {
+      "text": "Bounce off five enemies without landing",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Defeat King Knight",
+      "difficulty": 2,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Defeat Specter Knight",
+      "difficulty": 2,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Buy a Relic from Chester",
+      "difficulty": 2,
+      "tags": [
+        "buy",
+        "relic",
+        "chester"
+      ]
+    },
+    {
+      "text": "Collect 3 Music Sheets",
+      "difficulty": 2,
+      "tags": [
+        "music sheet"
+      ]
+    },
+    {
+      "text": "Clear a level without dying",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Upgrade the Shovel Blade",
+      "difficulty": 2,
+      "tags": [
+        "shovel blade",
+        "upgrade"
+      ]
+    },
+    {
+      "text": "Buy a Magic upgrade",
+      "difficulty": 2,
+      "tags": [
+        "upgrade",
+        "buy"
+      ]
+    },
+    {
+      "text": "Find a hidden room",
+      "difficulty": 2,
+      "tags": [
+        "find"
+      ]
+    },
+    {
+      "text": "Defeat Plague Knight",
+      "difficulty": 3,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Defeat Treasure Knight",
+      "difficulty": 3,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Collect 6 Music Sheets",
+      "difficulty": 3,
+      "tags": [
+        "music sheet"
+      ]
+    },
+    {
+      "text": "Buy every Relic",
+      "difficulty": 3,
+      "tags": [
+        "buy",
+        "relic"
+      ]
+    },
+    {
+      "text": "Clear a level without breaking a checkpoint",
+      "difficulty": 3,
+      "tags": [
+        "checkpoint"
+      ]
+    },
+    {
+      "text": "Defeat a Wandering Travelling Knight",
+      "difficulty": 3,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Fully upgrade Health",
+      "difficulty": 3,
+      "tags": [
+        "fully upgrade",
+        "health"
+      ]
+    },
+    {
+      "text": "Defeat Mole Knight",
+      "difficulty": 4,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Defeat Tinker Knight",
+      "difficulty": 4,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Collect every Music Sheet",
+      "difficulty": 4,
+      "tags": [
+        "music sheet"
+      ]
+    },
+    {
+      "text": "Clear the Tower of Fate: Entrance",
+      "difficulty": 4,
+      "tags": [
+        "tower",
+        "fate"
+      ]
+    },
+    {
+      "text": "Beat the Enchantress' first form",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Destroy 10 checkpoints",
+      "difficulty": 4,
+      "tags": [
+        "checkpoint"
+      ]
+    },
+    {
+      "text": "Fully upgrade the Shovel Blade",
+      "difficulty": 4,
+      "tags": [
+        "fully upgrade",
+        "shovel blade"
+      ]
+    },
+    {
+      "text": "Defeat every Order of No Quarter knight",
+      "difficulty": 5,
+      "tags": [
+        "knight"
+      ]
+    },
+    {
+      "text": "Clear the Tower of Fate: Ascent",
+      "difficulty": 5,
+      "tags": [
+        "tower",
+        "fate"
+      ]
+    },
+    {
+      "text": "Beat the game without buying armour",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect all Feats",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Beat the game in under two hours",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Finish with every Relic fully upgraded",
+      "difficulty": 5,
+      "tags": [
+        "relic",
+        "fully"
+      ]
+    }
+  ]
+}

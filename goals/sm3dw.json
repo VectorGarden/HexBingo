@@ -1,0 +1,262 @@
+{
+  "name": "Super Mario 3D World",
+  "goals": [
+    {
+      "text": "Clear World 1-1",
+      "difficulty": 1,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 10 Green Stars",
+      "difficulty": 1,
+      "tags": [
+        "green star"
+      ]
+    },
+    {
+      "text": "Get a Cat Bell",
+      "difficulty": 1,
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "text": "Reach the top of a Goal Pole",
+      "difficulty": 1,
+      "tags": [
+        "goal pole"
+      ]
+    },
+    {
+      "text": "Clear a level as Peach",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Collect 100 coins in one level",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Find a Stamp",
+      "difficulty": 1,
+      "tags": [
+        "stamp"
+      ]
+    },
+    {
+      "text": "Clear World 1",
+      "difficulty": 2,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 30 Green Stars",
+      "difficulty": 2,
+      "tags": [
+        "green star"
+      ]
+    },
+    {
+      "text": "Clear a Captain Toad level",
+      "difficulty": 2,
+      "tags": [
+        "toad"
+      ]
+    },
+    {
+      "text": "Get a Double Cherry",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear a Mystery House",
+      "difficulty": 2,
+      "tags": [
+        "mystery house"
+      ]
+    },
+    {
+      "text": "Collect 5 Stamps",
+      "difficulty": 2,
+      "tags": [
+        "stamp"
+      ]
+    },
+    {
+      "text": "Clear a level as each of the four characters",
+      "difficulty": 2,
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "text": "Beat a Bowser level",
+      "difficulty": 2,
+      "tags": [
+        "bowser"
+      ]
+    },
+    {
+      "text": "Clear World 3",
+      "difficulty": 3,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 60 Green Stars",
+      "difficulty": 3,
+      "tags": [
+        "green star"
+      ]
+    },
+    {
+      "text": "Clear a level without taking damage",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the gold flag on 5 goal poles",
+      "difficulty": 3,
+      "tags": [
+        "goal pole",
+        "gold flag"
+      ]
+    },
+    {
+      "text": "Clear every level in one world",
+      "difficulty": 3,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 15 Stamps",
+      "difficulty": 3,
+      "tags": [
+        "stamp"
+      ]
+    },
+    {
+      "text": "Beat a Toad House",
+      "difficulty": 3,
+      "tags": [
+        "house",
+        "toad"
+      ]
+    },
+    {
+      "text": "Clear a Ghost House",
+      "difficulty": 3,
+      "tags": [
+        "house"
+      ]
+    },
+    {
+      "text": "Clear World 6",
+      "difficulty": 4,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 120 Green Stars",
+      "difficulty": 4,
+      "tags": [
+        "green star"
+      ]
+    },
+    {
+      "text": "Get the gold flag on 20 goal poles",
+      "difficulty": 4,
+      "tags": [
+        "goal pole",
+        "gold flag"
+      ]
+    },
+    {
+      "text": "Clear a Mystery House with all 10 stars",
+      "difficulty": 4,
+      "tags": [
+        "mystery house",
+        "star"
+      ]
+    },
+    {
+      "text": "Clear World Castle",
+      "difficulty": 4,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 30 Stamps",
+      "difficulty": 4,
+      "tags": [
+        "stamp"
+      ]
+    },
+    {
+      "text": "Clear a level using only the Cat suit",
+      "difficulty": 4,
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "text": "Clear World Bowser",
+      "difficulty": 5,
+      "tags": [
+        "world",
+        "bowser"
+      ]
+    },
+    {
+      "text": "Collect every Green Star in a world",
+      "difficulty": 5,
+      "tags": [
+        "green star",
+        "world"
+      ]
+    },
+    {
+      "text": "Unlock World Star",
+      "difficulty": 5,
+      "tags": [
+        "world",
+        "star"
+      ]
+    },
+    {
+      "text": "Clear Champion's Road",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect all Stamps",
+      "difficulty": 5,
+      "tags": [
+        "stamp"
+      ]
+    },
+    {
+      "text": "Clear every level with all four characters",
+      "difficulty": 5,
+      "tags": [
+        "character"
+      ]
+    },
+    {
+      "text": "Get the gold flag on every goal pole",
+      "difficulty": 5,
+      "tags": [
+        "goal pole",
+        "gold flag"
+      ]
+    }
+  ]
+}

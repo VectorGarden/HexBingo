@@ -1,0 +1,237 @@
+{
+  "name": "Enter the Gungeon",
+  "goals": [
+    {
+      "text": "Clear the Keep of the Lead Lord",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Unlock a new gun",
+      "difficulty": 1,
+      "tags": [
+        "unlock"
+      ]
+    },
+    {
+      "text": "Buy something from a shop",
+      "difficulty": 1,
+      "tags": [
+        "buy",
+        "shop"
+      ]
+    },
+    {
+      "text": "Open a chest with a key",
+      "difficulty": 1,
+      "tags": [
+        "chest"
+      ]
+    },
+    {
+      "text": "Break 20 barrels",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Take no damage in one room",
+      "difficulty": 1,
+      "tags": [
+        "damage",
+        "room"
+      ]
+    },
+    {
+      "text": "Find a secret room",
+      "difficulty": 1,
+      "tags": [
+        "secret",
+        "room"
+      ]
+    },
+    {
+      "text": "Clear the Gungeon Proper",
+      "difficulty": 2,
+      "tags": [
+        "gungeon"
+      ]
+    },
+    {
+      "text": "Rescue an NPC",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Beat a boss without taking damage",
+      "difficulty": 2,
+      "tags": [
+        "taking damage"
+      ]
+    },
+    {
+      "text": "Use a Blank to reveal a secret",
+      "difficulty": 2,
+      "tags": [
+        "blank",
+        "secret"
+      ]
+    },
+    {
+      "text": "Reach floor three",
+      "difficulty": 2,
+      "tags": [
+        "floor"
+      ]
+    },
+    {
+      "text": "Buy an item from the Gungeon shop",
+      "difficulty": 2,
+      "tags": [
+        "buy",
+        "gungeon",
+        "shop"
+      ]
+    },
+    {
+      "text": "Free the Sorceress",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear the Black Powder Mine",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Beat the Beholster",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Unlock the Elevator to floor two",
+      "difficulty": 3,
+      "tags": [
+        "unlock",
+        "floor"
+      ]
+    },
+    {
+      "text": "Get a synergy",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear a floor without opening a chest",
+      "difficulty": 3,
+      "tags": [
+        "floor",
+        "chest"
+      ]
+    },
+    {
+      "text": "Reach the Hollow",
+      "difficulty": 3,
+      "tags": [
+        "hollow"
+      ]
+    },
+    {
+      "text": "Complete a Winchester game",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear the Hollow",
+      "difficulty": 4,
+      "tags": [
+        "hollow"
+      ]
+    },
+    {
+      "text": "Beat the High Dragun",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Unlock the Bullet",
+      "difficulty": 4,
+      "tags": [
+        "unlock",
+        "bullet"
+      ]
+    },
+    {
+      "text": "Clear a floor without taking damage",
+      "difficulty": 4,
+      "tags": [
+        "taking damage",
+        "floor"
+      ]
+    },
+    {
+      "text": "Kill the Resourceful Rat",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Reach the Forge",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get a Master Round",
+      "difficulty": 4,
+      "tags": [
+        "master round"
+      ]
+    },
+    {
+      "text": "Kill the Past of any character",
+      "difficulty": 5,
+      "tags": [
+        "past"
+      ]
+    },
+    {
+      "text": "Collect all five Master Rounds in one run",
+      "difficulty": 5,
+      "tags": [
+        "master round"
+      ]
+    },
+    {
+      "text": "Beat the Lich",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Unlock the Gunslinger",
+      "difficulty": 5,
+      "tags": [
+        "unlock"
+      ]
+    },
+    {
+      "text": "Clear a run without using Blanks",
+      "difficulty": 5,
+      "tags": [
+        "blank"
+      ]
+    },
+    {
+      "text": "Beat Bullet Hell",
+      "difficulty": 5,
+      "tags": [
+        "bullet"
+      ]
+    },
+    {
+      "text": "Assemble the Bullet That Can Kill The Past",
+      "difficulty": 5,
+      "tags": [
+        "bullet",
+        "past"
+      ]
+    }
+  ]
+}

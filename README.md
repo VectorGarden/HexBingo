@@ -312,22 +312,45 @@ Mean difficulty by ring over 400 boards, against two long-established lists:
 These are judgement calls, not measurements. If a goal sits wrong, change its
 number in `goals/<game>.json` — nothing else depends on it.
 
-### Planned
+### Drafted, not yet verified
 
-Written but not yet ready, or waiting on goals being drafted:
+Twenty lists were written from scratch to clear the backlog — 546 goals. They
+are **drafts**: unlike the other 49, nobody has played a run against them.
 
-- **Super Smash Bros. Ultimate** — 24 goals drafted, below the 25 a 19-hex board
-  wants, so it needs more before it is worth shipping.
-- **Ocarina of Time** — tracked, no goals written yet.
-- Backlog with nothing drafted: Banjo-Kazooie, Oracle of Ages, Oracle of
-  Seasons, Minish Cap, A Link Between Worlds, Digimon World DS, Digimon World
-  Dawn/Dusk, Super Mario 3D World, Super Mario 3D Land, Donkey Kong Country
-  Returns: Tropical Freeze, Enter the Gungeon, Captain Toad: Treasure Tracker,
-  Shovel Knight, Rayman Legends, Duck Game, Darksiders, Mega Man Zero
-  Collection, Mega Man ZX + Advent.
+| | |
+|---|---|
+| Zelda | Ocarina of Time, Oracle of Seasons, Oracle of Ages, The Minish Cap, A Link Between Worlds |
+| Platformers | Banjo-Kazooie, Super Mario 3D World, Super Mario 3D Land, DKC: Tropical Freeze, Captain Toad |
+| Action | Shovel Knight, Rayman Legends, Enter the Gungeon, Duck Game, Darksiders |
+| Other | Mega Man Zero Collection, Mega Man ZX + Advent, Digimon World DS, Digimon World Dawn/Dusk, Super Smash Bros. Ultimate |
 
-**Pokémon Stadium** was cancelled. Around 58 goals exist for it, but it is not
-shipping.
+Difficulty follows the same rule as everything else — how far into a run a goal
+becomes possible, then what it asks once you are there — and every list measures
+a normal gradient, centre ≈1.1 rising to a rim ≈4.3. Tags came from
+`tools/generate-tags.js`.
+
+**What to check before trusting one.** The risk in a drafted list is not a bad
+difficulty, which is easy to nudge, but a goal that cannot be done at all —
+wrong item name, an objective the game does not actually have, something locked
+behind a mode the run will not reach. A single impossible goal ruins the square
+it lands on. Worth one read-through by someone who has played the game.
+
+Two to look at first:
+
+- **Duck Game** has 30 goals, the fewest, and 17% of lines end up carrying two
+  from the same family. More goals is the fix.
+- **Digimon World DS** and **Dawn/Dusk** were written from the thinnest
+  knowledge, so they stay close to core mechanics — scanning, digivolving,
+  Union rank — rather than naming specific content.
+
+**Super Smash Bros. Ultimate** keeps the 24 goals already drafted on the Trello
+board, verbatim. Several use Brawl-era names for Ultimate modes ("100 Man
+Brawl", "Multiman Brawl"), which is worth a rename at some point.
+
+### Still not written
+
+- **Pokémon Stadium** was cancelled. Around 58 goals exist for it, but it is not
+  shipping.
 
 ---
 

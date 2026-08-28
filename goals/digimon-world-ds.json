@@ -1,0 +1,257 @@
+{
+  "name": "Digimon World DS",
+  "goals": [
+    {
+      "text": "Hatch a Digi-Egg",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Win your first Tamer battle",
+      "difficulty": 1,
+      "tags": [
+        "tamer battle",
+        "win"
+      ]
+    },
+    {
+      "text": "Scan a Digimon",
+      "difficulty": 1,
+      "tags": [
+        "digimon",
+        "scan"
+      ]
+    },
+    {
+      "text": "Plant a crop in the DigiFarm",
+      "difficulty": 1,
+      "tags": [
+        "digifarm"
+      ]
+    },
+    {
+      "text": "Reach Tamer Rank 2",
+      "difficulty": 1,
+      "tags": [
+        "tamer rank"
+      ]
+    },
+    {
+      "text": "Recruit a Digimon to your farm",
+      "difficulty": 1,
+      "tags": [
+        "digimon",
+        "farm"
+      ]
+    },
+    {
+      "text": "Complete a Tamer Union request",
+      "difficulty": 1,
+      "tags": [
+        "tamer union",
+        "union request"
+      ]
+    },
+    {
+      "text": "Digivolve a Digimon to Champion",
+      "difficulty": 2,
+      "tags": [
+        "digimon",
+        "digivolve"
+      ]
+    },
+    {
+      "text": "Scan 10 Digimon",
+      "difficulty": 2,
+      "tags": [
+        "scan digimon"
+      ]
+    },
+    {
+      "text": "Reach Tamer Rank 4",
+      "difficulty": 2,
+      "tags": [
+        "tamer rank"
+      ]
+    },
+    {
+      "text": "Clear a dungeon",
+      "difficulty": 2,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "text": "Build a second DigiFarm",
+      "difficulty": 2,
+      "tags": [
+        "digifarm"
+      ]
+    },
+    {
+      "text": "Win five Tamer battles",
+      "difficulty": 2,
+      "tags": [
+        "tamer battle",
+        "win"
+      ]
+    },
+    {
+      "text": "Harvest a DigiEgg from a farm",
+      "difficulty": 2,
+      "tags": [
+        "farm"
+      ]
+    },
+    {
+      "text": "Digivolve a Digimon to Ultimate",
+      "difficulty": 3,
+      "tags": [
+        "digimon",
+        "digivolve"
+      ]
+    },
+    {
+      "text": "Scan 50 Digimon",
+      "difficulty": 3,
+      "tags": [
+        "scan digimon"
+      ]
+    },
+    {
+      "text": "Reach Tamer Rank 6",
+      "difficulty": 3,
+      "tags": [
+        "tamer rank"
+      ]
+    },
+    {
+      "text": "Clear three dungeons",
+      "difficulty": 3,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "text": "Complete 10 Tamer Union requests",
+      "difficulty": 3,
+      "tags": [
+        "tamer union",
+        "union request"
+      ]
+    },
+    {
+      "text": "Win a battle without losing a Digimon",
+      "difficulty": 3,
+      "tags": [
+        "digimon",
+        "win",
+        "battle"
+      ]
+    },
+    {
+      "text": "Fill a DigiFarm to capacity",
+      "difficulty": 3,
+      "tags": [
+        "digifarm"
+      ]
+    },
+    {
+      "text": "Digivolve a Digimon to Mega",
+      "difficulty": 4,
+      "tags": [
+        "digimon",
+        "digivolve",
+        "mega"
+      ]
+    },
+    {
+      "text": "Scan 100 Digimon",
+      "difficulty": 4,
+      "tags": [
+        "scan digimon"
+      ]
+    },
+    {
+      "text": "Reach Tamer Rank 8",
+      "difficulty": 4,
+      "tags": [
+        "tamer rank"
+      ]
+    },
+    {
+      "text": "DNA Digivolve two Digimon",
+      "difficulty": 4,
+      "tags": [
+        "digimon",
+        "digivolve"
+      ]
+    },
+    {
+      "text": "Clear every main dungeon",
+      "difficulty": 4,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "text": "Raise a Digimon to level 50",
+      "difficulty": 4,
+      "tags": [
+        "digimon",
+        "raise"
+      ]
+    },
+    {
+      "text": "Complete 25 Tamer Union requests",
+      "difficulty": 4,
+      "tags": [
+        "tamer union",
+        "union request"
+      ]
+    },
+    {
+      "text": "Scan 200 Digimon",
+      "difficulty": 5,
+      "tags": [
+        "scan digimon"
+      ]
+    },
+    {
+      "text": "Reach the highest Tamer Rank",
+      "difficulty": 5,
+      "tags": [
+        "tamer rank"
+      ]
+    },
+    {
+      "text": "Raise a Digimon to level 99",
+      "difficulty": 5,
+      "tags": [
+        "digimon",
+        "raise"
+      ]
+    },
+    {
+      "text": "Beat the final boss",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Complete every Tamer Union request",
+      "difficulty": 5,
+      "tags": [
+        "tamer union",
+        "union request"
+      ]
+    },
+    {
+      "text": "Have a full party of Mega Digimon",
+      "difficulty": 5,
+      "tags": [
+        "digimon",
+        "mega"
+      ]
+    }
+  ]
+}

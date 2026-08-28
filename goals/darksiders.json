@@ -1,0 +1,220 @@
+{
+  "name": "Darksiders",
+  "goals": [
+    {
+      "text": "Clear the Prologue",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Get the Chaoseater",
+      "difficulty": 1,
+      "tags": [
+        "chaoseater"
+      ]
+    },
+    {
+      "text": "Find a Lifestone Shard",
+      "difficulty": 1,
+      "tags": [
+        "lifestone shard",
+        "find"
+      ]
+    },
+    {
+      "text": "Kill 20 enemies",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Open a chest",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Buy something from Vulgrim",
+      "difficulty": 1,
+      "tags": [
+        "buy",
+        "vulgrim"
+      ]
+    },
+    {
+      "text": "Perform a finisher",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Defeat Tiamat",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Crossblade",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get Ruin",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Find 5 Lifestone Shards",
+      "difficulty": 2,
+      "tags": [
+        "lifestone shard",
+        "find"
+      ]
+    },
+    {
+      "text": "Buy a combo from Vulgrim",
+      "difficulty": 2,
+      "tags": [
+        "buy",
+        "vulgrim"
+      ]
+    },
+    {
+      "text": "Clear the Twilight Cathedral",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Find a Wrath Shard",
+      "difficulty": 2,
+      "tags": [
+        "wrath shard",
+        "find"
+      ]
+    },
+    {
+      "text": "Defeat the Griever",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Voidwalker",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear the Drowned Pass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect 10 Artefacts",
+      "difficulty": 3,
+      "tags": [
+        "artefact"
+      ]
+    },
+    {
+      "text": "Get a Wrath ability",
+      "difficulty": 3,
+      "tags": [
+        "wrath"
+      ]
+    },
+    {
+      "text": "Upgrade a weapon with an Enhancement",
+      "difficulty": 3,
+      "tags": [
+        "upgrade",
+        "weapon"
+      ]
+    },
+    {
+      "text": "Clear the Iron Canopy",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Silitha",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Mask of Shadows",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear the Black Throne",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 20 Artefacts",
+      "difficulty": 4,
+      "tags": [
+        "artefact"
+      ]
+    },
+    {
+      "text": "Get a full Lifestone",
+      "difficulty": 4,
+      "tags": [
+        "lifestone"
+      ]
+    },
+    {
+      "text": "Fully upgrade Chaoseater",
+      "difficulty": 4,
+      "tags": [
+        "fully upgrade",
+        "chaoseater"
+      ]
+    },
+    {
+      "text": "Get the Abyssal Armour",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Defeat Straga",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect every Artefact",
+      "difficulty": 5,
+      "tags": [
+        "artefact"
+      ]
+    },
+    {
+      "text": "Beat the game on Apocalyptic",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get every Lifestone Shard",
+      "difficulty": 5,
+      "tags": [
+        "lifestone shard"
+      ]
+    },
+    {
+      "text": "Defeat the Destroyer",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Fully upgrade every weapon",
+      "difficulty": 5,
+      "tags": [
+        "fully upgrade",
+        "weapon"
+      ]
+    },
+    {
+      "text": "Collect all Wrath Shards",
+      "difficulty": 5,
+      "tags": [
+        "wrath shard"
+      ]
+    }
+  ]
+}

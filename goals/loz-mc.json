@@ -1,0 +1,261 @@
+{
+  "name": "The Minish Cap",
+  "goals": [
+    {
+      "text": "Get the Smith's Sword",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Shrink for the first time",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Meet Ezlo",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Collect 10 Kinstone Pieces",
+      "difficulty": 1,
+      "tags": [
+        "kinstone",
+        "piece"
+      ]
+    },
+    {
+      "text": "Enter Deepwood Shrine",
+      "difficulty": 1,
+      "tags": [
+        "enter"
+      ]
+    },
+    {
+      "text": "Get the Gust Jar",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Break a pot as a Minish",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Defeat Big Green ChuChu",
+      "difficulty": 2,
+      "tags": [
+        "big"
+      ]
+    },
+    {
+      "text": "Get the Bombs",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Boomerang",
+      "difficulty": 2,
+      "tags": [
+        "boomerang"
+      ]
+    },
+    {
+      "text": "Fuse 5 Kinstones",
+      "difficulty": 2,
+      "tags": [
+        "fuse kinstone"
+      ]
+    },
+    {
+      "text": "Get the White Sword",
+      "difficulty": 2,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Enter the Cave of Flames",
+      "difficulty": 2,
+      "tags": [
+        "enter"
+      ]
+    },
+    {
+      "text": "Get the Cane of Pacci",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect 4 Heart Pieces",
+      "difficulty": 2,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Buy a Bottle",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Defeat Gleerok",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Pegasus Boots",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Bow",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Reach the Temple of Droplets",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Flippers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Fuse 15 Kinstones",
+      "difficulty": 3,
+      "tags": [
+        "fuse kinstone"
+      ]
+    },
+    {
+      "text": "Get the Four Sword",
+      "difficulty": 3,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Collect 8 Heart Pieces",
+      "difficulty": 3,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Fill the Figurine Gallery to 40 figurines",
+      "difficulty": 3,
+      "tags": [
+        "figurine gallery",
+        "fill"
+      ]
+    },
+    {
+      "text": "Defeat Big Octorok",
+      "difficulty": 4,
+      "tags": [
+        "big"
+      ]
+    },
+    {
+      "text": "Get the Mole Mitts",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Reach the Palace of Winds",
+      "difficulty": 4,
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "text": "Get the Roc's Cape",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Fuse 30 Kinstones",
+      "difficulty": 4,
+      "tags": [
+        "fuse kinstone"
+      ]
+    },
+    {
+      "text": "Get the Light Arrows",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 12 Heart Pieces",
+      "difficulty": 4,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Get the Magical Boomerang",
+      "difficulty": 4,
+      "tags": [
+        "boomerang"
+      ]
+    },
+    {
+      "text": "Clear the Fortress of Winds",
+      "difficulty": 4,
+      "tags": [
+        "wind"
+      ]
+    },
+    {
+      "text": "Defeat Vaati",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get every Sword upgrade",
+      "difficulty": 5,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Collect all Heart Pieces in Hyrule Town",
+      "difficulty": 5,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Fill the Figurine Gallery completely",
+      "difficulty": 5,
+      "tags": [
+        "figurine gallery",
+        "fill"
+      ]
+    },
+    {
+      "text": "Reach 16 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Fuse 50 Kinstones",
+      "difficulty": 5,
+      "tags": [
+        "fuse kinstone"
+      ]
+    },
+    {
+      "text": "Get the Mirror Shield",
+      "difficulty": 5,
+      "tags": []
+    }
+  ]
+}

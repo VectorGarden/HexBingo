@@ -1,0 +1,262 @@
+{
+  "name": "A Link Between Worlds",
+  "goals": [
+    {
+      "text": "Get a sword from the blacksmith",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Rent an item from Ravio",
+      "difficulty": 1,
+      "tags": [
+        "ravio"
+      ]
+    },
+    {
+      "text": "Merge into a wall",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Enter the Eastern Palace",
+      "difficulty": 1,
+      "tags": [
+        "eastern palace"
+      ]
+    },
+    {
+      "text": "Collect 5 Maiamai",
+      "difficulty": 1,
+      "tags": [
+        "maiamai"
+      ]
+    },
+    {
+      "text": "Talk to Ravio",
+      "difficulty": 1,
+      "tags": [
+        "ravio"
+      ]
+    },
+    {
+      "text": "Buy a Bottle",
+      "difficulty": 1,
+      "tags": [
+        "buy"
+      ]
+    },
+    {
+      "text": "Defeat Yuga in the Eastern Palace",
+      "difficulty": 2,
+      "tags": [
+        "eastern palace",
+        "yuga"
+      ]
+    },
+    {
+      "text": "Clear the House of Gales",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Pegasus Boots",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect 20 Maiamai",
+      "difficulty": 2,
+      "tags": [
+        "maiamai"
+      ]
+    },
+    {
+      "text": "Reach Lorule",
+      "difficulty": 2,
+      "tags": [
+        "lorule"
+      ]
+    },
+    {
+      "text": "Buy the Bow outright",
+      "difficulty": 2,
+      "tags": [
+        "buy"
+      ]
+    },
+    {
+      "text": "Get the Master Sword",
+      "difficulty": 2,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Clear the Tower of Hera",
+      "difficulty": 2,
+      "tags": [
+        "tower"
+      ]
+    },
+    {
+      "text": "Win a Rupee Rush",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear the Dark Palace",
+      "difficulty": 3,
+      "tags": [
+        "palace"
+      ]
+    },
+    {
+      "text": "Clear the Swamp Palace",
+      "difficulty": 3,
+      "tags": [
+        "palace"
+      ]
+    },
+    {
+      "text": "Collect 40 Maiamai",
+      "difficulty": 3,
+      "tags": [
+        "maiamai"
+      ]
+    },
+    {
+      "text": "Get the Titan's Mitt",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Upgrade an item at Mother Maiamai",
+      "difficulty": 3,
+      "tags": [
+        "mother maiamai",
+        "upgrade"
+      ]
+    },
+    {
+      "text": "Clear the Skull Woods",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect 8 Heart Pieces",
+      "difficulty": 3,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Beat Treacherous Tower on its first setting",
+      "difficulty": 3,
+      "tags": [
+        "treacherou tower",
+        "setting"
+      ]
+    },
+    {
+      "text": "Clear the Thieves' Hideout",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear the Ice Ruins",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 70 Maiamai",
+      "difficulty": 4,
+      "tags": [
+        "maiamai"
+      ]
+    },
+    {
+      "text": "Clear the Desert Palace",
+      "difficulty": 4,
+      "tags": [
+        "palace"
+      ]
+    },
+    {
+      "text": "Upgrade three items at Mother Maiamai",
+      "difficulty": 4,
+      "tags": [
+        "mother maiamai",
+        "upgrade"
+      ]
+    },
+    {
+      "text": "Get the Great Spin",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 15 Heart Pieces",
+      "difficulty": 4,
+      "tags": [
+        "heart piece"
+      ]
+    },
+    {
+      "text": "Buy every item from Ravio",
+      "difficulty": 4,
+      "tags": [
+        "buy",
+        "ravio"
+      ]
+    },
+    {
+      "text": "Clear Turtle Rock",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Rescue all seven Sages",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect all 100 Maiamai",
+      "difficulty": 5,
+      "tags": [
+        "maiamai"
+      ]
+    },
+    {
+      "text": "Defeat Yuga Ganon",
+      "difficulty": 5,
+      "tags": [
+        "yuga"
+      ]
+    },
+    {
+      "text": "Reach 20 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Clear Lorule Castle",
+      "difficulty": 5,
+      "tags": [
+        "lorule"
+      ]
+    },
+    {
+      "text": "Beat the Treacherous Tower's hardest setting",
+      "difficulty": 5,
+      "tags": [
+        "treacherou tower",
+        "setting"
+      ]
+    }
+  ]
+}

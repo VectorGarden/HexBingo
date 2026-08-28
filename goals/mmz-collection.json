@@ -1,0 +1,225 @@
+{
+  "name": "Mega Man Zero Collection",
+  "goals": [
+    {
+      "text": "Clear the opening stage",
+      "difficulty": 1,
+      "tags": [
+        "stage"
+      ]
+    },
+    {
+      "text": "Rescue a Resistance member",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Get an EX Skill",
+      "difficulty": 1,
+      "tags": [
+        "skill"
+      ]
+    },
+    {
+      "text": "Clear a mission with an A rank",
+      "difficulty": 1,
+      "tags": [
+        "mission",
+        "rank"
+      ]
+    },
+    {
+      "text": "Use the Z-Saber to deflect a shot",
+      "difficulty": 1,
+      "tags": [
+        "z-saber"
+      ]
+    },
+    {
+      "text": "Find a Cyber-elf",
+      "difficulty": 1,
+      "tags": [
+        "cyber-elf"
+      ]
+    },
+    {
+      "text": "Clear a mission without dying",
+      "difficulty": 1,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Defeat a Guardian",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear three missions in one game",
+      "difficulty": 2,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Raise a Cyber-elf",
+      "difficulty": 2,
+      "tags": [
+        "cyber-elf"
+      ]
+    },
+    {
+      "text": "Get the Triple Rod",
+      "difficulty": 2,
+      "tags": [
+        "rod"
+      ]
+    },
+    {
+      "text": "Clear a mission with an S rank",
+      "difficulty": 2,
+      "tags": [
+        "mission",
+        "rank"
+      ]
+    },
+    {
+      "text": "Use a Chain Rod",
+      "difficulty": 2,
+      "tags": [
+        "rod"
+      ]
+    },
+    {
+      "text": "Defeat a mid-boss without taking damage",
+      "difficulty": 2,
+      "tags": [
+        "taking damage"
+      ]
+    },
+    {
+      "text": "Beat Zero 1",
+      "difficulty": 3,
+      "tags": [
+        "zero"
+      ]
+    },
+    {
+      "text": "Get every EX Skill from one game",
+      "difficulty": 3,
+      "tags": [
+        "skill"
+      ]
+    },
+    {
+      "text": "Clear a mission with no Cyber-elf used",
+      "difficulty": 3,
+      "tags": [
+        "mission",
+        "cyber-elf"
+      ]
+    },
+    {
+      "text": "Defeat a boss with the Buster only",
+      "difficulty": 3,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "Reach Level 3 on a weapon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear an escape sequence",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Beat Zero 2",
+      "difficulty": 4,
+      "tags": [
+        "zero"
+      ]
+    },
+    {
+      "text": "Get a Form in Zero 2",
+      "difficulty": 4,
+      "tags": [
+        "zero"
+      ]
+    },
+    {
+      "text": "Clear a game with an A rank average",
+      "difficulty": 4,
+      "tags": [
+        "rank average"
+      ]
+    },
+    {
+      "text": "Beat a boss without taking damage",
+      "difficulty": 4,
+      "tags": [
+        "taking damage",
+        "boss"
+      ]
+    },
+    {
+      "text": "Collect 20 Cyber-elves",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear Zero 3's introduction stage",
+      "difficulty": 4,
+      "tags": [
+        "zero",
+        "stage"
+      ]
+    },
+    {
+      "text": "Beat Zero 3",
+      "difficulty": 5,
+      "tags": [
+        "zero"
+      ]
+    },
+    {
+      "text": "Beat Zero 4",
+      "difficulty": 5,
+      "tags": [
+        "zero"
+      ]
+    },
+    {
+      "text": "Finish a game with an S rank average",
+      "difficulty": 5,
+      "tags": [
+        "rank average"
+      ]
+    },
+    {
+      "text": "Beat a boss with only the Z-Saber",
+      "difficulty": 5,
+      "tags": [
+        "boss",
+        "z-saber"
+      ]
+    },
+    {
+      "text": "Complete every mission in one game",
+      "difficulty": 5,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Clear a game without using a single Cyber-elf",
+      "difficulty": 5,
+      "tags": [
+        "cyber-elf"
+      ]
+    }
+  ]
+}
