@@ -5,402 +5,402 @@
       "text": "Beat Chaos 0 Without Rings",
       "difficulty": 1,
       "tags": [
-        "BOSS",
-        "SONIC",
-        "RINGS"
+        "boss",
+        "sonic",
+        "rings"
       ]
     },
     {
       "text": "Beat Beta MkII With 0 Rings",
       "difficulty": 1,
       "tags": [
-        "BOSS",
-        "GAMMA",
-        "RINGS"
+        "boss",
+        "gamma",
+        "rings"
       ]
     },
     {
       "text": "Beat a Big Stage with 25 Rings",
       "difficulty": 1,
       "tags": [
-        "BIG",
-        "RINGS"
+        "big",
+        "rings"
       ]
     },
     {
       "text": "Complete Emerald Coast With 50 Rings",
       "difficulty": 1,
       "tags": [
-        "SONIC",
-        "TAILS",
-        "RINGS",
-        "EMERALD_COAST"
+        "sonic",
+        "tails",
+        "rings",
+        "emerald_coast"
       ]
     },
     {
       "text": "Get a life by getting 100 Rings",
       "difficulty": 1,
       "tags": [
-        "LIFE",
-        "RINGS"
+        "life",
+        "rings"
       ]
     },
     {
       "text": "Complete a Knuckles' Stage without using any hints",
       "difficulty": 1,
       "tags": [
-        "KNUCKLES"
+        "knuckles"
       ]
     },
     {
       "text": "Destroy 50 enemies in a Stage",
       "difficulty": 1,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Complete Red Mountain With 0 Rings",
       "difficulty": 1,
       "tags": [
-        "SONIC",
-        "RINGS",
-        "RED_MOUNTAIN"
+        "sonic",
+        "rings",
+        "red_mountain"
       ]
     },
     {
       "text": "Complete Speed Highway in Under 3 Minutes",
       "difficulty": 1,
       "tags": [
-        "SONIC",
-        "TAILS",
-        "SPEEDRUN",
-        "SPEED_HIGHWAY"
+        "sonic",
+        "tails",
+        "speedrun",
+        "speed_highway"
       ]
     },
     {
       "text": "Get 10 Emblems",
       "difficulty": 1,
       "tags": [
-        "EMBLEM"
+        "emblem"
       ]
     },
     {
       "text": "Go to each Chao Garden",
       "difficulty": 2,
       "tags": [
-        "CHAO"
+        "chao"
       ]
     },
     {
       "text": "Jump Off of 3 Ramps in Ice Cap",
       "difficulty": 2,
       "tags": [
-        "SONIC",
-        "TAILS"
+        "sonic",
+        "tails"
       ]
     },
     {
       "text": "Beat Chaos 2 in Under 2 Minutes",
       "difficulty": 2,
       "tags": [
-        "KNUCKLES",
-        "SPEEDRUN"
+        "knuckles",
+        "speedrun"
       ]
     },
     {
       "text": "Drive Kart off of edge in Twinkle Park Circuit",
       "difficulty": 2,
       "tags": [
-        "MINIGAME"
+        "minigame"
       ]
     },
     {
       "text": "Beat a Gamma Stage Without Destroying Anything",
       "difficulty": 2,
       "tags": [
-        "GAMMA"
+        "gamma"
       ]
     },
     {
       "text": "Beat Tails' Speed Highway Without Flying",
       "difficulty": 2,
       "tags": [
-        "TAILS",
-        "SPEED_HIGHWAY"
+        "tails",
+        "speed_highway"
       ]
     },
     {
       "text": "Get 700 Rings in Casinopolis",
       "difficulty": 2,
       "tags": [
-        "CASINOPOLIS"
+        "casinopolis"
       ]
     },
     {
       "text": "Beat Chaos 6 Without Using Light Speed Attack",
       "difficulty": 2,
       "tags": [
-        "SONIC",
-        "BOSS"
+        "sonic",
+        "boss"
       ]
     },
     {
       "text": "Beat Egg Hornet With Exactly 5 Rings",
       "difficulty": 2,
       "tags": [
-        "BOSS",
-        "RINGS",
-        "TAILS",
-        "SONIC"
+        "boss",
+        "rings",
+        "tails",
+        "sonic"
       ]
     },
     {
       "text": "Get 20 Emblems",
       "difficulty": 2,
       "tags": [
-        "EMBLEM"
+        "emblem"
       ]
     },
     {
       "text": "Travel to each Adventure Field every possible way",
       "difficulty": 3,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Beat Chaos 4 With 4 Rings",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "RINGS",
-        "SONIC",
-        "TAILS",
-        "KNUCKLES"
+        "boss",
+        "rings",
+        "sonic",
+        "tails",
+        "knuckles"
       ]
     },
     {
       "text": "Complete 5 of Sonic's Missions",
       "difficulty": 3,
       "tags": [
-        "SONIC",
-        "MISSION"
+        "sonic",
+        "mission"
       ]
     },
     {
       "text": "Complete 5 of Tails' Missions",
       "difficulty": 3,
       "tags": [
-        "TAILS",
-        "MISSION"
+        "tails",
+        "mission"
       ]
     },
     {
       "text": "Complete 5 of Knuckles' Missions",
       "difficulty": 3,
       "tags": [
-        "KNUCKLES",
-        "MISSION"
+        "knuckles",
+        "mission"
       ]
     },
     {
       "text": "Complete 5 of Amy's Missions",
       "difficulty": 3,
       "tags": [
-        "AMY",
-        "MISSION"
+        "amy",
+        "mission"
       ]
     },
     {
       "text": "Complete 5 of Big's Missions",
       "difficulty": 3,
       "tags": [
-        "BIG",
-        "MISSION"
+        "big",
+        "mission"
       ]
     },
     {
       "text": "Complete 5 of Gamma's Missions",
       "difficulty": 3,
       "tags": [
-        "GAMMA",
-        "MISSION"
+        "gamma",
+        "mission"
       ]
     },
     {
       "text": "Beat Gamma with Sonic and Sonic with Gamma",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "GAMMA",
-        "SONIC"
+        "boss",
+        "gamma",
+        "sonic"
       ]
     },
     {
       "text": "Beat Knuckles with Sonic and Sonic with Knuckles",
       "difficulty": 3,
       "tags": [
-        "BOSS",
-        "SONIC",
-        "KNUCKLES"
+        "boss",
+        "sonic",
+        "knuckles"
       ]
     },
     {
       "text": "Get 25 Lives",
       "difficulty": 4,
       "tags": [
-        "LIFE"
+        "life"
       ]
     },
     {
       "text": "Beat Tails' Sky Deck Without Flying",
       "difficulty": 4,
       "tags": [
-        "TAILS",
-        "SKY_DECK"
+        "tails",
+        "sky_deck"
       ]
     },
     {
       "text": "Beat Tails' Windy Valley Without Flying",
       "difficulty": 4,
       "tags": [
-        "TAILS",
-        "WINDY_VALLEY"
+        "tails",
+        "windy_valley"
       ]
     },
     {
       "text": "Beat Twinkle Circuit With Exactly 1 Ring",
       "difficulty": 4,
       "tags": [
-        "MINIGAME"
+        "minigame"
       ]
     },
     {
       "text": "Get 30 Emblems",
       "difficulty": 4,
       "tags": [
-        "EMBLEM"
+        "emblem"
       ]
     },
     {
       "text": "Beat Zero With 0 Rings",
       "difficulty": 4,
       "tags": [
-        "AMY",
-        "RINGS",
-        "BOSS"
+        "amy",
+        "rings",
+        "boss"
       ]
     },
     {
       "text": "Beat Egg Walker in Under 2:30",
       "difficulty": 4,
       "tags": [
-        "BOSS",
-        "TAILS"
+        "boss",
+        "tails"
       ]
     },
     {
       "text": "Beat Lost World's Mirror Room Without Mirrors",
       "difficulty": 4,
       "tags": [
-        "SONIC",
-        "LOST_WORLD"
+        "sonic",
+        "lost_world"
       ]
     },
     {
       "text": "Complete Amy's Twinkle Park Without Using the Hammer",
       "difficulty": 4,
       "tags": [
-        "AMY",
-        "TWINKLE_PARK"
+        "amy",
+        "twinkle_park"
       ]
     },
     {
       "text": "Get All of Big's Upgrades",
       "difficulty": 4,
       "tags": [
-        "UPGRADE",
-        "BIG"
+        "upgrade",
+        "big"
       ]
     },
     {
       "text": "Get All of Sonic's Upgrades",
       "difficulty": 5,
       "tags": [
-        "UPGRADE",
-        "SONIC"
+        "upgrade",
+        "sonic"
       ]
     },
     {
       "text": "Get Both of Amy's Upgrades",
       "difficulty": 5,
       "tags": [
-        "UPGRADE",
-        "AMY"
+        "upgrade",
+        "amy"
       ]
     },
     {
       "text": "Get Both of Gamma's Upgrades",
       "difficulty": 5,
       "tags": [
-        "UPGRADE",
-        "GAMMA"
+        "upgrade",
+        "gamma"
       ]
     },
     {
       "text": "Get Both of Knuckles' Upgrades",
       "difficulty": 5,
       "tags": [
-        "UPGRADE",
-        "KNUCKLES"
+        "upgrade",
+        "knuckles"
       ]
     },
     {
       "text": "Get Both of Tails' Upgrades",
       "difficulty": 5,
       "tags": [
-        "UPGRADE",
-        "TAILS"
+        "upgrade",
+        "tails"
       ]
     },
     {
       "text": "Get a Score of 5000 in Hedgehog Hammer",
       "difficulty": 5,
       "tags": [
-        "AMY",
-        "MINIGAME"
+        "amy",
+        "minigame"
       ]
     },
     {
       "text": "Destroy the Tails Doll in Sonic's Final Egg",
       "difficulty": 5,
       "tags": [
-        "SONIC",
-        "FINAL_EGG"
+        "sonic",
+        "final_egg"
       ]
     },
     {
       "text": "Beat Perfect Chaos",
       "difficulty": 5,
       "tags": [
-        "BOSS",
-        "PERFECT_CHAOS"
+        "boss",
+        "perfect_chaos"
       ]
     },
     {
       "text": "Beat Egg Viper Without Getting Hit",
       "difficulty": 5,
       "tags": [
-        "SONIC",
-        "BOSS"
+        "sonic",
+        "boss"
       ]
     },
     {
       "text": "Unlock Metal Sonic",
       "difficulty": 5,
       "tags": [
-        "EMBLEM"
+        "emblem"
       ]
     }
   ]

@@ -5,380 +5,380 @@
       "text": "Kill an enemy with down strikes only",
       "difficulty": 1,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Defeat a SpikedBall",
       "difficulty": 1,
       "tags": [
-        "CASTLE",
-        "FOREST"
+        "castle",
+        "forest"
       ]
     },
     {
       "text": "Kill a BallAndChain while its Ball is in a wall",
       "difficulty": 1,
       "tags": [
-        "HUNT",
-        "FOREST"
+        "hunt",
+        "forest"
       ]
     },
     {
       "text": "Kill a Chicken",
       "difficulty": 1,
       "tags": [
-        "TRAIT"
+        "trait"
       ]
     },
     {
       "text": "Kill an enemy from underneath it with a sword",
       "difficulty": 1,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Get 3 Runes",
       "difficulty": 1,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Block a Projectile",
       "difficulty": 1,
       "tags": [
-        "CLASS"
+        "class"
       ]
     },
     {
       "text": "Dodge 10 HomingTurret shots in a row",
       "difficulty": 1,
       "tags": [
-        "SPEED"
+        "speed"
       ]
     },
     {
       "text": "Lure a Wolf into Spikes",
       "difficulty": 1,
       "tags": [
-        "FOREST"
+        "forest"
       ]
     },
     {
       "text": "Dodge 5 slashes from SwordKnights by dashing backwords after they swing",
       "difficulty": 1,
       "tags": [
-        "RUNE"
+        "rune"
       ]
     },
     {
       "text": "Destroy every Chandelier in 5 2x2 rooms",
       "difficulty": 2,
       "tags": [
-        "CASTLE"
+        "castle"
       ]
     },
     {
       "text": "Enter the Forest without getting hit",
       "difficulty": 2,
       "tags": [
-        "CASTLE"
+        "castle"
       ]
     },
     {
       "text": "Kill every enemy in a section",
       "difficulty": 2,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Defeat a LV1 IceWizard, EarthWizard, and FireWizard in one run",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "CASTLE",
-        "FOREST"
+        "hunt",
+        "castle",
+        "forest"
       ]
     },
     {
       "text": "Open every chest in a section",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Win a Carnival Game",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Find 10 Journals",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Kill a ShieldKnight by attacking only its shield",
       "difficulty": 2,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Win a Chance Game",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Replace a Spell at an Altar",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Kill an enemy offscreen",
       "difficulty": 3,
       "tags": [
-        "SPELL"
+        "spell"
       ]
     },
     {
       "text": "Get 10k Gold in a run",
       "difficulty": 3,
       "tags": [
-        "EXPLORE",
-        "HUNT"
+        "explore",
+        "hunt"
       ]
     },
     {
       "text": "Find 4 Painting Rooms or beat a Doomvas Miniboss",
       "difficulty": 3,
       "tags": [
-        "EXPLORE",
-        "HUNT"
+        "explore",
+        "hunt"
       ]
     },
     {
       "text": "Beat the Berith & Halphas (Dual Boss Skeletons) without taking damage",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "EXPLORE",
-        "BOSS"
+        "hunt",
+        "explore",
+        "boss"
       ]
     },
     {
       "text": "Beat a Revamped Boss",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "BOSS"
+        "hunt",
+        "boss"
       ]
     },
     {
       "text": "Defeat a LV2 IceWizard, EarthWizard, and FireWizard in one run",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "TOWER",
-        "DUNGEON"
+        "hunt",
+        "tower",
+        "dungeon"
       ]
     },
     {
       "text": "Defeat a LV3 IceWizard, EarthWizard, and FireWizard in one run",
       "difficulty": 3,
       "tags": [
-        "TOWER",
-        "DUNGEON"
+        "tower",
+        "dungeon"
       ]
     },
     {
       "text": "Kill one of each enemy type",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "CASTLE",
-        "FOREST",
-        "TOWER",
-        "DUNGEON"
+        "hunt",
+        "castle",
+        "forest",
+        "tower",
+        "dungeon"
       ]
     },
     {
       "text": "Kill a Portrait in one hit",
       "difficulty": 3,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Restore 100 Health through Vampirism only",
       "difficulty": 3,
       "tags": [
-        "RUNE"
+        "rune"
       ]
     },
     {
       "text": "Defeat a SpikeTrap",
       "difficulty": 4,
       "tags": [
-        "RUNE"
+        "rune"
       ]
     },
     {
       "text": "Find a Special Item",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "SPECIAL_ITEM"
+        "explore",
+        "special_item"
       ]
     },
     {
       "text": "Find a hidden Fairy Chest",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Beat 2 Fairy Chest Objectives in one run",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Unlock all teleporters on the map without equipping any runes in one run",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Omae Wa Mou Shindeiru",
       "difficulty": 4,
       "tags": [
-        "CLASS"
+        "class"
       ]
     },
     {
       "text": "Beat 3 minibosses in one life",
       "difficulty": 4,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Use a Random Teleporter to an unexplored section and then kill all enemies in that section",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "HUNT"
+        "explore",
+        "hunt"
       ]
     },
     {
       "text": "Clear the Castle as a Dwarf Hokage with Tunnel Vision",
       "difficulty": 4,
       "tags": [
-        "CASTLE",
-        "CLASS",
-        "TRAIT"
+        "castle",
+        "class",
+        "trait"
       ]
     },
     {
       "text": "Clear the Forest as a Giant Assassin with Clumsy",
       "difficulty": 4,
       "tags": [
-        "FOREST",
-        "CLASS",
-        "TRAIT"
+        "forest",
+        "class",
+        "trait"
       ]
     },
     {
       "text": "Go to every room in the Castle with the Spelunker",
       "difficulty": 5,
       "tags": [
-        "CASTLE",
-        "CLASS"
+        "castle",
+        "class"
       ]
     },
     {
       "text": "Unlock all Boss Teleporters in less than 10 minutes",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "SPEED"
+        "explore",
+        "speed"
       ]
     },
     {
       "text": "Clear the Tower as an Archmage with Dextrocardia",
       "difficulty": 5,
       "tags": [
-        "TOWER",
-        "CLASS",
-        "TRAIT"
+        "tower",
+        "class",
+        "trait"
       ]
     },
     {
       "text": "Clear the Dungeon as a Spellsword with Savant",
       "difficulty": 5,
       "tags": [
-        "DUNGEON",
-        "CLASS",
-        "TRAIT"
+        "dungeon",
+        "class",
+        "trait"
       ]
     },
     {
       "text": "Clear the Sections of all enemies in Reverse Order",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "CASTLE",
-        "FOREST",
-        "TOWER",
-        "DUNGEON"
+        "hunt",
+        "castle",
+        "forest",
+        "tower",
+        "dungeon"
       ]
     },
     {
       "text": "Clear any two Areas of all enemies with Vertigo in one run",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "TRAIT"
+        "hunt",
+        "trait"
       ]
     },
     {
       "text": "Clear the Dungeon of all enemies as a Dragon",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "CLASS",
-        "DUNGEON"
+        "hunt",
+        "class",
+        "dungeon"
       ]
     },
     {
       "text": "Defeat a Boss without using your Sword",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS"
+        "hunt",
+        "boss"
       ]
     },
     {
       "text": "Heal back to full health after surviving a death",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "SPECIAL_ITEM"
+        "explore",
+        "special_item"
       ]
     }
   ]

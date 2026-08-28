@@ -284,7 +284,9 @@
     {
       "text": "Create a Relic in the Gallery",
       "difficulty": 4,
-      "tags": []
+      "tags": [
+        "relic"
+      ]
     },
     {
       "text": "Parade Selfie",
@@ -395,7 +397,7 @@
       "text": "Beat 3 Bosses",
       "difficulty": 5,
       "tags": [
-        "Boss"
+        "boss"
       ]
     }
   ]

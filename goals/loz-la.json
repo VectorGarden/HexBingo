@@ -4,7 +4,9 @@
     {
       "text": "Magic Potion",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "magic"
+      ]
     },
     {
       "text": "10 Sea Shells",
@@ -24,7 +26,9 @@
     {
       "text": "Marin's Cucco Killing Text",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "marin"
+      ]
     },
     {
       "text": "Pick up Crane Game Owner",
@@ -34,7 +38,9 @@
     {
       "text": "Talk to a Buzz Blob",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "talk"
+      ]
     },
     {
       "text": "Kill Master Stalfos at least once",
@@ -64,42 +70,59 @@
     {
       "text": "Marin",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "marin"
+      ]
     },
     {
       "text": "Bow-wow",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "bow-wow"
+      ]
     },
     {
       "text": "Return Bow-wow",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "bow-wow"
+      ]
     },
     {
       "text": "8 Heart Pieces",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "heart piece"
+      ]
     },
     {
       "text": "12 Heart Pieces",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "heart piece"
+      ]
     },
     {
       "text": "Bomb Curse",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "curse"
+      ]
     },
     {
       "text": "Arrow Curse",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "curse"
+      ]
     },
     {
       "text": "Powder Curse",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "curse",
+        "powder"
+      ]
     },
     {
       "text": "Steal From Shop 5 Times",
@@ -109,37 +132,53 @@
     {
       "text": "Ulrira Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Bow-wow Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture",
+        "bow-wow"
+      ]
     },
     {
       "text": "Zora Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Fisherman Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Game Over Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Kanalet Castle Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "kanalet castle",
+        "picture"
+      ]
     },
     {
       "text": "Bridge Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "4 Overworld Warp Holes",
@@ -154,7 +193,9 @@
     {
       "text": "Ball and Chain Trooper",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ball"
+      ]
     },
     {
       "text": "Anti-Kirby",
@@ -164,92 +205,164 @@
     {
       "text": "Map and Compass in Tail Cave",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "tail cave",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Bottle Grotto",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "bottle grotto",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Key Cavern",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "key cavern",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Angler's Tunnel",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "angler tunnel",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Catfish's Maw",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "catfish maw",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Face Shrine",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "face shrine",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Eagle's Tower",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "eagle tower",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "turtle rock",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Map and Compass in Color Dungeon",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "color dungeon",
+        "map",
+        "compass"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Tail Cave",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "tail cave",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Bottle Grotto",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "bottle grotto",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Key Cavern",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "key cavern",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Angler's Tunnel",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "angler tunnel",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Catfish's Maw",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "catfish maw",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Face Shrine",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "face shrine",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Eagle's Tower",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "eagle tower",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "turtle rock",
+        "talk"
+      ]
     },
     {
       "text": "Talk to all Owl Statues in Color Dungeon",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "owl statue",
+        "color dungeon",
+        "talk"
+      ]
     },
     {
       "text": "Defeat 2 Sets of 3-Of-A-Kind (D1, D7)",
@@ -269,7 +382,9 @@
     {
       "text": "Defeat Mad Bomber (outside Kanalet Castle)",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "kanalet castle"
+      ]
     },
     {
       "text": "Totaka's Song in Richard's Villa",
@@ -289,47 +404,68 @@
     {
       "text": "Bonk the Beach Monkey",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "beach"
+      ]
     },
     {
       "text": "Kill an enemy with an enemy",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "enemy"
+      ]
     },
     {
       "text": "Kill an enemy after transforming",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "enemy"
+      ]
     },
     {
       "text": "Destroy all Pillars with the Ball",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "ball"
+      ]
     },
     {
       "text": "Blue Tunic",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "blue",
+        "tunic"
+      ]
     },
     {
       "text": "Red Tunic",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "red",
+        "tunic"
+      ]
     },
     {
       "text": "Buy the Deluxe Shovel",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "deluxe shovel"
+      ]
     },
     {
       "text": "Deluxe Shovel",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "deluxe shovel"
+      ]
     },
     {
       "text": "Magic Powder",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "magic",
+        "powder"
+      ]
     },
     {
       "text": "Mushroom",
@@ -354,7 +490,9 @@
     {
       "text": "Evil Eagle",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "eagle"
+      ]
     },
     {
       "text": "Organ of Evening Calm",
@@ -374,157 +512,236 @@
     {
       "text": "Rolling Bones",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "rolling bone"
+      ]
     },
     {
       "text": "Rolling Bones in Tail Cave",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "rolling bone",
+        "tail cave"
+      ]
     },
     {
       "text": "Rolling Bones in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "turtle rock",
+        "rolling bone"
+      ]
     },
     {
       "text": "Hinox",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "hinox"
+      ]
     },
     {
       "text": "Orange Hinox",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "hinox"
+      ]
     },
     {
       "text": "Red Hinox",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "hinox",
+        "red"
+      ]
     },
     {
       "text": "Blue Hinox",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "hinox",
+        "blue"
+      ]
     },
     {
       "text": "Stone Hinox (D0)",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "hinox"
+      ]
     },
     {
       "text": "Dodongos",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "dodongo"
+      ]
     },
     {
       "text": "Dodongos in Key Cavern",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "key cavern",
+        "dodongo"
+      ]
     },
     {
       "text": "Dodongos in Face Shrine",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "face shrine",
+        "dodongo"
+      ]
     },
     {
       "text": "Dodongos in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "turtle rock",
+        "dodongo"
+      ]
     },
     {
       "text": "Cue Ball",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "cue ball"
+      ]
     },
     {
       "text": "Cue Ball in Angler Tunnel",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "cue ball",
+        "angler tunnel"
+      ]
     },
     {
       "text": "Cue Ball in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "turtle rock",
+        "cue ball"
+      ]
     },
     {
       "text": "Smasher",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "smasher"
+      ]
     },
     {
       "text": "Smasher in Face Shrine",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "face shrine",
+        "smasher"
+      ]
     },
     {
       "text": "Smasher in Turtle Rock",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "turtle rock",
+        "smasher"
+      ]
     },
     {
       "text": "2 Followers at the same time",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "follower"
+      ]
     },
     {
       "text": "3 Followers at the same time",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "follower"
+      ]
     },
     {
       "text": "Marin Weathercock Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture",
+        "marin"
+      ]
     },
     {
       "text": "Marin Well Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture",
+        "marin"
+      ]
     },
     {
       "text": "Marin Beach Picture",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture",
+        "marin",
+        "beach"
+      ]
     },
     {
       "text": "Collect 4 Pictures",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Collect 5 Pictures",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Collect 6 Pictures",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "picture"
+      ]
     },
     {
       "text": "Visit 4 Fountain Fairies",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "visit fountain",
+        "fountain fairie"
+      ]
     },
     {
       "text": "Visit 5 Fountain Fairies",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "visit fountain",
+        "fountain fairie"
+      ]
     },
     {
       "text": "8+ Heart Containers",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "heart container"
+      ]
     },
     {
       "text": "9+ Heart Containers",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "heart container"
+      ]
     },
     {
       "text": "10+ Heart Containers",
       "difficulty": 3,
-      "tags": []
+      "tags": [
+        "heart container"
+      ]
     },
     {
       "text": "999 rupees",

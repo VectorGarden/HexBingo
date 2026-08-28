@@ -5,633 +5,633 @@
       "text": "Fox",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "3 birds",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Bushy-Tailed Squirrel",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Shoot a Bluepee",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Boar",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Goat",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Wolf or Coyote",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Buck or Doe",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Buffalo",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Moose",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Great-Horned Rhinoceros",
       "difficulty": 1,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Chuchu",
       "difficulty": 1,
       "tags": [
-        "CHUCHU",
-        "MONSTER"
+        "chuchu",
+        "monster"
       ]
     },
     {
       "text": "Keese",
       "difficulty": 1,
       "tags": [
-        "KEESE",
-        "MONSTER"
+        "keese",
+        "monster"
       ]
     },
     {
       "text": "Octorok",
       "difficulty": 1,
       "tags": [
-        "OCTOROK",
-        "MONSTER"
+        "octorok",
+        "monster"
       ]
     },
     {
       "text": "Peblit",
       "difficulty": 1,
       "tags": [
-        "TALUS",
-        "MONSTER"
+        "talus",
+        "monster"
       ]
     },
     {
       "text": "Entire group of Peblit",
       "difficulty": 1,
       "tags": [
-        "TALUS",
-        "MONSTER",
-        "MASSACRE"
+        "talus",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Group of 3+ Chuchu",
       "difficulty": 1,
       "tags": [
-        "CHUCHU",
-        "MONSTER",
-        "MASSACRE"
+        "chuchu",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Stal monster",
       "difficulty": 2,
       "tags": [
-        "STAL",
-        "MONSTER"
+        "stal",
+        "monster"
       ]
     },
     {
       "text": "Group of 5+ Keese",
       "difficulty": 2,
       "tags": [
-        "KEESE",
-        "MONSTER",
-        "MASSACRE"
+        "keese",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Bokoblin",
       "difficulty": 2,
       "tags": [
-        "BOKOBLIN",
-        "MONSTER"
+        "bokoblin",
+        "monster"
       ]
     },
     {
       "text": "Moblin",
       "difficulty": 2,
       "tags": [
-        "MOBLIN",
-        "MONSTER"
+        "moblin",
+        "monster"
       ]
     },
     {
       "text": "Lizalfos",
       "difficulty": 2,
       "tags": [
-        "LIZALFOS",
-        "MONSTER"
+        "lizalfos",
+        "monster"
       ]
     },
     {
       "text": "Yiga Footsoldier",
       "difficulty": 2,
       "tags": [
-        "YIGA",
-        "MONSTER"
+        "yiga",
+        "monster"
       ]
     },
     {
       "text": "Level 2 Monster [Blue]",
       "difficulty": 2,
       "tags": [
-        "MONSTER",
-        "LEVEL"
+        "monster",
+        "level"
       ]
     },
     {
       "text": "One of each basic Stal [LIZALFOS, BOKOBLIN, MOBLIN]",
       "difficulty": 2,
       "tags": [
-        "STAL",
-        "MONSTER"
+        "stal",
+        "monster"
       ]
     },
     {
       "text": "Group of Bokoblins attacking people",
       "difficulty": 2,
       "tags": [
-        "BOKOBLIN",
-        "MONSTER"
+        "bokoblin",
+        "monster"
       ]
     },
     {
       "text": "Entire camp of Bokoblin",
       "difficulty": 2,
       "tags": [
-        "BOKOBLIN",
-        "MONSTER",
-        "MASSACRE"
+        "bokoblin",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Bomb: 3+ Wolves/Coyotes at once",
       "difficulty": 2,
       "tags": [
-        "BOMB",
-        "CREATURE"
+        "bomb",
+        "creature"
       ]
     },
     {
       "text": "Wizzrobe",
       "difficulty": 2,
       "tags": [
-        "WIZZROBE",
-        "MONSTER"
+        "wizzrobe",
+        "monster"
       ]
     },
     {
       "text": "Entire group of 3+ Moblin",
       "difficulty": 2,
       "tags": [
-        "MOBLIN",
-        "MONSTER",
-        "MASSACRE"
+        "moblin",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Assassinate: Lure Mob into trap by throwing bomb",
       "difficulty": 2,
       "tags": [
-        "ASSASSINATE",
-        "TRAP",
-        "MONSTER"
+        "assassinate",
+        "trap",
+        "monster"
       ]
     },
     {
       "text": "Bokoblin after luring into Bee trap",
       "difficulty": 2,
       "tags": [
-        "TRAP",
-        "BOKOBLIN",
-        "MONSTER"
+        "trap",
+        "bokoblin",
+        "monster"
       ]
     },
     {
       "text": "Bear",
       "difficulty": 3,
       "tags": [
-        "CREATURE"
+        "creature"
       ]
     },
     {
       "text": "Yiga Blademaster",
       "difficulty": 3,
       "tags": [
-        "YIGA",
-        "MONSTER"
+        "yiga",
+        "monster"
       ]
     },
     {
       "text": "Snipe: 5 Mobs in Bullet Time",
       "difficulty": 3,
       "tags": [
-        "SNIPE",
-        "ARROW",
-        "BULLET TIME",
-        "MONSTER"
+        "snipe",
+        "arrow",
+        "bullet time",
+        "monster"
       ]
     },
     {
       "text": "Chuchu of each element [FIRE, ICE, ELECTRIC]",
       "difficulty": 3,
       "tags": [
-        "CHUCHU",
-        "MONSTER",
-        "ELEMENT"
+        "chuchu",
+        "monster",
+        "element"
       ]
     },
     {
       "text": "Keese of each element [FIRE, ICE, ELECTRIC]",
       "difficulty": 3,
       "tags": [
-        "KEESE",
-        "MONSTER",
-        "ELEMENT"
+        "keese",
+        "monster",
+        "element"
       ]
     },
     {
       "text": "Peblit of each element [IGNEO, FROST]",
       "difficulty": 3,
       "tags": [
-        "TALUS",
-        "MONSTER"
+        "talus",
+        "monster"
       ]
     },
     {
       "text": "Snipe: Camp of Bokoblins [Plain Arrows]",
       "difficulty": 3,
       "tags": [
-        "SNIPE",
-        "ARROW",
-        "BOKOBLIN",
-        "MONSTER"
+        "snipe",
+        "arrow",
+        "bokoblin",
+        "monster"
       ]
     },
     {
       "text": "Knock all Mobs off the Ancient Tree Stump",
       "difficulty": 3,
       "tags": [
-        "MONSTER",
-        "WATER"
+        "monster",
+        "water"
       ]
     },
     {
       "text": "Assassinate: Mob in stasis",
       "difficulty": 3,
       "tags": [
-        "STASIS",
-        "ASSASSINATE",
-        "MONSTER"
+        "stasis",
+        "assassinate",
+        "monster"
       ]
     },
     {
       "text": "Guardian Scout",
       "difficulty": 3,
       "tags": [
-        "GUARDIAN",
-        "MONSTER"
+        "guardian",
+        "monster"
       ]
     },
     {
       "text": "Level 3 Monster [Black]",
       "difficulty": 3,
       "tags": [
-        "MONSTER",
-        "LEVEL"
+        "monster",
+        "level"
       ]
     },
     {
       "text": "Assassinate: Camp of sleeping Bokoblins",
       "difficulty": 3,
       "tags": [
-        "ASSASSINATE",
-        "BOKOBLIN",
-        "MONSTER"
+        "assassinate",
+        "bokoblin",
+        "monster"
       ]
     },
     {
       "text": "Entire group of 3+ Lizalfos",
       "difficulty": 3,
       "tags": [
-        "LIZALFOS",
-        "MONSTER",
-        "MASSACRE"
+        "lizalfos",
+        "monster",
+        "massacre"
       ]
     },
     {
       "text": "Wizzrobe of each element [FIRE, ICE, ELECTRIC]",
       "difficulty": 3,
       "tags": [
-        "WIZZROBE",
-        "MONSTER",
-        "ELEMENT"
+        "wizzrobe",
+        "monster",
+        "element"
       ]
     },
     {
       "text": "Octorok of each type [TREASURE, WATER, SKY, SNOW, ROCK, FOREST]",
       "difficulty": 3,
       "tags": [
-        "OCTOROK",
-        "MONSTER"
+        "octorok",
+        "monster"
       ]
     },
     {
       "text": "All Mobs in Skull base with bombs",
       "difficulty": 3,
       "tags": [
-        "BOMB",
-        "MONSTER"
+        "bomb",
+        "monster"
       ]
     },
     {
       "text": "Snipe: 3 Mobs in one Bullet Time activation",
       "difficulty": 3,
       "tags": [
-        "SNIPE",
-        "ARROW",
-        "BULLET TIME",
-        "MONSTER"
+        "snipe",
+        "arrow",
+        "bullet time",
+        "monster"
       ]
     },
     {
       "text": "Lizalfos of each element [FIRE, ICE, ELECTRIC]",
       "difficulty": 4,
       "tags": [
-        "LIZALFOS",
-        "MONSTER",
-        "ELEMENT"
+        "lizalfos",
+        "monster",
+        "element"
       ]
     },
     {
       "text": "Talus",
       "difficulty": 4,
       "tags": [
-        "TALUS",
-        "MONSTER"
+        "talus",
+        "monster"
       ]
     },
     {
       "text": "Hinox",
       "difficulty": 4,
       "tags": [
-        "HINOX",
-        "MONSTER"
+        "hinox",
+        "monster"
       ]
     },
     {
       "text": "Stalnox",
       "difficulty": 4,
       "tags": [
-        "HINOX",
-        "STAL",
-        "MONSTER"
+        "hinox",
+        "stal",
+        "monster"
       ]
     },
     {
       "text": "Talus of each type [LUMINOUS, RARE]",
       "difficulty": 4,
       "tags": [
-        "TALUS",
-        "MONSTER"
+        "talus",
+        "monster"
       ]
     },
     {
       "text": "3 different Hinox",
       "difficulty": 4,
       "tags": [
-        "HINOX",
-        "MONSTER",
-        "GENOCIDE"
+        "hinox",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "Hinox using only arrows",
       "difficulty": 4,
       "tags": [
-        "ARROW",
-        "HINOX",
-        "MONSTER"
+        "arrow",
+        "hinox",
+        "monster"
       ]
     },
     {
       "text": "3 different Talus",
       "difficulty": 4,
       "tags": [
-        "TALUS",
-        "MONSTER",
-        "GENOCIDE"
+        "talus",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "5 different Hinox",
       "difficulty": 4,
       "tags": [
-        "HINOX",
-        "MONSTER",
-        "GENOCIDE"
+        "hinox",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "Decayed Guardian",
       "difficulty": 4,
       "tags": [
-        "GUARDIAN",
-        "MONSTER"
+        "guardian",
+        "monster"
       ]
     },
     {
       "text": "Level 4 Monster [White/Silver]",
       "difficulty": 4,
       "tags": [
-        "MONSTER",
-        "LEVEL"
+        "monster",
+        "level"
       ]
     },
     {
       "text": "Talus of each element [IGNEO, FROST]",
       "difficulty": 4,
       "tags": [
-        "TALUS",
-        "MONSTER"
+        "talus",
+        "monster"
       ]
     },
     {
       "text": "3 different Stalnox",
       "difficulty": 4,
       "tags": [
-        "HINOX",
-        "STAL",
-        "MONSTER",
-        "GENOCIDE"
+        "hinox",
+        "stal",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "5 different Talus",
       "difficulty": 4,
       "tags": [
-        "TALUS",
-        "MONSTER",
-        "GENOCIDE"
+        "talus",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "Lure Mob into getting struck by lightning",
       "difficulty": 4,
       "tags": [
-        "TRAP",
-        "LIGHTNING",
-        "MONSTER"
+        "trap",
+        "lightning",
+        "monster"
       ]
     },
     {
       "text": "10 different Hinox",
       "difficulty": 5,
       "tags": [
-        "HINOX",
-        "STAL",
-        "MONSTER",
-        "GENOCIDE"
+        "hinox",
+        "stal",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "Guardian Skywatcher",
       "difficulty": 5,
       "tags": [
-        "GUARDIAN",
-        "MONSTER"
+        "guardian",
+        "monster"
       ]
     },
     {
       "text": "Guardian Turret",
       "difficulty": 5,
       "tags": [
-        "GUARDIAN",
-        "MONSTER"
+        "guardian",
+        "monster"
       ]
     },
     {
       "text": "Molduga",
       "difficulty": 5,
       "tags": [
-        "MOLDUGA",
-        "MONSTER"
+        "molduga",
+        "monster"
       ]
     },
     {
       "text": "Guardian Stalker",
       "difficulty": 5,
       "tags": [
-        "GUARDIAN",
-        "MONSTER"
+        "guardian",
+        "monster"
       ]
     },
     {
       "text": "Lynel",
       "difficulty": 5,
       "tags": [
-        "LYNEL",
-        "MONSTER"
+        "lynel",
+        "monster"
       ]
     },
     {
       "text": "5 different Stalnox",
       "difficulty": 5,
       "tags": [
-        "HINOX",
-        "STAL",
-        "MONSTER",
-        "GENOCIDE"
+        "hinox",
+        "stal",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "10 different Talus",
       "difficulty": 5,
       "tags": [
-        "TALUS",
-        "MONSTER",
-        "GENOCIDE"
+        "talus",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "The Coliseum Lynel",
       "difficulty": 5,
       "tags": [
-        "LYNEL",
-        "MONSTER"
+        "lynel",
+        "monster"
       ]
     },
     {
       "text": "3 different Lynel without using Ancient arrows",
       "difficulty": 5,
       "tags": [
-        "LYNEL",
-        "MONSTER",
-        "GENOCIDE"
+        "lynel",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "All 4 Molduga",
       "difficulty": 5,
       "tags": [
-        "MOLDUGA",
-        "MONSTER",
-        "GENOCIDE"
+        "molduga",
+        "monster",
+        "genocide"
       ]
     },
     {
       "text": "Destroy all 26 Guardian Stalkers in Hyrule Field",
       "difficulty": 5,
       "tags": [
-        "GUARDIAN",
-        "MONSTER",
-        "GENOCIDE"
+        "guardian",
+        "monster",
+        "genocide"
       ]
     }
   ],

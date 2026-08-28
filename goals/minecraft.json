@@ -5,742 +5,742 @@
       "text": "Repair a tool/armour",
       "difficulty": 1,
       "tags": [
-        "TOOL",
-        "ARMOR"
+        "tool",
+        "armor"
       ]
     },
     {
       "text": "Grow wheat",
       "difficulty": 1,
       "tags": [
-        "FARM",
-        "WHEAT",
-        "FOOD"
+        "farm",
+        "wheat",
+        "food"
       ]
     },
     {
       "text": "Full set of wooden tools",
       "difficulty": 1,
       "tags": [
-        "TOOL",
-        "WOOD"
+        "tool",
+        "wood"
       ]
     },
     {
       "text": "Get a full stack of an edible item",
       "difficulty": 1,
       "tags": [
-        "FOOD"
+        "food"
       ]
     },
     {
       "text": "Breed a chicken",
       "difficulty": 1,
       "tags": [
-        "BREED",
-        "CHICKEN"
+        "breed",
+        "chicken"
       ]
     },
     {
       "text": "Breed a cow",
       "difficulty": 1,
       "tags": [
-        "BREED",
-        "COW"
+        "breed",
+        "cow"
       ]
     },
     {
       "text": "Breed a pig",
       "difficulty": 1,
       "tags": [
-        "BREED",
-        "PIG"
+        "breed",
+        "pig"
       ]
     },
     {
       "text": "Breed a sheep",
       "difficulty": 1,
       "tags": [
-        "BREED",
-        "SHEEP"
+        "breed",
+        "sheep"
       ]
     },
     {
       "text": "Tame a horse",
       "difficulty": 1,
       "tags": [
-        "TAME",
-        "HORSE"
+        "tame",
+        "horse"
       ]
     },
     {
       "text": "Full set of stone tools",
       "difficulty": 1,
       "tags": [
-        "TOOL",
-        "STONE"
+        "tool",
+        "stone"
       ]
     },
     {
       "text": "Tame a cat",
       "difficulty": 1,
       "tags": [
-        "TAME",
-        "CAT"
+        "tame",
+        "cat"
       ]
     },
     {
       "text": "Tame a wolf",
       "difficulty": 1,
       "tags": [
-        "TAME",
-        "WOLF"
+        "tame",
+        "wolf"
       ]
     },
     {
       "text": "Shear a sheep",
       "difficulty": 1,
       "tags": [
-        "SHEEP",
-        "SHEARS"
+        "sheep",
+        "shears"
       ]
     },
     {
       "text": "Spawn a chicken with an egg",
       "difficulty": 1,
       "tags": [
-        "CHICKEN"
+        "chicken"
       ]
     },
     {
       "text": "Write a book",
       "difficulty": 1,
       "tags": [
-        "LEATHER",
-        "PAPER"
+        "leather",
+        "paper"
       ]
     },
     {
       "text": "Bake a cake",
       "difficulty": 1,
       "tags": [
-        "FOOD"
+        "food"
       ]
     },
     {
       "text": "Reach bedrock",
       "difficulty": 1,
       "tags": [
-        "MINE"
+        "mine"
       ]
     },
     {
       "text": "Reach the height limit",
       "difficulty": 1,
       "tags": [
-        "MINE"
+        "mine"
       ]
     },
     {
       "text": "Compost some food",
       "difficulty": 1,
       "tags": [
-        "WOOD",
-        "FOOD"
+        "wood",
+        "food"
       ]
     },
     {
       "text": "Cook food on a campfire",
       "difficulty": 1,
       "tags": [
-        "WOOD",
-        "FOOD"
+        "wood",
+        "food"
       ]
     },
     {
       "text": "Use a grindstone",
       "difficulty": 1,
       "tags": [
-        "STONE"
+        "stone"
       ]
     },
     {
       "text": "Catch a fish",
       "difficulty": 1,
       "tags": [
-        "FISHING",
-        "FISH"
+        "fishing",
+        "fish"
       ]
     },
     {
       "text": "Use a minecart",
       "difficulty": 1,
       "tags": [
-        "IRON",
-        "MINECART"
+        "iron",
+        "minecart"
       ]
     },
     {
       "text": "Put a banner on a shield",
       "difficulty": 1,
       "tags": [
-        "BANNER",
-        "SHIELD"
+        "banner",
+        "shield"
       ]
     },
     {
       "text": "Eat a suspicious stew",
       "difficulty": 1,
       "tags": [
-        "FOOD"
+        "food"
       ]
     },
     {
       "text": "Grow a melon",
       "difficulty": 2,
       "tags": [
-        "FARM",
-        "MELON"
+        "farm",
+        "melon"
       ]
     },
     {
       "text": "Grow a pumpkin",
       "difficulty": 2,
       "tags": [
-        "FARM",
-        "PUMPKIN"
+        "farm",
+        "pumpkin"
       ]
     },
     {
       "text": "Breed a horse",
       "difficulty": 2,
       "tags": [
-        "BREED",
-        "HORSE"
+        "breed",
+        "horse"
       ]
     },
     {
       "text": "Tame a mule",
       "difficulty": 2,
       "tags": [
-        "BREED",
-        "HORSE",
-        "DONKEY"
+        "breed",
+        "horse",
+        "donkey"
       ]
     },
     {
       "text": "Make a dispenser",
       "difficulty": 2,
       "tags": [
-        "STONE",
-        "REDSTONE"
+        "stone",
+        "redstone"
       ]
     },
     {
       "text": "Make a snow golem",
       "difficulty": 2,
       "tags": [
-        "SNOW",
-        "PUMPKIN"
+        "snow",
+        "pumpkin"
       ]
     },
     {
       "text": "Tame a donkey",
       "difficulty": 2,
       "tags": [
-        "TAME",
-        "DONKEY"
+        "tame",
+        "donkey"
       ]
     },
     {
       "text": "Build a trans pride flag",
       "difficulty": 2,
       "tags": [
-        "WOOL",
-        "DYE"
+        "wool",
+        "dye"
       ]
     },
     {
       "text": "Kill a witch",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "WITCH"
+        "hunt",
+        "witch"
       ]
     },
     {
       "text": "Full set of leather armour",
       "difficulty": 2,
       "tags": [
-        "LEATHER",
-        "ARMOR"
+        "leather",
+        "armor"
       ]
     },
     {
       "text": "Light a firework",
       "difficulty": 2,
       "tags": [
-        "GUNPOWDER",
-        "PAPER"
+        "gunpowder",
+        "paper"
       ]
     },
     {
       "text": "Ride a llama",
       "difficulty": 2,
       "tags": [
-        "LLAMA"
+        "llama"
       ]
     },
     {
       "text": "Tame a parrot",
       "difficulty": 2,
       "tags": [
-        "TAME",
-        "PARROT"
+        "tame",
+        "parrot"
       ]
     },
     {
       "text": "Make a cookie",
       "difficulty": 2,
       "tags": [
-        "COCOA",
-        "WHEAT"
+        "cocoa",
+        "wheat"
       ]
     },
     {
       "text": "Detonate TNT",
       "difficulty": 2,
       "tags": [
-        "GUNPOWDER"
+        "gunpowder"
       ]
     },
     {
       "text": "Kill a slime",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "SLIME"
+        "hunt",
+        "slime"
       ]
     },
     {
       "text": "Fill a map",
       "difficulty": 3,
       "tags": [
-        "EXPLORE",
-        "REDSTONE"
+        "explore",
+        "redstone"
       ]
     },
     {
       "text": "Find a village",
       "difficulty": 3,
       "tags": [
-        "EXPLORE",
-        "VILLAGE"
+        "explore",
+        "village"
       ]
     },
     {
       "text": "Full set of iron tools",
       "difficulty": 3,
       "tags": [
-        "IRON",
-        "TOOL"
+        "iron",
+        "tool"
       ]
     },
     {
       "text": "Make a redstone clock",
       "difficulty": 3,
       "tags": [
-        "REDSTONE"
+        "redstone"
       ]
     },
     {
       "text": "Enter the nether",
       "difficulty": 3,
       "tags": [
-        "OBSIDIAN"
+        "obsidian"
       ]
     },
     {
       "text": "Make a trade",
       "difficulty": 3,
       "tags": [
-        "TRADE",
-        "VILLAGE"
+        "trade",
+        "village"
       ]
     },
     {
       "text": "Make an iron golem",
       "difficulty": 3,
       "tags": [
-        "IRON",
-        "PUMPKIN"
+        "iron",
+        "pumpkin"
       ]
     },
     {
       "text": "Full set of iron armour",
       "difficulty": 3,
       "tags": [
-        "IRON",
-        "ARMOR"
+        "iron",
+        "armor"
       ]
     },
     {
       "text": "Find diamond ore",
       "difficulty": 3,
       "tags": [
-        "DIAMOND",
-        "MINE"
+        "diamond",
+        "mine"
       ]
     },
     {
       "text": "Find buried treasure",
       "difficulty": 3,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Make an enchanting table",
       "difficulty": 3,
       "tags": [
-        "ENCHANT",
-        "DIAMOND",
-        "OBSIDIAN"
+        "enchant",
+        "diamond",
+        "obsidian"
       ]
     },
     {
       "text": "Get withered",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "WITHER"
+        "hunt",
+        "wither"
       ]
     },
     {
       "text": "Full set of gold tools",
       "difficulty": 3,
       "tags": [
-        "GOLD",
-        "TOOL"
+        "gold",
+        "tool"
       ]
     },
     {
       "text": "Full set of gold armour",
       "difficulty": 3,
       "tags": [
-        "GOLD",
-        "ARMOR"
+        "gold",
+        "armor"
       ]
     },
     {
       "text": "Use a nametag",
       "difficulty": 3,
       "tags": [
-        "NAMETAG"
+        "nametag"
       ]
     },
     {
       "text": "Enchant an item",
       "difficulty": 3,
       "tags": [
-        "ENCHANT"
+        "enchant"
       ]
     },
     {
       "text": "Find an abandoned mineshaft",
       "difficulty": 3,
       "tags": [
-        "EXPLORE",
-        "MINE"
+        "explore",
+        "mine"
       ]
     },
     {
       "text": "Find a nether fortress",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "NETHER"
+        "explore",
+        "nether"
       ]
     },
     {
       "text": "Find a shipwreck",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "OCEAN"
+        "explore",
+        "ocean"
       ]
     },
     {
       "text": "Make a full enchanting setup",
       "difficulty": 4,
       "tags": [
-        "LEATHER",
-        "PAPER",
-        "DIAMOND",
-        "OBSIDIAN",
-        "ENCHANT"
+        "leather",
+        "paper",
+        "diamond",
+        "obsidian",
+        "enchant"
       ]
     },
     {
       "text": "Find a pillager outpost",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "PILLAGER"
+        "explore",
+        "pillager"
       ]
     },
     {
       "text": "Kill a ghast",
       "difficulty": 4,
       "tags": [
-        "HUNT",
-        "GHAST"
+        "hunt",
+        "ghast"
       ]
     },
     {
       "text": "Full set of diamond tools.",
       "difficulty": 4,
       "tags": [
-        "DIAMOND",
-        "TOOL"
+        "diamond",
+        "tool"
       ]
     },
     {
       "text": "Find a desert temple",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "DESERT"
+        "explore",
+        "desert"
       ]
     },
     {
       "text": "Find a dungeon",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Full set of diamond armour",
       "difficulty": 4,
       "tags": [
-        "DIAMOND",
-        "ARMOR"
+        "diamond",
+        "armor"
       ]
     },
     {
       "text": "Play a music disc",
       "difficulty": 4,
       "tags": [
-        "EXPLORE",
-        "DIAMOND"
+        "explore",
+        "diamond"
       ]
     },
     {
       "text": "Kill an evoker",
       "difficulty": 4,
       "tags": [
-        "HUNT",
-        "PILLAGER"
+        "hunt",
+        "pillager"
       ]
     },
     {
       "text": "Brew a potion",
       "difficulty": 4,
       "tags": [
-        "HUNT",
-        "BLAZE"
+        "hunt",
+        "blaze"
       ]
     },
     {
       "text": "Make an ender chest",
       "difficulty": 4,
       "tags": [
-        "OBSIDIAN",
-        "HUNT",
-        "BLAZE",
-        "ENDERMAN"
+        "obsidian",
+        "hunt",
+        "blaze",
+        "enderman"
       ]
     },
     {
       "text": "Find a swamp hut",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "SWAMP"
+        "explore",
+        "swamp"
       ]
     },
     {
       "text": "Make a potion of healing",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BLAZE",
-        "GOLD",
-        "MELON"
+        "hunt",
+        "blaze",
+        "gold",
+        "melon"
       ]
     },
     {
       "text": "Find a desert well",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "DESERT"
+        "explore",
+        "desert"
       ]
     },
     {
       "text": "Find an ocean temple",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "OCEAN"
+        "explore",
+        "ocean"
       ]
     },
     {
       "text": "Make a functional mob farm",
       "difficulty": 5,
       "tags": [
-        "BUILD"
+        "build"
       ]
     },
     {
       "text": "Find a stronghold",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Find a jungle temple",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "JUNGLE"
+        "explore",
+        "jungle"
       ]
     },
     {
       "text": "Full set of chain armour",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "CHAIN"
+        "explore",
+        "chain"
       ]
     },
     {
       "text": "Find an ice spike biome",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "ICE"
+        "explore",
+        "ice"
       ]
     },
     {
       "text": "Enter the end",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "ENDERMAN",
-        "BLAZE"
+        "explore",
+        "enderman",
+        "blaze"
       ]
     },
     {
       "text": "Find a forest mansion",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "FOREST"
+        "explore",
+        "forest"
       ]
     },
     {
       "text": "Activate a conduit",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "OCEAN"
+        "explore",
+        "ocean"
       ]
     },
     {
       "text": "Find an end city",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "DRAGON",
-        "EXPLORE"
+        "hunt",
+        "dragon",
+        "explore"
       ]
     },
     {
       "text": "Levitate",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Spawn the wither",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "WITHER"
+        "hunt",
+        "wither"
       ]
     },
     {
       "text": "Kill all 3 guardians in an ocean temple",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "HUNT",
-        "OCEAN"
+        "explore",
+        "hunt",
+        "ocean"
       ]
     },
     {
       "text": "Find a fossil",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Eat an enchanted golden apple",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Find a mushroom island",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Find Elytra",
       "difficulty": 5,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Kill the wither",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "WITHER"
+        "hunt",
+        "wither"
       ]
     },
     {
       "text": "Place a beacon",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "WITHER"
+        "hunt",
+        "wither"
       ]
     },
     {
       "text": "Wear a turtle shell",
       "difficulty": 5,
       "tags": [
-        "TURTLE"
+        "turtle"
       ]
     }
   ]

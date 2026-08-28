@@ -5,304 +5,306 @@
       "text": "Kill a Mob by throwing a weapon at them",
       "difficulty": 1,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Get the chest over the mud pit",
       "difficulty": 1,
-      "tags": []
+      "tags": [
+        "chest"
+      ]
     },
     {
       "text": "Rusted Weapon",
       "difficulty": 1,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "20 Wood",
       "difficulty": 1,
       "tags": [
-        "WEAPON",
-        "BOMB"
+        "weapon",
+        "bomb"
       ]
     },
     {
       "text": "Excavate 5 Mineral Deposits",
       "difficulty": 1,
       "tags": [
-        "WEAPON",
-        "BOMB",
-        "EXPLORE"
+        "weapon",
+        "bomb",
+        "explore"
       ]
     },
     {
       "text": "Dive into the River of the Dead",
       "difficulty": 1,
       "tags": [
-        "MOUNT_HYLIA",
-        "HEATED"
+        "mount_hylia",
+        "heated"
       ]
     },
     {
       "text": "Cross the River of the Dead",
       "difficulty": 1,
       "tags": [
-        "MOUNT_HYLIA",
-        "CRYOSIS",
-        "HEATED"
+        "mount_hylia",
+        "cryosis",
+        "heated"
       ]
     },
     {
       "text": "Conquer a Bokoblin camp by first taking out the lookouts, without alerting",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "BOW",
-        "STASIS"
+        "hunt",
+        "bow",
+        "stasis"
       ]
     },
     {
       "text": "Kill an Enemy by dropping something on them",
       "difficulty": 2,
       "tags": [
-        "HUNT",
-        "ROCK",
-        "STASIS",
-        "MAGNESIS"
+        "hunt",
+        "rock",
+        "stasis",
+        "magnesis"
       ]
     },
     {
       "text": "Make Dubious Food",
       "difficulty": 2,
       "tags": [
-        "COOK"
+        "cook"
       ]
     },
     {
       "text": "Find a Treasure Chest along the Plateau Wall",
       "difficulty": 2,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "3 Korok Seeds",
       "difficulty": 2,
       "tags": [
-        "KOROK",
-        "EXPLORE"
+        "korok",
+        "explore"
       ]
     },
     {
       "text": "Sneak past the Decayed Guardians to activate the Ja Baij Shrine",
       "difficulty": 2,
       "tags": [
-        "STASIS",
-        "ENEMY"
+        "stasis",
+        "enemy"
       ]
     },
     {
       "text": "Warm Doublet",
       "difficulty": 2,
       "tags": [
-        "COOK",
-        "MOUNT_HYLIA",
-        "EXPLORE"
+        "cook",
+        "mount_hylia",
+        "explore"
       ]
     },
     {
       "text": "Assassinate: Kill a Bokoblin in their sleep with a Sneakstrike",
       "difficulty": 2,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Red ChuChu Jelly",
       "difficulty": 3,
       "tags": [
-        "FIRE",
-        "HUNT"
+        "fire",
+        "hunt"
       ]
     },
     {
       "text": "Ride down Mount Hylia on a Shield",
       "difficulty": 3,
       "tags": [
-        "MOUNT_HYLIA",
-        "SHIELD"
+        "mount_hylia",
+        "shield"
       ]
     },
     {
       "text": "Destroy a Bokoblin camp with only Bombs",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "BOMB"
+        "hunt",
+        "bomb"
       ]
     },
     {
       "text": "Steal a Bokoblin's Camp Treasure",
       "difficulty": 3,
       "tags": [
-        "ENEMY",
-        "HUNT"
+        "enemy",
+        "hunt"
       ]
     },
     {
       "text": "Eliminate a Skull of Enemies",
       "difficulty": 3,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "White ChuChu Jelly",
       "difficulty": 3,
       "tags": [
-        "HUNT",
-        "MOUNT_HYLIA"
+        "hunt",
+        "mount_hylia"
       ]
     },
     {
       "text": "Snipe 2 Bokoblins in the same Bullet Time",
       "difficulty": 3,
       "tags": [
-        "BOW",
-        "HUNT"
+        "bow",
+        "hunt"
       ]
     },
     {
       "text": "Fire Arrows",
       "difficulty": 4,
       "tags": [
-        "EXPLORE"
+        "explore"
       ]
     },
     {
       "text": "Steal a full set of Boko items (Weapon, Shield, Bow)",
       "difficulty": 4,
       "tags": [
-        "STASIS",
-        "HUNT"
+        "stasis",
+        "hunt"
       ]
     },
     {
       "text": "Use bees to kill a Bokoblin",
       "difficulty": 4,
       "tags": [
-        "BOW",
-        "HUNT"
+        "bow",
+        "hunt"
       ]
     },
     {
       "text": "Perform a Stasis Launch",
       "difficulty": 4,
       "tags": [
-        "STASIS"
+        "stasis"
       ]
     },
     {
       "text": "Whistle at a Bokoblin camp and annihilate them",
       "difficulty": 4,
       "tags": [
-        "HUNT"
+        "hunt"
       ]
     },
     {
       "text": "Conquer the Bokoblin tree fort",
       "difficulty": 4,
       "tags": [
-        "HUNT",
-        "BOW"
+        "hunt",
+        "bow"
       ]
     },
     {
       "text": "Make an Elixir",
       "difficulty": 4,
       "tags": [
-        "COOK",
-        "EXPLORE"
+        "cook",
+        "explore"
       ]
     },
     {
       "text": "Reach Keh Nanut without using Warm Doublet",
       "difficulty": 5,
       "tags": [
-        "COOK",
-        "EXPLORE"
+        "cook",
+        "explore"
       ]
     },
     {
       "text": "5 Korok Seeds",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "KOROK"
+        "explore",
+        "korok"
       ]
     },
     {
       "text": "Genocide: Eliminate all Bokoblin camps",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "EXPLORE"
+        "hunt",
+        "explore"
       ]
     },
     {
       "text": "Destroy a Decayed Guardian through Melee",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS",
-        "GUARDIAN",
-        "WEAPON"
+        "hunt",
+        "boss",
+        "guardian",
+        "weapon"
       ]
     },
     {
       "text": "Destroy a Decayed Guardian through Reflecting their laser",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS",
-        "GUARDIAN",
-        "SHIELD"
+        "hunt",
+        "boss",
+        "guardian",
+        "shield"
       ]
     },
     {
       "text": "Use a tree to cross a chasm",
       "difficulty": 5,
       "tags": [
-        "WEAPON",
-        "BOMB"
+        "weapon",
+        "bomb"
       ]
     },
     {
       "text": "Destroy the Stone Talus",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS",
-        "LYNEL"
+        "hunt",
+        "boss",
+        "lynel"
       ]
     },
     {
       "text": "7 Korok Seeds",
       "difficulty": 5,
       "tags": [
-        "EXPLORE",
-        "KOROK"
+        "explore",
+        "korok"
       ]
     },
     {
       "text": "Conquer the Lynel [MM]",
       "difficulty": 5,
       "tags": [
-        "HUNT",
-        "BOSS",
-        "LYNEL"
+        "hunt",
+        "boss",
+        "lynel"
       ]
     }
   ]
