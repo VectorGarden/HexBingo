@@ -90,7 +90,7 @@ export async function build(seed, opts = {}) {
   const list = await lists.load(id);
   if (!list || !list.goals.length) { showEmpty(id); return; }
 
-  const mode = /** @type {"hex"|"mission"} */ (el.modeSelect.value);
+  const mode = /** @type {"hex"|"fog"|"mission"} */ (el.modeSelect.value);
   const size = Math.max(MIN_RADIUS, Math.min(MAX_RADIUS, parseInt(el.sizeSelect.value, 10) || RADIUS));
   const geo = mode === "mission" ? MISSION : geoFor(size);
   const nextSeed = String(seed || el.seedInput.value.trim() || randomSeed());

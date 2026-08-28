@@ -19,7 +19,7 @@ import { loadMarks, saveMarks } from "./boards.js";
 /**
  * @typedef {object} AppState
  * @property {Geometry} geo
- * @property {"hex"|"mission"} mode
+ * @property {"hex"|"fog"|"mission"} mode
  * @property {number} size
  * @property {boolean} reveal
  * @property {Set<number>} pinned
@@ -70,7 +70,7 @@ function boardId() {
 
 /**
  * Swap in a freshly generated board.
- * @param {{list: GoalList, mode: "hex"|"mission", size: number, seed: string, goals: Goal[]}} next
+ * @param {{list: GoalList, mode: "hex"|"fog"|"mission", size: number, seed: string, goals: Goal[]}} next
  */
 export function setBoard(next) {
   state.list = next.list;

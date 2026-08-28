@@ -96,6 +96,28 @@ export function isBlackout(marks) {
 }
 
 /**
+ * Fog: which hexes you can see.
+ *
+ * The centre starts visible and every hex you claim uncovers the ones touching
+ * it, so the board opens out as you play rather than being readable up front.
+ *
+ * Only claiming reveals. Blocking a goal does not, which makes blocking a real
+ * decision in this mode — a hex you reject is one you cannot expand through.
+ * Visibility is derived from the marks rather than remembered, so it needs
+ * nothing stored and cannot drift out of step; the cost is that releasing a
+ * claim closes the fog back over its neighbours.
+ * @param {Geometry} geo
+ * @param {Mark[]} marks
+ * @returns {boolean[]} one per cell, in cell order
+ */
+export function fogVisible(geo, marks) {
+  return geo.cells.map(c =>
+    c.ring === 0 ||
+    marks[c.i]?.status === "done" ||
+    c.neighbours.some(n => marks[n] && marks[n].status === "done"));
+}
+
+/**
  * Mission reveal mode seals everything past the first unfinished goal.
  * @param {Mark[]} marks
  * @returns {number} index of the first unfinished goal, or -1 if all are done

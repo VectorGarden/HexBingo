@@ -4,7 +4,7 @@
  * @module
  */
 
-import { PROGRESS_STEP, revealGate } from "../core/marks.js";
+import { PROGRESS_STEP, fogVisible, revealGate } from "../core/marks.js";
 import { createGestureState, reduce } from "../core/gestures.js";
 import { el } from "./dom.js";
 import { state, stepProgress, toggleBlocked, toggleDone, wonLines } from "./state.js";
@@ -54,11 +54,11 @@ export function renderCells() {
 
     btn.append(fill, text);
 
-    if (state.mode === "mission") {
-      const lock = document.createElement("span");
-      lock.className = "cell-lock";
-      lock.textContent = "Locked";
-      btn.appendChild(lock);
+    if (state.mode === "mission" || state.mode === "fog") {
+      const cover = document.createElement("span");
+      cover.className = "cell-lock";
+      cover.textContent = state.mode === "fog" ? "?" : "Locked";
+      btn.appendChild(cover);
     }
 
     el.cells.appendChild(btn);
@@ -117,6 +117,15 @@ export function applyMarks() {
       node.disabled = locked;
     });
     return;
+  }
+
+  if (state.mode === "fog") {
+    // the fog is derived from the marks, so it follows every claim and release
+    const seen = fogVisible(state.geo, state.marks);
+    Array.prototype.forEach.call(nodes, (/** @type {any} */ node, /** @type {number} */ i) => {
+      node.classList.toggle("fogged", !seen[i]);
+      node.disabled = !seen[i];
+    });
   }
 
   const wonSet = new Set(won.map(l => l.i));

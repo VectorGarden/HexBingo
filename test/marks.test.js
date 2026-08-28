@@ -1,8 +1,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import {
-  boardKey, createMarks, isBlackout, pruneBoards, readMarks, revealGate,
-  stepProgress, toggleBlocked, toggleDone, wonLines
+  boardKey, createMarks, fogVisible, isBlackout, pruneBoards, readMarks,
+  revealGate, stepProgress, toggleBlocked, toggleDone, wonLines
 } from "../src/core/marks.js";
 import { buildGeometry, missionGeometry } from "../src/core/geometry.js";
 
@@ -190,4 +190,69 @@ test("readMarks accepts both the current and the legacy shape", () => {
   assert.equal(readMarks({ t: 1, marks }, 5), null, "a different board size is not reusable");
   assert.equal(readMarks(undefined, 3), null);
   assert.equal(readMarks({}, 3), null);
+});
+
+/* ── fog ── */
+
+test("fog starts with only the centre visible", () => {
+  const geo = buildGeometry(2);
+  const seen = fogVisible(geo, createMarks(geo.cells.length));
+  assert.equal(seen.filter(Boolean).length, 1);
+  assert.ok(seen[geo.cells.find(c => c.ring === 0).i]);
+});
+
+test("claiming a hex uncovers the ones touching it", () => {
+  const geo = buildGeometry(2);
+  const centre = geo.cells.find(c => c.ring === 0);
+  const marks = toggleDone(createMarks(geo.cells.length), centre.i);
+  const seen = fogVisible(geo, marks);
+  // the centre plus its six neighbours
+  assert.equal(seen.filter(Boolean).length, 7);
+  for (const n of centre.neighbours) assert.ok(seen[n], `neighbour ${n} should be visible`);
+});
+
+test("blocking a hex uncovers nothing", () => {
+  const geo = buildGeometry(2);
+  const centre = geo.cells.find(c => c.ring === 0);
+  const outer = geo.cells.find(c => c.ring === 2);
+  let marks = toggleDone(createMarks(geo.cells.length), centre.i);
+  const before = fogVisible(geo, marks).filter(Boolean).length;
+  marks = toggleBlocked(marks, centre.neighbours[0]);
+  assert.equal(fogVisible(geo, marks).filter(Boolean).length, before,
+    "a blocked hex is not a way through");
+  assert.equal(fogVisible(geo, marks)[outer.i], false);
+});
+
+test("releasing a claim closes the fog again", () => {
+  const geo = buildGeometry(2);
+  const centre = geo.cells.find(c => c.ring === 0);
+  let marks = toggleDone(createMarks(geo.cells.length), centre.i);
+  assert.equal(fogVisible(geo, marks).filter(Boolean).length, 7);
+  marks = toggleDone(marks, centre.i);
+  assert.equal(fogVisible(geo, marks).filter(Boolean).length, 1);
+});
+
+test("a claimed hex stays visible even with nothing claimed beside it", () => {
+  const geo = buildGeometry(2);
+  const outer = geo.cells.find(c => c.ring === 2);
+  const marks = toggleDone(createMarks(geo.cells.length), outer.i);
+  assert.ok(fogVisible(geo, marks)[outer.i]);
+});
+
+test("claiming outward eventually uncovers the whole board", () => {
+  const geo = buildGeometry(2);
+  let marks = createMarks(geo.cells.length);
+  // claim whatever is visible, repeatedly, the way a player would
+  for (let pass = 0; pass < 10; pass++) {
+    const seen = fogVisible(geo, marks);
+    geo.cells.forEach(c => { if (seen[c.i] && marks[c.i].status !== "done") marks = toggleDone(marks, c.i); });
+  }
+  assert.ok(fogVisible(geo, marks).every(Boolean), "no hex should stay unreachable");
+});
+
+test("partial progress does not lift the fog", () => {
+  const geo = buildGeometry(2);
+  const centre = geo.cells.find(c => c.ring === 0);
+  const marks = stepProgress(createMarks(geo.cells.length), centre.i, 0.75);
+  assert.equal(fogVisible(geo, marks).filter(Boolean).length, 1);
 });
