@@ -5,6 +5,11 @@
     "file": "hat-in-time.json"
   },
   {
+    "id": "loz-lttp",
+    "name": "A Link to the Past",
+    "file": "loz-lttp.json"
+  },
+  {
     "id": "banjo-tooie",
     "name": "Banjo-Tooie",
     "file": "banjo-tooie.json"
@@ -75,6 +80,11 @@
     "file": "jak-and-daxter.json"
   },
   {
+    "id": "loz-la",
+    "name": "Link's Awakening",
+    "file": "loz-la.json"
+  },
+  {
     "id": "loz-mm",
     "name": "Majora's Mask",
     "file": "loz-mm.json"
@@ -95,14 +105,9 @@
     "file": "minecraft.json"
   },
   {
-    "id": "pkmn-lets-go",
-    "name": "Pokémon Lets Go!",
-    "file": "pkmn-lets-go.json"
-  },
-  {
-    "id": "pkmn-snap",
-    "name": "Pokémon Snap",
-    "file": "pkmn-snap.json"
+    "id": "nsmb-wii",
+    "name": "New Super Mario Bros. Wii",
+    "file": "nsmb-wii.json"
   },
   {
     "id": "pkmn-crystal",
@@ -113,6 +118,11 @@
     "id": "pkmn-emerald-rando",
     "name": "Pokémon: Emerald [Randomizer]",
     "file": "pkmn-emerald-rando.json"
+  },
+  {
+    "id": "pkmn-lets-go",
+    "name": "Pokémon Lets Go!",
+    "file": "pkmn-lets-go.json"
   },
   {
     "id": "pkmn-platinum",
@@ -128,6 +138,11 @@
     "id": "pkmn-rubysapphire",
     "name": "Pokémon: Ruby / Sapphire",
     "file": "pkmn-rubysapphire.json"
+  },
+  {
+    "id": "pkmn-snap",
+    "name": "Pokémon Snap",
+    "file": "pkmn-snap.json"
   },
   {
     "id": "rogue-legacy",
@@ -208,6 +223,11 @@
     "id": "sotn-rando",
     "name": "Symphony of the Night [Randomizer]",
     "file": "sotn-rando.json"
+  },
+  {
+    "id": "thug",
+    "name": "Tony Hawk's Underground",
+    "file": "thug.json"
   },
   {
     "id": "loz-tp",
