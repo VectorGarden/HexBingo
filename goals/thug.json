@@ -3,21 +3,21 @@
   "goals": [
     {
       "text": "Do a McTwist off a building not in Hawaii",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "hawaii"
       ]
     },
     {
       "text": "Skitch a car for 10s",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "car"
       ]
     },
     {
       "text": "Manual through every open street in one Combo",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "combo",
         "street",
@@ -26,12 +26,12 @@
     },
     {
       "text": "Break a window",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": []
     },
     {
       "text": "Go through a door which brings you to a different section",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "through",
         "door"
@@ -39,7 +39,7 @@
     },
     {
       "text": "Go through a door which brings you to a different level of a structure",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "through",
         "door"
@@ -47,7 +47,7 @@
     },
     {
       "text": "Do a Spine Transfer in every Story City",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "spine transfer",
         "city"
@@ -62,7 +62,7 @@
     },
     {
       "text": "Score a goal in Hockey in Vancouver",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "score",
         "vancouver"
@@ -70,7 +70,7 @@
     },
     {
       "text": "Help Eric",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "help",
         "eric"
@@ -78,12 +78,12 @@
     },
     {
       "text": "Walk Charles",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": []
     },
     {
       "text": "Eric's Challenge",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "challenge",
         "eric"
@@ -91,14 +91,14 @@
     },
     {
       "text": "Get In Tight With The Street Warriors",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "street"
       ]
     },
     {
       "text": "Flyers For The Muska Demo",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "demo",
         "muska"
@@ -106,7 +106,7 @@
     },
     {
       "text": "Impress Muska",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "impress",
         "muska"
@@ -114,52 +114,52 @@
     },
     {
       "text": "Impress Shawn",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "impress"
       ]
     },
     {
       "text": "Demo The New Playground Setup",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "demo"
       ]
     },
     {
       "text": "Impress Joey",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "impress"
       ]
     },
     {
       "text": "Do Chris' Best Lines",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "line"
       ]
     },
     {
       "text": "Get The Stolen Items Back From The Dealers",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "stolen"
       ]
     },
     {
       "text": "Get The Scrapmetal For The Tombstone Maker",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Get Access To The Train Station",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Impress The Bratty Kid",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "impress",
         "kid"
@@ -167,19 +167,19 @@
     },
     {
       "text": "Catch Ollie's House",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Rescue Eric",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "eric"
       ]
     },
     {
       "text": "Land A Flamingo",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
@@ -191,14 +191,14 @@
     },
     {
       "text": "Create A Trick",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "trick"
       ]
     },
     {
       "text": "Combo The Entire City",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "combo",
         "city"
@@ -206,7 +206,7 @@
     },
     {
       "text": "Score Big (Jersey)",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "score",
         "big",
@@ -215,7 +215,7 @@
     },
     {
       "text": "High Score",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "score",
         "high"
@@ -223,14 +223,14 @@
     },
     {
       "text": "Hold-grind Combos",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "combo"
       ]
     },
     {
       "text": "Help The Student",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "help"
       ]
@@ -242,12 +242,12 @@
     },
     {
       "text": "Nut Vendors Unite",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Film The Local",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "local"
       ]
@@ -262,14 +262,14 @@
     },
     {
       "text": "Crash And Burn The Car",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "car"
       ]
     },
     {
       "text": "Help The Local Skater",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "help",
         "local"
@@ -284,7 +284,7 @@
     },
     {
       "text": "Help Stacy's Relative",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "help"
       ]
@@ -309,7 +309,7 @@
     },
     {
       "text": "Secret Tape (Manhattan)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "secret tape"
       ]
@@ -409,7 +409,7 @@
     },
     {
       "text": "Win The Best Trick Contest",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "contest",
         "trick"
@@ -417,14 +417,14 @@
     },
     {
       "text": "Yeah Right Manuals",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "manual"
       ]
     },
     {
       "text": "Secret Tape (Tampa)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "secret tape"
       ]
@@ -480,7 +480,7 @@
     },
     {
       "text": "Acid Drop The Two Towers",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
@@ -527,14 +527,14 @@
     },
     {
       "text": "Nail A 540 Flip",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "flip"
       ]
     },
     {
       "text": "Secret Tape (San Diego)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "secret tape",
         "san diego"
@@ -542,48 +542,48 @@
     },
     {
       "text": "Wedding Guest",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "guest"
       ]
     },
     {
       "text": "Get Lei'd",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Pineapple Killer",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "killer"
       ]
     },
     {
       "text": "Speak Hawaiian",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Drain The Pool",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Impress The Girls",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "impress"
       ]
     },
     {
       "text": "Luau Competition",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Wallows Combo Bowls",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "combo",
         "wallow",
@@ -592,59 +592,59 @@
     },
     {
       "text": "High Lines",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "high line"
       ]
     },
     {
       "text": "Off The Walls",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "wall"
       ]
     },
     {
       "text": "Kill Wallows",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "wallow"
       ]
     },
     {
       "text": "Island Liptrick Tour",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Climb The Hotel",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "hotel"
       ]
     },
     {
       "text": "Hotel Hopper",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "hotel"
       ]
     },
     {
       "text": "Craziest Footage Ever",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Rodney's Special Grind",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "grind"
       ]
     },
     {
       "text": "Secret Tape (Hawaii)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "secret tape",
         "hawaii"
@@ -652,74 +652,74 @@
     },
     {
       "text": "Skate Tom's Part",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "skate"
       ]
     },
     {
       "text": "Filming A Line",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "line"
       ]
     },
     {
       "text": "Bust Some Flatland",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Race The Blowcart",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Party Dregs",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "party"
       ]
     },
     {
       "text": "Slam City Fan",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "slam city"
       ]
     },
     {
       "text": "Ralphie Got Busted",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Impress The Reporter",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "impress"
       ]
     },
     {
       "text": "Return The Guest Passes",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "guest"
       ]
     },
     {
       "text": "Pick Up Everyone In The Limo",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Casper Handstand",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Secret Tape (Vancouver)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "secret tape",
         "vancouver"
@@ -727,26 +727,26 @@
     },
     {
       "text": "ADIO - Show Off Your Skills",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "show"
       ]
     },
     {
       "text": "VANS - Whoop It Up For The Crowds",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "crowd"
       ]
     },
     {
       "text": "CIRCA - Pass The Test",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "ES - Kill The Score Spots",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "score",
         "spot"
@@ -754,26 +754,26 @@
     },
     {
       "text": "Get The Moscow Trip",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "moscow"
       ]
     },
     {
       "text": "Blimp",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Learn The Hip Transfers",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "transfer"
       ]
     },
     {
       "text": "Destroy The Vert Contest",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "vert contest",
         "destroy"
@@ -781,7 +781,7 @@
     },
     {
       "text": "Destroy The Street Contest",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "street contest",
         "destroy"
@@ -789,19 +789,19 @@
     },
     {
       "text": "Best Of Show",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "show"
       ]
     },
     {
       "text": "1990 Invert The Speakers",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Secret Tape (Slam City Jam)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "secret tape",
         "slam city"
@@ -809,48 +809,48 @@
     },
     {
       "text": "Serve The People",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Blind Big Brother",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "big"
       ]
     },
     {
       "text": "Ready For Battle",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Over The Wall",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "wall"
       ]
     },
     {
       "text": "Manuals For Muskovites",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "manual"
       ]
     },
     {
       "text": "Ratings Stunts",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Circus Act",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Find Gaps",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "find",
         "gap"
@@ -858,43 +858,43 @@
     },
     {
       "text": "Teaming With Eric",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "eric"
       ]
     },
     {
       "text": "Anonymous Caller",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Party Favors",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "party"
       ]
     },
     {
       "text": "Hangover Cure",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Straight Outta Moscow",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "moscow"
       ]
     },
     {
       "text": "360 Varial Heelflip Lien",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Secret Tape (Moscow)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "secret tape",
         "moscow"
@@ -902,7 +902,7 @@
     },
     {
       "text": "Jersey Spine Trickspot Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "challenge",
         "spine",
@@ -911,7 +911,7 @@
     },
     {
       "text": "Big Apple Spot Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "challenge",
         "big",
@@ -920,14 +920,14 @@
     },
     {
       "text": "Florida THPS Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "challenge"
       ]
     },
     {
       "text": "San Diego Transfer Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "san diego",
         "transfer challenge"
@@ -935,7 +935,7 @@
     },
     {
       "text": "Hawaii Huge Spine Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "challenge",
         "spine",
@@ -944,7 +944,7 @@
     },
     {
       "text": "Vancouver Spine Transfer Challenge",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "spine transfer",
         "transfer challenge",
@@ -953,14 +953,14 @@
     },
     {
       "text": "Get The Tapes",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "tape"
       ]
     },
     {
       "text": "Tear Up Eric's Best Line",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "line",
         "eric",
@@ -969,7 +969,7 @@
     },
     {
       "text": "Secret Tape (Hotter Than Hell)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "secret tape"
       ]
