@@ -1,0 +1,216 @@
+{
+  "name": "Super Mario 3D Land",
+  "goals": [
+    {
+      "text": "Clear World 1-1",
+      "difficulty": 1,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Get a Tanooki Leaf",
+      "difficulty": 1,
+      "tags": [
+        "leaf"
+      ]
+    },
+    {
+      "text": "Collect 3 Star Coins in one level",
+      "difficulty": 1,
+      "tags": [
+        "star coin"
+      ]
+    },
+    {
+      "text": "Reach the top of a Goal Pole",
+      "difficulty": 1,
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "text": "Clear a Toad House",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Stomp 10 Goombas",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Find a hidden Luigi",
+      "difficulty": 1,
+      "tags": [
+        "luigi"
+      ]
+    },
+    {
+      "text": "Clear World 1",
+      "difficulty": 2,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 15 Star Coins",
+      "difficulty": 2,
+      "tags": [
+        "star coin"
+      ]
+    },
+    {
+      "text": "Get a Boomerang Flower",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Beat a Boom Boom fight",
+      "difficulty": 2,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Clear a Mystery Box",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Reach the flagpole top twice",
+      "difficulty": 2,
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "text": "Clear a level without using a power-up",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear World 4",
+      "difficulty": 3,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 40 Star Coins",
+      "difficulty": 3,
+      "tags": [
+        "star coin"
+      ]
+    },
+    {
+      "text": "Beat a Pom Pom fight",
+      "difficulty": 3,
+      "tags": [
+        "fight"
+      ]
+    },
+    {
+      "text": "Clear a level with the timer above 200",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Statue Leaf",
+      "difficulty": 3,
+      "tags": [
+        "leaf"
+      ]
+    },
+    {
+      "text": "Clear an airship level",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rescue Princess Peach",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear World 8",
+      "difficulty": 4,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect 80 Star Coins",
+      "difficulty": 4,
+      "tags": [
+        "star coin"
+      ]
+    },
+    {
+      "text": "Unlock a Special World level",
+      "difficulty": 4,
+      "tags": [
+        "special world"
+      ]
+    },
+    {
+      "text": "Clear a Special World level as Luigi",
+      "difficulty": 4,
+      "tags": [
+        "special world",
+        "luigi"
+      ]
+    },
+    {
+      "text": "Beat Bowser",
+      "difficulty": 4,
+      "tags": [
+        "bowser"
+      ]
+    },
+    {
+      "text": "Clear 5 levels without taking damage",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear Special World 8",
+      "difficulty": 5,
+      "tags": [
+        "special world"
+      ]
+    },
+    {
+      "text": "Collect every Star Coin",
+      "difficulty": 5,
+      "tags": [
+        "star coin"
+      ]
+    },
+    {
+      "text": "Put a gold flag on every level",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Clear the Crown level",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Beat the Special World Bowser",
+      "difficulty": 5,
+      "tags": [
+        "special world",
+        "bowser"
+      ]
+    },
+    {
+      "text": "Clear every level as both Mario and Luigi",
+      "difficulty": 5,
+      "tags": [
+        "luigi"
+      ]
+    }
+  ]
+}

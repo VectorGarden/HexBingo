@@ -1,0 +1,278 @@
+{
+  "name": "Oracle of Seasons",
+  "goals": [
+    {
+      "text": "Get the Wooden Sword",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Get the Rod of Seasons",
+      "difficulty": 1,
+      "tags": [
+        "rod",
+        "season"
+      ]
+    },
+    {
+      "text": "Enter the Gnarled Root Dungeon",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Plant a Gasha Seed",
+      "difficulty": 1,
+      "tags": [
+        "gasha",
+        "seed"
+      ]
+    },
+    {
+      "text": "Get a Ring Box",
+      "difficulty": 1,
+      "tags": [
+        "ring box"
+      ]
+    },
+    {
+      "text": "Talk to the Maku Tree",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Collect 20 Ore Chunks",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Defeat Aquamentus",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Power Bracelet",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Boomerang",
+      "difficulty": 2,
+      "tags": [
+        "boomerang"
+      ]
+    },
+    {
+      "text": "Learn to change to Winter",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Seed Satchel upgrade",
+      "difficulty": 2,
+      "tags": [
+        "seed"
+      ]
+    },
+    {
+      "text": "Defeat Dodongo",
+      "difficulty": 2,
+      "tags": [
+        "dodongo"
+      ]
+    },
+    {
+      "text": "Get the Roc's Feather",
+      "difficulty": 2,
+      "tags": [
+        "roc"
+      ]
+    },
+    {
+      "text": "Collect 2 Essences",
+      "difficulty": 2,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Ride Ricky the Kangaroo",
+      "difficulty": 2,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Buy something from the Horon Village shop",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Magnetic Gloves",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Gohma",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Slingshot",
+      "difficulty": 3,
+      "tags": [
+        "slingshot"
+      ]
+    },
+    {
+      "text": "Collect 4 Essences",
+      "difficulty": 3,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Get the Master Sword",
+      "difficulty": 3,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Ride Dimitri the Dodongo",
+      "difficulty": 3,
+      "tags": [
+        "ride",
+        "dodongo"
+      ]
+    },
+    {
+      "text": "Get the Magic Boomerang",
+      "difficulty": 3,
+      "tags": [
+        "boomerang"
+      ]
+    },
+    {
+      "text": "Reach the Subrosia Market",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get a Heart Piece from a Gasha Nut",
+      "difficulty": 3,
+      "tags": [
+        "heart",
+        "gasha"
+      ]
+    },
+    {
+      "text": "Trade for the Ribbon",
+      "difficulty": 3,
+      "tags": [
+        "trade"
+      ]
+    },
+    {
+      "text": "Get the Hyper Slingshot",
+      "difficulty": 4,
+      "tags": [
+        "slingshot"
+      ]
+    },
+    {
+      "text": "Defeat Digdogger",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 6 Essences",
+      "difficulty": 4,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Get the Roc's Cape",
+      "difficulty": 4,
+      "tags": [
+        "roc"
+      ]
+    },
+    {
+      "text": "Ride Moosh the Bear",
+      "difficulty": 4,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Get the Mirror Shield",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear the Ancient Ruins",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 30 Seashells",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Biggoron Sword",
+      "difficulty": 4,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Collect all eight Essences",
+      "difficulty": 5,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Defeat Onox",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get every Ring in the Ring Box",
+      "difficulty": 5,
+      "tags": [
+        "ring box"
+      ]
+    },
+    {
+      "text": "Reach 14 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Clear the Explorer's Crypt",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get the Bombchus",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Trade the whole Rod of Seasons chain",
+      "difficulty": 5,
+      "tags": [
+        "trade",
+        "rod",
+        "season"
+      ]
+    }
+  ]
+}

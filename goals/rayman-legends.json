@@ -1,0 +1,231 @@
+{
+  "name": "Rayman Legends",
+  "goals": [
+    {
+      "text": "Clear the first level",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Rescue 10 Teensies",
+      "difficulty": 1,
+      "tags": [
+        "rescue teensie"
+      ]
+    },
+    {
+      "text": "Collect 100 Lums",
+      "difficulty": 1,
+      "tags": [
+        "lum"
+      ]
+    },
+    {
+      "text": "Punch a Darktoon",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Clear a level without dying",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Free a caged Teensy",
+      "difficulty": 1,
+      "tags": [
+        "teensy"
+      ]
+    },
+    {
+      "text": "Reach a Lum King",
+      "difficulty": 1,
+      "tags": [
+        "lum"
+      ]
+    },
+    {
+      "text": "Clear Teensies in Trouble",
+      "difficulty": 2,
+      "tags": [
+        "teensie"
+      ]
+    },
+    {
+      "text": "Rescue 40 Teensies",
+      "difficulty": 2,
+      "tags": [
+        "rescue teensie"
+      ]
+    },
+    {
+      "text": "Get a Bronze Cup on a level",
+      "difficulty": 2,
+      "tags": [
+        "cup"
+      ]
+    },
+    {
+      "text": "Clear a Murfy level",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect a Lucky Ticket",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear a Back to Origins level",
+      "difficulty": 2,
+      "tags": [
+        "origin"
+      ]
+    },
+    {
+      "text": "Unlock a new character",
+      "difficulty": 2,
+      "tags": [
+        "unlock",
+        "character"
+      ]
+    },
+    {
+      "text": "Clear Toad Story",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rescue 100 Teensies",
+      "difficulty": 3,
+      "tags": [
+        "rescue teensie"
+      ]
+    },
+    {
+      "text": "Get a Silver Cup",
+      "difficulty": 3,
+      "tags": [
+        "cup"
+      ]
+    },
+    {
+      "text": "Clear an Invasion level",
+      "difficulty": 3,
+      "tags": [
+        "invasion"
+      ]
+    },
+    {
+      "text": "Beat a Musical level",
+      "difficulty": 3,
+      "tags": [
+        "musical"
+      ]
+    },
+    {
+      "text": "Reach Awesomeness rank",
+      "difficulty": 3,
+      "tags": [
+        "awesomeness rank"
+      ]
+    },
+    {
+      "text": "Clear a level under the Invasion time",
+      "difficulty": 3,
+      "tags": [
+        "invasion"
+      ]
+    },
+    {
+      "text": "Clear Fiesta de los Muertos",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Rescue 300 Teensies",
+      "difficulty": 4,
+      "tags": [
+        "rescue teensie"
+      ]
+    },
+    {
+      "text": "Get a Gold Cup",
+      "difficulty": 4,
+      "tags": [
+        "cup"
+      ]
+    },
+    {
+      "text": "Clear 10 Invasion levels",
+      "difficulty": 4,
+      "tags": [
+        "invasion"
+      ]
+    },
+    {
+      "text": "Unlock 10 characters",
+      "difficulty": 4,
+      "tags": [
+        "unlock",
+        "character"
+      ]
+    },
+    {
+      "text": "Beat all Musical levels in a world",
+      "difficulty": 4,
+      "tags": [
+        "musical"
+      ]
+    },
+    {
+      "text": "Rescue every Teensy",
+      "difficulty": 5,
+      "tags": [
+        "rescue",
+        "teensy"
+      ]
+    },
+    {
+      "text": "Get a Diamond Cup",
+      "difficulty": 5,
+      "tags": [
+        "cup"
+      ]
+    },
+    {
+      "text": "Clear every Invasion level",
+      "difficulty": 5,
+      "tags": [
+        "invasion"
+      ]
+    },
+    {
+      "text": "Reach the top Awesomeness rank",
+      "difficulty": 5,
+      "tags": [
+        "awesomeness rank"
+      ]
+    },
+    {
+      "text": "Unlock every character",
+      "difficulty": 5,
+      "tags": [
+        "unlock",
+        "character"
+      ]
+    },
+    {
+      "text": "Clear the Living Dead Party",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Beat every Back to Origins level",
+      "difficulty": 5,
+      "tags": [
+        "origin"
+      ]
+    }
+  ]
+}

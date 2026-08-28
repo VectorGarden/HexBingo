@@ -1,0 +1,294 @@
+{
+  "name": "Banjo-Kazooie",
+  "goals": [
+    {
+      "text": "Learn the Talon Trot",
+      "difficulty": 1,
+      "tags": [
+        "learn"
+      ]
+    },
+    {
+      "text": "Collect 50 Musical Notes",
+      "difficulty": 1,
+      "tags": [
+        "musical note"
+      ]
+    },
+    {
+      "text": "Enter Mumbo's Mountain",
+      "difficulty": 1,
+      "tags": [
+        "mumbo mountain",
+        "enter"
+      ]
+    },
+    {
+      "text": "Get a Jiggy in Mumbo's Mountain",
+      "difficulty": 1,
+      "tags": [
+        "mumbo mountain",
+        "jiggy"
+      ]
+    },
+    {
+      "text": "Learn the Beak Barge",
+      "difficulty": 1,
+      "tags": [
+        "learn"
+      ]
+    },
+    {
+      "text": "Collect 10 Jinjos",
+      "difficulty": 1,
+      "tags": [
+        "jinjo"
+      ]
+    },
+    {
+      "text": "Break a Termite mound",
+      "difficulty": 1,
+      "tags": [
+        "termite"
+      ]
+    },
+    {
+      "text": "Clear Mumbo's Mountain",
+      "difficulty": 2,
+      "tags": [
+        "mumbo mountain"
+      ]
+    },
+    {
+      "text": "Become the Termite",
+      "difficulty": 2,
+      "tags": [
+        "become",
+        "termite"
+      ]
+    },
+    {
+      "text": "Enter Treasure Trove Cove",
+      "difficulty": 2,
+      "tags": [
+        "treasure trove",
+        "trove cove",
+        "enter"
+      ]
+    },
+    {
+      "text": "Collect 5 Jiggies",
+      "difficulty": 2,
+      "tags": [
+        "jiggie"
+      ]
+    },
+    {
+      "text": "Learn the Shock Jump",
+      "difficulty": 2,
+      "tags": [
+        "learn"
+      ]
+    },
+    {
+      "text": "Get all Jinjos in one level",
+      "difficulty": 2,
+      "tags": [
+        "jinjo"
+      ]
+    },
+    {
+      "text": "Beat Nipper the crab",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect 150 Musical Notes",
+      "difficulty": 2,
+      "tags": [
+        "musical note"
+      ]
+    },
+    {
+      "text": "Open the first Note Door",
+      "difficulty": 2,
+      "tags": [
+        "note"
+      ]
+    },
+    {
+      "text": "Clear Treasure Trove Cove",
+      "difficulty": 3,
+      "tags": [
+        "treasure trove",
+        "trove cove"
+      ]
+    },
+    {
+      "text": "Enter Clanker's Cavern",
+      "difficulty": 3,
+      "tags": [
+        "enter",
+        "clanker"
+      ]
+    },
+    {
+      "text": "Become the Pumpkin",
+      "difficulty": 3,
+      "tags": [
+        "become"
+      ]
+    },
+    {
+      "text": "Collect 15 Jiggies",
+      "difficulty": 3,
+      "tags": [
+        "jiggie"
+      ]
+    },
+    {
+      "text": "Learn the Wonderwing",
+      "difficulty": 3,
+      "tags": [
+        "learn"
+      ]
+    },
+    {
+      "text": "Beat a Grunty's Furnace Fun question row",
+      "difficulty": 3,
+      "tags": [
+        "grunty furnace",
+        "furnace fun"
+      ]
+    },
+    {
+      "text": "Collect 300 Musical Notes",
+      "difficulty": 3,
+      "tags": [
+        "musical note"
+      ]
+    },
+    {
+      "text": "Free Clanker",
+      "difficulty": 3,
+      "tags": [
+        "clanker"
+      ]
+    },
+    {
+      "text": "Get every Jiggy in Bubblegloop Swamp",
+      "difficulty": 3,
+      "tags": [
+        "jiggy"
+      ]
+    },
+    {
+      "text": "Clear Freezeezy Peak",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Become the Walrus",
+      "difficulty": 4,
+      "tags": [
+        "become"
+      ]
+    },
+    {
+      "text": "Collect 40 Jiggies",
+      "difficulty": 4,
+      "tags": [
+        "jiggie"
+      ]
+    },
+    {
+      "text": "Learn the Flight pad",
+      "difficulty": 4,
+      "tags": [
+        "learn"
+      ]
+    },
+    {
+      "text": "Clear Gobi's Valley",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 500 Musical Notes",
+      "difficulty": 4,
+      "tags": [
+        "musical note"
+      ]
+    },
+    {
+      "text": "Become the Bee",
+      "difficulty": 4,
+      "tags": [
+        "become"
+      ]
+    },
+    {
+      "text": "Get every Jinjo in Click Clock Wood",
+      "difficulty": 4,
+      "tags": [
+        "click clock",
+        "clock wood",
+        "jinjo"
+      ]
+    },
+    {
+      "text": "Beat all four seasons of Click Clock Wood",
+      "difficulty": 4,
+      "tags": [
+        "click clock",
+        "clock wood"
+      ]
+    },
+    {
+      "text": "Collect all 100 Jiggies",
+      "difficulty": 5,
+      "tags": [
+        "jiggie"
+      ]
+    },
+    {
+      "text": "Collect all 900 Musical Notes",
+      "difficulty": 5,
+      "tags": [
+        "musical note"
+      ]
+    },
+    {
+      "text": "Clear Rusty Bucket Bay",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Defeat Gruntilda",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Complete Grunty's Furnace Fun",
+      "difficulty": 5,
+      "tags": [
+        "grunty furnace",
+        "furnace fun"
+      ]
+    },
+    {
+      "text": "Get every Jinjo in the game",
+      "difficulty": 5,
+      "tags": [
+        "jinjo"
+      ]
+    },
+    {
+      "text": "Reach the top of Grunty's Lair",
+      "difficulty": 5,
+      "tags": [
+        "grunty"
+      ]
+    }
+  ]
+}

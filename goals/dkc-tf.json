@@ -1,0 +1,231 @@
+{
+  "name": "Donkey Kong Country: Tropical Freeze",
+  "goals": [
+    {
+      "text": "Clear the first level",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Find a KONG letter",
+      "difficulty": 1,
+      "tags": [
+        "kong letter",
+        "find"
+      ]
+    },
+    {
+      "text": "Break a barrel",
+      "difficulty": 1,
+      "tags": [
+        "barrel"
+      ]
+    },
+    {
+      "text": "Collect 100 bananas",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Ride an animal buddy",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Find a puzzle piece",
+      "difficulty": 1,
+      "tags": [
+        "puzzle piece",
+        "find"
+      ]
+    },
+    {
+      "text": "Clear a level with Diddy",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Clear World 1",
+      "difficulty": 2,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect all KONG letters in one level",
+      "difficulty": 2,
+      "tags": [
+        "kong letter"
+      ]
+    },
+    {
+      "text": "Play as Dixie",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Find 10 puzzle pieces",
+      "difficulty": 2,
+      "tags": [
+        "puzzle piece",
+        "find"
+      ]
+    },
+    {
+      "text": "Clear a mine cart level",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Beat a world boss",
+      "difficulty": 2,
+      "tags": [
+        "world",
+        "boss"
+      ]
+    },
+    {
+      "text": "Buy something from Funky's shop",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear World 3",
+      "difficulty": 3,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect all puzzle pieces in one level",
+      "difficulty": 3,
+      "tags": [
+        "puzzle piece"
+      ]
+    },
+    {
+      "text": "Play as Cranky",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear a rocket barrel level",
+      "difficulty": 3,
+      "tags": [
+        "barrel"
+      ]
+    },
+    {
+      "text": "Find a secret exit",
+      "difficulty": 3,
+      "tags": [
+        "find",
+        "secret"
+      ]
+    },
+    {
+      "text": "Clear a level without losing a life",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Unlock a Temple level",
+      "difficulty": 3,
+      "tags": [
+        "temple",
+        "unlock"
+      ]
+    },
+    {
+      "text": "Clear World 5",
+      "difficulty": 4,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Clear a Temple level",
+      "difficulty": 4,
+      "tags": [
+        "temple"
+      ]
+    },
+    {
+      "text": "Collect 60 puzzle pieces",
+      "difficulty": 4,
+      "tags": [
+        "puzzle piece"
+      ]
+    },
+    {
+      "text": "Clear a level with no items bought",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Beat every boss once",
+      "difficulty": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "Get a gold time on a level",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear an underwater level",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Clear World 6",
+      "difficulty": 5,
+      "tags": [
+        "world"
+      ]
+    },
+    {
+      "text": "Collect every KONG letter in a world",
+      "difficulty": 5,
+      "tags": [
+        "kong letter",
+        "world"
+      ]
+    },
+    {
+      "text": "Clear every Temple level",
+      "difficulty": 5,
+      "tags": [
+        "temple"
+      ]
+    },
+    {
+      "text": "Unlock the Secret Seclusion",
+      "difficulty": 5,
+      "tags": [
+        "unlock",
+        "secret"
+      ]
+    },
+    {
+      "text": "Beat the game",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect every puzzle piece in a world",
+      "difficulty": 5,
+      "tags": [
+        "puzzle piece",
+        "world"
+      ]
+    },
+    {
+      "text": "Clear a level in Hard Mode",
+      "difficulty": 5,
+      "tags": []
+    }
+  ]
+}

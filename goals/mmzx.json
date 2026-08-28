@@ -1,0 +1,247 @@
+{
+  "name": "Mega Man ZX + Advent",
+  "goals": [
+    {
+      "text": "Get a Biometal",
+      "difficulty": 1,
+      "tags": [
+        "biometal"
+      ]
+    },
+    {
+      "text": "Clear the first area",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Accept a mission from the Guardians",
+      "difficulty": 1,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Defeat 20 Mechaniloids",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Find a Sub Tank",
+      "difficulty": 1,
+      "tags": [
+        "sub tank",
+        "find"
+      ]
+    },
+    {
+      "text": "Use a Rock-On lock",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Clear a mission without dying",
+      "difficulty": 1,
+      "tags": [
+        "mission",
+        "dying"
+      ]
+    },
+    {
+      "text": "Get Model X",
+      "difficulty": 2,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Get a second Biometal",
+      "difficulty": 2,
+      "tags": [
+        "biometal"
+      ]
+    },
+    {
+      "text": "Clear three missions",
+      "difficulty": 2,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Defeat a Pseudoroid",
+      "difficulty": 2,
+      "tags": [
+        "pseudoroid"
+      ]
+    },
+    {
+      "text": "Find two Sub Tanks",
+      "difficulty": 2,
+      "tags": [
+        "sub tank",
+        "find"
+      ]
+    },
+    {
+      "text": "Use a Biometal's special move",
+      "difficulty": 2,
+      "tags": [
+        "biometal"
+      ]
+    },
+    {
+      "text": "Clear a mission with an A rank",
+      "difficulty": 2,
+      "tags": [
+        "mission",
+        "rank"
+      ]
+    },
+    {
+      "text": "Get Model HX",
+      "difficulty": 3,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Get Model LX",
+      "difficulty": 3,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Defeat four Pseudoroids",
+      "difficulty": 3,
+      "tags": [
+        "pseudoroid"
+      ]
+    },
+    {
+      "text": "Clear a mission with an S rank",
+      "difficulty": 3,
+      "tags": [
+        "mission",
+        "rank"
+      ]
+    },
+    {
+      "text": "Find every Sub Tank in an area",
+      "difficulty": 3,
+      "tags": [
+        "sub tank",
+        "find"
+      ]
+    },
+    {
+      "text": "Reach Area H",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Use every Biometal you own in one mission",
+      "difficulty": 3,
+      "tags": [
+        "mission",
+        "biometal"
+      ]
+    },
+    {
+      "text": "Get Model FX",
+      "difficulty": 4,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Get Model PX",
+      "difficulty": 4,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Defeat every Pseudoroid",
+      "difficulty": 4,
+      "tags": [
+        "pseudoroid"
+      ]
+    },
+    {
+      "text": "Beat a boss without taking damage",
+      "difficulty": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "text": "Get Model OX",
+      "difficulty": 4,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Clear a mission on Hard",
+      "difficulty": 4,
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "text": "Collect 20 Energy Tanks",
+      "difficulty": 4,
+      "tags": [
+        "tank"
+      ]
+    },
+    {
+      "text": "Beat ZX",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Beat ZX Advent",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get Model A",
+      "difficulty": 5,
+      "tags": [
+        "model"
+      ]
+    },
+    {
+      "text": "Finish with every Biometal",
+      "difficulty": 5,
+      "tags": [
+        "biometal"
+      ]
+    },
+    {
+      "text": "Beat a boss with Model X only",
+      "difficulty": 5,
+      "tags": [
+        "model",
+        "boss"
+      ]
+    },
+    {
+      "text": "Clear the final area without dying",
+      "difficulty": 5,
+      "tags": [
+        "dying"
+      ]
+    },
+    {
+      "text": "Get an S rank on every mission in a run",
+      "difficulty": 5,
+      "tags": [
+        "mission",
+        "rank"
+      ]
+    }
+  ]
+}

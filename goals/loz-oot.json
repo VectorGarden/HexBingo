@@ -1,0 +1,338 @@
+{
+  "name": "Ocarina of Time",
+  "goals": [
+    {
+      "text": "Get the Kokiri Sword",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Buy a Deku Shield",
+      "difficulty": 1,
+      "tags": [
+        "deku",
+        "shield",
+        "buy"
+      ]
+    },
+    {
+      "text": "Enter the Great Deku Tree",
+      "difficulty": 1,
+      "tags": [
+        "deku"
+      ]
+    },
+    {
+      "text": "Learn Saria's Song",
+      "difficulty": 1,
+      "tags": [
+        "learn",
+        "song"
+      ]
+    },
+    {
+      "text": "Collect 3 Gold Skulltula Tokens",
+      "difficulty": 1,
+      "tags": [
+        "gold skulltula",
+        "skulltula token"
+      ]
+    },
+    {
+      "text": "Get the Fairy Slingshot",
+      "difficulty": 1,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "Break 5 signs with the sword",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Get a Deku Nut upgrade",
+      "difficulty": 1,
+      "tags": [
+        "deku",
+        "upgrade"
+      ]
+    },
+    {
+      "text": "Defeat Queen Gohma",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get Zelda's Letter",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Bomb Bag",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Learn Epona's Song",
+      "difficulty": 2,
+      "tags": [
+        "learn",
+        "song"
+      ]
+    },
+    {
+      "text": "Defeat King Dodongo",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Buy a Hylian Shield",
+      "difficulty": 2,
+      "tags": [
+        "shield",
+        "buy"
+      ]
+    },
+    {
+      "text": "Get the Goron Bracelet",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect 10 Gold Skulltula Tokens",
+      "difficulty": 2,
+      "tags": [
+        "gold skulltula",
+        "skulltula token"
+      ]
+    },
+    {
+      "text": "Get a bottle",
+      "difficulty": 2,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "Learn the Song of Storms",
+      "difficulty": 2,
+      "tags": [
+        "learn",
+        "song"
+      ]
+    },
+    {
+      "text": "Play the Bombchu Bowling Alley",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Defeat Barinade",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Pull the Master Sword",
+      "difficulty": 3,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Get the Hookshot",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Phantom Ganon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Fairy Bow",
+      "difficulty": 3,
+      "tags": [
+        "fairy"
+      ]
+    },
+    {
+      "text": "Get the Silver Scale",
+      "difficulty": 3,
+      "tags": [
+        "scale"
+      ]
+    },
+    {
+      "text": "Get the Megaton Hammer",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect 20 Gold Skulltula Tokens",
+      "difficulty": 3,
+      "tags": [
+        "gold skulltula",
+        "skulltula token"
+      ]
+    },
+    {
+      "text": "Get the Lens of Truth",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Free all seven Carpenters",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get Din's Fire",
+      "difficulty": 3,
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "text": "Win the Horseback Archery Range",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Volvagia",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Iron Boots",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Defeat Morpha",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Golden Scale",
+      "difficulty": 4,
+      "tags": [
+        "scale"
+      ]
+    },
+    {
+      "text": "Get the Mirror Shield",
+      "difficulty": 4,
+      "tags": [
+        "shield"
+      ]
+    },
+    {
+      "text": "Defeat Bongo Bongo",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Biggoron's Sword",
+      "difficulty": 4,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Collect 30 Gold Skulltula Tokens",
+      "difficulty": 4,
+      "tags": [
+        "gold skulltula",
+        "skulltula token"
+      ]
+    },
+    {
+      "text": "Get the Fire Arrows",
+      "difficulty": 4,
+      "tags": [
+        "arrow",
+        "fire"
+      ]
+    },
+    {
+      "text": "Get all four bottles",
+      "difficulty": 4,
+      "tags": [
+        "bottle"
+      ]
+    },
+    {
+      "text": "Get a full Quiver upgrade",
+      "difficulty": 4,
+      "tags": [
+        "upgrade"
+      ]
+    },
+    {
+      "text": "Clear the Bottom of the Well",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Defeat Twinrova",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect all six Medallions",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Collect 50 Gold Skulltula Tokens",
+      "difficulty": 5,
+      "tags": [
+        "gold skulltula",
+        "skulltula token"
+      ]
+    },
+    {
+      "text": "Get the Light Arrows",
+      "difficulty": 5,
+      "tags": [
+        "arrow"
+      ]
+    },
+    {
+      "text": "Clear the Gerudo Training Ground",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get the Ice Arrows",
+      "difficulty": 5,
+      "tags": [
+        "arrow"
+      ]
+    },
+    {
+      "text": "Defeat Ganondorf",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get every Heart Piece in Kakariko",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Reach 16 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    }
+  ]
+}

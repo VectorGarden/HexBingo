@@ -1,0 +1,229 @@
+{
+  "name": "Duck Game",
+  "goals": [
+    {
+      "text": "Win a round",
+      "difficulty": 1,
+      "tags": [
+        "win",
+        "round"
+      ]
+    },
+    {
+      "text": "Kill a duck with a shotgun",
+      "difficulty": 1,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "text": "Quack",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Throw a weapon at an opponent",
+      "difficulty": 1,
+      "tags": [
+        "weapon",
+        "throw"
+      ]
+    },
+    {
+      "text": "Win a round without firing a shot",
+      "difficulty": 1,
+      "tags": [
+        "win",
+        "round"
+      ]
+    },
+    {
+      "text": "Pick up a hat",
+      "difficulty": 1,
+      "tags": [
+        "hat"
+      ]
+    },
+    {
+      "text": "Break a crate",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Win a match",
+      "difficulty": 2,
+      "tags": [
+        "win",
+        "match"
+      ]
+    },
+    {
+      "text": "Kill two ducks with one grenade",
+      "difficulty": 2,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "text": "Ride a jetpack",
+      "difficulty": 2,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Win a round with a melee weapon",
+      "difficulty": 2,
+      "tags": [
+        "win",
+        "round",
+        "weapon"
+      ]
+    },
+    {
+      "text": "Trap a duck in a net",
+      "difficulty": 2,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "text": "Win a round on a randomly generated level",
+      "difficulty": 2,
+      "tags": [
+        "win",
+        "round"
+      ]
+    },
+    {
+      "text": "Use a mine to kill someone",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Win a match without dying",
+      "difficulty": 3,
+      "tags": [
+        "win",
+        "match"
+      ]
+    },
+    {
+      "text": "Kill a duck with a sword throw",
+      "difficulty": 3,
+      "tags": [
+        "duck",
+        "throw"
+      ]
+    },
+    {
+      "text": "Win five rounds in a row",
+      "difficulty": 3,
+      "tags": [
+        "win",
+        "round"
+      ]
+    },
+    {
+      "text": "Kill someone with their own weapon",
+      "difficulty": 3,
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "text": "Win a round using only thrown objects",
+      "difficulty": 3,
+      "tags": [
+        "win",
+        "round"
+      ]
+    },
+    {
+      "text": "Ride a rocket",
+      "difficulty": 3,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Win a match 10-0",
+      "difficulty": 4,
+      "tags": [
+        "win",
+        "match"
+      ]
+    },
+    {
+      "text": "Kill three ducks in one round",
+      "difficulty": 4,
+      "tags": [
+        "round",
+        "duck"
+      ]
+    },
+    {
+      "text": "Win a round without picking up a weapon",
+      "difficulty": 4,
+      "tags": [
+        "win",
+        "round",
+        "weapon"
+      ]
+    },
+    {
+      "text": "Complete an Arcade challenge with a gold trophy",
+      "difficulty": 4,
+      "tags": [
+        "arcade challenge",
+        "gold"
+      ]
+    },
+    {
+      "text": "Kill a duck with a chainsaw",
+      "difficulty": 4,
+      "tags": [
+        "duck"
+      ]
+    },
+    {
+      "text": "Beat the Arcade mode",
+      "difficulty": 5,
+      "tags": [
+        "arcade"
+      ]
+    },
+    {
+      "text": "Get gold on five Arcade challenges",
+      "difficulty": 5,
+      "tags": [
+        "arcade challenge",
+        "gold"
+      ]
+    },
+    {
+      "text": "Win a match without taking a single hit",
+      "difficulty": 5,
+      "tags": [
+        "win",
+        "match"
+      ]
+    },
+    {
+      "text": "Unlock a secret hat",
+      "difficulty": 5,
+      "tags": [
+        "hat"
+      ]
+    },
+    {
+      "text": "Win using every weapon type in one match",
+      "difficulty": 5,
+      "tags": [
+        "win",
+        "weapon",
+        "match"
+      ]
+    }
+  ]
+}

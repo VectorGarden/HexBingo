@@ -1,0 +1,262 @@
+{
+  "name": "Oracle of Ages",
+  "goals": [
+    {
+      "text": "Get the Wooden Sword",
+      "difficulty": 1,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Get the Harp of Ages",
+      "difficulty": 1,
+      "tags": [
+        "age"
+      ]
+    },
+    {
+      "text": "Enter Spirit's Grave",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Plant a Gasha Seed",
+      "difficulty": 1,
+      "tags": [
+        "seed",
+        "gasha"
+      ]
+    },
+    {
+      "text": "Get a Ring Box",
+      "difficulty": 1,
+      "tags": [
+        "ring box"
+      ]
+    },
+    {
+      "text": "Talk to the Maku Tree",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Learn the Tune of Echoes",
+      "difficulty": 1,
+      "tags": [
+        "learn",
+        "tune"
+      ]
+    },
+    {
+      "text": "Defeat Pumpkin Head",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Power Bracelet",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Seed Satchel upgrade",
+      "difficulty": 2,
+      "tags": [
+        "seed"
+      ]
+    },
+    {
+      "text": "Learn the Tune of Currents",
+      "difficulty": 2,
+      "tags": [
+        "learn",
+        "tune"
+      ]
+    },
+    {
+      "text": "Get the Roc's Feather",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Collect 2 Essences",
+      "difficulty": 2,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Get the Switch Hook",
+      "difficulty": 2,
+      "tags": [
+        "hook"
+      ]
+    },
+    {
+      "text": "Ride Ricky the Kangaroo",
+      "difficulty": 2,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Buy something from the Lynna City shop",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Get the Mermaid Suit",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Smog",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect 4 Essences",
+      "difficulty": 3,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Get the Cane of Somaria",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get the Seed Shooter",
+      "difficulty": 3,
+      "tags": [
+        "seed"
+      ]
+    },
+    {
+      "text": "Learn the Tune of Ages",
+      "difficulty": 3,
+      "tags": [
+        "learn",
+        "tune",
+        "age"
+      ]
+    },
+    {
+      "text": "Ride Dimitri the Dodongo",
+      "difficulty": 3,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Clear the Crown Dungeon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get a Heart Piece from a Gasha Nut",
+      "difficulty": 3,
+      "tags": [
+        "heart",
+        "gasha"
+      ]
+    },
+    {
+      "text": "Get the Long Hook",
+      "difficulty": 4,
+      "tags": [
+        "hook"
+      ]
+    },
+    {
+      "text": "Defeat Eyesoar",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect 6 Essences",
+      "difficulty": 4,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Get the Mirror Shield",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Ride Moosh the Bear",
+      "difficulty": 4,
+      "tags": [
+        "ride"
+      ]
+    },
+    {
+      "text": "Clear the Ancient Tomb",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Get the Noble Sword",
+      "difficulty": 4,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Collect 30 Seashells",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Complete the Goron Dance",
+      "difficulty": 4,
+      "tags": []
+    },
+    {
+      "text": "Collect all eight Essences",
+      "difficulty": 5,
+      "tags": [
+        "essence"
+      ]
+    },
+    {
+      "text": "Defeat Veran",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Get every Ring in the Ring Box",
+      "difficulty": 5,
+      "tags": [
+        "ring box"
+      ]
+    },
+    {
+      "text": "Reach 14 Heart Containers",
+      "difficulty": 5,
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "text": "Get the Master Sword",
+      "difficulty": 5,
+      "tags": [
+        "sword"
+      ]
+    },
+    {
+      "text": "Complete the Black Tower",
+      "difficulty": 5,
+      "tags": []
+    },
+    {
+      "text": "Finish the trading sequence",
+      "difficulty": 5,
+      "tags": []
+    }
+  ]
+}

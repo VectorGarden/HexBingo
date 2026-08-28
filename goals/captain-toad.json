@@ -1,0 +1,249 @@
+{
+  "name": "Captain Toad: Treasure Tracker",
+  "goals": [
+    {
+      "text": "Clear the first course",
+      "difficulty": 1,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Collect a Super Gem",
+      "difficulty": 1,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Find a Gold Mushroom",
+      "difficulty": 1,
+      "tags": [
+        "find"
+      ]
+    },
+    {
+      "text": "Rotate the camera a full turn",
+      "difficulty": 1,
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "text": "Pluck a turnip",
+      "difficulty": 1,
+      "tags": []
+    },
+    {
+      "text": "Collect 3 Super Gems",
+      "difficulty": 1,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Clear a course without moving the camera",
+      "difficulty": 1,
+      "tags": [
+        "course",
+        "camera"
+      ]
+    },
+    {
+      "text": "Clear 10 courses",
+      "difficulty": 2,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Collect 15 Super Gems",
+      "difficulty": 2,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Find a hidden 1-Up",
+      "difficulty": 2,
+      "tags": [
+        "find"
+      ]
+    },
+    {
+      "text": "Clear a course as Toadette",
+      "difficulty": 2,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Beat a Wingo chase",
+      "difficulty": 2,
+      "tags": []
+    },
+    {
+      "text": "Clear a mine cart course",
+      "difficulty": 2,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Find the Pixel Toad in a course",
+      "difficulty": 2,
+      "tags": [
+        "pixel toad",
+        "course",
+        "find"
+      ]
+    },
+    {
+      "text": "Clear Episode 1",
+      "difficulty": 3,
+      "tags": [
+        "episode"
+      ]
+    },
+    {
+      "text": "Collect 40 Super Gems",
+      "difficulty": 3,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Complete a bonus objective",
+      "difficulty": 3,
+      "tags": [
+        "bonu objective"
+      ]
+    },
+    {
+      "text": "Clear a Double Cherry course",
+      "difficulty": 3,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Find the Pixel Toad in 5 courses",
+      "difficulty": 3,
+      "tags": [
+        "pixel toad",
+        "course",
+        "find"
+      ]
+    },
+    {
+      "text": "Clear a haunted course",
+      "difficulty": 3,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Beat a boss course",
+      "difficulty": 3,
+      "tags": [
+        "boss course"
+      ]
+    },
+    {
+      "text": "Clear Episode 2",
+      "difficulty": 4,
+      "tags": [
+        "episode"
+      ]
+    },
+    {
+      "text": "Collect 80 Super Gems",
+      "difficulty": 4,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Complete every bonus objective in an episode",
+      "difficulty": 4,
+      "tags": [
+        "bonu objective",
+        "episode"
+      ]
+    },
+    {
+      "text": "Clear a course without taking damage",
+      "difficulty": 4,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Find every Pixel Toad in an episode",
+      "difficulty": 4,
+      "tags": [
+        "pixel toad",
+        "find",
+        "episode"
+      ]
+    },
+    {
+      "text": "Clear a Ruby Rush course",
+      "difficulty": 4,
+      "tags": [
+        "course"
+      ]
+    },
+    {
+      "text": "Clear Episode 3",
+      "difficulty": 5,
+      "tags": [
+        "episode"
+      ]
+    },
+    {
+      "text": "Collect every Super Gem",
+      "difficulty": 5,
+      "tags": [
+        "super gem"
+      ]
+    },
+    {
+      "text": "Complete every bonus objective",
+      "difficulty": 5,
+      "tags": [
+        "bonu objective"
+      ]
+    },
+    {
+      "text": "Find every Pixel Toad",
+      "difficulty": 5,
+      "tags": [
+        "pixel toad",
+        "find"
+      ]
+    },
+    {
+      "text": "Clear the bonus episode",
+      "difficulty": 5,
+      "tags": [
+        "episode",
+        "bonu"
+      ]
+    },
+    {
+      "text": "Beat every boss course",
+      "difficulty": 5,
+      "tags": [
+        "boss course"
+      ]
+    },
+    {
+      "text": "Clear every course in one sitting",
+      "difficulty": 5,
+      "tags": [
+        "course"
+      ]
+    }
+  ]
+}

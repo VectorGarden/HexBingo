@@ -1,0 +1,310 @@
+{
+  "name": "Super Smash Bros. Ultimate",
+  "goals": [
+    {
+      "text": "Unlock 5 Characters from battle",
+      "difficulty": 1,
+      "tags": [
+        "unlock character",
+        "battle"
+      ]
+    },
+    {
+      "text": "Win a Smash match against a level 9 CPU",
+      "difficulty": 1,
+      "tags": [
+        "win",
+        "smash",
+        "match"
+      ]
+    },
+    {
+      "text": "Clear a Classic Mode route on Easy",
+      "difficulty": 1,
+      "tags": [
+        "classic mode",
+        "mode route",
+        "easy"
+      ]
+    },
+    {
+      "text": "Complete a Spirit Board battle",
+      "difficulty": 1,
+      "tags": [
+        "spirit",
+        "battle"
+      ]
+    },
+    {
+      "text": "Win a match without using a special move",
+      "difficulty": 1,
+      "tags": [
+        "win",
+        "match"
+      ]
+    },
+    {
+      "text": "Clear a Mob Smash on the lowest setting",
+      "difficulty": 1,
+      "tags": [
+        "smash"
+      ]
+    },
+    {
+      "text": "Classic Easy - Complete with a Randomized Character, 1 Stock",
+      "difficulty": 2,
+      "tags": [
+        "randomized character",
+        "classic easy",
+        "character stock"
+      ]
+    },
+    {
+      "text": "Unlock 10 Characters from battle",
+      "difficulty": 2,
+      "tags": [
+        "unlock character",
+        "battle"
+      ]
+    },
+    {
+      "text": "Unlock 5 Characters from World of Light",
+      "difficulty": 2,
+      "tags": [
+        "unlock character",
+        "world",
+        "light"
+      ]
+    },
+    {
+      "text": "Multiman Brawl 10 Man Brawl All Characters - Complete",
+      "difficulty": 2,
+      "tags": [
+        "multiman brawl",
+        "brawl man",
+        "character"
+      ]
+    },
+    {
+      "text": "Win a Squad Strike",
+      "difficulty": 2,
+      "tags": [
+        "win"
+      ]
+    },
+    {
+      "text": "Collect 20 Spirits",
+      "difficulty": 2,
+      "tags": [
+        "spirit"
+      ]
+    },
+    {
+      "text": "Clear a Classic Mode route without losing a stock",
+      "difficulty": 2,
+      "tags": [
+        "classic mode",
+        "mode route",
+        "stock"
+      ]
+    },
+    {
+      "text": "Classic Hard - Complete with a Randomized Character, 2 Stock",
+      "difficulty": 3,
+      "tags": [
+        "randomized character",
+        "character stock",
+        "classic"
+      ]
+    },
+    {
+      "text": "All-Star Easy - Complete with a Randomized Character, No Continue",
+      "difficulty": 3,
+      "tags": [
+        "randomized character",
+        "all-star easy",
+        "continue"
+      ]
+    },
+    {
+      "text": "Unlock 10 Characters from World of Light",
+      "difficulty": 3,
+      "tags": [
+        "unlock character",
+        "world",
+        "light"
+      ]
+    },
+    {
+      "text": "Multiman Brawl 100 Man Brawl - Complete with Randomized Character x5",
+      "difficulty": 3,
+      "tags": [
+        "randomized character",
+        "multiman brawl",
+        "brawl man"
+      ]
+    },
+    {
+      "text": "Vs Mode - Random Characters, Level 9, 2 Stock, 10 Stages, Win the Fights, No Items, No Timer",
+      "difficulty": 3,
+      "tags": [
+        "stock stage",
+        "stage win",
+        "character"
+      ]
+    },
+    {
+      "text": "Collect 100 Spirits",
+      "difficulty": 3,
+      "tags": [
+        "spirit"
+      ]
+    },
+    {
+      "text": "Clear a World of Light region",
+      "difficulty": 3,
+      "tags": [
+        "world",
+        "light",
+        "region"
+      ]
+    },
+    {
+      "text": "Classic All Difficulties - Complete with a Character of your choice",
+      "difficulty": 4,
+      "tags": [
+        "character",
+        "classic",
+        "choice"
+      ]
+    },
+    {
+      "text": "Classic All Difficulties - Complete with a Randomized Character",
+      "difficulty": 4,
+      "tags": [
+        "randomized character",
+        "classic",
+        "difficultie"
+      ]
+    },
+    {
+      "text": "All-Star Hard - Complete with a Randomized Character No Continue",
+      "difficulty": 4,
+      "tags": [
+        "randomized character",
+        "all-star",
+        "hard"
+      ]
+    },
+    {
+      "text": "All-Star Easy - Complete with all characters in a horizontal Row (Last Row you must use Random)",
+      "difficulty": 4,
+      "tags": [
+        "all-star easy",
+        "horizontal row",
+        "character"
+      ]
+    },
+    {
+      "text": "Classic Easy - Complete with all characters in a horizontal Row (Last Row you must use Random)",
+      "difficulty": 4,
+      "tags": [
+        "classic easy",
+        "horizontal row",
+        "character"
+      ]
+    },
+    {
+      "text": "Vs Mode - Random Characters, Level 9, 2 Stock, 15 Stages, Win the Fights, No Items, No Timer",
+      "difficulty": 4,
+      "tags": [
+        "stock stage",
+        "stage win",
+        "character"
+      ]
+    },
+    {
+      "text": "Multiman Brawl Endless Brawl - 200 Kills",
+      "difficulty": 4,
+      "tags": [
+        "multiman brawl",
+        "kill"
+      ]
+    },
+    {
+      "text": "Homerun Contest All Characters - Complete (All Characters must have a score greater than 1000ft/305 meters)",
+      "difficulty": 4,
+      "tags": [
+        "character",
+        "must"
+      ]
+    },
+    {
+      "text": "Classic Intense - Complete with a Character of your choice",
+      "difficulty": 5,
+      "tags": [
+        "classic intense",
+        "character",
+        "choice"
+      ]
+    },
+    {
+      "text": "Classic Intense - Complete with a Randomized Character",
+      "difficulty": 5,
+      "tags": [
+        "randomized character",
+        "classic intense"
+      ]
+    },
+    {
+      "text": "All-Star Intense - Complete with a Character of your choice",
+      "difficulty": 5,
+      "tags": [
+        "all-star intense",
+        "character",
+        "choice"
+      ]
+    },
+    {
+      "text": "All-Star Intense - Complete with a Randomized Character",
+      "difficulty": 5,
+      "tags": [
+        "randomized character",
+        "all-star intense"
+      ]
+    },
+    {
+      "text": "All-Star All Difficulties - Complete with a Character of your choice",
+      "difficulty": 5,
+      "tags": [
+        "character",
+        "all-star",
+        "choice"
+      ]
+    },
+    {
+      "text": "Multiman Brawl Cruel Brawl - 10 Kills",
+      "difficulty": 5,
+      "tags": [
+        "multiman brawl",
+        "kill"
+      ]
+    },
+    {
+      "text": "Beat World of Light",
+      "difficulty": 5,
+      "tags": [
+        "world",
+        "light"
+      ]
+    },
+    {
+      "text": "Collect every Spirit in one region",
+      "difficulty": 5,
+      "tags": [
+        "spirit",
+        "region"
+      ]
+    }
+  ]
+}
