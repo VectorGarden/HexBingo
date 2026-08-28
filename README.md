@@ -282,24 +282,35 @@ tier 1) and **Super Mario World** skews the other way, because their original
 tiers didn't spread evenly. Both play fine, they just won't have a smooth
 difficulty gradient.
 
-### Not yet tiered
+### Tiered by hand
 
-Four lists came across from the Trello board, which records goal text but no
-difficulty, so every goal in them currently sits at 3:
+Four lists came across from the Trello board, which records goal text but
+neither difficulty nor tags. Both have since been filled in. Difficulty was
+assigned by hand, one game at a time, on the same principle each time: how far
+into a run you must be before the goal is even possible, then how much extra it
+asks once you are there.
 
-| List | Goals |
-|---|---:|
-| A Link to the Past | 128 |
-| Link's Awakening | 106 |
-| New Super Mario Bros. Wii | 101 |
-| Tony Hawk's Underground | 144 |
+| List | Goals | Spine of the tiering |
+|---|---:|---|
+| A Link to the Past | 128 | Light World dungeons early, Turtle Rock and the grinding goals last |
+| Link's Awakening | 106 | Tail Cave through Turtle Rock; "all owl statues" costs more than the map |
+| New Super Mario Bros. Wii | 101 | World 1–2 cheap, 7–8 dear; damageless and Mini-Mario add a tier |
+| Tony Hawk's Underground | 144 | The story order — New Jersey to Moscow; each city's secret tape sits a tier above it |
 
-They generate and play, but the board's difficulty gradient does nothing until
-they are tiered — the centre hex will be no easier than the rim. Open **Edit
-goals**, duplicate the list, and use the per-goal difficulty button to spread
-them; `npm run validate` warns about thin tiers until you do.
+The test that matters is the gradient, since that is what difficulty is for.
+Mean difficulty by ring over 400 boards, against two long-established lists:
 
-Their **tags** are done, which is the other half of good placement — see below.
+| List | Centre | Middle | Rim | Spread |
+|---|---:|---:|---:|---:|
+| Link's Awakening | 1.20 | 2.79 | 4.31 | 3.11 |
+| A Link to the Past | 1.13 | 2.78 | 4.29 | 3.17 |
+| New Super Mario Bros. Wii | 1.11 | 2.78 | 4.33 | 3.21 |
+| Tony Hawk's Underground | 1.13 | 2.78 | 4.33 | 3.20 |
+| *Breath of the Wild* | *1.09* | *2.78* | *4.33* | *3.24* |
+| *Celeste* | *1.11* | *2.78* | *4.32* | *3.22* |
+
+These are judgement calls, not measurements. If a goal sits wrong, change its
+number in `goals/<game>.json` — nothing else depends on it.
 
 ### Planned
 

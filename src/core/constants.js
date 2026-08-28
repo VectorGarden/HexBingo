@@ -3,7 +3,7 @@
  * @module
  */
 
-export const VERSION = "2.2.1";
+export const VERSION = "2.2.2";
 
 /** Default board radius: 19 hexes, the classic board. */
 export const RADIUS = 2;

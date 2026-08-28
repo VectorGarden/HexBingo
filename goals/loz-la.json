@@ -3,14 +3,14 @@
   "goals": [
     {
       "text": "Magic Potion",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "magic"
       ]
     },
     {
       "text": "10 Sea Shells",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
@@ -20,46 +20,46 @@
     },
     {
       "text": "Do the Raft Minigame",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Marin's Cucco Killing Text",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "marin"
       ]
     },
     {
       "text": "Pick up Crane Game Owner",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Talk to a Buzz Blob",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "talk"
       ]
     },
     {
       "text": "Kill Master Stalfos at least once",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Grim Creeper",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Blaino",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Dethyl",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
@@ -69,21 +69,21 @@
     },
     {
       "text": "Marin",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "marin"
       ]
     },
     {
       "text": "Bow-wow",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "bow-wow"
       ]
     },
     {
       "text": "Return Bow-wow",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "bow-wow"
       ]
@@ -97,7 +97,7 @@
     },
     {
       "text": "12 Heart Pieces",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "heart piece"
       ]
@@ -182,7 +182,7 @@
     },
     {
       "text": "4 Overworld Warp Holes",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
@@ -192,19 +192,19 @@
     },
     {
       "text": "Ball and Chain Trooper",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "ball"
       ]
     },
     {
       "text": "Anti-Kirby",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Map and Compass in Tail Cave",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "tail cave",
         "map",
@@ -213,7 +213,7 @@
     },
     {
       "text": "Map and Compass in Bottle Grotto",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "bottle grotto",
         "map",
@@ -222,7 +222,7 @@
     },
     {
       "text": "Map and Compass in Key Cavern",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "key cavern",
         "map",
@@ -249,7 +249,7 @@
     },
     {
       "text": "Map and Compass in Face Shrine",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "face shrine",
         "map",
@@ -258,7 +258,7 @@
     },
     {
       "text": "Map and Compass in Eagle's Tower",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "eagle tower",
         "map",
@@ -267,7 +267,7 @@
     },
     {
       "text": "Map and Compass in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "turtle rock",
         "map",
@@ -285,7 +285,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Tail Cave",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "owl statue",
         "tail cave",
@@ -294,7 +294,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Bottle Grotto",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "owl statue",
         "bottle grotto",
@@ -321,7 +321,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Catfish's Maw",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "owl statue",
         "catfish maw",
@@ -330,7 +330,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Face Shrine",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "owl statue",
         "face shrine",
@@ -339,7 +339,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Eagle's Tower",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "owl statue",
         "eagle tower",
@@ -348,7 +348,7 @@
     },
     {
       "text": "Talk to all Owl Statues in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "owl statue",
         "turtle rock",
@@ -366,12 +366,12 @@
     },
     {
       "text": "Defeat 2 Sets of 3-Of-A-Kind (D1, D7)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Stand 6 HorseHeads in D6",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
@@ -393,17 +393,17 @@
     },
     {
       "text": "Save Raccoon Tarin",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Yoshi Doll",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Bonk the Beach Monkey",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "beach"
       ]
@@ -461,7 +461,7 @@
     },
     {
       "text": "Magic Powder",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "magic",
         "powder"
@@ -469,56 +469,56 @@
     },
     {
       "text": "Mushroom",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Slime Eyes",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Facade",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Coral Triangle",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Evil Eagle",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "eagle"
       ]
     },
     {
       "text": "Organ of Evening Calm",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Hot Head",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Thunder Drum",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     },
     {
       "text": "Rolling Bones",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "rolling bone"
       ]
     },
     {
       "text": "Rolling Bones in Tail Cave",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "rolling bone",
         "tail cave"
@@ -526,7 +526,7 @@
     },
     {
       "text": "Rolling Bones in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "turtle rock",
         "rolling bone"
@@ -534,7 +534,7 @@
     },
     {
       "text": "Hinox",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "hinox"
       ]
@@ -586,7 +586,7 @@
     },
     {
       "text": "Dodongos in Face Shrine",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "face shrine",
         "dodongo"
@@ -594,7 +594,7 @@
     },
     {
       "text": "Dodongos in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "turtle rock",
         "dodongo"
@@ -617,7 +617,7 @@
     },
     {
       "text": "Cue Ball in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "turtle rock",
         "cue ball"
@@ -625,14 +625,14 @@
     },
     {
       "text": "Smasher",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "smasher"
       ]
     },
     {
       "text": "Smasher in Face Shrine",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "face shrine",
         "smasher"
@@ -640,7 +640,7 @@
     },
     {
       "text": "Smasher in Turtle Rock",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "turtle rock",
         "smasher"
@@ -655,7 +655,7 @@
     },
     {
       "text": "3 Followers at the same time",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "follower"
       ]
@@ -694,14 +694,14 @@
     },
     {
       "text": "Collect 5 Pictures",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "picture"
       ]
     },
     {
       "text": "Collect 6 Pictures",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "picture"
       ]
@@ -716,7 +716,7 @@
     },
     {
       "text": "Visit 5 Fountain Fairies",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "visit fountain",
         "fountain fairie"
@@ -731,21 +731,21 @@
     },
     {
       "text": "9+ Heart Containers",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "heart container"
       ]
     },
     {
       "text": "10+ Heart Containers",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "heart container"
       ]
     },
     {
       "text": "999 rupees",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": []
     }
   ]

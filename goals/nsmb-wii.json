@@ -3,28 +3,28 @@
   "goals": [
     {
       "text": "Beat 2 Airship levels",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "airship"
       ]
     },
     {
       "text": "Beat 2-1 Damageless",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "damageless"
       ]
     },
     {
       "text": "Beat 3-2 Damageless",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "damageless"
       ]
     },
     {
       "text": "Beat 4-4 Damageless",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "damageless"
       ]
@@ -45,21 +45,21 @@
     },
     {
       "text": "Beat 6-Castle Damageless",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "damageless"
       ]
     },
     {
       "text": "Beat 7-3 Damageless",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "damageless"
       ]
     },
     {
       "text": "Beat 8-Fortress Damageless",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "damageless"
       ]
@@ -83,7 +83,7 @@
     },
     {
       "text": "Beat 4-Airship",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "airship"
       ]
@@ -117,57 +117,57 @@
     },
     {
       "text": "Beat 7-4",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Beat 3-3",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": []
     },
     {
       "text": "Beat 3-5 (Secret Exit)",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "secret exit"
       ]
     },
     {
       "text": "Beat 7-6 and collect 5 lives minimum",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "live"
       ]
     },
     {
       "text": "Beat 8-1 with no run button",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Beat 8-Castle",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "castle"
       ]
     },
     {
       "text": "Collect all Star Coins in 2-2",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect all Star Coins in 3-4",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect all Star Coins in 4-5",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
@@ -181,14 +181,14 @@
     },
     {
       "text": "Collect all Star Coins in 8-6",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect all star Coins in 7-5",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin"
       ]
@@ -213,21 +213,21 @@
     },
     {
       "text": "Beat every stage in W1",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "stage"
       ]
     },
     {
       "text": "Beat every stage in W2",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "stage"
       ]
     },
     {
       "text": "Beat every stage in W3",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "stage"
       ]
@@ -248,35 +248,35 @@
     },
     {
       "text": "Beat every stage in W6",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "stage"
       ]
     },
     {
       "text": "Beat every stage in W7",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "stage"
       ]
     },
     {
       "text": "Beat every stage in W8",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "stage"
       ]
     },
     {
       "text": "Collect 15 Star coins in W6",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 12 Star coins in W3",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
@@ -290,35 +290,35 @@
     },
     {
       "text": "Collect 15 Star coins in W2",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 16 Star coins in W8",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 18 Star coins in W1",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 30 total Star Coins",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 40 total Star Coins",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin"
       ]
@@ -332,14 +332,14 @@
     },
     {
       "text": "Collect 60 total Star Coins",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin"
       ]
     },
     {
       "text": "Collect 70 total Star Coins",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "star coin"
       ]
@@ -361,7 +361,7 @@
     },
     {
       "text": "Complete 10 castle or fortress stages (final bowser counts)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "final bowser",
         "bowser count",
@@ -386,7 +386,7 @@
     },
     {
       "text": "Complete 10 levels while collecting all star coins",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "star coin",
         "collecting"
@@ -394,7 +394,7 @@
     },
     {
       "text": "Complete 4 Castles levels with all star coins (final Bowser counts)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin",
         "final bowser",
@@ -403,7 +403,7 @@
     },
     {
       "text": "Complete 4 Fortress levels with all star coins",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "star coin",
         "fortress"
@@ -411,7 +411,7 @@
     },
     {
       "text": "Complete 2 Ghost Houses with all star coins",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "star coin",
         "ghost house"
@@ -427,7 +427,7 @@
     },
     {
       "text": "Complete 11 Castle or Fortress levels (final Bowser counts)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "final bowser",
         "bowser count",
@@ -436,7 +436,7 @@
     },
     {
       "text": "Complete 8 Castle or Fortress levels (final Bowser counts)",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "final bowser",
         "bowser count",
@@ -452,17 +452,17 @@
     },
     {
       "text": "Defeat Lemmy Twice",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
       "text": "Defeat Ludwig",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": []
     },
     {
       "text": "Defeat Roy",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": []
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "text": "Defeat Wendy",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": []
     },
     {
@@ -490,7 +490,7 @@
     },
     {
       "text": "Enter every world 1-8",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "world",
         "enter"
@@ -514,7 +514,7 @@
     },
     {
       "text": "Clear 10 different Toadhouses",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "toadhouse"
       ]
@@ -535,7 +535,7 @@
     },
     {
       "text": "Get both exits in 3-Ghost",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "exit"
       ]
@@ -549,7 +549,7 @@
     },
     {
       "text": "Get both exits in 7-Ghost",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "exit"
       ]
@@ -564,7 +564,7 @@
     },
     {
       "text": "Go without collecting the 8-2 secret exit (can be marked anytime so long as it is never used)",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "secret exit",
         "marked anytime",
@@ -573,7 +573,7 @@
     },
     {
       "text": "Hit the red switch (W3)",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "red"
       ]
@@ -594,7 +594,7 @@
     },
     {
       "text": "All Secret Exits in W2",
-      "difficulty": 3,
+      "difficulty": 2,
       "tags": [
         "secret exit"
       ]
@@ -615,21 +615,21 @@
     },
     {
       "text": "All Secret Exits in W6",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "secret exit"
       ]
     },
     {
       "text": "All Secret Exits in W7",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "secret exit"
       ]
     },
     {
       "text": "Beat Bowser Jr. a least once as Mini-Mario (from any Airship)",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "bowser",
         "airship",
@@ -638,7 +638,7 @@
     },
     {
       "text": "Beat 2 different Koopalings as Mini-Mario",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "koopaling",
         "mini-mario"
@@ -653,14 +653,14 @@
     },
     {
       "text": "20 Lives from flagpoles",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "live"
       ]
     },
     {
       "text": "Save 3 Toads",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "save toad"
       ]
@@ -674,21 +674,21 @@
     },
     {
       "text": "Save 5 Toads",
-      "difficulty": 3,
+      "difficulty": 4,
       "tags": [
         "save toad"
       ]
     },
     {
       "text": "Reach 99 lives",
-      "difficulty": 3,
+      "difficulty": 5,
       "tags": [
         "live"
       ]
     },
     {
       "text": "Enter W2 Warp Cannon",
-      "difficulty": 3,
+      "difficulty": 1,
       "tags": [
         "warp cannon",
         "enter"
