@@ -273,13 +273,48 @@ Pushing changes under `.github/workflows/` with a fine-grained PAT needs the
 
 ## The included lists
 
-All 45 lists from the original site are converted and shipped in `goals/` —
-6,213 goals. Difficulty was rescaled from the old 1–25 tiers onto 1–5.
+49 lists ship in `goals/` — 6,692 goals.
 
-Two are worth a look before you rely on them: **BattleBlock Theater** skews hard
-to the easy end (344 of its 574 goals land in tier 1) and **Super Mario World**
-skews the other way, because their original tiers didn't spread evenly. Both
-play fine, they just won't have a smooth difficulty gradient.
+The original 45 were converted from the old site, with difficulty rescaled from
+its 1–25 tiers onto 1–5. Two are worth a look before you rely on them:
+**BattleBlock Theater** skews hard to the easy end (344 of its 574 goals land in
+tier 1) and **Super Mario World** skews the other way, because their original
+tiers didn't spread evenly. Both play fine, they just won't have a smooth
+difficulty gradient.
+
+### Not yet tiered
+
+Four lists came across from the Trello board, which records goal text but no
+difficulty, so every goal in them currently sits at 3:
+
+| List | Goals |
+|---|---:|
+| A Link to the Past | 128 |
+| Link's Awakening | 106 |
+| New Super Mario Bros. Wii | 101 |
+| Tony Hawk's Underground | 144 |
+
+They generate and play, but the board's difficulty gradient does nothing until
+they are tiered — the centre hex will be no easier than the rim. Open **Edit
+goals**, duplicate the list, and use the per-goal difficulty button to spread
+them; `npm run validate` warns about thin tiers until you do.
+
+### Planned
+
+Written but not yet ready, or waiting on goals being drafted:
+
+- **Super Smash Bros. Ultimate** — 24 goals drafted, below the 25 a 19-hex board
+  wants, so it needs more before it is worth shipping.
+- **Ocarina of Time** — tracked, no goals written yet.
+- Backlog with nothing drafted: Banjo-Kazooie, Oracle of Ages, Oracle of
+  Seasons, Minish Cap, A Link Between Worlds, Digimon World DS, Digimon World
+  Dawn/Dusk, Super Mario 3D World, Super Mario 3D Land, Donkey Kong Country
+  Returns: Tropical Freeze, Enter the Gungeon, Captain Toad: Treasure Tracker,
+  Shovel Knight, Rayman Legends, Duck Game, Darksiders, Mega Man Zero
+  Collection, Mega Man ZX + Advent.
+
+**Pokémon Stadium** was cancelled. Around 58 goals exist for it, but it is not
+shipping.
 
 ---
 

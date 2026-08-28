@@ -1,0 +1,645 @@
+{
+  "name": "A Link to the Past",
+  "goals": [
+    {
+      "text": "Defeat Armos",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Lanmolas",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Moldorm",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Agahnim",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Helmasaur King",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Arrghus",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Mothula",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Blind",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Kholdstare",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat Vitreous",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Die to Trinexx",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Desert Palace Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Tower of Hera Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Palace of Darkness Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Swamp Palace Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Skull Woods Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Thieves' Town Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ice Palace Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Misery Mire Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Turtle Rock Big Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Desert Palace Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Tower of Hera Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Palace of Darkness Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Swamp Palace Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Skull Woods Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Thieves' Town Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ice Palace Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Misery Mire Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Turtle Rock Compass",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Desert Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hera Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Darkness Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Swamp Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Skull Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Thieves' Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ice Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Mire Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "TRock Map",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open 5 Small Key Doors (Palace of Darkness)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open 4 Small Key Doors (Skull Woods)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open 6 Small Key Doors (Ice Palace)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open 6 Small Key Doors (Misery Mire)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open Purple Chest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Break Ether Monolith",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Break Bombos Monolith",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open Misery Mire",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Open Turtle Rock",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Death Mountain Lonely Island",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Lumberjack Tree",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Byrna Cave",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Mimic Cave",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Lake Hylia Island",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bonk Grave",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rescue the Dwarf",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Speak to Fat Faerie",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Perfect Archery Game",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 Whirlpool Pairs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Spend 1000 rupees",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Spend 1500 rupees",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "40 Arrows",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "50 Arrows",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "20 Bombs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "30 Bombs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "40 Arrows and 20 Bombs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "8 Heart Pieces",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "12 Heart Pieces",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "4 Heart Containers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "6 Heart Containers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "10+ Total Hearts",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "12+ Total Hearts",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Master Sword Pedestal",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "2 Pendants",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "2 Crystals",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 Crystals",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "2 Light World Dungeons",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 Light World Dungeons",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "2 Dark World Dungeons",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 Dark World Dungeons",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bomb open a cracked floor in any dungeon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bomb open a cracked door in any dungeon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Move or destroy a wall in any dungeon",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hit Crystal Switch with Frozen Enemy",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Read 3 Dark World Dungeon Telepathic Tiles",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "2 Dungeon Blue Rupee Rooms",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Spawn a chest in 2 dungeons",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect Sahasrahla's Prize",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Pull a Tounge Statue",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Clear 2 Tile Rooms",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Light World Dungeon Fairy Room",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Dark Room",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Rupee Floor Room",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Trap Room",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Prison Cell",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Room with a Bumper",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Room with an Orange Warp",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Room with a Firebar",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish in a Room with a Firesnake",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Finish as a Bunny",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat a Deadrock",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat a Lynel",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat all 6 Freezors",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Defeat a Red Eyegore and Red Mimic",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Burn a Floating Stalfos Skull",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Burn a Ball + Chain Trooper",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Freeze a Dodongo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Freeze a Bomb Slug",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Stun a Pikit",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Stun a Turtle",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect the Bow",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect the Lantern",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect the Hookshot",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect a Medallion",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Activate the Flute",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bottled Bee",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bottled Faerie",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bottled Potion",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Lantern or Fire Rod",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect Rod + Cane of the same color",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Collect Rod + Cane of opposite colors",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 A-Items",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Upgrade Shield",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Upgrade Sword",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Visit the Catfish with a Follower",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Pay the Hamburger Helper Hand",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Buy from 2 Shops in each World",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "4 NPC/Object Followers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Reveal a Hidden Cave under a rock in both Worlds",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Complete 1 Line of Y-Items",
+      "difficulty": 3,
+      "tags": []
+    }
+  ]
+}

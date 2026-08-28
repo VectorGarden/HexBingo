@@ -1,0 +1,725 @@
+{
+  "name": "Tony Hawk's Underground",
+  "goals": [
+    {
+      "text": "Do a McTwist off a building not in Hawaii",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Skitch a car for 10s",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Manual through every open street in one Combo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Break a window",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Go through a door which brings you to a different section",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Go through a door which brings you to a different level of a structure",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Do a Spine Transfer in every Story City",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get a 100k point combo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Score a goal in Hockey in Vancouver",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Help Eric",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Walk Charles",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Eric's Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get In Tight With The Street Warriors",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Flyers For The Muska Demo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress Muska",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress Shawn",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Demo The New Playground Setup",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress Joey",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Do Chris' Best Lines",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get The Stolen Items Back From The Dealers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get The Scrapmetal For The Tombstone Maker",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get Access To The Train Station",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress The Bratty Kid",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Catch Ollie's House",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rescue Eric",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Land A Flamingo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Create A Trick",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Combo The Entire City",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Score Big (Jersey)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "High Score",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hold-grind Combos",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Help The Student",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Kill 5 Famous Skatespots",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Nut Vendors Unite",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Film The Local",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hit The Killer Banks Line",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Crash And Burn The Car",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Help The Local Skater",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Gap The Burning Taxi",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Help Stacy's Relative",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Old School Skating Techniques",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Find The Stolen Skateshop Goods",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Do A Moonwalk Five-O",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Manhattan)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Remove All The Stickers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get The Best Donuts",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "The Skateboarding Bandit",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Help The Private Eye",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Revenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Party Boat Skate Tricks",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Wallplant Combo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Beat Andrew's Best Combos",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bowl Grind",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Prove Yourself",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress Tony Hawk",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Place In The Street Contest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Place In The Vert Contest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get Onto The Roof Of Spot",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Win The Best Trick Contest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Yeah Right Manuals",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Tampa)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Flip The Big Stairs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Daredevil High Line",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Air Out The Atrium",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rooftop Technician",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "See A Man About A Horse",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Let's Get This Party Started",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "No Band, No Party... Bummer!",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "No One Likes A Dude Festival",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Acid Drop The Two Towers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "All We Need Is A System And Some Rims",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get Your Gear Back From The Fuzz",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Round Up The Posse For The Demo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "3 Is No Crowd, Find More Kids",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "The Kids Love Those Free Stickers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Tear It Up At The Demo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Nail A 540 Flip",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (San Diego)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Wedding Guest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get Lei'd",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Pineapple Killer",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Speak Hawaiian",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Drain The Pool",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress The Girls",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Luau Competition",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Wallows Combo Bowls",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "High Lines",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Off The Walls",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Kill Wallows",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Island Liptrick Tour",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Climb The Hotel",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hotel Hopper",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Craziest Footage Ever",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Rodney's Special Grind",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Hawaii)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Skate Tom's Part",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Filming A Line",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Bust Some Flatland",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Race The Blowcart",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Party Dregs",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Slam City Fan",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ralphie Got Busted",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Impress The Reporter",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Return The Guest Passes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Pick Up Everyone In The Limo",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Casper Handstand",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Vancouver)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "ADIO - Show Off Your Skills",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "VANS - Whoop It Up For The Crowds",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "CIRCA - Pass The Test",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "ES - Kill The Score Spots",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get The Moscow Trip",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Blimp",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Learn The Hip Transfers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Destroy The Vert Contest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Destroy The Street Contest",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Best Of Show",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "1990 Invert The Speakers",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Slam City Jam)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Serve The People",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Blind Big Brother",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ready For Battle",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Over The Wall",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Manuals For Muskovites",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Ratings Stunts",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Circus Act",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Find Gaps",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Teaming With Eric",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Anonymous Caller",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Party Favors",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hangover Cure",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Straight Outta Moscow",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "360 Varial Heelflip Lien",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Moscow)",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Jersey Spine Trickspot Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Big Apple Spot Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Florida THPS Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "San Diego Transfer Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Hawaii Huge Spine Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Vancouver Spine Transfer Challenge",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Get The Tapes",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Tear Up Eric's Best Line",
+      "difficulty": 3,
+      "tags": []
+    },
+    {
+      "text": "Secret Tape (Hotter Than Hell)",
+      "difficulty": 3,
+      "tags": []
+    }
+  ]
+}
