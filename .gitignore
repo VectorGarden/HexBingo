@@ -1,6 +1,8 @@
 # ─── Editors / IDEs ───
 .idea/
 .vscode/
+# .claude/launch.json is shared; local overrides are not
+.claude/settings.local.json
 *.swp
 *.swo
 *~
