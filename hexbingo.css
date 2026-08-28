@@ -849,3 +849,25 @@ kbd{
   from{ opacity: 0; transform: translateY(-6px); }
   to  { opacity: 1; transform: none; }
 }
+
+/* ─────────────── fog ───────────────
+   A fogged hex keeps its colours, faintly. You can still see which lines it
+   sits on and plan roughly where to push — you just cannot read the goal.
+   ------------------------------------------------------------ */
+
+.cell.fogged{
+  cursor: default;
+  filter: saturate(.5) brightness(.62);
+}
+.cell.fogged .cell-text,
+.cell.fogged .cell-fill{ visibility: hidden; }
+.cell.fogged .cell-lock{
+  display: block;
+  position: relative;
+  z-index: 2;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--muted);
+}
+.cell.fogged:hover{ filter: saturate(.6) brightness(.72); }

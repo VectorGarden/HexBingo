@@ -462,6 +462,12 @@ Anything it can't parse is reported rather than silently skipped.
   it claimed. Once one is, the button lights up, and pressing it names the line
   and plays a short fanfare. In Mission mode the single five-goal column is the
   line, so the same button covers it.
+- **Fog** mode plays the same board, but only the centre starts visible.
+  Claiming a hex uncovers the ones touching it, so you cannot read a line in
+  advance and have to push outward to find out what is there. Blocking does not
+  uncover anything, which makes rejecting a goal a real decision — a hex you
+  block is one you cannot expand through. The fog is worked out from your marks
+  rather than remembered, so releasing a claim closes it again.
 - A **Rules** button appears when the current list ships rules.
 - **Mission** mode has a **One at a time** toggle: only the next unfinished goal
   is readable, the rest show as Locked until you get there. The setting sticks

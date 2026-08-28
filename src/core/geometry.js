@@ -20,6 +20,7 @@ import { HUES, TAU, SQRT3_2, H_RATIO } from "./constants.js";
  * @property {number} y
  * @property {number} angle
  * @property {number[]} lines indices into Geometry.lines
+ * @property {number[]} neighbours indices of the cells sharing an edge
  * @property {string} [hue]      perimeter cells only
  * @property {number} [hueIndex] position within that hue's run, 1-based
  * @property {string} c1     gradient start hue, or "free" for the centre
@@ -45,6 +46,9 @@ import { HUES, TAU, SQRT3_2, H_RATIO } from "./constants.js";
  * @property {number} spanX
  * @property {number} spanY
  */
+
+/** The six directions out of a hex, in axial coordinates. */
+const AXIAL_DIRECTIONS = [[1, 0], [1, -1], [0, -1], [-1, 0], [-1, 1], [0, 1]];
 
 /**
  * @param {number} radius
@@ -141,6 +145,17 @@ export function buildGeometry(radius) {
     l.cells.forEach((/** @type {any} */ c) => c.lines.push(i));
   });
 
+  // Edge adjacency, which is not the same as sharing a line: two cells on the
+  // same line are only neighbours if they are next to each other on it. Fog
+  // spreads by adjacency, so it needs the real thing.
+  const byAxial = new Map(cells.map(c => [c.q + "," + c.r, c]));
+  cells.forEach(c => {
+    c.neighbours = AXIAL_DIRECTIONS
+      .map(([dq, dr]) => byAxial.get((c.q + dq) + "," + (c.r + dr)))
+      .filter(Boolean)
+      .map((/** @type {any} */ n) => n.i);
+  });
+
   return {
     radius, cells, lines,
     spanX: 2 * radius + 1,
@@ -168,7 +183,8 @@ export function geoFor(radius) {
 export function missionGeometry() {
   const cells = Array.from({ length: 5 }, (_, i) => ({
     i, q: 0, r: i - 2, s: 2 - i, ring: 0, angle: 0,
-    x: 0, y: i - 2, lines: [0], c1: HUES[i], c2: HUES[i]
+    x: 0, y: i - 2, lines: [0], c1: HUES[i], c2: HUES[i],
+    neighbours: [i - 1, i + 1].filter(n => n >= 0 && n < 5)
   }));
   const lines = [{ i: 0, axis: 0, k: 0, id: "ALL", label: "ALL", hues: ["R", "B"], cells }];
   return { radius: 0, cells, lines, spanX: 1, spanY: 5 };

@@ -15,7 +15,8 @@ function hueVar(h) {
 
 export function renderRail() {
   el.rail.innerHTML = "";
-  if (state.mode !== "hex") return;
+  // fog plays on the same lines as hex; only mission has none
+  if (state.mode === "mission") return;
 
   /** @type {import("../core/geometry.js").Line[][]} */
   const groups = [[], [], []];
